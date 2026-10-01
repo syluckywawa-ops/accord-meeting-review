@@ -1,0 +1,16 @@
+{
+  "version": "manual-review-sample-v1.0-frozen",
+  "status": "selected_before_any_test_output",
+  "purpose": "Five-transcript descriptive timing sample requested in instructor feedback; not a scoring subset.",
+  "selection_rule": "Group the locked test manifest by series_id and select one meeting uniformly within each sorted group using Python random.Random(6201).",
+  "random_seed": 6201,
+  "selected_meetings": [
+    "ES2004d",
+    "ES2014a",
+    "IS1009b",
+    "TS3003c",
+    "TS3007d"
+  ],
+  "formal_scoring_scope": "All 20 locked test meetings",
+  "timing_instruction": "Time the same defined manual verification procedure for each selected transcript and record elapsed minutes without changing gold labels or system outputs."
+}

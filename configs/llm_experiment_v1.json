@@ -1,0 +1,19 @@
+{
+  "version": "llm-experiment-v1.0-dev",
+  "provider": "OpenRouter",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "openai/gpt-4.1-mini-2025-04-14",
+  "tokenizer": "o200k_base",
+  "context_window_tokens": 1047576,
+  "temperature": 0,
+  "max_output_tokens": 4096,
+  "input_usd_per_million_tokens": 0.40,
+  "output_usd_per_million_tokens": 1.60,
+  "price_checked_on": "2026-09-27",
+  "price_source": "https://openrouter.ai/openai/gpt-4.1-mini-2025-04-14/pricing",
+  "structured_output": true,
+  "provider_require_parameters": true,
+  "maximum_schema_repair_retries": 1,
+  "allow_truncation": false,
+  "api_key_environment_variable": "OPENROUTER_API_KEY"
+}

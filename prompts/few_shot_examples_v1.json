@@ -1,0 +1,43 @@
+[
+  {
+    "purpose": "self-commitment with no deadline",
+    "input": "[18:20.23-18:29.30] ES2003a-T0102 | Project Manager (B): I'd say we finish this one up, we get started, I'll get in, I'll write up what we've um kind of quickly done, and I'll get that out to everybody.",
+    "output": {
+      "action_items": [
+        {
+          "task": "write up and distribute a summary of the meeting",
+          "owners": ["Project Manager"],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'll get in, I'll write up what we've um kind of quickly done, and I'll get that out to everybody.",
+          "evidence_ids": ["ES2003a-T0102"],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    }
+  },
+  {
+    "purpose": "joint assignment with a relative deadline",
+    "input": "[34:00.00-34:08.00] ES2003c-T0209 | Project Manager (B): we're now looking at the detailed design and what we need to be doing for the next meeting.\n[34:08.00-34:16.00] ES2003c-T0210 | Project Manager (B): you've got yourself and the Industrial Designer gonna be working quite closely at this stage.\n[34:16.00-34:22.00] ES2003c-T0211 | Project Manager (B): looking from prototyping of some des description using clay.",
+    "output": {
+      "action_items": [
+        {
+          "task": "work together on a clay prototype",
+          "owners": ["User Interface Designer", "Industrial Designer"],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "you've got yourself and the Industrial Designer gonna be working quite closely at this stage. || looking from prototyping of some des description using clay.",
+          "evidence_ids": ["ES2003c-T0210", "ES2003c-T0211"],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    }
+  },
+  {
+    "purpose": "non-action product idea",
+    "input": "[01:02.10-01:40.32] ES2003a-T0018 | Project Manager (B): we're gonna design a new remote control. The very broad overview is original, trendy, and user-friendly.",
+    "output": {"action_items": []}
+  }
+]

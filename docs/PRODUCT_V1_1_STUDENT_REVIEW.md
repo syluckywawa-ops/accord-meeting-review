@@ -1,0 +1,15 @@
+# Accord v1.1: student source review of ES2002a
+
+**Submitted by:** Lin Siyuan, 2 October 2026. The student's completed Chinese review form is preserved unchanged at `data/exploratory_v11/Lin_Siyuan_ES2002a_Completed_Review_original.md`. The corresponding full transcript and turn metadata are in the same `data/exploratory_v11/` directory. This review concerns one AMI meeting outside the frozen 23-meeting experiment. It is a supplementary product check, not a new formal test or a blinded inter-annotator study: the student had seen the earlier assistant analysis before submitting the form.
+
+## Student decisions, checked against source
+
+Lin Siyuan states that they read all 207 turns. They rejected all three Local rules drafts: `T0019` is volunteering to go first in an in-meeting whiteboard exercise, `T0052` is drawing an animal during that exercise, and `T0149` is an immediate agenda check. The only v1.1 thin-evidence cue appeared on the first of these three; there were no duplicate candidates to test the duplicate cue. These source-based decisions agree with the earlier assistant review, but agreement by two non-blinded readers is not a reliability statistic.
+
+The student separately retained three role-specific work assignments near the end of the transcript: Industrial Designer working on the remote control's working design (`T0176`, with “Yep” at `T0177`); User Interface Designer working on technical functions (`T0176`, without separate verbal acceptance); and Marketing Expert considering product requirements (`T0176–T0178`, with “Okay” at `T0179`). These are **interim work assignments**, not promises to deliver a finished artefact within thirty minutes. The project manager says the next meeting is in thirty minutes and introduces the work with “inbetween now and then”, so the relative work window is supported. Metadata has no reliable meeting start time or time zone; do not export a precise absolute timestamp. The student found no other follow-up actions and explicitly excluded `T0104`, `T0121`, and `T0141–T0174` as contemporaneous note-taking, a useful-information remark, or design discussion.
+
+## Wording controls for the final report
+
+The original form uses “完成 working design”. The report and exported task should instead say **work on / develop the working design**, matching the verb in the transcript without implying completion. Similarly, describe the common thirty-minute interval as **before the next meeting / interim work window**, not as a guaranteed delivery deadline. The student's form explicitly says actual review time was **not measured**; its 28-minute figure and 25–35-minute range are planning estimates only and must not be presented as observed time or evidence of time saved.
+
+The case therefore supports a narrow statement: with full transcript review, the student rejected three unsuitable local-rule drafts and identified three missed interim assignments. V1.1 surfaced one weak-evidence draft but did not solve the other two false positives or the omissions. The frozen rule/zero-shot/few-shot results remain untouched; this single case cannot establish a general accuracy or productivity gain.

@@ -1,0 +1,38 @@
+{
+  "version": "rule-baseline-v1.0-frozen",
+  "status": "frozen_before_test",
+  "frozen_at_utc": "2026-09-27T13:04:57.471415+00:00",
+  "development_meetings": [
+    "ES2003a",
+    "ES2003b",
+    "ES2003c"
+  ],
+  "test_outputs_seen": false,
+  "change_policy": "Any change requires a new version and a complete rerun of every affected arm.",
+  "files": {
+    "config": {
+      "path": "configs/rule_baseline_v1.json",
+      "sha256": "652f7dcb5be35d4f9d5d4e232a0bac45b5e774cc3ad89cf10c63ce7ad32d8137"
+    },
+    "implementation": {
+      "path": "actionai/rule_baseline.py",
+      "sha256": "24867b1495f8907f0cca15e46b4cd0a20aa8fab5d1e4b1dc9d0058497ceff957"
+    },
+    "development_predictions": {
+      "path": "outputs/rule-baseline/rule-baseline-v1.0-frozen/development.json",
+      "sha256": "cc582ef5d7fb868c7e2e16eb6b67ecaddcb4e2eeee593c346385932df5bb2774"
+    },
+    "human_match_review": {
+      "path": "outputs/rule-baseline/rule-baseline-v1.0-frozen/development_match_review.csv",
+      "sha256": "e2a9878569031942e943dc0980ee96642d535fa3ad9f4fb6c5ee00f9305a3f4d"
+    },
+    "development_metrics": {
+      "path": "outputs/rule-baseline/rule-baseline-v1.0-frozen/development_metrics.json",
+      "sha256": "88ffb6f3bc2afbb237688bc1d72cf2a82eb4efc1a2741e875bddc6fdb91e843a"
+    },
+    "locked_gold_labels": {
+      "path": "data/labels/final_gold_labels.csv",
+      "sha256": "d7f095a9283f1bc819a4114ae9546a85864c1cef76295aebf34d5ca6c949f2ef"
+    }
+  }
+}

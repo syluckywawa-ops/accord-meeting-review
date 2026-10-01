@@ -1,0 +1,139 @@
+{
+  "version": "llm-experiment-v1.0-frozen",
+  "status": "frozen_before_test",
+  "frozen_at_utc": "2026-09-28T15:10:41.893158+00:00",
+  "development_meetings": [
+    "ES2003a",
+    "ES2003b",
+    "ES2003c"
+  ],
+  "formal_test_meeting_count": 20,
+  "formal_conditions": [
+    "zero_shot",
+    "few_shot"
+  ],
+  "test_outputs_seen": false,
+  "change_policy": "Any post-freeze change requires a new version and complete rerun of every affected formal arm.",
+  "development_diagnostics": {
+    "zero_shot": {
+      "tp": 4,
+      "fp": 9,
+      "fn": 2,
+      "micro_precision": 0.3076923076923077,
+      "micro_recall": 0.6666666666666666,
+      "micro_f1": 0.42105263157894735,
+      "macro_f1": 0.5
+    },
+    "few_shot": {
+      "tp": 3,
+      "fp": 5,
+      "fn": 3,
+      "micro_precision": 0.375,
+      "micro_recall": 0.5,
+      "micro_f1": 0.42857142857142855,
+      "macro_f1": 0.48412698412698413
+    }
+  },
+  "files": {
+    "development_config": {
+      "path": "configs/llm_experiment_v1.json",
+      "sha256": "94597a4a50b16f94a0698f77ce5cb592c5ba8f9b8cf59c5839ef92b91ba9b5f1"
+    },
+    "frozen_config": {
+      "path": "configs/llm_experiment_v1_frozen.json",
+      "sha256": "2320a817da458d490ec77763e92eabd54425da67d212e3ad8815031495cf4a85"
+    },
+    "schema": {
+      "path": "schemas/action_output_v1.schema.json",
+      "sha256": "13f2c17002452e1dc8aa2933fc7911e1618114abb76d06ec7616a8aeac905504"
+    },
+    "system_prompt": {
+      "path": "prompts/system_v1.txt",
+      "sha256": "4503901842a4a0635c8b5f903fe330b984a5740180259616a91ab350546b21bb"
+    },
+    "user_prompt": {
+      "path": "prompts/user_template_v1.txt",
+      "sha256": "0d94e7e98e1cb14ecc56e1eb06daaec10ac2be43933e84031f9db24db486e330"
+    },
+    "few_shot_examples": {
+      "path": "prompts/few_shot_examples_v1.json",
+      "sha256": "bc13f47766b061129428097a6e0faa6392d85f5bc2ed4b03953962a957f03860"
+    },
+    "prompt_builder": {
+      "path": "actionai/prompts.py",
+      "sha256": "0c0f5cb9f8f62204942b10fc01aa63614d689a1d6f1d60256605da25340da008"
+    },
+    "llm_pipeline": {
+      "path": "actionai/llm_pipeline.py",
+      "sha256": "0b355edf10eb6911ffd20228d32f03d17844791728e818fc1cf2b3b0f07aac47"
+    },
+    "output_validation": {
+      "path": "actionai/output_validation.py",
+      "sha256": "5b847029d2512abb5f45972b8ad8cf2f747c86df38db60fa1f8f0b087d6c0bdf"
+    },
+    "evaluation": {
+      "path": "actionai/evaluation.py",
+      "sha256": "b2027b739f8fc83289474efd5b7b5b083ef8cca4fa481eeeae19dfdbe4426dc8"
+    },
+    "runner": {
+      "path": "scripts/run_llm_experiment.py",
+      "sha256": "da672d14ec4c836cc2398cbb23cdcb25f08eb6d0c135bea9fcb21a2861efa43b"
+    },
+    "collector": {
+      "path": "scripts/collect_llm_outputs.py",
+      "sha256": "81707382294484eb7105e5f53f29660849266298484ea36b73cab1e942283a58"
+    },
+    "review_finalizer": {
+      "path": "scripts/finalize_match_review.py",
+      "sha256": "c50965ed5f866b8854e9b4f180ab2c7d03f3579ea729134e5c5879478686eff6"
+    },
+    "locked_gold_labels": {
+      "path": "data/labels/final_gold_labels.csv",
+      "sha256": "d7f095a9283f1bc819a4114ae9546a85864c1cef76295aebf34d5ca6c949f2ef"
+    },
+    "gold_version": {
+      "path": "data/labels/LABEL_VERSION.json",
+      "sha256": "2c75463d8a781f4177b87ad820771b6bb073771821c3b267ae4eb9f6efc96ed8"
+    },
+    "data_manifest": {
+      "path": "data/data_manifest.csv",
+      "sha256": "813cab430a66436ba9a70f0f9bbe1d237857493aa8515ca246ad9f3b9a257185"
+    },
+    "manual_review_sample": {
+      "path": "configs/MANUAL_REVIEW_SAMPLE.json",
+      "sha256": "9a95e51f8a4381030afeddf0ee8b103cbd463f11b5e348b681c7b798e88ce05e"
+    },
+    "protocol": {
+      "path": "EXPERIMENT_PROTOCOL_v1.md",
+      "sha256": "982e7bad7a09176d076e85af27707ae13dc5fe2143c83ebcd168e3585d7ec68b"
+    },
+    "protocol_amendment": {
+      "path": "docs/PROTOCOL_AMENDMENT_v1_1.md",
+      "sha256": "a882afdf2c36df732c16756378eaf139456d9fcd5b354ec3fd3a648a5a3a9ce7"
+    },
+    "zero_shot_development_predictions": {
+      "path": "outputs/llm-evaluation/zero-shot-v1.0-dev/development.json",
+      "sha256": "8e5067cc5acb0d4a50cdffd0d7065eedab7352e1abfaaab5c6c3995356342995"
+    },
+    "zero_shot_development_review": {
+      "path": "outputs/llm-evaluation/zero-shot-v1.0-dev/development_match_review.csv",
+      "sha256": "b31fcf41b37485f60c77e17f728eb4c671b1e7bd244f1bd3c31859f7a2c236e8"
+    },
+    "zero_shot_development_metrics": {
+      "path": "outputs/llm-evaluation/zero-shot-v1.0-dev/development_metrics.json",
+      "sha256": "410540db6182ba1e873f216cbdeb401bde1bb9cf80aa5f62b3413a5e09bde27e"
+    },
+    "few_shot_development_predictions": {
+      "path": "outputs/llm-evaluation/few-shot-v1.0-dev/development.json",
+      "sha256": "ff977005da811dcf0541ac3fc1d54d3e12ad0571358091013169f39695599ff9"
+    },
+    "few_shot_development_review": {
+      "path": "outputs/llm-evaluation/few-shot-v1.0-dev/development_match_review.csv",
+      "sha256": "ad173de7c135440ff933cfb55d03d4ef61ed384b84d0b679c1b59cfb454f8121"
+    },
+    "few_shot_development_metrics": {
+      "path": "outputs/llm-evaluation/few-shot-v1.0-dev/development_metrics.json",
+      "sha256": "58e441732844a0bb6a0478bc51932b7f5149e665be9a3efa8c83f60d9d02ed37"
+    }
+  }
+}

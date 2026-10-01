@@ -1,0 +1,22 @@
+{
+  "version": "rule-baseline-v1.0-frozen",
+  "minimum_turn_fraction": 0.74,
+  "context_turns": 3,
+  "procedural_starts": [
+    "make this quick",
+    "just do it",
+    "load it",
+    "load up",
+    "start at the top",
+    "start with the minutes",
+    "finish this one up"
+  ],
+  "deadline_patterns": [
+    "within thirty minutes",
+    "thirty minutes until the next meeting",
+    "for the next meeting",
+    "before the next meeting",
+    "by the next meeting"
+  ],
+  "deduplication_token_jaccard": 0.40
+}

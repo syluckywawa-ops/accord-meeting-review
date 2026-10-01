@@ -1,0 +1,8 @@
+Extract action items from the complete meeting transcript below.
+
+Meeting ID: {meeting_id}
+Meeting date: {meeting_date}
+
+<transcript>
+{transcript}
+</transcript>
