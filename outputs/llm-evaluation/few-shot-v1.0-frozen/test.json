@@ -1,0 +1,991 @@
+{
+  "run": {
+    "system": "structured LLM",
+    "version": "llm-experiment-v1.0-frozen",
+    "condition": "few_shot",
+    "split": "test",
+    "meeting_count": 20,
+    "valid_meeting_count": 17,
+    "invalid_meeting_count": 3,
+    "validation_success_rate": 0.85,
+    "config_sha256": "2320a817da458d490ec77763e92eabd54425da67d212e3ad8815031495cf4a85",
+    "schema_sha256": "13f2c17002452e1dc8aa2933fc7911e1618114abb76d06ec7616a8aeac905504",
+    "retry_count": 13,
+    "estimated_cost_usd": 0.2749836,
+    "invalid_output_policy": "Invalid after one repair contributes no accepted predictions to primary scoring."
+  },
+  "results": [
+    {
+      "transcript_id": "ES2004a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/ES2004a.json",
+      "raw_log_sha256": "1835c8016331c27de5cf35c80144778817aebf03aabdac525dd09e804d6b0fbc",
+      "action_items": [
+        {
+          "task": "go off and do individual work on the remote control design",
+          "owners": [],
+          "deadline_text": "before the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "we're all gonna go off and do our individual things",
+          "evidence_ids": [
+            "ES2004a-T0222"
+          ],
+          "needs_review": true,
+          "review_reason": "No explicit owner or commitment; 'we' is ambiguous and no clear assignment"
+        },
+        {
+          "task": "write up and share meeting notes or project plan in shared folder",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I think so, I'll be able to um pull it up, or I could put it in the shared folder or something.",
+          "evidence_ids": [
+            "ES2004a-T0112"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2004b",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/ES2004b.json",
+      "raw_log_sha256": "40757f7cb29a629699d854a6097cc4114f5c66f801e99aae1dd86b52ae983bfb",
+      "action_items": [
+        {
+          "task": "write up and distribute a summary of the meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Help.",
+          "evidence_ids": [
+            "ES2004b-T0001"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "look into the company logo and how to incorporate it into the product design",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Can you look into the company logo? Um, things that are associated with the company in view to trying to incorporate that into the design of the product.",
+          "evidence_ids": [
+            "ES2004b-T0352"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "develop five or six different remote control design concepts for evaluation",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Yeah maybe we could come at some say five, six des designs and then choose which are whichever appeals the most like, that could be the most common design.",
+          "evidence_ids": [
+            "ES2004b-T0374"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is ambiguous as 'we' includes multiple roles; no explicit commitment from a specific owner."
+        },
+        {
+          "task": "focus marketing research on user-friendly instruction manuals and related issues before the next meeting",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": "before the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "Okay. What would you specifically like marketing to look at before the next meeting? Or shall I just sort of generally look at all the issues involved? || I think you might get guidance, but um I th Instruction manuals,'cause there tends to be a",
+          "evidence_ids": [
+            "ES2004b-T0408",
+            "ES2004b-T0411"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2004c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/ES2004c.json",
+      "raw_log_sha256": "f6b799da08d341e0978bebbfc5a2031e7101ca1aede373ffde77821b53cd9517",
+      "action_items": [
+        {
+          "task": "check financial feasibility of incorporating voice recognition for remote finding feature",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So we we can check into the financial feasibility of incorporating this.",
+          "evidence_ids": [
+            "ES2004c-T0312"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "consider adding an attachment or clip-on feature to prevent losing the remote",
+          "owners": [
+            "Project Manager",
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay, can we add in uh an attachment to closing feature? || Yeah.",
+          "evidence_ids": [
+            "ES2004c-T0127",
+            "ES2004c-T0130"
+          ],
+          "needs_review": true,
+          "review_reason": "Ambiguous owner assignment between Project Manager and Industrial Designer"
+        },
+        {
+          "task": "use kinetic charging with watch-type batteries for the remote control",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "kinetic charging, the watch-type batteries",
+          "evidence_ids": [
+            "ES2004c-T0418"
+          ],
+          "needs_review": true,
+          "review_reason": "No explicit individual owner, collective commitment implied"
+        },
+        {
+          "task": "implement LCD display on the top side of the flip-top remote",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "L_C_D_ display on th the top side of the flip top",
+          "evidence_ids": [
+            "ES2004c-T0418"
+          ],
+          "needs_review": true,
+          "review_reason": "No explicit individual owner, collective commitment implied"
+        },
+        {
+          "task": "implement rubberised buttons on the bottom side of the flip-top remote",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "rubberised buttons on the bottom side",
+          "evidence_ids": [
+            "ES2004c-T0418"
+          ],
+          "needs_review": true,
+          "review_reason": "No explicit individual owner, collective commitment implied"
+        },
+        {
+          "task": "use fruit and vegetable colours for the rubber cover of the remote",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "we're gonna use fruit and vegetable colours for the rubber cover",
+          "evidence_ids": [
+            "ES2004c-T0418"
+          ],
+          "needs_review": true,
+          "review_reason": "No explicit individual owner, collective commitment implied"
+        },
+        {
+          "task": "use plastic for the case of the remote control",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "the case itself is plastic",
+          "evidence_ids": [
+            "ES2004c-T0418"
+          ],
+          "needs_review": true,
+          "review_reason": "No explicit individual owner, collective commitment implied"
+        },
+        {
+          "task": "check financial feasibility of voice recognition feature and consider whistle alternative if not feasible",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "if financially voice recognition is not feasible we could go for a whistle.",
+          "evidence_ids": [
+            "ES2004c-T0427"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "incorporate company logo prominently in the remote control design",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "we'll be incorporating in the design.",
+          "evidence_ids": [
+            "ES2004c-T0431"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2004d",
+      "run_status": "invalid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/ES2004d.json",
+      "raw_log_sha256": "e8e1c14a87f6cf66b930b52fed376564d65aac6c7b8878e101bc2e29b5968164",
+      "action_items": []
+    },
+    {
+      "transcript_id": "ES2014a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/ES2014a.json",
+      "raw_log_sha256": "fb60081229d20e1b140521a90fa22dbc113c6dc80b012ab98bf12d510ebb1a79",
+      "action_items": [
+        {
+          "task": "write up and distribute minutes of this meeting for the next meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "I'll try and write up some minutes of uh this meeting to uh to give it to you for the next meeting.",
+          "evidence_ids": [
+            "ES2014a-T0133"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014b",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/ES2014b.json",
+      "raw_log_sha256": "74e242fb6b968b9ce0cccbdc826c8f29670e26b700c6da65b5fe7a39fa4ff51f",
+      "action_items": [
+        {
+          "task": "write and distribute the minutes of this meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay. Right so I'll do the minutes of uh this meeting.",
+          "evidence_ids": [
+            "ES2014b-T0399"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "work out and list which remote control functions will be on the front and which will be on the back",
+          "owners": [
+            "Industrial Designer",
+            "Marketing Expert",
+            "User Interface Designer"
+          ],
+          "deadline_text": "at the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "So um we're gonna have to have to work out what's gonna be on these other functions as as well. So we're gonna have like two separate two separate lists, I guess. || Maybe if we're gonna run out of time, one of us should come up with a list of these and then get back at the next meeting just at the start and say what they're gonna be.",
+          "evidence_ids": [
+            "ES2014b-T0302",
+            "ES2014b-T0362"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "communicate any additional relevant information obtained before the next meeting to the team via email",
+          "owners": [
+            "Industrial Designer",
+            "Marketing Expert",
+            "User Interface Designer"
+          ],
+          "deadline_text": "before the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "if dur between the time of this meeting finishing and the next meeting starting, if you get any additional information that uh only you have at that point in time you'd think would be relevant to other people in terms of their des decision making um process, then we should communicate that as quickly as possible and not wait until the next meeting. || Do it via the email so that rather than coming you know If you get the information just before the next meeting that's fine. Come along with it in the next meeting, we can discuss it then and take whatever action is appropriate. But if you get it well before the next meeting, let everybody else know'cause that might have an impact on their uh on what they come up with effectively at the next meeting.",
+          "evidence_ids": [
+            "ES2014b-T0204",
+            "ES2014b-T0207"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "look into the Dolby and audio function controls and report back",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": "at the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "Well shall we look into that and just get back together.",
+          "evidence_ids": [
+            "ES2014b-T0398"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/ES2014c.json",
+      "raw_log_sha256": "37c43aba84d27fdf07fcb7b25e4a4861b0c86638e20bde7985c75466108dcd72",
+      "action_items": [
+        {
+          "task": "look into whether speech recognition requires a more advanced circuit board",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I don't know, so that is something I'll have to look into.",
+          "evidence_ids": [
+            "ES2014c-T0032"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "decide on the type of circuit board to use considering all features",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "if there is one element that requires the more expensive one, or say the regular one, or the more advanced, then that would have to be the same for all of them.",
+          "evidence_ids": [
+            "ES2014c-T0077"
+          ],
+          "needs_review": true,
+          "review_reason": "Task assigned to Team implicitly, no explicit owner commitment"
+        },
+        {
+          "task": "find out the cost of the speech recognition feature to decide on inclusion",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Maybe we maybe we'll find out how much that does cost and have to decide slightly later.",
+          "evidence_ids": [
+            "ES2014c-T0134"
+          ],
+          "needs_review": true,
+          "review_reason": "Task assigned to Team implicitly, no explicit owner commitment"
+        },
+        {
+          "task": "work on keeping the button design simple and mainly circular or plain",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Yeah that seems pretty straight forward.'Cause most of them will just be kind of mainly circular or like very plain.",
+          "evidence_ids": [
+            "ES2014c-T0428"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "keep the shape and labelling of buttons simple and self-explanatory",
+          "owners": [
+            "User Interface Designer",
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "just keeping the sort of the labelling them labelling of them fairly simple as well. Fairly sort of self explanatory.",
+          "evidence_ids": [
+            "ES2014c-T0438"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "prepare plasticine models of the remote design",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I guess you two are on plasticine duty or whatever.",
+          "evidence_ids": [
+            "ES2014c-T0441"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014d",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/ES2014d.json",
+      "raw_log_sha256": "271ce4ec0559e2a19cf89de4fe9fffb31d4cd9fda7fe05c55e93a1c58520b0a8",
+      "action_items": [
+        {
+          "task": "write up and distribute meeting notes and project evaluation summary",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I suppose the easiest way of doing it is to put some notes down, which I will do.",
+          "evidence_ids": [
+            "ES2014d-T0532"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "re-rate the prototype after financial adjustments",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "we'll probably have to re-rate it. || Yeah, yeah we'll make the adjustments and then see how are rates are going.",
+          "evidence_ids": [
+            "ES2014d-T0316",
+            "ES2014d-T0318"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is 'we' without explicit role assignment; task is implicit from discussion"
+        },
+        {
+          "task": "complete final questionnaire and meeting summary",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "don't forget to complete final questionnaire and meeting summary.",
+          "evidence_ids": [
+            "ES2014d-T0637"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is implicit 'you' and 'don't forget' without explicit assignment"
+        },
+        {
+          "task": "evaluate the prototype against established criteria",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Shall we shall we evaluate the prototype as we've got it now first, and then sort of make decisions about what needs to be changed after?",
+          "evidence_ids": [
+            "ES2014d-T0147"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is implicit 'we' without explicit task assignment"
+        },
+        {
+          "task": "check email for product details relevant to design evaluation",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'm just gonna check exactly what it said in the email for um",
+          "evidence_ids": [
+            "ES2014d-T0218"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "IS1009a",
+      "run_status": "invalid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/IS1009a.json",
+      "raw_log_sha256": "fe418c11da0159843447f742574a4944c9515b83d529f7f45a30cbbc12f8387f",
+      "action_items": []
+    },
+    {
+      "transcript_id": "IS1009b",
+      "run_status": "invalid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/IS1009b.json",
+      "raw_log_sha256": "543456ed28095038478cacbf96f808b6164b785e66b09c38b80152908656b261",
+      "action_items": []
+    },
+    {
+      "transcript_id": "IS1009c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/IS1009c.json",
+      "raw_log_sha256": "6295310e1f1ecdcff37b6ce0ac747e1fc6932e8bb14a146e08d564e2f076e21a",
+      "action_items": [
+        {
+          "task": "work together on a prototype using modelling clay",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": "until next meeting in thirty minutes",
+          "deadline_normalized": null,
+          "evidence_text": "In this phase, the two of you, Jana and Francine, have to work together on a prototype using modelling clay, it says here. You will receive specific instructions will be sent to you by your coaches.",
+          "evidence_ids": [
+            "IS1009c-T0241"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "IS1009d",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/IS1009d.json",
+      "raw_log_sha256": "80553c5c012f7afe7f8f093433d641788cbfc1a89f2bf736dbb7880cc8234bf9",
+      "action_items": [
+        {
+          "task": "write up and distribute the minutes from the last meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Well hi everyone again.",
+          "evidence_ids": [
+            "IS1009d-T0001"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "show the prototype to consumer research groups to gather feedback and identify any safety or usability issues",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "we should show this prototype to people from various age and socio-economic groups and see about any fine tuning that maybe little things we haven't thought of. We can't accept every suggestion of course, but maybe we just need to get a few. And show the the prototype to consumer research groups, we don't s want somebody to suddenly come to us and tell us that this button is toxic and you know some child will swallow it and then we won't sell any.",
+          "evidence_ids": [
+            "IS1009d-T0271"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/TS3003a.json",
+      "raw_log_sha256": "9571480d756f1ce757ac73d2b952d66b34aa64bfb03bfd92a1d251bbac6ae89c",
+      "action_items": [
+        {
+          "task": "take minutes during meetings",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Maybe you can take the minutes once in a while. I dunno it's not a lot of work, but just uh if you hear something uh you can write down, just write it down.",
+          "evidence_ids": [
+            "TS3003a-T0017"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "put the minutes from this meeting in the project folder",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I will put the minutes from this meeting uh in our project folder.",
+          "evidence_ids": [
+            "TS3003a-T0192"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003b",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/TS3003b.json",
+      "raw_log_sha256": "a9dfb47ef8da3ced2baa059dacc0ccf54a59d7e604cc0593e3af0af5bae8a261",
+      "action_items": [
+        {
+          "task": "put the minutes in the project document folder",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I will put the minutes in the project uh project document folder.",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "do the components concept",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "the Industrial Designer will do the components concept",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "do the user interface concept",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "User Interface Designer the user interface concept",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "do the trend-watching",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "User Interface Designer the user interface concept, and the trend-watching",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/TS3003c.json",
+      "raw_log_sha256": "0b6b021d407d3e8ced53114fb08afa93ad03f0f80f14f190888ded99cc5d4307",
+      "action_items": [
+        {
+          "task": "write up and distribute meeting minutes",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I will put these um minutes on the in the folder.",
+          "evidence_ids": [
+            "TS3003c-T0300"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "work together on look-and-feel design, user interface design, and product evaluation",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "for the next meeting uh we'll have to look at the look-and-feel design. It's important that the corporate design image uh is going to be in the remote. So check out the corporate website maybe. The user interface design, it's the same story. And product evaluation. So the Industrial Designer and User Interface Designer are going to work together on this one",
+          "evidence_ids": [
+            "TS3003c-T0300"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "check out the corporate website for corporate design image",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "It's important that the corporate design image uh is going to be in the remote. So check out the corporate website maybe.",
+          "evidence_ids": [
+            "TS3003c-T0300"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003d",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/TS3003d.json",
+      "raw_log_sha256": "ae0e533b09c3565eebf33a88603c712487249e805a9223c2d3730ac5123214d1",
+      "action_items": [
+        {
+          "task": "write up and distribute a summary of the meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So after this you will be uh free to go and uh spend all your money.",
+          "evidence_ids": [
+            "TS3003d-T0008"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/TS3007a.json",
+      "raw_log_sha256": "394ff3f3f917132a69074e4fb44e4f84fecad60b42d21b5fd125c064bbc2586b",
+      "action_items": [
+        {
+          "task": "look at the working design",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "the the the Industrial uh Designer has to uh look at the working design",
+          "evidence_ids": [
+            "TS3007a-T0282"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "look at the technical functions",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "the User Interface Designer has to look at the technical functions",
+          "evidence_ids": [
+            "TS3007a-T0282"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "think individually about the most important features from your point of view",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer",
+            "Marketing Expert"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "each individually i individually uh must think on what's uh at uh his point of view is the most important",
+          "evidence_ids": [
+            "TS3007a-T0324"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007b",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/TS3007b.json",
+      "raw_log_sha256": "321c74e214005ff97e41ff335739e078bdbb88185a70cb2025423ad15a923d3b",
+      "action_items": [
+        {
+          "task": "write up and distribute the meeting minutes",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I will uh take minutes and will put uh the minutes that I have uh at the end of the session in the shared folder.",
+          "evidence_ids": [
+            "TS3007b-T0011"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "work closely with the Industrial Designer on the remote control design",
+          "owners": [
+            "User Interface Designer",
+            "Industrial Designer"
+          ],
+          "deadline_text": "after the lunch break and the thirty minutes",
+          "deadline_normalized": null,
+          "evidence_text": "after the lunch break uh it's back to uh individual work, once again uh thirty minutes. Uh I will put my minutes uh I have updated them so uh s they're updated in the shared folder too.",
+          "evidence_ids": [
+            "TS3007b-T0336"
+          ],
+          "needs_review": true,
+          "review_reason": "Deadline is implicit and unclear; no explicit commitment to work together after lunch, inferred from context."
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/TS3007c.json",
+      "raw_log_sha256": "56b2e7ec88f6b9b78931d578c072b241cf207ccbec1ab9ceb19d8f4ab77d55bd",
+      "action_items": [
+        {
+          "task": "write up and distribute meeting minutes to the shared folder",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I will take notes uh and at the end of the minutes uh will uh be at the shared folder.",
+          "evidence_ids": [
+            "TS3007c-T0025"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "work together on prototype drawing using SMARTboard",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": "next session",
+          "deadline_normalized": null,
+          "evidence_text": "the industrial uh development uh centre and uh user interface uh will work together on a prototype. And uh will drawing it on the SMARTboard.",
+          "evidence_ids": [
+            "TS3007c-T0469"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "keep busy with product evaluation and send specific instructions by email",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "the marketing expert will uh will uh ke he will be keeping busy with the product uh evaluation. But the most uh specific instructions will be sent to you by email.",
+          "evidence_ids": [
+            "TS3007c-T0469"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007d",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/few_shot/test/TS3007d.json",
+      "raw_log_sha256": "435b7c780d33ba02d306278900ae00842bf0da92aea5c439008f19872d14839d",
+      "action_items": [
+        {
+          "task": "write up and distribute the end report summarizing all meetings and decisions",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "now",
+          "deadline_normalized": null,
+          "evidence_text": "I am busy with the end report right now. || Okay well, that uh that can be done. Maybe we can do it uh together. You can see what I've uh yeah? So I I s I will uh put it on a story-board.",
+          "evidence_ids": [
+            "TS3007d-T0759",
+            "TS3007d-T0769"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "finish the end report within the remaining meeting time",
+          "owners": [
+            "Project Manager",
+            "Marketing Expert",
+            "Industrial Designer"
+          ],
+          "deadline_text": "now (within 10 minutes)",
+          "deadline_normalized": null,
+          "evidence_text": "You have now ten minutes left to finish up the end report. || You can see it.",
+          "evidence_ids": [
+            "TS3007d-T0768",
+            "TS3007d-T0772"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    }
+  ],
+  "invalid_runs": [
+    {
+      "transcript_id": "ES2004d",
+      "retry_count": 1,
+      "parsed_action_count": 1,
+      "final_validation_issues": [
+        {
+          "location": "action_items[0].evidence_text",
+          "message": "Evidence is not verbatim within ES2004d-T0001"
+        }
+      ],
+      "scoring_treatment": "no accepted predictions; gold actions remain unmatched"
+    },
+    {
+      "transcript_id": "IS1009a",
+      "retry_count": 1,
+      "parsed_action_count": 4,
+      "final_validation_issues": [
+        {
+          "location": "action_items[0].evidence_text",
+          "message": "Evidence is not verbatim within IS1009a-T0001"
+        }
+      ],
+      "scoring_treatment": "no accepted predictions; gold actions remain unmatched"
+    },
+    {
+      "transcript_id": "IS1009b",
+      "retry_count": 1,
+      "parsed_action_count": 1,
+      "final_validation_issues": [
+        {
+          "location": "action_items[0].evidence_text",
+          "message": "Evidence is not verbatim within IS1009b-T0001"
+        }
+      ],
+      "scoring_treatment": "no accepted predictions; gold actions remain unmatched"
+    }
+  ]
+}

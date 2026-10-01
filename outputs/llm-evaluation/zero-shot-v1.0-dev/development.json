@@ -1,0 +1,230 @@
+{
+  "run": {
+    "system": "structured LLM",
+    "version": "llm-experiment-v1.0-dev",
+    "condition": "zero_shot",
+    "split": "development",
+    "meeting_count": 3,
+    "config_sha256": "94597a4a50b16f94a0698f77ce5cb592c5ba8f9b8cf59c5839ef92b91ba9b5f1",
+    "schema_sha256": "13f2c17002452e1dc8aa2933fc7911e1618114abb76d06ec7616a8aeac905504",
+    "prompt_asset_sha256": {
+      "system_v1.txt": "4503901842a4a0635c8b5f903fe330b984a5740180259616a91ab350546b21bb",
+      "user_template_v1.txt": "0d94e7e98e1cb14ecc56e1eb06daaec10ac2be43933e84031f9db24db486e330",
+      "few_shot_examples_v1.json": "bc13f47766b061129428097a6e0faa6392d85f5bc2ed4b03953962a957f03860"
+    },
+    "retry_count": 3,
+    "estimated_cost_usd": 0.035064399999999996
+  },
+  "results": [
+    {
+      "transcript_id": "ES2003a",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-dev/zero_shot/development/ES2003a.json",
+      "raw_log_sha256": "41abee8aae18b1ada9f25d08a8746f4ced778b0d4d5b44d51236aa72ad579df1",
+      "action_items": [
+        {
+          "task": "Write up the meeting summary and distribute it to all team members",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'll get in, I'll write up what we've um kind of quickly done, and I'll get that out to everybody",
+          "evidence_ids": [
+            "ES2003a-T0102"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2003b",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-dev/zero_shot/development/ES2003b.json",
+      "raw_log_sha256": "f80944c2b46b82cc84392769e85168261039a9cdd15cd904e87f36828216ac0d",
+      "action_items": [
+        {
+          "task": "Look into the feasibility of incorporating a small transmitter, speaker, and LED for locating the remote control",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "you know a small L_C_D_, joystick, e I think it leaves you open to a a potential wide range of shapes, something that can make it stand out slightly. Um if you could look into what we've suggested so far, the feasibility of um small transmitter, um and such, maybe if an L_C_D_ screen requires too much power, or such. || So I should just look at um the speaker, the speaker and an L_E_D_. And || Speaker and L_E_D_ for locating, um, || Yeah, and a transmitter. || Transmitter.",
+          "evidence_ids": [
+            "ES2003b-T0213",
+            "ES2003b-T0227",
+            "ES2003b-T0228",
+            "ES2003b-T0229",
+            "ES2003b-T0230"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Provide frequency data on remote control usage to help define software interface priorities",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Well I can give you the frequency, what people what options people use most often, I guess that's gonna be important in the ts defining the the software side of the interface, right. You want the stuff.",
+          "evidence_ids": [
+            "ES2003b-T0216"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Gather feedback on the minimalist joystick-based remote control design and its usability",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "If, yeah if you could maybe as well see what people think about the idea of this minimalist approach that we've taken, where of a joystick to control the very basic functions, and then the idea of manipulating it like you would a mobile. I don't know how easy that will be within the time frame, but could be something we could maybe look into.",
+          "evidence_ids": [
+            "ES2003b-T0217"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2003c",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-dev/zero_shot/development/ES2003c.json",
+      "raw_log_sha256": "7e94333f3ffb423bbde0e57a8d76d1eaa03ad8699c23e1030c7c62ead3571a12",
+      "action_items": [
+        {
+          "task": "Work closely with Industrial Designer on prototyping using clay",
+          "owners": [
+            "Project Manager",
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So for example, um I'll just start at the top, you've got yourself and the Industrial Designer gonna be working quite closely at this stage'cause it'll be hard not to, obviously. Um || looking from prototyping of some des description using clay.",
+          "evidence_ids": [
+            "ES2003c-T0210",
+            "ES2003c-T0211"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Develop detailed user interface design focusing on physical layout and LCD incorporation",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "The user interface design, || They're kind of it looks they're the idea I've pushed forward so far is maybe more of a physical one there, whereas possibly be more interested in maybe how the L_C_D_'s going to incorporate, do you think? Or do you s perceive that most the design design decisions still need to be based on the physical layout?",
+          "evidence_ids": [
+            "ES2003c-T0212",
+            "ES2003c-T0213"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Prepare prototype in clay for physical design evaluation",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "looks like we're gonna need a maybe a kind of prototype in clay. Uh we'll see how that goes.",
+          "evidence_ids": [
+            "ES2003c-T0259"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Add detailed pictures to user interface design presentation",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I can add pretty pictures to this.",
+          "evidence_ids": [
+            "ES2003c-T0113"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Investigate cost implications of double curved design and flexible rubber casing with possible inner frame",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Looks like we going for a double curved design. Um I don't know what cost implications there are in that. Um, looks like we're pretty much decided on some kind of flexible rubber. Though I'd have to say depending on how flexible it is, we might need to have some kind of inner frame.",
+          "evidence_ids": [
+            "ES2003c-T0158"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Evaluate feasibility and design of articulated remote control with two points of articulation and flexible outer skin",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Yeah, I I would say definitely, I mean I mean I mean the the idea of having it sort of articulated i th there would be basically two points of articulation. W um one below and one above the m the uh the main sort of grip.",
+          "evidence_ids": [
+            "ES2003c-T0159"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Consider programming interface options including computer connection and non-computer programming mode",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So the t uh the top function button in basic mode would be the on off switch and menu mode would be the enter button. And then the bottom function buttons switches between between modes. Um now programming it actually thi this is one thing I've found with um the replacement remote control. Programming them can be a right pain. So I thought th the simplest way around that would be to have um a cable to connect it to the computer some some fair iv fairly fairly simple software on the computer just so that you on your computer just so that you could um pr program it at a rather in a rather more comfortable interface. And you could download programs for it from uh for uh T_V_s from all sort of main manufacturers. Um though you i it would be necessary to have uh have a m uh have a ha have a mode for programming it without the computer, uh just in case there are there are still people left out there who don't have them yet.",
+          "evidence_ids": [
+            "ES2003c-T0121"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Plan product evaluation approach including user testing and field trials",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "do you think that just bringing users in to have them test it out, uh maybe putting a certain number of products into the field in certain places which I suppose is quite similar. Or just kind of hitting the streets and you know saying this is a new remote control, what do you think of the look of it?",
+          "evidence_ids": [
+            "ES2003c-T0220"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Investigate supply and provision of clay for prototyping",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Are we going to be supplied with the clay is what I want to know. Where is the clay?",
+          "evidence_ids": [
+            "ES2003c-T0261"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is unclear; question about supply of clay but no commitment to provide it."
+        }
+      ]
+    }
+  ]
+}

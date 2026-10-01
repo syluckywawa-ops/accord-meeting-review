@@ -1,0 +1,188 @@
+Meeting: IS1009a
+Split: test
+Meeting date: 2004-12-13
+AMI duration (seconds): 831
+Transcribed word elements: 2393
+
+[00:54.93-01:00.88] IS1009a-T0001 | Project Manager (A): Okay. Everybody ready? Uh I think the first thing we do is introduce ourselves
+[00:55.68-00:56.10] IS1009a-T0002 | Marketing Expert (D): Okay.
+[00:56.86-00:57.09] IS1009a-T0003 | Industrial Designer (C): Yeah.
+[00:57.23-00:57.74] IS1009a-T0004 | Marketing Expert (D): I think so.
+[01:01.31-01:02.64] IS1009a-T0005 | Marketing Expert (D): Yeah, that's a good plan.
+[01:01.98-01:07.33] IS1009a-T0006 | Project Manager (A): and everybody's name and what your function is? So maybe we start with you?
+[01:06.61-01:20.88] IS1009a-T0007 | User Interface Designer (B): Okay. Yeah, my name is Francina. And I'm uh an user interface my role is uh the main responsibility is user interface. And my role is to design uh a television remote control.
+[01:16.05-01:16.53] IS1009a-T0008 | Project Manager (A): Mm-hmm.
+[01:21.01-01:22.19] IS1009a-T0009 | Project Manager (A): Mm-hmm. Okay.
+[01:23.02-01:26.98] IS1009a-T0010 | Marketing Expert (D): And I'm a marketing person. I wanna figure out how to sell them.
+[01:27.42-01:28.62] IS1009a-T0011 | Project Manager (A): Mm-hmm. And your name is?
+[01:28.69-01:29.73] IS1009a-T0012 | Marketing Expert (D): My name is Eileen.
+[01:30.16-01:30.58] IS1009a-T0013 | Project Manager (A): Okay.
+[01:31.18-01:47.50] IS1009a-T0014 | Industrial Designer (C): Yeah. Uh I'm Jeanne-Oui. Um uh my role is industrial designer and my responsibilities are uh uh um deal with the technical-functional designs and specifications of user interface and dealing with user interface design.
+[01:47.86-01:58.21] IS1009a-T0015 | Project Manager (A): Very good. And as you already know I am Betty. I am the project manager for today. So why don't we look at the presentation to see what we really are supposed to do.
+[01:58.74-01:59.12] IS1009a-T0016 | Marketing Expert (D): Okay.
+[01:58.76-02:12.84] IS1009a-T0017 | Project Manager (A): Um. Yes y opening, acquaintance, tool training well, the tools are, I think, we already I guess the tool is really our the computer, as far as I can see.
+[02:11.10-02:11.57] IS1009a-T0018 | Marketing Expert (D): Mm-hmm.
+[02:12.84-02:26.80] IS1009a-T0019 | Project Manager (A): Uh we get ins each of us will get instructions and we'll take it from there. Project plan, that falls under the same heading pretty much. Um, I don't think we have any great discussion at this point. Um.
+[02:25.52-02:25.86] IS1009a-T0020 | Marketing Expert (D): No.
+[02:29.42-02:42.35] IS1009a-T0021 | Project Manager (A): Here is what this thing should be. This thing we are gonna um uh design is a new remote control. Uh should be original, trendy, and, of course, user friendly.
+[02:39.47-02:40.06] IS1009a-T0022 | Marketing Expert (D): Mm-hmm.
+[02:45.10-02:47.14] IS1009a-T0023 | Project Manager (A): So maybe you wanna make some notes of that.
+[03:08.02-03:08.45] IS1009a-T0024 | Marketing Expert (D): Okay.
+[03:15.02-03:15.34] IS1009a-T0025 | Project Manager (A): Okay?
+[03:15.54-03:15.87] IS1009a-T0026 | Marketing Expert (D): Mm-hmm.
+[03:16.34-03:42.38] IS1009a-T0027 | Project Manager (A): All right. Here is what the functional design is supposed to achieve. Um. That is it's gonna be individual work and then at the meeting we'll discuss what uh we have come up with. The same goes for the conceptual design, there will be individual work whic and then discussion afterwards. Detailed design, same thing basically.
+[03:40.40-03:46.77] IS1009a-T0028 | Marketing Expert (D): Mm'kay so Three different types of design that we're gonna be concerned with okay.
+[03:45.95-03:47.31] IS1009a-T0029 | Project Manager (A): Mm-hmm. Mm-hmm.
+[03:56.03-03:58.45] IS1009a-T0030 | Marketing Expert (D): Functional, conception
+[04:00.98-04:02.61] IS1009a-T0031 | Marketing Expert (D): and detailed.
+[04:03.87-04:05.74] IS1009a-T0032 | Project Manager (A): I can't write with this thing.
+[04:08.13-04:11.23] IS1009a-T0033 | Marketing Expert (D): Maybe we should redesign it.
+[04:09.49-04:13.04] IS1009a-T0034 | Project Manager (A): Yes.
+[04:12.77-04:14.77] IS1009a-T0035 | Marketing Expert (D): After we've finished the remote control we'll get to that.
+[04:14.69-04:17.78] IS1009a-T0036 | Project Manager (A): Yeah, okay. All right?
+[04:19.98-04:32.58] IS1009a-T0037 | Project Manager (A): Then, tool training try out the white board, participant can draw their favourite animal. Does anybody want to go and see how the white board works? So that in case we have to, in the next meeting, present something on the white board.
+[04:34.66-04:36.13] IS1009a-T0038 | Project Manager (A): You wanna go Eileen and
+[04:36.18-04:39.03] IS1009a-T0039 | Marketing Expert (D): Okay, I'll see what I can do. See if I r
+[04:37.57-04:40.14] IS1009a-T0040 | Project Manager (A): Whether you without hanging yourself.
+[04:40.06-04:45.97] IS1009a-T0041 | Marketing Expert (D): See if I remember how to draw a kitty cat or a rabbit or something.
+[04:48.08-04:51.18] IS1009a-T0042 | Project Manager (A): And remember you have to press so it works. Mm-hmm.
+[04:49.98-04:57.89] IS1009a-T0043 | Marketing Expert (D): So that it will record okay. Um uh um traditional kitty cat.
+[05:07.52-05:10.90] IS1009a-T0044 | Project Manager (A): Fat, a fat cat.
+[05:07.98-05:18.48] IS1009a-T0045 | Marketing Expert (D): I've a very fat cat. And it likes to sit like that. Okay.
+[05:17.58-05:18.10] IS1009a-T0046 | Project Manager (A): Okay.
+[05:20.51-05:27.54] IS1009a-T0047 | Project Manager (A): And you're Francine, right? Would you like s like just to see um how it feels, so that you have a little idea?
+[05:22.21-05:25.36] IS1009a-T0048 | User Interface Designer (B): Yes, I'm Francina. Yes, sure.
+[05:28.00-05:32.91] IS1009a-T0049 | Marketing Expert (D): Am I supposed to wipe off that or okay.
+[05:28.65-05:31.62] IS1009a-T0050 | Project Manager (A): In No, no. No, that's okay.
+[05:31.49-05:33.46] IS1009a-T0051 | User Interface Designer (B): No, Okay.
+[05:33.34-05:35.52] IS1009a-T0052 | Project Manager (A): I don't know, we'll get to that later.
+[05:35.95-05:36.53] IS1009a-T0053 | Marketing Expert (D): Okay.
+[05:36.34-05:40.06] IS1009a-T0054 | User Interface Designer (B): What should I draw?
+[05:47.07-05:48.55] IS1009a-T0055 | Industrial Designer (C): Snake.
+[05:47.97-05:50.08] IS1009a-T0056 | User Interface Designer (B): I'm going to draw a snake.
+[05:55.79-05:59.06] IS1009a-T0057 | User Interface Designer (B): How does it look like?
+[05:55.92-06:00.48] IS1009a-T0058 | Project Manager (A): Okay. Okay.
+[05:57.30-05:58.11] IS1009a-T0059 | Marketing Expert (D): Uh, okay.
+[05:59.90-06:04.99] IS1009a-T0060 | Marketing Expert (D): I hope the kitty cat is hungry'cause I don't like snakes.
+[06:07.23-06:26.14] IS1009a-T0061 | Project Manager (A): Here's the project finance uh which, of course, we all have to think about when we design this thing. Um selling price is supposed to be twenty five Euro. Uh profit aim for the company is fifty million Euro, the market range unlimited meaning international
+[06:17.46-06:17.99] IS1009a-T0062 | Marketing Expert (D): Mm-hmm.
+[06:26.38-06:27.07] IS1009a-T0063 | Marketing Expert (D): Okay.
+[06:27.38-06:33.70] IS1009a-T0064 | Project Manager (A): and the production cost should not exceed hopefully should be less than twelve fifty Euro.
+[06:35.17-06:38.66] IS1009a-T0065 | Marketing Expert (D): Mm'kay that should keep everybody on their toes and challenged.
+[06:38.72-06:39.34] IS1009a-T0066 | Project Manager (A): Mm-hmm.
+[06:40.18-06:40.98] IS1009a-T0067 | Marketing Expert (D): Profit.
+[06:42.82-06:46.53] IS1009a-T0068 | Marketing Expert (D): Um is fifty mm.
+[06:43.73-06:52.70] IS1009a-T0069 | Project Manager (A): So these are all things, of course, to remember with the budget and when you design to materials, cost, etcetera.
+[06:59.14-07:07.62] IS1009a-T0070 | Project Manager (A): Now, uh the discussion I guess is um does anyone of you have experience with remote control?
+[06:59.72-07:00.63] IS1009a-T0071 | Marketing Expert (D): Oops.
+[07:08.67-07:11.82] IS1009a-T0072 | Industrial Designer (C): Yeah, of course, using remote control. Yeah.
+[07:08.93-07:15.02] IS1009a-T0073 | Project Manager (A): I exp I s'cause we we use'em we use'em, right, everyday. And um
+[07:09.71-07:10.15] IS1009a-T0074 | User Interface Designer (B): Yes.
+[07:16.54-07:40.75] IS1009a-T0075 | Project Manager (A): now having used a remote control for years does anybody already have like an idea like things you didn't like with it, things you would like to change, things you would like to improve with this thing ye any first ideas? Would you like it to be smaller, bigger, have more have more buttons on it or maybe clearly better marked buttons, you know, things like that?
+[07:30.53-07:31.82] IS1009a-T0076 | Industrial Designer (C): Uh.
+[07:33.92-07:34.43] IS1009a-T0077 | User Interface Designer (B): Yeah, I
+[07:39.84-07:42.07] IS1009a-T0078 | Industrial Designer (C): Yeah. Yeah.
+[07:41.44-08:06.77] IS1009a-T0079 | User Interface Designer (B): Yes, I I feel that all the remote should be very compact. Yeah, those which we get here nowadays it's very long. And um and it should have multi-purpose. Like uh the remote control which we use for T_V_, it shou uh it should be used f uh for some other purpose also, like controlling the uh temperature inside the house or for air-conditioners, or for heating system.
+[07:45.09-07:46.50] IS1009a-T0080 | Project Manager (A): Small, right. Mm-hmm.
+[07:49.25-07:49.73] IS1009a-T0081 | Project Manager (A): Mm-hmm.
+[08:00.96-08:02.94] IS1009a-T0082 | Project Manager (A): Mm-hmm.
+[08:01.47-08:04.51] IS1009a-T0083 | Industrial Designer (C): Audio player. Oh. Okay.
+[08:06.70-08:15.30] IS1009a-T0084 | Project Manager (A): So it should be a multi-functional uh gadget that would um control all your household uh uh machines basically.
+[08:08.44-08:10.54] IS1009a-T0085 | User Interface Designer (B): Yes, exactly Yes.
+[08:10.16-08:10.58] IS1009a-T0086 | Industrial Designer (C): Hmm.
+[08:12.54-08:13.23] IS1009a-T0087 | User Interface Designer (B): Yes.
+[08:12.78-08:15.57] IS1009a-T0088 | Industrial Designer (C): Divides us Yeah. Yeah.
+[08:14.70-08:15.71] IS1009a-T0089 | User Interface Designer (B): Yeah. Exactly.
+[08:16.14-08:22.77] IS1009a-T0090 | Marketing Expert (D): At um twelve fifty Euros per
+[08:22.34-08:23.84] IS1009a-T0091 | Project Manager (A): Well.
+[08:23.76-08:26.78] IS1009a-T0092 | Marketing Expert (D): Well who knows if we get a really good designer maybe we can do that.
+[08:26.16-08:26.87] IS1009a-T0093 | Industrial Designer (C): Yeah.
+[08:27.81-08:33.64] IS1009a-T0094 | Marketing Expert (D): We certainly can try to I agree with her that to market something successfully it should do some more things.
+[08:33.09-08:41.10] IS1009a-T0095 | Project Manager (A): It should be something new it should be s it it should do something different than than just what we have. Now, of course, the other thing to think there is maybe the design.
+[08:37.34-08:38.00] IS1009a-T0096 | Marketing Expert (D): That's right.
+[08:37.78-08:38.77] IS1009a-T0097 | Industrial Designer (C): Yeah, of course.
+[08:38.06-08:38.66] IS1009a-T0098 | User Interface Designer (B): Yeah.
+[08:41.02-08:45.45] IS1009a-T0099 | User Interface Designer (B): Yeah, design should be, yeah it should be different. All the almost all the remotes
+[08:44.12-08:58.83] IS1009a-T0100 | Project Manager (A): Like trendy no like f for earlier we saw maybe it should be something trendy you know. Maybe it should different colours or materials or you know. Um so yeah shapes right, you know, like kidney shape feels better in your hand or something, you know.
+[08:47.72-08:53.08] IS1009a-T0101 | Industrial Designer (C): Yeah, maybe ten I do yeah, colours and al shapes also. Yeah.
+[08:47.74-08:53.04] IS1009a-T0102 | User Interface Designer (B): Yes, exactly. Are different shapes. Yes.
+[08:57.01-08:57.52] IS1009a-T0103 | User Interface Designer (B): Yes.
+[08:57.78-08:59.58] IS1009a-T0104 | Industrial Designer (C): Yeah of course yeah.
+[08:58.51-09:11.20] IS1009a-T0105 | Marketing Expert (D): Yeah okay, friendly shape, that would help. I think another thing that would help is um if it beeps when you clap, because I think one of the big things that happens is people lose them. They can't find it.
+[08:59.95-09:00.50] IS1009a-T0106 | Project Manager (A): Yeah.
+[09:04.10-09:04.61] IS1009a-T0107 | Project Manager (A): Yes.
+[09:11.23-09:26.12] IS1009a-T0108 | Project Manager (A): That is true, because they put a newspaper or they put it behind a plant or, we you know, whatever. And and they suddenly the phone rings and they want to turn the T_V_ off and they say, where the hell is my my remote control yeah?
+[09:15.62-09:16.95] IS1009a-T0109 | Industrial Designer (C): Yeah.
+[09:18.10-09:18.67] IS1009a-T0110 | Marketing Expert (D): Mm-hmm.
+[09:25.88-09:27.13] IS1009a-T0111 | Marketing Expert (D): So some
+[09:26.12-09:35.93] IS1009a-T0112 | Project Manager (A): Well or yeah or if it's really, if it's really in a dark spot that it gives out a a sound or a signal. Yeah. Mm-hmm. So if lost
+[09:31.91-09:34.73] IS1009a-T0113 | Industrial Designer (C): Yeah, some beep or something like that, so that we can go
+[09:32.53-09:36.80] IS1009a-T0114 | Marketing Expert (D): Uh so, so it's really the beep or, or a light should blink.
+[09:33.09-09:33.28] IS1009a-T0115 | User Interface Designer (B): Or a b
+[09:36.72-09:41.52] IS1009a-T0116 | Project Manager (A): If lost uh signal with b throw signal, you know.
+[09:36.86-09:37.82] IS1009a-T0117 | User Interface Designer (B): Should ha
+[09:36.99-09:37.61] IS1009a-T0118 | Industrial Designer (C): Yeah.
+[09:38.44-09:40.21] IS1009a-T0119 | User Interface Designer (B): A fluorescent signal, yeah.
+[09:40.25-09:41.37] IS1009a-T0120 | Marketing Expert (D): Mm'kay.
+[09:41.44-09:46.45] IS1009a-T0121 | Industrial Designer (C): Yeah, maybe it should have a light so that we can, we can just recognise where it is. Yeah, yeah.
+[09:45.66-09:52.61] IS1009a-T0122 | Project Manager (A): Exactly, I mean just that's what I'm saying. I'm just saying throw signal meaning just whether it's a beep or whether a light or
+[09:46.98-09:48.11] IS1009a-T0123 | Industrial Designer (C): May not be beep.
+[09:50.83-09:53.24] IS1009a-T0124 | Industrial Designer (C): Beep or uh it's a light, maybe it's a light.
+[09:52.17-10:05.83] IS1009a-T0125 | Marketing Expert (D): And do you think a good c c um clue for that is that it would respond to a clap or it would respond to your voice or it would respond what what should you have to do to make it beep or blink?
+[10:05.66-10:37.25] IS1009a-T0126 | Project Manager (A): Okay, my my idea is maybe that the minute it's really hidden, in in other words if it's like in a dark spot, uh meaning you know like a newspaper is on top, a sweater is on top or it it's behind a plant, at that moment it's it's like, it's like um, what you call it a light s sensors, you know? In in that moment it has a sensor, i it it gets a certain darkness, it ge has a sensor and it gives out a signal whether that be a light signal or a beep, I mean, that we can discuss that later, you know.
+[10:13.26-10:13.74] IS1009a-T0127 | Marketing Expert (D): Mm-hmm.
+[10:17.94-10:18.36] IS1009a-T0128 | Marketing Expert (D): Mm-hmm.
+[10:25.41-10:26.24] IS1009a-T0129 | Marketing Expert (D): Okay so
+[10:27.58-10:28.05] IS1009a-T0130 | User Interface Designer (B): Yes.
+[10:28.27-10:28.74] IS1009a-T0131 | Marketing Expert (D): Okay.
+[10:34.20-10:37.82] IS1009a-T0132 | Industrial Designer (C): Yeah, probably yeah, probably it's a yeah, yeah.
+[10:38.18-10:39.18] IS1009a-T0133 | User Interface Designer (B): Yeah. And uh
+[10:39.07-10:41.30] IS1009a-T0134 | Marketing Expert (D): So the light sensor would activate the signal.
+[10:41.28-10:58.48] IS1009a-T0135 | Project Manager (A): That's right. You know there would be right you have to have some kind of sensor and I I think uh voice or clapping it's not specific enough. Uh I know there are the lamps and stuff, you know, you can clap on and off, but I think they only work to certain degree and
+[10:41.74-10:42.22] IS1009a-T0136 | Industrial Designer (C): Mm-hmm.
+[10:52.88-10:53.39] IS1009a-T0137 | Marketing Expert (D): Mm-hmm.
+[10:53.42-10:54.33] IS1009a-T0138 | User Interface Designer (B): Yes.
+[10:58.11-11:01.88] IS1009a-T0139 | Marketing Expert (D): But it could be someplace really obvious and you still wouldn't be able to find it.
+[11:03.80-11:05.28] IS1009a-T0140 | Industrial Designer (C): Yeah, of course, that didn't
+[11:04.06-11:04.80] IS1009a-T0141 | Project Manager (A): What with
+[11:05.20-11:07.97] IS1009a-T0142 | Marketing Expert (D): Well, because you're s because you're silly. Because people are silly.
+[11:05.30-11:06.38] IS1009a-T0143 | User Interface Designer (B): Then, in that case
+[11:06.09-11:07.23] IS1009a-T0144 | Industrial Designer (C): I i we can't do it.
+[11:07.68-11:11.81] IS1009a-T0145 | Project Manager (A): Oh yeah well, but then those people we can't help everybody.
+[11:08.50-11:20.16] IS1009a-T0146 | Marketing Expert (D): I mean it could be on well, i if it were like on top of your bookcase and you usually kept it on the coffee table um, you know, well maybe we have to move along, okay.
+[11:18.06-11:24.02] IS1009a-T0147 | Project Manager (A): Okay we have uh yeah, we have to move along, but I think we have some good good points to start with here.
+[11:22.05-11:23.26] IS1009a-T0148 | Industrial Designer (C): Yeah, good point.
+[11:25.78-11:44.02] IS1009a-T0149 | Project Manager (A): Okay, the next meeting will be in thirty minutes. I think you all did you get uh notices on your computer for this? Okay so well, you got the notice um uh. The working design, I guess that's the function I_D_ uh who is this? The industrial designer That's you.
+[11:31.43-11:32.38] IS1009a-T0150 | Industrial Designer (C): Me yeah.
+[11:33.80-11:34.17] IS1009a-T0151 | User Interface Designer (B): Yes.
+[11:42.94-11:47.80] IS1009a-T0152 | Industrial Designer (C): Yeah. Yeah, it's functional de yeah, exactly, technical.
+[11:46.80-11:51.17] IS1009a-T0153 | Project Manager (A): Okay. So, we looking for a working design when we come back.
+[11:50.24-11:55.78] IS1009a-T0154 | Industrial Designer (C): Yeah. Uh working design, yeah, it's it's uh mainly technical-functional design.
+[11:54.19-12:24.66] IS1009a-T0155 | Project Manager (A): Then And then the technical funct you are the technical function, so so you are the working design. So you have a working design and then a functional design. And the marketing manager is coming up with some user requirement specification, like friendliness, and what we just discussed in general. That would be your idea. And, of course, price. That it, that it, that the price is a good price. I mean, the price is given, but, that was
+[11:57.23-11:58.75] IS1009a-T0156 | Industrial Designer (C): Yeah, functional design, and you
+[12:00.25-12:00.97] IS1009a-T0157 | User Interface Designer (B): Okay.
+[12:21.30-12:21.74] IS1009a-T0158 | Marketing Expert (D): Mm-hmm.
+[12:25.23-12:29.90] IS1009a-T0159 | Marketing Expert (D): We have to justify that price by having sufficient features to make it sell at that price.
+[12:26.27-12:26.90] IS1009a-T0160 | Project Manager (A): That's right.
+[12:29.42-12:38.03] IS1009a-T0161 | Project Manager (A): That's right. And, you know, specifi you you will get specific um instructions for that. I think that's the end of the show. Yeah.
+[12:44.70-12:55.98] IS1009a-T0162 | Project Manager (A): So um we have well, we have a twen two two two three minutes. Um any questions at this point? Or uh suggestions?
+[12:57.14-12:57.86] IS1009a-T0163 | Marketing Expert (D): Mm.
+[12:57.78-13:07.17] IS1009a-T0164 | Project Manager (A): I think basically basically you will get instructions to work with and if you have any questions uh, uh I guess, you can uh
+[13:02.67-13:03.35] IS1009a-T0165 | User Interface Designer (B): Okay.
+[13:04.16-13:04.55] IS1009a-T0166 | Industrial Designer (C): Yeah.
+[13:07.55-13:14.05] IS1009a-T0167 | Marketing Expert (D): Okay, I think I have enough to think about'til our next meeting. How about you people? Really? Okay.
+[13:10.91-13:11.31] IS1009a-T0168 | Project Manager (A): Mm-hmm.
+[13:11.23-13:13.98] IS1009a-T0169 | Industrial Designer (C): Yeah, even I have. Yeah, even I have, I think, yeah.
+[13:12.72-13:13.16] IS1009a-T0170 | User Interface Designer (B): Yes.
+[13:13.20-13:13.57] IS1009a-T0171 | Project Manager (A): Mm-hmm.
+[13:14.46-13:14.72] IS1009a-T0172 | Marketing Expert (D): 'Kay.
+[13:15.55-13:16.02] IS1009a-T0173 | Project Manager (A): Okay.
+[13:16.24-13:17.85] IS1009a-T0174 | Industrial Designer (C): Yeah, so let's see.
+[13:16.48-13:17.74] IS1009a-T0175 | Marketing Expert (D): Alright, well uh
+[13:17.94-13:23.75] IS1009a-T0176 | Project Manager (A): Then uh we see you in about thirty minutes. And see what we can come up with.
+[13:21.86-13:22.45] IS1009a-T0177 | User Interface Designer (B): Yes.
+[13:23.29-13:23.73] IS1009a-T0178 | Industrial Designer (C): Hmm.
+[13:23.78-13:24.61] IS1009a-T0179 | Marketing Expert (D): Okay, very good.
+[13:24.06-13:25.77] IS1009a-T0180 | User Interface Designer (B): Okay. Yes.
+[13:24.66-13:25.18] IS1009a-T0181 | Project Manager (A): Okay?
+[13:25.44-13:25.78] IS1009a-T0182 | Industrial Designer (C): Yeah.

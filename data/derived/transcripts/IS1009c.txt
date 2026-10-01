@@ -1,0 +1,259 @@
+Meeting: IS1009c
+Split: test
+Meeting date: 2004-12-13
+AMI duration (seconds): 1806
+Transcribed word elements: 5161
+
+[00:37.65-00:43.36] IS1009c-T0001 | Project Manager (A): Okay. Hello everyone.
+[00:42.23-00:43.47] IS1009c-T0002 | Industrial Designer (C): Hi.
+[00:43.35-00:43.95] IS1009c-T0003 | Marketing Expert (D): Hi.
+[00:43.69-00:44.16] IS1009c-T0004 | User Interface Designer (B): Hi.
+[00:44.77-00:47.26] IS1009c-T0005 | Project Manager (A): Um how uh how we doing?
+[00:48.25-00:48.85] IS1009c-T0006 | Industrial Designer (C): Yeah, good.
+[00:49.25-01:08.74] IS1009c-T0007 | Project Manager (A): Uh first we going uh over the minutes of the last meeting, more or less. Um in the last meeting uh the marketing manager had presented uh her method of working, meaning gathering i suggestions
+[00:55.57-00:56.00] IS1009c-T0008 | User Interface Designer (B): Mm-hmm.
+[01:09.95-01:19.07] IS1009c-T0009 | Project Manager (A): from everyone to see how she best could market uh this this product at the within the budget uh that was given.
+[01:21.36-02:23.18] IS1009c-T0010 | Project Manager (A): Uh in general the idea is that it should be something that is not difficult to use. Um it's also an item that people lose a lot. So we should address that. And, of course, it should be something s s that is very simple to use. In addition to that to make it sell, of course, uh the marketing manager w wishes that it be very attractive, or like she says put some sizzle into it in one way or another so that the people are buying it now because, in particular with smaller items, that's a very important fact,'cause um if they say, well, I go home and think about it, that won't work. Um also mentioned was it should be uh it should have a very short learning curve. And maybe it could be sold by using a slogan.
+[02:24.05-02:24.31] IS1009c-T0011 | Industrial Designer (C): Hmm.
+[02:24.86-03:11.47] IS1009c-T0012 | Project Manager (A): Our technical manager has then said that she feels it should have a chip that has infra-red bits and it has an interface controls w interface that controls the chip. Therefore, messages uh will be controlled in the same manner. There should be extra features like lid buttons, maybe a beep. If too many buttons are pressed, mm uh uh child lock um and uh maybe a display clock so that people could um you could see the time, you know, what show they want to watch. Also mentioned was uh maybe different shapes.
+[03:13.36-03:28.58] IS1009c-T0013 | Project Manager (A): So the components of the thing should be button, bulbs, infra infra-red bulbs, battery, chips, wires, and maybe some kind of a holder uh for the for the uh item.
+[03:30.24-03:48.77] IS1009c-T0014 | Project Manager (A): Francino who is our um interface designer um uh has mentioned that the that it, of course, should have an on-off button, and also has mentioned an interesting feature that it should have maybe a channel lock.
+[03:33.66-03:35.06] IS1009c-T0015 | User Interface Designer (B): Interface designer.
+[03:50.02-04:08.00] IS1009c-T0016 | Project Manager (A): Particularly with maybe small children that they couldn't uh watch a channel that is undesirable. It should be compact. Her personal favourite was it should be T-shaped. And maybe have an anar alarm-clock. And the material should possibly be not of non-allergic nature.
+[04:10.19-04:37.71] IS1009c-T0017 | Project Manager (A): Uh the different systems uh that exist are infra-red or radio-waves. Uh maybe it should have uh electri electrici electricity saving feature. And even possibly a timer to so that people can program their favourite uh uh program on th right from the remote.
+[04:37.22-04:37.86] IS1009c-T0018 | User Interface Designer (B): Yes.
+[04:39.06-04:45.21] IS1009c-T0019 | Project Manager (A): Uh are we all in agreement that that's about what we discussed last time? Okay.
+[04:44.06-04:44.32] IS1009c-T0020 | Industrial Designer (C): Yeah.
+[04:44.24-04:44.68] IS1009c-T0021 | User Interface Designer (B): Yes.
+[04:44.66-04:46.81] IS1009c-T0022 | Marketing Expert (D): Yeah, I think that pretty much is it. Yeah. Mm-hmm.
+[04:46.59-04:59.81] IS1009c-T0023 | Project Manager (A): Okay, then we I'm looking for three presentations. And uh I don't know whether the order matters much uh, I don't I don't think so, so whoever w wants Yeah, okay.
+[04:57.30-05:00.54] IS1009c-T0024 | User Interface Designer (B): Okay, I can start first. Okay.
+[05:05.38-05:07.01] IS1009c-T0025 | User Interface Designer (B): Now my slide, please.
+[05:06.08-05:09.39] IS1009c-T0026 | Project Manager (A): Okay, your slides. Okay.
+[05:14.16-05:15.57] IS1009c-T0027 | Project Manager (A): Oh, come on, close already.
+[05:21.09-05:23.71] IS1009c-T0028 | Project Manager (A): And that's number two, right?
+[05:23.81-05:24.18] IS1009c-T0029 | User Interface Designer (B): Three.
+[05:24.46-05:24.86] IS1009c-T0030 | Project Manager (A): Three.
+[05:25.78-05:28.45] IS1009c-T0031 | User Interface Designer (B): Participant three. Yes.
+[05:35.66-05:36.04] IS1009c-T0032 | User Interface Designer (B): Okay.
+[05:36.89-05:37.85] IS1009c-T0033 | Project Manager (A): Okay.
+[05:37.54-06:11.30] IS1009c-T0034 | User Interface Designer (B): Now as an interface designer, I would give more emphasis on the interface, how the remote looks like so that it is sellable, it is attractive to customers. Next, please. Okay. Now the function of a remote is to send messages to the television. This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel, like you can have the numbers one, two, three, four, up to nine.
+[06:13.36-06:16.37] IS1009c-T0035 | Project Manager (A): Nine what? Nine channel uh switches?
+[06:17.31-06:17.73] IS1009c-T0036 | User Interface Designer (B): Pardon me?
+[06:17.94-06:21.41] IS1009c-T0037 | Project Manager (A): Nine channel switches? Is Yeah. Mm-hmm. Mm-hmm.
+[06:19.12-06:21.01] IS1009c-T0038 | User Interface Designer (B): Yes, nine numbers.
+[06:22.88-06:33.17] IS1009c-T0039 | User Interface Designer (B): And then you have swapping of uh button by which using which you can swap the channels if you don't want to see the third channel you can swap it to the fourth channel or vice versa.
+[06:25.92-06:26.79] IS1009c-T0040 | Project Manager (A): Mm-hmm.
+[06:35.78-06:48.22] IS1009c-T0041 | User Interface Designer (B): Then it should have a next button, and next button channel by which you can keep on uh v uh mm eh scrolling the channels one by one. Next slide, please.
+[06:42.83-06:44.11] IS1009c-T0042 | Industrial Designer (C): Going to the nex next.
+[06:42.93-06:43.44] IS1009c-T0043 | Project Manager (A): Mm-hmm.
+[06:45.25-06:45.73] IS1009c-T0044 | Project Manager (A): Mm-hmm.
+[06:48.00-06:48.40] IS1009c-T0045 | Project Manager (A): Mm-hmm.
+[06:50.37-06:55.97] IS1009c-T0046 | User Interface Designer (B): Then you should have a button which should which ca which can be used for increasing or decreasing the volume.
+[06:56.05-06:56.66] IS1009c-T0047 | Project Manager (A): Mm-hmm.
+[06:58.08-07:19.74] IS1009c-T0048 | User Interface Designer (B): Then, there should be a button which can give subtitles for a particular program which is going on a television. For example, if you are watching a French program and you would like to have a subtitles in English, then there should be a channel which can trigger this mechanism in the television so that the user can see uh the the subtitles on the screen.
+[07:10.70-07:11.30] IS1009c-T0049 | Project Manager (A): Mm-hmm.
+[07:21.73-07:33.07] IS1009c-T0050 | User Interface Designer (B): Then there should d uh there should be some buttons which can control features like the colour, colour of the picture, the contrast, sharpness, brightness of the picture.
+[07:36.75-07:38.78] IS1009c-T0051 | User Interface Designer (B): Now there should be a memory switch.
+[07:42.69-08:08.88] IS1009c-T0052 | User Interface Designer (B): There should be a mute button. Suddenly if if if uh uh viewer he gets a telephone call, and if he want he doesn't want to switch off the uh T_V_, but he he can reduce the sound, he can bring the volume down and he can watch he can uh while talking he can watch the T_V_. Now the most important feature I would like to have in my remote would be the speech recognition feature.
+[08:10.43-08:15.86] IS1009c-T0053 | User Interface Designer (B): It's an integrated progra programmable sample sensor speaker unit.
+[08:18.50-08:27.12] IS1009c-T0054 | User Interface Designer (B): So a remote can be th can be uh designed which can have the voice recognisers, you can record your own voice
+[08:29.46-08:29.98] IS1009c-T0055 | Project Manager (A): Mm-hmm.
+[08:30.35-08:59.34] IS1009c-T0056 | User Interface Designer (B): which can be recognised by as voice recogniser in the television, for example, if you want to see we if you want to see the ninth channel if you say just say ninth channel, uh th now the the uh yeah, the remote will automatically it will switch to the ninth channel. So the T_V_ will have some recogniser which will recognise the user's voice and accordingly it will change its functionalities. So this is one of the very important feature a remote control can have.
+[08:44.13-08:44.94] IS1009c-T0057 | Project Manager (A): Mm-hmm.
+[08:47.60-08:48.10] IS1009c-T0058 | Project Manager (A): Mm-hmm.
+[08:54.93-08:56.09] IS1009c-T0059 | Project Manager (A): Mm-hmm. Mm-hmm.
+[09:01.15-09:05.42] IS1009c-T0060 | User Interface Designer (B): So this is one one of the interface which can be created.
+[09:06.80-09:07.37] IS1009c-T0061 | Project Manager (A): Mm-hmm.
+[09:07.15-09:14.46] IS1009c-T0062 | User Interface Designer (B): A very simple interface which has all the t uh uh important features. Then, please, next slide.
+[09:13.81-09:14.87] IS1009c-T0063 | Project Manager (A): Mm-hmm. Mm-hmm.
+[09:15.71-09:38.25] IS1009c-T0064 | User Interface Designer (B): Then, these are some of the remotes which are different in shape and colour, but they have many buttons. So uh sometimes the user finds it very difficult to recognise which button is for what function and all that. So you can you can design an interface which is very simple, and which is user-friendly. Even a kid can use that. So can you go on t t uh to the next slide.
+[09:22.11-09:22.77] IS1009c-T0065 | Project Manager (A): Mm-hmm.
+[09:35.74-09:36.28] IS1009c-T0066 | Project Manager (A): Mm-hmm.
+[09:38.96-09:52.86] IS1009c-T0067 | User Interface Designer (B): Yeah, so this is one of the interface or one of the remote which has this vi voice recogniser. And this has multi-purpose use, it can be used for T_V_, it can be used for cable-satellite, it can be used for V_C_R_, D_V_D_s and audio.
+[09:44.86-09:45.41] IS1009c-T0068 | Project Manager (A): Mm-hmm.
+[09:55.17-09:57.78] IS1009c-T0069 | User Interface Designer (B): And this has in-built voice recogniser.
+[10:01.63-10:20.26] IS1009c-T0070 | User Interface Designer (B): Can you go on to the next slide? Yeah, now this is an interface for a chil uh for a remote uh uh which a child can use. Uh this is user-friendly, it's very attractive and uh children can use it as well as they can play with it. And this comes with different colours, different shapes.
+[10:09.87-10:10.33] IS1009c-T0071 | Project Manager (A): Mm-hmm.
+[10:20.82-10:21.18] IS1009c-T0072 | Industrial Designer (C): Mm.
+[10:26.28-10:27.16] IS1009c-T0073 | Project Manager (A): Mm-hmm.
+[10:26.91-10:40.82] IS1009c-T0074 | User Interface Designer (B): And this this uh child uh interface has minimum buttons and all the important uh buttons are there in this small, compact, attractive child interface.
+[10:46.54-10:58.10] IS1009c-T0075 | User Interface Designer (B): Next slide, please. Now this is a big over-sized remote which cannot be misplaced or it's impossible to misplace. this.
+[10:56.29-11:03.12] IS1009c-T0076 | Marketing Expert (D): You don't know me. I could lose that in a minute.
+[11:01.12-11:12.58] IS1009c-T0077 | User Interface Designer (B): So this is No this is a very big, you cannot misplace it anywhere. So this is a jumbo universal remote control and it's impossible to im misplace or lose.
+[11:12.74-11:13.27] IS1009c-T0078 | Project Manager (A): Mm-hmm.
+[11:13.87-11:16.85] IS1009c-T0079 | User Interface Designer (B): This i this is one such interface which can be created.
+[11:18.35-11:29.90] IS1009c-T0080 | User Interface Designer (B): And the personal preference uh would be a spe uh uh to incorporate speech recognisers uh which will respond to user's voice for a particular uh function.
+[11:28.19-11:28.93] IS1009c-T0081 | Project Manager (A): Mm-hmm.
+[11:30.48-11:30.81] IS1009c-T0082 | Project Manager (A): Right.
+[11:31.95-11:32.95] IS1009c-T0083 | User Interface Designer (B): Thank you, that's
+[11:33.50-11:34.11] IS1009c-T0084 | Project Manager (A): Mm-hmm.
+[11:51.46-11:56.94] IS1009c-T0085 | Project Manager (A): Okay, thank you very much. Uh any comments on uh her presentation?
+[12:00.35-12:30.57] IS1009c-T0086 | Marketing Expert (D): Well, um looks like we still have quite a choice of things out there. Um what uh I'm No suggestion's bad. But uh we're gonna have to narrow it down a little more. I don't think that we can get uh The T-shape is good, the child one is good, the too big to misplace, I think it's just funny. Um I don't think that's gonna be our impulse purchase at the checkout counter. It's it's gonna be a little bit too unwieldy.
+[12:04.35-12:04.75] IS1009c-T0087 | Industrial Designer (C): Mm-hmm.
+[12:08.70-12:09.16] IS1009c-T0088 | User Interface Designer (B): Mm yes.
+[12:20.38-12:22.75] IS1009c-T0089 | User Interface Designer (B): Okay.
+[12:22.26-12:24.12] IS1009c-T0090 | Project Manager (A): Yeah, I I th I think
+[12:27.23-12:28.75] IS1009c-T0091 | User Interface Designer (B): Okay.
+[12:29.33-12:43.36] IS1009c-T0092 | Project Manager (A): No, I think the these are her presentations, but uh as far as the decision making we getting to that after after but if I just wanted to know whether anybody had any any anything to add to her presentation.
+[12:31.57-12:32.50] IS1009c-T0093 | Marketing Expert (D): Yeah mm. Mm-hmm.
+[12:34.74-12:36.66] IS1009c-T0094 | Marketing Expert (D): Have to come back to that later. Okay.
+[12:35.62-12:36.09] IS1009c-T0095 | User Interface Designer (B): We can.
+[12:42.48-12:46.85] IS1009c-T0096 | Marketing Expert (D): No, I think her presentation was good, and she really explored all the options. Yeah.
+[12:44.12-12:44.49] IS1009c-T0097 | Project Manager (A): Mm right.
+[12:46.42-12:49.60] IS1009c-T0098 | Project Manager (A): Mm-hmm. Ho who wants to go next um?
+[12:50.06-12:50.76] IS1009c-T0099 | Industrial Designer (C): Yeah, maybe.
+[12:50.61-12:52.27] IS1009c-T0100 | Project Manager (A): Mm-hmm. Okay, and you
+[12:51.84-12:52.93] IS1009c-T0101 | Industrial Designer (C): Participant two.
+[12:56.96-12:57.95] IS1009c-T0102 | Project Manager (A): Uh okay.
+[12:58.24-13:01.36] IS1009c-T0103 | Industrial Designer (C): Uh the next one, sorry. It's it was the old one.
+[12:59.55-13:00.05] IS1009c-T0104 | Project Manager (A): Oops.
+[13:07.57-13:08.25] IS1009c-T0105 | Industrial Designer (C): Components.
+[13:07.58-13:10.11] IS1009c-T0106 | Project Manager (A): The components design. Mm-hmm. Okay.
+[13:16.96-13:29.48] IS1009c-T0107 | Industrial Designer (C): Um this time I'm I'm going to um concentrate more on the components and the technical side of the remote controller design. Uh, can you go on to the next slide, please.
+[13:23.30-13:24.00] IS1009c-T0108 | Marketing Expert (D): Mm-hmm.
+[13:28.30-13:28.68] IS1009c-T0109 | Project Manager (A): Mm-hmm.
+[13:29.82-14:03.58] IS1009c-T0110 | Industrial Designer (C): I have just brief uh down few uh components which we require for the remote control uh construction. Uh the first one is case to keep all the components like integrated circuit, battery, etcetera, etcetera, it's like Uh it can be a plastic one, hard plastic, so that it can be strong, even if you just uh uh, you know, if you if it falls down, then it doesn't break. So it should be strong. And uh uh there are no harmful materials used in that. And it should be recyclable.
+[13:57.33-13:57.77] IS1009c-T0111 | Project Manager (A): Mm-hmm.
+[14:04.70-14:05.26] IS1009c-T0112 | Project Manager (A): Mm-hmm.
+[14:05.18-14:18.42] IS1009c-T0113 | Industrial Designer (C): Uh and uh, yeah, and also uh using of colouring compon components like uh if we want to have different colours, blue, red, green, so uh uh we have to use uh some colouring compone compone components.
+[14:05.68-14:06.58] IS1009c-T0114 | Marketing Expert (D): Mm-hmm. Good point.
+[14:18.59-15:23.63] IS1009c-T0115 | Industrial Designer (C): And uh the second important thing is uh uh uh integrated circuit. Uh which uh we can use a highly sophisticated one because it's like the it's like the heart of the remote controller. If it is not efficient then everything wi is going to be uh like um the lef ess less efficient so it you should we should have a highly sophisticated one. And it should be resistant to high as well as uh low temperatures. Suppose if it is thirty-eight degrees outside forty degrees outside, it should it should uh be able to re uh resist the uh temperature uh uh highs and uh high temperatures and low temperatures. And uh it should be with uh um equipped with timer and alarm facility. And the uh other component we should uh we have in the remote controller is a resistor uh which is like uh uh i it is very very much important for the electricity uh flow through through through the uh remote controller and uh also a capacitor which is a b which is a m I think it's it's like a battery, capacitor. Can you go on to the next slide, please?
+[15:22.13-15:22.50] IS1009c-T0116 | Marketing Expert (D): Mm-hmm.
+[15:23.62-15:24.15] IS1009c-T0117 | Project Manager (A): Mm-hmm.
+[15:26.03-16:07.52] IS1009c-T0118 | Industrial Designer (C): Uh a diode, a transistor, a resonator, these are all this uh technical uh electri electronic compons uh components which are which we have to use in a remote controller. A battery uh, I would like to suggest one thing uh if we uh if we will be able to make a res rechargeable battery then we sh we need not go for a high performance battery, even if it is a low performance battery it ca it can't l it can't charge much. It it it's not a high voltage battery. Then also we can If it is a rechargeable one, then uh people can use it for a long time, so in that way we can cut cut the cost, but w uh uh that we have to make the battery as rechargeable one.
+[15:50.02-15:50.46] IS1009c-T0119 | Marketing Expert (D): Mm-hmm.
+[16:08.09-16:18.53] IS1009c-T0120 | Industrial Designer (C): And we we have a circuit board uh in a remote controller. Can you go to the next slide, please. And how it works, how the remote controller works. When you press a button
+[16:24.50-16:24.93] IS1009c-T0121 | Project Manager (A): Go away.
+[16:26.37-18:04.28] IS1009c-T0122 | Industrial Designer (C): Thank you. Uh when you press a button, when you do that, you complete a specific connection that means when you when you press a button there will be a s a small circuit underneath the button, and it will send some signals through the wires, and then uh the chip will send start connection and knows that which button is pressed. Suppose you have pressed channel one button, number one you have pressed, then the uh chip will know that the number one button was pressed. It pros produces a mors morse code line signal specific to that button. Every button, every individual button, has its own morse code. Suppose uh the uh user has pressed butto button one, then it will have a spe the circuit will generate a specific morse code to b that that button, and the transistor will amplify the signal and send then to the L_E_D_ which translates the signal into infrared light. Like you have got a signal by pressing a button. That's a d a morse code has been generated by the integrated circuit. Now, that signal, that morse code, has to be amplified by the transistor. That is the use of transist transistor we which we use in the remote controller. It will amplify the signal and it will send it to the L_E_D_ and which translates the signal into an infra infrared bits. The sensor on the T_V_ can see the infrared light, and seeing the signal seeing the signal re it reacts appropriately, that when it sees the amplified mo morse code signal, then it will uh it will uh know which uh what what action it has to uh do. Then it will do the appropriate action. So uh this is how the remote controller works.
+[18:03.76-18:04.27] IS1009c-T0123 | User Interface Designer (B): It works.
+[18:06.00-18:17.78] IS1009c-T0124 | Industrial Designer (C): Can you go to the next slide, please. Yeah, I have few pictures. When you look at the uh um remote controller uh it's it's it this is a normal remote controller. And to the next slide, please.
+[18:15.54-18:15.92] IS1009c-T0125 | Marketing Expert (D): Mm-hmm.
+[18:19.14-18:42.56] IS1009c-T0126 | Industrial Designer (C): And where we had a a few buttons and all. And uh if you open the remote controller you have this circui circuit board and few electronic components, like you can see a chip there which is having eighteen pins, and also a capac uh a capacitor, three resistors and also a resonator uh um mm yeah, and di and a diode transistor.
+[18:26.13-18:26.50] IS1009c-T0127 | Marketing Expert (D): Mm-hmm.
+[18:29.73-18:30.14] IS1009c-T0128 | Marketing Expert (D): Mm-hmm.
+[18:30.11-18:30.52] IS1009c-T0129 | Project Manager (A): Mm-hmm.
+[18:43.58-18:43.87] IS1009c-T0130 | Project Manager (A): Mm-hmm.
+[18:44.08-18:51.68] IS1009c-T0131 | Industrial Designer (C): The electronic components uh all of the electronic components have all those uh things like a chip and d diode transistors an
+[18:54.10-19:01.62] IS1009c-T0132 | Industrial Designer (C): Yeah, di um can y uh you can see the T_A_ double one eight three five labelled uh chip um.
+[18:58.88-19:00.50] IS1009c-T0133 | Project Manager (A): Mm-hmm. Mm-hmm.
+[18:59.54-19:00.11] IS1009c-T0134 | User Interface Designer (B): Mm yes.
+[19:00.78-19:01.12] IS1009c-T0135 | Marketing Expert (D): Yes.
+[19:02.72-19:24.13] IS1009c-T0136 | Industrial Designer (C): Uh you can also see the uh uh the green two green things are uh these are they are they are resistors, and uh just beside that you can see a transistor, and a uh uh cylinder shape, uh that one is a capacitor. Uh and also there are uh um resistors uh sorry, ther there is a diode. Can you go go on to the next slide.
+[19:09.25-19:09.79] IS1009c-T0137 | User Interface Designer (B): Mm-hmm.
+[19:21.95-19:23.46] IS1009c-T0138 | Project Manager (A): Mm-hmm. Mm-hmm.
+[19:24.96-20:05.34] IS1009c-T0139 | Industrial Designer (C): So uh this is the circuit board. The green one is a circuit board. Actually, uh building a circuit bo board is pretty pretty uh easy and also it's a it's a l l inexpensive. Uh it's it costs less than what you print on a paper, because uh uh when you when you are building uh some circuits some um uh circuits and also wires, it's it's better to go for printing, because uh you can build these kind of k circuit boards on a on a bulk and it's just printing, nothing like uh, you know, you don't need to use wires and all. It's not exactly wires we are using. It's just printing something on a board. Tha tho those prints will acti act as wires and ci uh circuits.
+[19:53.36-19:53.90] IS1009c-T0140 | User Interface Designer (B): Mm-hmm.
+[20:06.69-20:30.73] IS1009c-T0141 | Industrial Designer (C): So th that green uh thing is a circuit board, and also you can see uh there are b s like uh um access for buttons, like when you press a button, the circuit under the button will be activated uh th it will it will he get some signals from it and it will uh it will ch its ch se send a signal signals to the, yeah, um integrated circuit. Can you go to the next slide, please.
+[20:24.49-20:25.19] IS1009c-T0142 | User Interface Designer (B): Transmit.
+[20:31.22-20:39.08] IS1009c-T0143 | Industrial Designer (C): Uh so this is these are the circuits un underneath the buttons. Uh can you see the black uh, round marks? They they are the circuits.
+[20:37.49-20:37.96] IS1009c-T0144 | Project Manager (A): Mm-hmm.
+[20:37.81-20:38.20] IS1009c-T0145 | Marketing Expert (D): Yes.
+[20:39.96-21:25.89] IS1009c-T0146 | Industrial Designer (C): Next, please. And um like uh we have uh designed uh before we have seen some uh few things like instead off buttons we have some scrolls. Uh b but a b a push-button requires a simple chip underneath it, but whereas a scroll wheel requires normally a regular chip which is a higher price range. Like for s scrolls we have to go for a sophisticated and and k uh uh uh full a complete chip. Uh and a as energy source we offer a basic battery, a more ingenious uh hard dynamo, um a kinetic provision of energy, more than what is that you shake casually to provide energy. So that also we can have in a battery, uh or we can use solar sells. Uh.
+[20:59.94-21:00.30] IS1009c-T0147 | Marketing Expert (D): Okay.
+[21:03.55-21:04.03] IS1009c-T0148 | User Interface Designer (B): Okay.
+[21:25.28-21:26.58] IS1009c-T0149 | Marketing Expert (D): Hmm, that's interesting.
+[21:27.30-21:27.65] IS1009c-T0150 | Industrial Designer (C): Yeah.
+[21:29.84-21:41.79] IS1009c-T0151 | Industrial Designer (C): Uh yeah uh the product can be de delivered into different cases. Uh usually, the cases and card flat that w we see usually uh d uh a normal remote controller. Um.
+[21:37.13-21:37.65] IS1009c-T0152 | User Interface Designer (B): Okay.
+[21:42.82-21:47.61] IS1009c-T0153 | Project Manager (A): Okay. And you have more pictures. Uh we have five minutes to the end of the meeting.
+[21:43.55-21:43.97] IS1009c-T0154 | Industrial Designer (C): Yeah.
+[21:46.70-22:20.46] IS1009c-T0155 | Industrial Designer (C): Yeah, maybe d uh I have just one more slide, I think. Um. Like we can have a ma material such as plastic, rubber, wood, titanium, but titanium we can't use. Um and also for electronics we can use a simple and regular um re or an advanced chip on the print, um also infra it includes the infrared se sender. Um yeah the uh for the movie just to j develop uh samples and so spe sample speaker. An Yeah, that's it. It's all for me now, thank you.
+[22:20.26-22:25.85] IS1009c-T0156 | Project Manager (A): Okay, well thank you. Any particular comments by anybody?
+[22:26.46-22:32.86] IS1009c-T0157 | Marketing Expert (D): Uh yeah, on the scroll and the push-button, um ca you can achieve scrolling by repeatedly pushing a button?
+[22:33.50-22:54.46] IS1009c-T0158 | Industrial Designer (C): No, no, no, th the the the scrolling wheels are different, like you can go for a sw switches like buttons or scrolls, uh which which we used to do before ten ten years before, I think. Now, nobody uses that because you need you need a a k sophisticated chip and all. So I think it's better we go for uh um ordinary buttons. Yeah uh yeah, push-buttons. Yeah. Yeah.
+[22:39.25-22:39.66] IS1009c-T0159 | Marketing Expert (D): Mm-hmm.
+[22:48.32-22:48.65] IS1009c-T0160 | Marketing Expert (D): Um.
+[22:51.07-22:54.75] IS1009c-T0161 | Marketing Expert (D): We'll just go for push buttons for in the interest of cost. Okay.
+[22:52.37-22:53.14] IS1009c-T0162 | User Interface Designer (B): Push-buttons.
+[22:54.93-23:02.78] IS1009c-T0163 | Project Manager (A): We don't have a lot of time left and we will still have to make a decision, and the marketing expert has to present her her thing.
+[23:01.14-23:03.54] IS1009c-T0164 | Marketing Expert (D): Okay. Go right to my first my next slide.
+[23:03.66-23:04.91] IS1009c-T0165 | Project Manager (A): Uh okay.
+[23:06.34-25:14.74] IS1009c-T0166 | Marketing Expert (D): Um alright, my method is uh I'm interested in what the competition is doing, and wanna see how we can make ourselves different from the competition, so I've really been looking at the press and the ads that are out there for other remote controllers. I s I spend a lot of time on the internet um surfing around doing the same thing. And then when I'm out um in people's houses or at meetings or anything like that, I try to notice what kind of remote controls people have, and if it's convenient in the conversation I ask about it. And I would encourage you all to do the same. Um and my findings from this is that, you know, small is beautiful. Um people like something that really fits in their hand. Simple is beautiful. They don't want to have to squint at small print um, they want buttons whose functions are obvious, and they want um as few buttons as possible, and they don't care for the mode thing. They want each button to do something. And eye-catching is important. It's gotta look cute, it's gotta look appealing. Go ahead, I'm trying to finish fast for you. Um and our preference is, as far as I'm concerned, are we got to get to the market before the competition. Ours has to be look really great and it has to come out before the others, so that we have a leg up on time to sell it and push it before other people get out their Christmas item. And we should develop one or two features we can really dwell on in our ad campaign. If we try to tell people it has too many great features, um the consumer just gets confused and we don't get anywhere. So we've gotta narrow our selection down to li two things, I think, that we gonna say are really great about our our our new product. And I've been looking around um at what designs every year different things are popular. And in my research this year I found out that fruit and vegetable shapes are really popular. And people are tired of hard plastic and hard metal. They are more back into soft feel, spongy feeling things, things with maybe a little cloth on them. So those are things maybe we wanna look at as far as saleability of the item.
+[23:49.58-23:50.13] IS1009c-T0167 | User Interface Designer (B): 'Kay.
+[25:14.90-25:15.31] IS1009c-T0168 | User Interface Designer (B): Mm-hmm.
+[25:17.15-25:32.14] IS1009c-T0169 | Project Manager (A): Okay. Uh that concludes the presentation of everyone. And what we really have to decide in this meeting is um the concept of the remote.
+[25:32.42-25:32.90] IS1009c-T0170 | Marketing Expert (D): Mm-hmm.
+[25:33.60-25:42.05] IS1009c-T0171 | Project Manager (A): And uh so what do we think on the concept of the remote?
+[25:45.17-25:49.05] IS1009c-T0172 | Marketing Expert (D): You wanna try to come back to yours, and limit yours a bit?
+[25:47.57-25:51.89] IS1009c-T0173 | User Interface Designer (B): Uh yes, I would like to include this feature which is called as voice recogniser.
+[25:47.83-25:48.79] IS1009c-T0174 | Project Manager (A): Y
+[25:52.11-25:52.67] IS1009c-T0175 | Marketing Expert (D): Okay.
+[25:52.19-25:54.92] IS1009c-T0176 | Project Manager (A): Okay. Mm-hmm.
+[25:54.46-25:54.88] IS1009c-T0177 | Industrial Designer (C): Mm-hmm.
+[25:56.29-25:59.49] IS1009c-T0178 | Marketing Expert (D): So speech recognition is most important as far as you're concerned?
+[25:59.41-25:59.86] IS1009c-T0179 | Industrial Designer (C): Yeah, but w
+[25:59.92-26:02.69] IS1009c-T0180 | User Interface Designer (B): This could be uh one feature which could be sellable.
+[26:02.74-26:07.97] IS1009c-T0181 | Marketing Expert (D): Yeah h that could that could that could be our star feature. That that be really good, yeah, I agree with that.
+[26:03.45-26:03.82] IS1009c-T0182 | Industrial Designer (C): Yeah.
+[26:03.68-26:04.56] IS1009c-T0183 | Project Manager (A): I think that's
+[26:06.63-26:18.21] IS1009c-T0184 | Industrial Designer (C): Yeah, but but I what I'm uh very very much doubtful how how uh far it will work, because a speech recogniser like i it it has its own uh uh problems, issues.
+[26:06.96-26:07.47] IS1009c-T0185 | Project Manager (A): Mm-hmm.
+[26:17.07-26:18.21] IS1009c-T0186 | Marketing Expert (D): Distance problem?
+[26:18.54-26:27.63] IS1009c-T0187 | Industrial Designer (C): Yeah, it's not distance problem it it's recognising a person's voice, like maybe different people will be having different voices, so it like it's uh everything so i
+[26:20.03-26:20.40] IS1009c-T0188 | User Interface Designer (B): Mm-hmm.
+[26:24.80-26:25.33] IS1009c-T0189 | Marketing Expert (D): Uh.
+[26:26.16-26:29.30] IS1009c-T0190 | Project Manager (A): Well, you you teach You have to teach uh
+[26:28.73-26:33.44] IS1009c-T0191 | Industrial Designer (C): So to get a good recogni recognising system, it's a costly thing, I think.
+[26:31.17-27:00.33] IS1009c-T0192 | User Interface Designer (B): No, it's it's, uh yeah, it it's like your recording of uh all uh um a question already, and then you're expecting an answer from th For example, you have a T_V_ system, I'm the user and my family members are the user, I will already record uh a question like, uh good morning, like around eight o'clock I want to see the news in the television. So I'll say just good morning and the T_V_ will switch on. It will recognise my voice and will switch on.
+[26:43.34-26:43.76] IS1009c-T0193 | Industrial Designer (C): Mm-hmm.
+[26:47.25-26:49.33] IS1009c-T0194 | Industrial Designer (C): Yeah, but Yeah. Mm-hmm.
+[26:52.93-26:53.44] IS1009c-T0195 | Industrial Designer (C): Mm-hmm.
+[26:57.20-26:57.80] IS1009c-T0196 | Industrial Designer (C): Mm-hmm.
+[26:59.39-26:59.72] IS1009c-T0197 | Industrial Designer (C): Yeah.
+[26:59.92-27:09.01] IS1009c-T0198 | Project Manager (A): Okay, before we get too far off here um, the components of the concept is the energy. What kind of energy do we foresee?
+[27:10.34-27:16.62] IS1009c-T0199 | Marketing Expert (D): I think I think battery, and I think we all agreed on that. That that's that's gonna be most cost-effective and the best thing.
+[27:10.45-27:12.22] IS1009c-T0200 | Project Manager (A): Battery. Battery.
+[27:11.82-27:14.13] IS1009c-T0201 | User Interface Designer (B): Battery. Yes.
+[27:13.93-27:15.60] IS1009c-T0202 | Industrial Designer (C): Yeah. Yeah.
+[27:16.65-27:19.41] IS1009c-T0203 | Project Manager (A): Okay then chip on print.
+[27:19.34-27:19.81] IS1009c-T0204 | Industrial Designer (C): Yeah.
+[27:19.76-27:20.05] IS1009c-T0205 | Marketing Expert (D): Yep.
+[27:19.83-27:20.37] IS1009c-T0206 | User Interface Designer (B): Yes.
+[27:20.46-27:27.60] IS1009c-T0207 | Project Manager (A): Okay. And the case. And I think we all agree on the case, we wanna have something uh maybe bright, colourful.
+[27:27.63-27:28.14] IS1009c-T0208 | Industrial Designer (C): Yeah.
+[27:28.14-27:32.34] IS1009c-T0209 | Marketing Expert (D): Bright, colourful, trendy trendy design, and strong.
+[27:28.77-27:29.76] IS1009c-T0210 | User Interface Designer (B): And compact.
+[27:29.08-27:32.29] IS1009c-T0211 | Industrial Designer (C): And also strong. Trendy, yeah.
+[27:31.17-27:32.94] IS1009c-T0212 | User Interface Designer (B): Trendy design and compact.
+[27:32.91-27:37.58] IS1009c-T0213 | Project Manager (A): Mm-hmm. Trendy design, compact and strong.
+[27:37.26-27:37.82] IS1009c-T0214 | Marketing Expert (D): Mm-hmm.
+[27:37.44-27:37.97] IS1009c-T0215 | User Interface Designer (B): Yes.
+[27:40.26-27:46.48] IS1009c-T0216 | Project Manager (A): User interface concept, uh interface type, supplements.
+[27:49.55-27:52.70] IS1009c-T0217 | Project Manager (A): That will be your area I think, right, Jana.
+[27:50.08-27:50.53] IS1009c-T0218 | Industrial Designer (C): Uh.
+[27:54.26-27:58.88] IS1009c-T0219 | Industrial Designer (C): Um like the switches, like we use buttons for user interface.
+[27:58.83-27:59.58] IS1009c-T0220 | User Interface Designer (B): Push-buttons.
+[27:59.42-28:02.30] IS1009c-T0221 | Project Manager (A): Put uh k I guess uh for yeah.
+[27:59.90-28:00.54] IS1009c-T0222 | Industrial Designer (C): Push-buttons.
+[28:05.17-28:09.25] IS1009c-T0223 | Project Manager (A): And Not sure what they mean by supplements.
+[28:07.89-28:08.10] IS1009c-T0224 | User Interface Designer (B): And
+[28:09.17-28:09.58] IS1009c-T0225 | Industrial Designer (C): Yeah.
+[28:09.46-28:10.70] IS1009c-T0226 | Marketing Expert (D): Well, I think that
+[28:09.76-28:16.61] IS1009c-T0227 | User Interface Designer (B): Supplements like different types of features buttons, like can have a f mute button or a swapping button.
+[28:12.62-28:19.33] IS1009c-T0228 | Marketing Expert (D): Yeah, or or like her speech recognition would also be a supplement. Her speech recognition feature would be a supplement.
+[28:13.15-28:15.44] IS1009c-T0229 | Project Manager (A): Oh, like Oh.
+[28:16.99-28:19.28] IS1009c-T0230 | Project Manager (A): A what? Right, right, right, mm-hmm.
+[28:18.34-28:19.99] IS1009c-T0231 | User Interface Designer (B): Recogniser. Yes.
+[28:18.92-28:19.42] IS1009c-T0232 | Industrial Designer (C): Mm yeah.
+[28:20.10-28:27.30] IS1009c-T0233 | Marketing Expert (D): Okay, so why don't we put down speech recognition if possible pending some more research from our industrial engineer on how expensive that is.
+[28:23.00-28:23.35] IS1009c-T0234 | Industrial Designer (C): Hmm.
+[28:26.21-28:27.47] IS1009c-T0235 | Industrial Designer (C): Mm-hmm. Yeah.
+[28:27.39-28:27.96] IS1009c-T0236 | Project Manager (A): Right.
+[28:27.55-28:28.02] IS1009c-T0237 | User Interface Designer (B): Yes.
+[28:31.58-28:47.01] IS1009c-T0238 | Project Manager (A): Okay. Uh our next meeting will be in thirty minutes, and the uh I_D_ is to this is the individual actions to be taken until then, to have the look and feel design,
+[28:48.69-28:57.34] IS1009c-T0239 | Project Manager (A): and uh the U_I_D_ is supposed to uh come up with the user interface design,
+[28:57.73-28:58.18] IS1009c-T0240 | Industrial Designer (C): Mm-hmm.
+[28:58.45-29:18.13] IS1009c-T0241 | Project Manager (A): and the marketing expert with the product evaluation. In this phase, the two of you, Jana and Francine, have to work together on a prototype using modelling clay, it says here. You will receive specific instructions will be sent to you by your coaches.
+[29:02.32-29:02.83] IS1009c-T0242 | Marketing Expert (D): Okay.
+[29:08.72-29:09.42] IS1009c-T0243 | User Interface Designer (B): Okay.
+[29:13.47-29:13.82] IS1009c-T0244 | Industrial Designer (C): Mm-hmm.
+[29:18.30-29:18.93] IS1009c-T0245 | User Interface Designer (B): Okay.
+[29:19.43-29:31.42] IS1009c-T0246 | Project Manager (A): Um if you have any questions, you know, you you can always uh contact me um or uh or your coach, I suppose.
+[29:29.12-29:34.24] IS1009c-T0247 | Marketing Expert (D): Wherever they're hiding?
+[29:33.25-29:44.02] IS1009c-T0248 | Project Manager (A): Um so um I think we conclude the meeting here and we come back in uh uh thirty minutes, according to our timetable here.
+[29:41.30-29:41.62] IS1009c-T0249 | Industrial Designer (C): Yeah.
+[29:41.39-29:41.81] IS1009c-T0250 | User Interface Designer (B): Okay.
+[29:47.50-29:48.42] IS1009c-T0251 | Project Manager (A): Thank you very much.
+[29:48.29-29:49.33] IS1009c-T0252 | Industrial Designer (C): Thank you.
+[29:48.35-29:48.90] IS1009c-T0253 | User Interface Designer (B): Thank you.

@@ -1,0 +1,411 @@
+Meeting: ES2014b
+Split: test
+Meeting date: 2005-03-02
+AMI duration (seconds): 2319
+Transcribed word elements: 6935
+
+[00:57.10-00:59.20] ES2014b-T0001 | Project Manager (A): Right uh.
+[01:02.38-01:04.42] ES2014b-T0002 | Project Manager (A): So um.
+[01:09.86-01:13.76] ES2014b-T0003 | Project Manager (A): So where's the PowerPoint presentation?
+[01:16.22-01:18.45] ES2014b-T0004 | Project Manager (A): Sorry?
+[01:21.22-01:23.47] ES2014b-T0005 | Project Manager (A): Microsoft PowerPoint, right.
+[01:28.51-01:32.32] ES2014b-T0006 | Project Manager (A): Right, okay. So.
+[01:37.54-01:38.21] ES2014b-T0007 | Project Manager (A): Right.
+[01:40.27-01:43.55] ES2014b-T0008 | Project Manager (A): Okay, so we've got uh
+[01:47.57-01:52.30] ES2014b-T0009 | Project Manager (A): so we've got new project requirements. Um.
+[01:56.18-02:08.90] ES2014b-T0010 | Project Manager (A): So basically we've got three things, and we've got forty minutes in which to uh for this meeting to uh to discuss the various options. Um. Three presentations.
+[02:10.31-02:14.79] ES2014b-T0011 | Industrial Designer (B): We have a I guess we have a presentation each,'cause I've got one. Um.
+[02:13.68-02:25.87] ES2014b-T0012 | Project Manager (A): I see, right. That's nice to know, one from each of you. Um new project requirements. Um so do we want to do the presentation first, or do we want to um
+[02:14.06-02:14.26] ES2014b-T0013 | User Interface Designer (C): Yeah.
+[02:14.18-02:16.00] ES2014b-T0014 | Marketing Expert (D): Yeah, I've got one too.
+[02:27.38-03:11.02] ES2014b-T0015 | Project Manager (A): W I I got um or or three things basically, um relating to the remote being only for T_V_. We discussed that last time and in actual fact that was pr pretty well what we came up with anyway. So in fact it actually f we won't be forestalled in a sense. Um we've got uh teletext outdated. Um did you get any information on that? Right and the corporate image was the uh final thing. So I I got that in email form. Um. Right okay. So
+[02:38.56-02:39.20] ES2014b-T0016 | Industrial Designer (B): Mm-hmm.
+[02:39.14-02:40.03] ES2014b-T0017 | Marketing Expert (D): Mm-hmm.
+[02:43.65-02:44.67] ES2014b-T0018 | Marketing Expert (D): Mm-hmm.
+[02:55.47-02:56.70] ES2014b-T0019 | Industrial Designer (B): Uh we didn't, no.
+[02:56.62-02:56.99] ES2014b-T0020 | User Interface Designer (C): No.
+[02:57.81-02:59.18] ES2014b-T0021 | Industrial Designer (B): I d I didn't personally.
+[02:58.72-02:59.63] ES2014b-T0022 | Marketing Expert (D): Hmm.
+[03:12.30-03:24.38] ES2014b-T0023 | Project Manager (A): I guess if we go ahead with the uh with the three presentations. So we'll start with yourself on the basis that uh
+[03:20.73-03:21.95] ES2014b-T0024 | Industrial Designer (B): Okay that's fine.
+[03:24.30-03:28.46] ES2014b-T0025 | Industrial Designer (B): I'll just um I'll grab the wire out the back of this one.
+[03:28.38-03:29.84] ES2014b-T0026 | Project Manager (A): Sorry, yep.
+[03:49.50-03:58.56] ES2014b-T0027 | Project Manager (A): Oh.
+[03:57.31-03:58.45] ES2014b-T0028 | User Interface Designer (C): What is it?
+[04:00.78-04:02.39] ES2014b-T0029 | Industrial Designer (B): I'm not quite sure how it
+[04:01.26-04:03.42] ES2014b-T0030 | User Interface Designer (C): I think you've got to do um control F_ eight.
+[04:03.84-04:05.95] ES2014b-T0031 | Industrial Designer (B): Control
+[04:11.01-04:12.86] ES2014b-T0032 | Industrial Designer (B): Doesn't seem to be quite working at the moment.
+[04:12.53-04:15.14] ES2014b-T0033 | User Interface Designer (C): Shift F_ eight.
+[04:16.02-04:17.58] ES2014b-T0034 | Industrial Designer (B): Alt function F_ eight.
+[04:20.51-04:22.64] ES2014b-T0035 | Industrial Designer (B): Again not doing anything.
+[04:22.94-04:27.17] ES2014b-T0036 | Marketing Expert (D): There's usually a little thing in the top right for the Oh hang on, it's just coming on.
+[04:25.62-04:27.73] ES2014b-T0037 | User Interface Designer (C): Ah there, it's doing something.
+[04:25.66-04:30.37] ES2014b-T0038 | Industrial Designer (B): Oh. pressed about five times now.
+[04:37.97-04:39.81] ES2014b-T0039 | Industrial Designer (B): Okay, that's me.
+[05:05.73-05:08.00] ES2014b-T0040 | Industrial Designer (B): Okay, um I have to go again.
+[05:15.29-05:16.76] ES2014b-T0041 | Project Manager (A): it going?
+[05:19.49-05:20.74] ES2014b-T0042 | Industrial Designer (B): Hopefully that should be it this time.
+[05:28.64-05:33.46] ES2014b-T0043 | Industrial Designer (B): Okay, I think we're there. That's good. Okay, um
+[05:37.97-06:56.83] ES2014b-T0044 | Industrial Designer (B): Okay I'm gonna be looking at the working design. Um of the of the remote control. Um I've just got three sections, first is the research I made on the on the remote control itself um. And then that involves the components required in it and the systems uh design of the actual the actual remote. Um so having researched the existing models within the market, um I found my research off the internet. Um I've established what the components required for the remote control to function, actually are. And then also the methods in which these components interact together for the remote to actually do what you want it to do and how it connects with the television. Um the basic components are an energy source which I guess um in most existing models would be a battery supply. Whether that'll be sort of two batteries, four batteries, um it may vary. We then have the user interface, which is basically the like the the buttons on the actual remote. Um the various functions used for changing channel, uh channel up and down, volume, things like that. Um there's also a chip inside the remote which does all the computer type things. And then the sender, which um
+[06:36.03-06:37.38] ES2014b-T0045 | Project Manager (A): Okay.
+[06:58.03-07:29.72] ES2014b-T0046 | Industrial Designer (B): is usually, I've found, an infra-red device which sends a signal to the actual television. Um and the last part is receiver which is important in the system but is not actually part of the remote itself, because that's obviously found in the television.. Um I'm gonna have to actually draw on the board because uh it was a little tricky on PowerPoint to get this working, so. I'll just go through there. S um um do we have a cloth to wipe this down with, or? Oh I'll j
+[07:28.70-07:38.32] ES2014b-T0047 | Project Manager (A): Uh there's the rubber on the right, I think. it's magic.
+[07:28.88-07:30.37] ES2014b-T0048 | User Interface Designer (C): I think it's that little
+[07:31.60-07:36.61] ES2014b-T0049 | Industrial Designer (B): Oh I see. Oh okay. I'll get rid of the bear
+[07:42.49-07:43.46] ES2014b-T0050 | Industrial Designer (B): Okay that's great.
+[07:45.22-07:54.70] ES2014b-T0051 | Industrial Designer (B): Okay, so we start off with a um battery suppl Uh no, a power supply which we'd probably get it's probably gonna be the battery. Um
+[07:56.42-08:23.25] ES2014b-T0052 | Industrial Designer (B): we then have a particular button, which may be that's obviously there's lots and lots of different buttons. Um but this is how the basic system works. Um that sends after you press that that sends the message to the chip, which um then sends It sort of interprets which button you've pressed and then sends the appropriate message to the sender.
+[08:34.02-08:45.17] ES2014b-T0053 | Industrial Designer (B): Um. So that's. That's the remote in itself, that's the components of the remote and how they work together. So this is the uh user interface.
+[08:48.18-08:54.84] ES2014b-T0054 | Industrial Designer (B): Um this is the chip itself, which then, and that's the that's the infra-red
+[08:56.43-09:02.22] ES2014b-T0055 | Industrial Designer (B): sender. And then on the separate thing we have on the on the television
+[09:04.53-09:07.60] ES2014b-T0056 | Industrial Designer (B): we have a a receiver.
+[09:09.31-09:13.34] ES2014b-T0057 | Industrial Designer (B): And the sender sends a message to the receiver.'Kay.
+[09:17.98-09:25.70] ES2014b-T0058 | Project Manager (A): So the the top bit's the power source, yes?.
+[09:20.06-09:48.11] ES2014b-T0059 | Industrial Designer (B): Ah yes, that's the power source. Um. going on to personal preferences, I've said that battery seems the best option for the actual remote, just because of the size. You don't want a a cable attached to the remote otherwise it's not it's not really a remote. Um and then the sender, and infra-red um has been used quite successfully. If the battery's on reasonable power, they always seem to work fairly well. You don't have to be point directly at the television itself. Um
+[09:47.31-09:50.29] ES2014b-T0060 | Project Manager (A): So the battery is the in the sender.
+[09:49.76-09:53.84] ES2014b-T0061 | Industrial Designer (B): Yes. 'Kay and that's it for the moment.
+[09:53.79-09:54.26] ES2014b-T0062 | Marketing Expert (D): Okay.
+[09:56.56-10:03.12] ES2014b-T0063 | Project Manager (A): Okay. So, now more design.
+[10:01.17-10:01.86] ES2014b-T0064 | User Interface Designer (C): Right.
+[10:04.35-10:04.83] ES2014b-T0065 | User Interface Designer (C): Thank you.
+[10:08.29-10:12.66] ES2014b-T0066 | User Interface Designer (C): Mine's not quite as complicated as all that.
+[10:11.79-10:17.39] ES2014b-T0067 | Project Manager (A): That's what we like to hear.
+[10:20.06-10:23.14] ES2014b-T0068 | User Interface Designer (C): Did I press function? Yeah.
+[10:29.81-10:34.69] ES2014b-T0069 | Project Manager (A): Is it control function ei Oh, th there you go.
+[10:31.04-12:07.55] ES2014b-T0070 | User Interface Designer (C): Oh. Um. Okay so I'm gonna talk a bit about the technical functions design. I'm Louisa, the User Interface Designer, as you know. Um so the m basic method of this is to send a signal from the remote to the television set, so that a desired function is performed. Um an example of the function could be to change the volume up or down, uh so obviously you need two different buttons for that. Um to change the channel, either by pressing the number that you want or by channel up or down. Um to switch the television on or off, maybe a standby button. Um here are two example remotes. Um by the look of it they both have um kind of play and fast forward, rewind functions, so I think they incorporate a kind of video function which we won't have to worry about. Uh but as you can see, the left remote is quite um quite busy looking, quite complicated. Um whereas the right remote is much simpler, it looks much more user friendly. Um so my personal preference would be the right remote. So, it's got nice big buttons, it's got a very limited number of buttons. Um they're nice, kinda clearly labelled. Um I like the use of the kind of um symbols like the triangles and the squares and the arrows as well as the words on the um kind of play functions and all that. So it's very very user friendly, and it's got a little splash of colour. Could maybe do with some more colour. Um.
+[12:07.82-12:27.89] ES2014b-T0071 | Project Manager (A): Well there's a couple of things there. Um we have to remember that we have our own um logo and colour scheme. So basically we'd have to uh we'd have to be putting that on um the the product.
+[12:27.81-12:33.84] ES2014b-T0072 | User Interface Designer (C): Hmm. Do we get to see that? Will you be presenting that in a bit?
+[12:29.68-13:10.42] ES2014b-T0073 | Project Manager (A): I haven't as yet, no. But uh I got uh I got an email that basically said to uh make sure that uh whatever device we come up with at the end of the day had to incorporate um the corporate colour and slogan. So uh I'm guessing that uh uh I notice on the bottom there it's got uh what's that? A_P_O_G_E_E_ that might be the corporate colour scheme, although the only the only colour I can see in that is the red.
+[13:09.23-13:09.71] ES2014b-T0074 | User Interface Designer (C): Hmm.
+[13:10.34-13:22.54] ES2014b-T0075 | Industrial Designer (B): Would you be able to get rid of the the extra buttons here, the the sort of circular section, because that seems to be for a video as well. So we could dispense with that little bit as well and just get it down to just the numbers and the volume. Possibly?
+[13:21.81-13:24.34] ES2014b-T0076 | User Interface Designer (C): What do you mean by the circular section? Like all of that bottom bit?
+[13:23.18-13:29.49] ES2014b-T0077 | Industrial Designer (B): J yeah yeah yeah j yeah just this little bit is that I think that's still um a video remote part, so maybe we could get rid of that as well.
+[13:27.28-13:27.60] ES2014b-T0078 | User Interface Designer (C): Yeah.
+[13:29.65-13:38.94] ES2014b-T0079 | User Interface Designer (C): Yeah. And I don't really think that you need nine numbers. I mean how often do you use seven, eight and nine? I think just one to six and then channel up and down should be enough.
+[13:30.64-13:32.43] ES2014b-T0080 | Project Manager (A): Well b uh w
+[13:39.49-13:55.45] ES2014b-T0081 | Project Manager (A): Well th the on the Well uh for for general television purposes obviously you have channels one to five at this point in time, and we'd have to have some room for uh future such channels. But but
+[13:39.53-13:41.12] ES2014b-T0082 | User Interface Designer (C): Like how often do you hit nine?
+[13:41.26-13:41.66] ES2014b-T0083 | Marketing Expert (D): Mm-hmm.
+[13:53.81-13:58.37] ES2014b-T0084 | Industrial Designer (B): It's just people are used to seeing that, so if we didn't have them then they might think it's
+[13:56.29-15:01.65] ES2014b-T0085 | Project Manager (A): But, well possibly but the the other thing is that with um the current expansion of uh channels uh in the process of taking place, certainly the button up and down, but uh I mean how many channels do we have to um actual television channels do we have to uh prepare for? I would have thought that uh it's forever expanding and at the moment we've got although you've onl you've got the five standard, you've got the B_B_C_ have come up with a further six and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others. So I would've thought that we wouldn't, you know, rather Okay, if the time of flicking from one to other, but presumably it'll take a second'cause you have to be able to stop it. Maybe you could have a fast forward on the on the channels that w and then you could dispense with more otherwise. Y you'd want you'd want to get fairly quickly to the channel that you wanted.
+[14:30.51-14:31.10] ES2014b-T0086 | Marketing Expert (D): Mm-hmm.
+[14:37.52-14:38.39] ES2014b-T0087 | Industrial Designer (B): Hmm.
+[14:41.25-14:42.05] ES2014b-T0088 | User Interface Designer (C): Hmm.
+[15:02.78-15:13.17] ES2014b-T0089 | User Interface Designer (C): Um some remotes have kind of favourite options where if you always flick from channel one to channel six, um if that's a favourite you just like by-pass two to five.
+[15:11.60-15:36.08] ES2014b-T0090 | Project Manager (A): Mm-hmm. Yeah, I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting rather than having to go one to a hundred, you could go one to one to ten, ten to twenty and then have a second button to get you to the actual channel you want and that would cut down your time. Anyway.
+[15:25.01-15:25.90] ES2014b-T0091 | User Interface Designer (C): Hmm.
+[15:28.90-15:29.71] ES2014b-T0092 | Marketing Expert (D): Mm-hmm.
+[15:33.23-15:45.36] ES2014b-T0093 | User Interface Designer (C): Mm. Um. But I think a lot of um like Cable and Sky and stuff, that would be tuned to one channel, and then you'd have another remote for all of those channels. Like to get to fifty five and the higher numbers
+[15:42.94-15:43.65] ES2014b-T0094 | Industrial Designer (B): Okay, yeah.
+[15:44.54-15:52.11] ES2014b-T0095 | Project Manager (A): Whatever. Okay. Okay. Limit the number of buttons, user friendly.
+[15:46.10-15:47.44] ES2014b-T0096 | User Interface Designer (C): Yeah.
+[15:52.40-15:56.94] ES2014b-T0097 | User Interface Designer (C): But I suppose nine's not really excessive. I suppose it does make a good pattern.
+[15:54.50-16:03.49] ES2014b-T0098 | Industrial Designer (B): I suppose with nine you've got the the like the last one which makes the tenth means you uh it's like uh multiples you can put them together so you can make any number. So with that we'd kind of by-pass any problems with
+[16:02.24-16:07.95] ES2014b-T0099 | Project Manager (A): Yeah. Well that's true, yeah, you could get fifty by five and a zero or whatever, that that makes sense.
+[16:04.66-16:10.38] ES2014b-T0100 | Industrial Designer (B): Yeah. Yeah.'Cause that facilitates having all the numbers you could ever need.
+[16:10.82-16:11.15] ES2014b-T0101 | Project Manager (A): Yeah.
+[16:11.46-16:11.89] ES2014b-T0102 | Industrial Designer (B): Um.
+[16:12.22-16:13.11] ES2014b-T0103 | Marketing Expert (D): Mm-hmm.
+[16:12.51-16:17.06] ES2014b-T0104 | Project Manager (A): Does. So w so what was the circular thing that you were
+[16:14.14-16:15.22] ES2014b-T0105 | User Interface Designer (C): Okay.
+[16:17.02-16:20.78] ES2014b-T0106 | User Interface Designer (C): Um I think that's just for a video, so we wouldn't need any of that at all.
+[16:21.38-16:23.10] ES2014b-T0107 | Industrial Designer (B): So we could get it down to what?
+[16:21.87-16:25.95] ES2014b-T0108 | Project Manager (A): If it's just for T_V_, which is what it is at the moment.
+[16:26.30-16:26.70] ES2014b-T0109 | User Interface Designer (C): Mm-hmm.
+[16:27.02-16:33.47] ES2014b-T0110 | Industrial Designer (B): So we get to How many buttons have we got? We've just got ten, eleven twelve th We got fourteen that we need. I guess.
+[16:33.78-16:34.16] ES2014b-T0111 | Marketing Expert (D): Mm-hmm.
+[16:34.61-16:39.10] ES2014b-T0112 | Industrial Designer (B): Um which isn't really too many. That'll be quite easy to make a user guide for a fourteen button remote.
+[16:37.86-16:59.58] ES2014b-T0113 | Project Manager (A): Mm-hmm. Well we've we've got um that it's remote for T_V_ only otherwise project would become too complex with uh which would endanger the time to market was one of the considerations. I'm I don't know d did you have that information behind the marketing, or was I meant to give you that information?
+[16:52.13-16:52.61] ES2014b-T0114 | Industrial Designer (B): 'Kay.
+[16:54.67-16:55.28] ES2014b-T0115 | Marketing Expert (D): Mm-hmm.
+[16:57.37-17:04.58] ES2014b-T0116 | Marketing Expert (D): Um I'm not sure. I had I've had some market information, but not from the company, no.
+[17:02.90-17:16.71] ES2014b-T0117 | Project Manager (A): Right. Right, okay, so basically time to market seems to be important, therefore speed of delivery. We've only got about another four hours left.
+[17:08.62-17:08.90] ES2014b-T0118 | Industrial Designer (B): 'Kay.
+[17:16.67-17:18.83] ES2014b-T0119 | User Interface Designer (C): Okay, so is everyone happy with that?
+[17:18.91-17:20.34] ES2014b-T0120 | Industrial Designer (B): Ah yes yes, that seems good.
+[17:19.30-17:19.68] ES2014b-T0121 | Marketing Expert (D): Okay.
+[17:21.31-17:24.02] ES2014b-T0122 | User Interface Designer (C): Right well that's the end of my presentation.
+[17:24.24-17:24.75] ES2014b-T0123 | Marketing Expert (D): 'Kay.
+[17:30.92-17:32.68] ES2014b-T0124 | Marketing Expert (D): I'm gonna pull this off.
+[18:05.44-18:08.79] ES2014b-T0125 | Industrial Designer (B): I think if you just give it a second to maybe catch up.
+[18:07.39-18:10.13] ES2014b-T0126 | Project Manager (A): Yeah, I think she said twenty seconds to um
+[18:09.41-18:10.09] ES2014b-T0127 | Marketing Expert (D): Uh-huh.
+[18:11.60-18:12.31] ES2014b-T0128 | Marketing Expert (D): Okay.
+[18:11.95-18:13.66] ES2014b-T0129 | Industrial Designer (B): I'm sure we'll have by the end of today.
+[18:17.85-18:19.55] ES2014b-T0130 | Marketing Expert (D): I'll give it another go.
+[18:29.39-18:30.80] ES2014b-T0131 | Marketing Expert (D): Yeah, there we go.
+[18:36.06-19:08.32] ES2014b-T0132 | Marketing Expert (D): Right, we've done some research into the functional requirements that people want out of their remote control. And first off we should state that th the remote control's for controlling the T_V_ and um how do people use it? We asked them sort of which buttons were useful for them. Um how d how does a remote control look and feel for them, and what improvements would would they like to remote control. And we did that by sort of giving them a questionnaire that we'd prepared and asking them to fill in the answers.
+[19:10.27-19:21.25] ES2014b-T0133 | Marketing Expert (D): And three quarters of them found that remote controls are ugly and that a sort of even higher proportion would spend more for a sort of s uh a fancier remote control
+[19:22.90-21:50.32] ES2014b-T0134 | Marketing Expert (D): And that of all the buttons on the remote control, the sort of setting buttons for sort of the picture picture and brightness and the audio settings, um they weren't used very often at all. People concentrated on the channel buttons and the volume buttons and the power buttons. Uh we also asked them about speech recognition uh for remote control. And young people were quite receptive to this, but as soon as we got sort of over about into a thirty five to forty age forty five age group and older, people people weren't quite so keen on speech recognition. There's a lot more th there's a lot lot more older people who didn't know whether they wanted it or not as well. Um we also asked what frustrated people about remote controls and the number one frustration was that the remote was lost somewhere else in the room and that they couldn't find it. And the second second biggest frustration what that if they got a new remote control, it was difficult to learn um all the buttons and all the functions, and to find your way around it. Okay, so My personal preferences from the marketing is that we need to come up with some sort of sleek sort of good looking high high-tech A design which looks high-tech, basically. Um and that we should come up with fewer buttons than most of the controls on the market, and we should sort of concentrate on the channels and sort of power, and also volume and that sort of thing, as as Louisa said. Um we could maybe come up with a menu, a sort of a an L_C_D_ menu for other functions on the remote control. That's worth thinking about. Um and maybe we could think about speech recognition as well, because um sort of young people are perhaps the ones that are gonna buy buy our new product if we aim it at sort of you know sort of a high-tech design. That that might be the market that we're we're looking for. And we could maybe think about using speech recogniti recognition as a way to find the remote control if it's lost in a room, rather than sort of um having it to speech recognition to change the channels.'Cause there's a problem with that in that the television makes noise, so it could end up talking to itself and changing its channel. Okay um, and that's the end of the slide show. That's it. Cool.
+[21:44.46-21:45.15] ES2014b-T0135 | Industrial Designer (B): Mm.
+[21:51.21-21:52.77] ES2014b-T0136 | User Interface Designer (C): Do a lot of um
+[21:51.26-22:00.24] ES2014b-T0137 | Project Manager (A): What was that last wee bit there? Speech recognition, right okay. But that was only for young people that preferred it, older people didn't.
+[21:53.22-21:56.75] ES2014b-T0138 | Marketing Expert (D): Um about speech recognition? Yeah.
+[21:59.94-22:11.63] ES2014b-T0139 | Marketing Expert (D): Youn young people pref Yeah, they s they said that they'd be interested in a remote control which offered that possibility and as you go up through the age groups, people got less and less interested in sort of a a remote control that you could talk to, so.
+[22:12.21-22:19.87] ES2014b-T0140 | Industrial Designer (B): No what I maybe think is um it seems the technology would be quite advanced for that and they might end up costing more than our twelve fifty budget for
+[22:19.68-22:20.98] ES2014b-T0141 | Marketing Expert (D): Yeah. Yeah.
+[22:19.94-22:21.84] ES2014b-T0142 | Project Manager (A): Well that's right.
+[22:20.23-22:23.07] ES2014b-T0143 | Industrial Designer (B): for the speech recognition. Um.
+[22:22.13-22:22.37] ES2014b-T0144 | Marketing Expert (D): Yeah.
+[22:24.10-22:40.88] ES2014b-T0145 | Industrial Designer (B): And possibly the thing about the about the remote being lost we could have You know with your mobile phone, you lose that and you can ring it. Maybe we can have some kind of sensor which is kept somewhere where you can some kind of buzzer system between the two. So you can press a button which is always kept in one place and then it maybe buzzes to somewhere else, wherever the remote actually is.
+[22:34.05-22:34.46] ES2014b-T0146 | Marketing Expert (D): Yeah.
+[22:37.15-22:39.15] ES2014b-T0147 | Marketing Expert (D): Uh-huh. Yeah.
+[22:41.20-22:47.74] ES2014b-T0148 | Marketing Expert (D): Yeah, we'd have t that would mean we'd have to put two products together as well, which which again would probably be a bit expensive, but
+[22:44.80-22:47.42] ES2014b-T0149 | Industrial Designer (B): That is true, yes. Hmm.
+[22:47.86-22:55.97] ES2014b-T0150 | User Interface Designer (C): There's key rings um that you kind of whistle at or clap at, I can't remember, and then they whistle back, or something like that. That'd probably be really simple, they're cheap.
+[22:51.62-22:52.11] ES2014b-T0151 | Marketing Expert (D): Yeah.
+[22:53.86-22:54.55] ES2014b-T0152 | Marketing Expert (D): Yeah.
+[22:53.87-22:54.98] ES2014b-T0153 | Project Manager (A): Sounds reasonable.
+[22:55.94-22:56.38] ES2014b-T0154 | Marketing Expert (D): Mm-hmm.
+[22:56.10-22:59.69] ES2014b-T0155 | Project Manager (A): Mm-hmm. Yeah. So
+[22:58.10-23:02.99] ES2014b-T0156 | Industrial Designer (B): So I guess it'd be something we could like attach to the or like the same technology could be put inside the
+[23:02.99-23:16.38] ES2014b-T0157 | Project Manager (A): Well if you're trying to avoid having a second product'cause obviously you could have a second product that gave you the right pitch which would set the remote off to say here I am sort of thing, you know without sound recognition. But if you
+[23:03.59-23:04.61] ES2014b-T0158 | Industrial Designer (B): inside the remote.
+[23:18.24-23:31.26] ES2014b-T0159 | Project Manager (A): I know. Um I was gonna say a sharp noise, you know a clapping of hand or whatever. You'd want to try and av just have the one product that if
+[23:28.99-23:29.33] ES2014b-T0160 | Industrial Designer (B): Yeah.
+[23:32.27-23:37.18] ES2014b-T0161 | Industrial Designer (B): Yeah if we if we could have it in the actual remote like everything in one one device.
+[23:32.64-23:33.18] ES2014b-T0162 | Marketing Expert (D): Mm-hmm.
+[23:35.41-23:35.73] ES2014b-T0163 | Marketing Expert (D): Yeah.
+[23:35.65-23:55.90] ES2014b-T0164 | Project Manager (A): Yeah. Um I dunno um talking about vo I mean obviously if you've got voice recognition then you can do it in that way because it'll recognise the voice and you can give it a command, a set command whatever that happened to be. But you've then got the point if if you're not going with uh voice recognition then
+[23:50.82-23:51.15] ES2014b-T0165 | Marketing Expert (D): Yeah.
+[23:55.82-23:58.43] ES2014b-T0166 | Industrial Designer (B): you could have an option to turn it off. Or
+[23:55.84-23:56.08] ES2014b-T0167 | Marketing Expert (D): Mm-hmm.
+[23:59.76-24:01.30] ES2014b-T0168 | Industrial Designer (B): Perhaps, um.
+[24:01.54-24:02.19] ES2014b-T0169 | Marketing Expert (D): Yeah.
+[24:02.30-24:06.23] ES2014b-T0170 | Industrial Designer (B): So that would solve the problems with the T_V_ kind of speaking to the remote and changing its own channels.
+[24:05.39-24:12.74] ES2014b-T0171 | Project Manager (A): Mm. So uh Any sugges Well, any conclusions?
+[24:12.93-24:20.62] ES2014b-T0172 | Marketing Expert (D): Um would it take quite a while to sort of develop the speech recognition software in the remote control? Considering
+[24:19.73-24:31.20] ES2014b-T0173 | Project Manager (A): Well if it does then we can't. It's that simple, because we've got uh th th three um primary um uh requisites from uh
+[24:19.78-24:20.02] ES2014b-T0174 | Industrial Designer (B): Mm.
+[24:22.29-24:22.53] ES2014b-T0175 | Marketing Expert (D): Yeah.
+[24:32.45-24:59.66] ES2014b-T0176 | Project Manager (A): from and email uh that was sent to me whereby we had The design logo was one, which we've already mentioned. We've got um the remote was only for the television and not for because that would make it too complex and we have to get it market quickly. And the uh third thing was that um teletext uh as far as uh the management is concerned, um is becoming dated uh due to the popularity of the internet.
+[24:47.02-24:47.31] ES2014b-T0177 | Marketing Expert (D): Mm-hmm.
+[24:59.58-25:00.71] ES2014b-T0178 | Marketing Expert (D): Okay.
+[24:59.66-25:39.98] ES2014b-T0179 | Project Manager (A): So that means that uh so these are the sort of three um extra parameters that have been put on this uh project. So we're being focused effectively directly at a television and it seems to me that the management is uh wanting us to go down a narrow path and not opening out. So anything that uh is to be added, such as voice recognition et cetera has to be very simple and has to be very quick because time to market is is critical. S
+[24:59.76-25:00.68] ES2014b-T0180 | Industrial Designer (B): 'Kay.
+[25:10.16-25:10.48] ES2014b-T0181 | Marketing Expert (D): Mm-hmm.
+[25:15.99-25:16.74] ES2014b-T0182 | Industrial Designer (B): Yes.
+[25:28.74-25:30.10] ES2014b-T0183 | Industrial Designer (B): Has to be simple enough to
+[25:37.18-25:44.14] ES2014b-T0184 | Industrial Designer (B): I suppose if we could get something in which was quite quick and simple that would give us an advantage over the other remotes. Um.
+[25:37.54-25:37.89] ES2014b-T0185 | Marketing Expert (D): Mm-hmm.
+[25:42.90-25:49.42] ES2014b-T0186 | Project Manager (A): It would. But probably quick and simple is primary rather than
+[25:49.54-25:50.58] ES2014b-T0187 | Industrial Designer (B): 'Kay.
+[25:50.66-26:13.42] ES2014b-T0188 | Project Manager (A): added extras. Added extras would be nice, but the primary consideration is to get the project finished within uh this short time window, which effectively now is sort of four hours. So and if and we've gotta get to the end. Uh d d I think I think first and foremost we've gotta get to the end and then get to the end with um added extras if possible.
+[25:59.38-25:59.63] ES2014b-T0189 | Marketing Expert (D): Mm-hmm.
+[26:13.20-26:13.96] ES2014b-T0190 | Industrial Designer (B): Mm-hmm.
+[26:13.54-26:13.87] ES2014b-T0191 | Marketing Expert (D): Mm-hmm.
+[26:14.85-26:23.95] ES2014b-T0192 | Project Manager (A): Okay. Right okay, uh so I need to
+[26:18.14-26:18.94] ES2014b-T0193 | Marketing Expert (D): So
+[26:26.67-26:39.14] ES2014b-T0194 | Project Manager (A): Right. So I don't know how long we have left of our uh time. But we have to make the decisions on uh the remote control functions
+[26:33.25-26:34.47] ES2014b-T0195 | Marketing Expert (D): About five minutes.
+[26:40.16-27:23.30] ES2014b-T0196 | Project Manager (A): and how we were planning to proceed so that at the next uh meeting each person that's got a a a task to do is clear from this meeting what that task is. We'll also know w when the next meeting is I um so we'll know how long we've got to complete that task. And then we can report back at the next meeting and say right okay yes, we've achieved this or we haven't achieved this, this is how far we've progressed. Does that make reasonable sense? So we have to come effectively to the decision on the remote functions so that you can decide what you're gonna be doing.
+[26:50.54-26:51.22] ES2014b-T0197 | Industrial Designer (B): Yes.
+[26:53.17-26:53.47] ES2014b-T0198 | Marketing Expert (D): Mm-hmm.
+[26:55.77-26:56.78] ES2014b-T0199 | Industrial Designer (B): Um.
+[27:10.24-27:11.16] ES2014b-T0200 | Marketing Expert (D): Mm-hmm.
+[27:13.26-27:14.69] ES2014b-T0201 | Industrial Designer (B): Yes that seems right.
+[27:13.66-27:15.29] ES2014b-T0202 | Marketing Expert (D): Okay, yeah.
+[27:13.76-27:14.03] ES2014b-T0203 | User Interface Designer (C): Yeah.
+[27:23.30-27:46.21] ES2014b-T0204 | Project Manager (A): And if dur between the time of this meeting finishing and the next meeting starting, if you get any additional information that uh only you have at that point in time you'd think would be relevant to other people in terms of their des decision making um process, then we should communicate that as quickly as possible and not wait until the next meeting.
+[27:34.36-27:35.13] ES2014b-T0205 | Industrial Designer (B): Mm-hmm.
+[27:43.50-27:44.18] ES2014b-T0206 | Marketing Expert (D): Mm-hmm.
+[27:46.21-28:10.94] ES2014b-T0207 | Project Manager (A): Do it via the email so that rather than coming you know If you get the information just before the next meeting that's fine. Come along with it in the next meeting, we can discuss it then and take whatever action is appropriate. But if you get it well before the next meeting, let everybody else know'cause that might have an impact on their uh on what they come up with effectively at the next meeting. Okay.
+[27:46.96-27:48.48] ES2014b-T0208 | Marketing Expert (D): Okay. Yep.
+[27:56.25-27:57.26] ES2014b-T0209 | Industrial Designer (B): Okay.
+[28:04.19-28:04.46] ES2014b-T0210 | Marketing Expert (D): Yeah.
+[28:10.51-28:10.82] ES2014b-T0211 | Marketing Expert (D): Mm-hmm.
+[28:12.00-28:13.28] ES2014b-T0212 | Project Manager (A): Right, is there
+[28:13.78-28:16.51] ES2014b-T0213 | Marketing Expert (D): So do we need to decide on the functions now? S
+[28:16.79-28:19.62] ES2014b-T0214 | Project Manager (A): I would guess so.
+[28:20.37-28:31.50] ES2014b-T0215 | User Interface Designer (C): Well I think it'd be really easy and it'd be a big advantage if we did have some sort of um kind of whistle back kind of function.'Cause that'll solve kind of the frustration of losing it.
+[28:26.93-28:28.98] ES2014b-T0216 | Marketing Expert (D): Mm-hmm. Yeah and
+[28:31.71-28:35.07] ES2014b-T0217 | Marketing Expert (D): Yeah and that was that was the number one sort of frustration that people said, so.
+[28:33.94-28:35.06] ES2014b-T0218 | Project Manager (A): Yep.
+[28:36.24-28:38.88] ES2014b-T0219 | Marketing Expert (D): I don't think there's anything else on the market that does that, so.
+[28:38.93-28:39.36] ES2014b-T0220 | User Interface Designer (C): Yeah.
+[28:40.94-28:43.76] ES2014b-T0221 | User Interface Designer (C): I don't really know about the voice recognition thing.
+[28:45.44-28:47.94] ES2014b-T0222 | Project Manager (A): I w well uh i
+[28:48.06-28:52.53] ES2014b-T0223 | Industrial Designer (B): Maybe we should concentrate just on the whistle back function at the moment, and if something comes back
+[28:50.34-29:07.94] ES2014b-T0224 | Project Manager (A): Something simple. Uh if if our primary consideration is to get it there in time, time's short, you want something to meet the major concerns of the consumer so that we can have that as a selling point for the product, something that's quick and simple. So, sounds good.
+[28:59.94-29:00.34] ES2014b-T0225 | User Interface Designer (C): Mm-hmm.
+[29:01.55-29:02.39] ES2014b-T0226 | Marketing Expert (D): Mm-hmm.
+[29:06.26-29:13.94] ES2014b-T0227 | User Interface Designer (C): Yeah. And that wouldn't put off the kind of older generation either,'cause everyone can whistle or clap, and they wouldn't have to be kind of scared of this new technology.
+[29:13.42-29:40.38] ES2014b-T0228 | Project Manager (A): Well, so maybe a clap rather than a whistle would be On the basis that if we've got if we're catering to the whole age range, you want something that's easy to do, now something that doesn't like whis uh Well I I I don't know. Well If you think that more people can whistle than clap then that's fine, then go for that option, but if I would have thought that more people could clap rather than whistle, so uh so clap option.
+[29:14.03-29:14.99] ES2014b-T0229 | Marketing Expert (D): Mm-hmm.
+[29:26.62-29:29.82] ES2014b-T0230 | Marketing Expert (D): No not everyone can whistle, can they, though?
+[29:33.84-29:37.64] ES2014b-T0231 | Marketing Expert (D): No, clapping, I think clapping, yeah. Yeah.
+[29:34.15-29:36.78] ES2014b-T0232 | Industrial Designer (B): I'd go more Yeah, f more for clap.
+[29:39.77-29:40.63] ES2014b-T0233 | Marketing Expert (D): Yeah.
+[29:49.58-29:50.78] ES2014b-T0234 | Project Manager (A): Okay.
+[29:50.54-29:53.33] ES2014b-T0235 | User Interface Designer (C): 'Kay we've already decided that we don't need a teletext button, haven't we?
+[29:54.14-30:04.80] ES2014b-T0236 | Project Manager (A): Uh. Ef effectively that's what the that's what they're saying, that uh if uh if people are now using the internet then you don't need teletext, so so take out teletext.
+[29:55.15-29:55.90] ES2014b-T0237 | User Interface Designer (C): Is that one of the
+[29:58.19-29:58.54] ES2014b-T0238 | User Interface Designer (C): Hmm.
+[30:00.99-30:03.22] ES2014b-T0239 | Marketing Expert (D): Taking out teletext, okay.
+[30:04.72-30:13.49] ES2014b-T0240 | Industrial Designer (B): Did we decide on having the ten um the ten numbers and then the the little digit next to it which kind of enabled you to put them together.
+[30:04.80-30:05.57] ES2014b-T0241 | User Interface Designer (C): Right.
+[30:09.79-30:11.70] ES2014b-T0242 | User Interface Designer (C): Yeah, I think so, so zero to nine.
+[30:12.18-30:23.02] ES2014b-T0243 | Marketing Expert (D): Mm. I think nowadays you can just get ones where it gives you a sort of a second or two to press another number, so you can press any two and it'll sort of put them together.
+[30:19.44-30:19.76] ES2014b-T0244 | Project Manager (A): Yeah.
+[30:23.36-30:26.32] ES2014b-T0245 | Industrial Designer (B): Okay, ten numbers and then some kind of device to allow uh
+[30:26.58-30:27.31] ES2014b-T0246 | Marketing Expert (D): Yeah.
+[30:27.92-30:31.44] ES2014b-T0247 | Industrial Designer (B): I'll put delay to allow um multiple numbers.
+[30:29.79-30:30.08] ES2014b-T0248 | Marketing Expert (D): Yeah.
+[30:32.67-30:34.02] ES2014b-T0249 | Industrial Designer (B): Or multiple digits.
+[30:34.32-30:34.53] ES2014b-T0250 | Marketing Expert (D): Yeah.
+[30:37.78-30:48.13] ES2014b-T0251 | Industrial Designer (B): Did we decide anything about um the other functions? As in setting the audio and tuning it and stuff like that? You had an had an idea about the menu?
+[30:48.39-30:56.21] ES2014b-T0252 | Marketing Expert (D): Uh we could possibly put an L_ a sort of a L_C_D_ menu in, but that again is probably an expense that
+[30:56.18-31:10.48] ES2014b-T0253 | Industrial Designer (B): But just thinking um people probably I mean you don't have you only have to probably tune in the T_V_ once, but you have to be able to tune it that once. So and if finally the T_V_ breaks, you get a new one, you're gonna have to be able to tune it. You can't really avoid that. Except the new digital markets which do it by themselves.
+[31:02.11-31:02.45] ES2014b-T0254 | Marketing Expert (D): Yeah.
+[31:06.82-31:07.50] ES2014b-T0255 | Marketing Expert (D): Mm-hmm.
+[31:07.55-31:07.79] ES2014b-T0256 | User Interface Designer (C): Hmm.
+[31:07.61-31:08.64] ES2014b-T0257 | Project Manager (A): No.
+[31:10.90-31:47.58] ES2014b-T0258 | Project Manager (A): But the but that's relying on the television market changing to an automatic and if it is at the moment, that's fine. But at the moment it's not, so it seems to me that you have to have a device that caters,'cause otherwise it would make it uh your device would become inoperable, or only operable in certain circumstances and the idea is to have an international market which is And it's also m it's the the product we've got is something that's at the I would have said the lower end of the s of the cost scale, so we're not really going for something that's uh
+[31:11.31-31:11.65] ES2014b-T0259 | Marketing Expert (D): Yeah.
+[31:11.60-31:13.15] ES2014b-T0260 | Industrial Designer (B): So that'll be in
+[31:16.58-31:17.36] ES2014b-T0261 | Industrial Designer (B): Yes.
+[31:24.88-31:25.72] ES2014b-T0262 | Industrial Designer (B): Yeah.
+[31:29.88-31:30.66] ES2014b-T0263 | Industrial Designer (B): Yeah.
+[31:32.50-31:33.39] ES2014b-T0264 | Industrial Designer (B): Yeah yeah.
+[31:33.30-31:33.60] ES2014b-T0265 | User Interface Designer (C): Mm.
+[31:36.77-31:37.14] ES2014b-T0266 | Marketing Expert (D): Yeah.
+[31:44.51-31:45.27] ES2014b-T0267 | Marketing Expert (D): Yeah.
+[31:48.61-31:50.30] ES2014b-T0268 | Marketing Expert (D): I s I suppose um
+[31:49.42-31:50.83] ES2014b-T0269 | Project Manager (A): terribly high-tech.
+[31:51.26-32:07.12] ES2014b-T0270 | Marketing Expert (D): if people are buying remotes, then they're probably buying it to replace another remote'cause all most tellies come with remotes, so. I mean we're maybe talking about replacing remotes for slightly older televisions, so we maybe need to keep the the tuning function in.
+[31:55.50-31:56.74] ES2014b-T0271 | Project Manager (A): Possibly.
+[31:58.29-31:58.82] ES2014b-T0272 | Project Manager (A): That's right.
+[32:06.56-32:14.82] ES2014b-T0273 | Industrial Designer (B): Yeah. So how would this menu function work? Would you maybe have like one menu button, then you'd use the other buttons, maybe the number buttons to actually do the separate functions.
+[32:07.04-32:07.34] ES2014b-T0274 | User Interface Designer (C): Yeah.
+[32:14.94-32:16.43] ES2014b-T0275 | Marketing Expert (D): Yeah, that would be a good idea, yeah.
+[32:15.33-32:16.75] ES2014b-T0276 | User Interface Designer (C): Yeah, like the volume or something.
+[32:16.74-32:17.37] ES2014b-T0277 | Industrial Designer (B): Okay.
+[32:18.43-32:27.20] ES2014b-T0278 | User Interface Designer (C): Yeah,'cause you do need um kind of brightness and contrast and everything as well. My dad was watching a film the other week and it was too dark, so I had to go through it and turn the brightness up.
+[32:22.03-32:22.27] ES2014b-T0279 | Marketing Expert (D): Mm-hmm.
+[32:27.39-32:46.93] ES2014b-T0280 | Industrial Designer (B): we're gonna have the the individual numbers and then a menu function and maybe sort of a slightly more advanced um instruction booklet to come with it, to guide Presu uh I think it'd be quite hard just for people to grasp um just off like the menu use different buttons you maybe have to have like some better instructions of how that would actually work.
+[32:27.41-32:28.04] ES2014b-T0281 | Marketing Expert (D): Hmm.
+[32:45.86-33:04.24] ES2014b-T0282 | Marketing Expert (D): Uh I'm not sure whether the sort of having people have a booklet'cause one the second most annoying thing that people found was having to learn the new one. So maybe next to each of the buttons, you know each of them could have a number and then also a function written next to it, so you're basically pressing
+[32:54.94-32:56.35] ES2014b-T0283 | Industrial Designer (B): Right, okay um.
+[33:04.83-33:13.71] ES2014b-T0284 | Industrial Designer (B): that also goes back to the original design when we saw those two, and there was the one on the left hand side which had all like the double functions and stuff which kind of looked too busy and had too much on it, so.
+[33:12.70-33:12.94] ES2014b-T0285 | Marketing Expert (D): Right.
+[33:14.13-33:16.67] ES2014b-T0286 | Project Manager (A): Okay, well.
+[33:14.61-33:15.01] ES2014b-T0287 | Marketing Expert (D): Okay.
+[33:14.93-33:27.57] ES2014b-T0288 | User Interface Designer (C): Well, if we're trying to keep it slee sleek and sexy as well, have you seen those remotes where kind of um the bottom bit slides down, so there's kind of um everything else revealed? So you don't use it that much, you don't have to see it all the time. But it's all there if you need it.
+[33:18.75-33:19.73] ES2014b-T0289 | Project Manager (A): Mm.
+[33:21.70-33:21.98] ES2014b-T0290 | Marketing Expert (D): Yeah.
+[33:22.59-33:51.62] ES2014b-T0291 | Project Manager (A): So y Ah That's a very good idea. So you keep um Right we've got five minutes before we wind up this meeting, so I've been told. I don't know if you've got the same. Okay. So so keep um keep detailed functions um hidden at the back.
+[33:26.70-33:30.02] ES2014b-T0292 | Industrial Designer (B): That is that is a good idea actually. Sor sort of a second.
+[33:26.91-33:28.34] ES2014b-T0293 | Marketing Expert (D): Yeah, yeah.
+[33:31.41-33:32.93] ES2014b-T0294 | User Interface Designer (C): Like a hidden panel.
+[33:36.52-33:44.11] ES2014b-T0295 | Industrial Designer (B): Okay. Uh not quite, but I guess. Keep the other buttons but hide them away.
+[33:52.13-34:03.74] ES2014b-T0296 | User Interface Designer (C): Hmm. And that'll be better for the older generation as well'cause, well my dad doesn't like anything that you've got to kinda flick through a menu, but he can pretty much read a button if it's displayed properly.
+[33:57.57-33:58.76] ES2014b-T0297 | Project Manager (A): Ah.
+[33:59.97-34:00.26] ES2014b-T0298 | Marketing Expert (D): Mm-hmm.
+[34:01.84-34:02.51] ES2014b-T0299 | Industrial Designer (B): So
+[34:02.03-34:03.36] ES2014b-T0300 | Project Manager (A): Mm-hmm.
+[34:02.19-34:02.38] ES2014b-T0301 | Marketing Expert (D): Yeah.
+[34:04.00-34:12.99] ES2014b-T0302 | Industrial Designer (B): So um we're gonna have to have to work out what's gonna be on these other functions as as well. So we're gonna have like two separate two separate lists, I guess.
+[34:09.53-34:10.23] ES2014b-T0303 | Marketing Expert (D): Yeah.
+[34:10.77-34:12.06] ES2014b-T0304 | Project Manager (A): That's right.
+[34:12.99-34:13.42] ES2014b-T0305 | Marketing Expert (D): Yeah.
+[34:14.12-34:18.83] ES2014b-T0306 | Project Manager (A): data functions hidden at back. Can bring out when needed.
+[34:16.05-34:24.26] ES2014b-T0307 | Marketing Expert (D): So th the The detailed ones would be sort of brightness, uh sorta
+[34:22.62-34:23.60] ES2014b-T0308 | User Interface Designer (C): Yeah.
+[34:23.48-34:30.83] ES2014b-T0309 | Project Manager (A): That's right so we're dis So you've got which ones are gonna be on the front and which ones are gonna be on the back. We have to decide.
+[34:28.88-34:32.70] ES2014b-T0310 | Industrial Designer (B): So sh Should we decide in the next couple of minutes, and then
+[34:30.96-34:33.06] ES2014b-T0311 | Marketing Expert (D): Mm-hmm. Yeah.
+[34:33.01-34:34.27] ES2014b-T0312 | Project Manager (A): I guess so.
+[34:34.72-34:35.65] ES2014b-T0313 | Industrial Designer (B): So on the
+[34:36.50-34:38.77] ES2014b-T0314 | Project Manager (A): So on front,
+[34:38.59-34:40.74] ES2014b-T0315 | Industrial Designer (B): about the number.
+[34:40.97-34:42.88] ES2014b-T0316 | Project Manager (A): numbers,
+[34:43.84-34:46.11] ES2014b-T0317 | Industrial Designer (B): Um the volume up and down.
+[34:44.37-34:45.14] ES2014b-T0318 | User Interface Designer (C): And the volume?
+[34:45.18-34:47.54] ES2014b-T0319 | Project Manager (A): volume.
+[34:47.78-34:49.10] ES2014b-T0320 | Industrial Designer (B): Shall we have a mute button as well?
+[34:47.86-34:48.52] ES2014b-T0321 | User Interface Designer (C): Um.
+[34:49.66-34:50.21] ES2014b-T0322 | Project Manager (A): Sorry?
+[34:50.13-34:51.15] ES2014b-T0323 | Industrial Designer (B): A mute button as well.
+[34:51.07-34:51.47] ES2014b-T0324 | User Interface Designer (C): Yeah.
+[34:52.00-34:53.06] ES2014b-T0325 | Project Manager (A): Mm.
+[34:53.15-34:54.21] ES2014b-T0326 | Industrial Designer (B): Yeah. Or
+[34:53.32-34:54.69] ES2014b-T0327 | User Interface Designer (C): Yeah I think they're handy.
+[34:54.75-34:58.83] ES2014b-T0328 | Marketing Expert (D): Mm-hmm. And probably a power one as well. Dunno.
+[35:02.58-35:04.06] ES2014b-T0329 | User Interface Designer (C): I know it's probably like um
+[35:05.66-35:22.93] ES2014b-T0330 | User Interface Designer (C): not an issue to raise here, but um the whole thing about not using your standby uh because of the like waste of electricity. Have you seen the adverts? Like if you boil the kettle that's full that's a waste. If you leave your telly on standby it powers Blackpool for a certain amount of time. Like we should maybe try to discourage people from standby.
+[35:15.18-35:16.77] ES2014b-T0331 | Marketing Expert (D): Mm-hmm. Yeah.
+[35:16.54-35:17.63] ES2014b-T0332 | Project Manager (A): Mm-hmm.
+[35:23.06-35:27.31] ES2014b-T0333 | Industrial Designer (B): But then they might not buy it if they haven't got one.'Cause people might just be too fickle and not want to change.
+[35:25.20-35:25.57] ES2014b-T0334 | Marketing Expert (D): Yeah.
+[35:25.62-35:31.88] ES2014b-T0335 | User Interface Designer (C): Yeah, it's maybe too much of a big issue for here. Uh-oh danger sign.
+[35:27.60-35:30.21] ES2014b-T0336 | Marketing Expert (D): Yeah.
+[35:27.84-35:32.88] ES2014b-T0337 | Project Manager (A): So so are you having the stand-by on the front, then?
+[35:28.14-35:33.68] ES2014b-T0338 | Industrial Designer (B): We can send out a flier with the device saying that you shouldn't leave it on stand-by. I think you probably should.
+[35:33.73-35:40.80] ES2014b-T0339 | User Interface Designer (C): Yeah, but a little bit smaller. Compromise.
+[35:35.66-35:38.75] ES2014b-T0340 | Marketing Expert (D): Okay.
+[35:37.73-35:39.98] ES2014b-T0341 | Project Manager (A): Well.
+[35:39.06-35:41.89] ES2014b-T0342 | Industrial Designer (B): Um are we gonna have the channel up and down as well as the number buttons?
+[35:41.81-35:50.02] ES2014b-T0343 | Marketing Expert (D): Um'cause yeah the market research said there is quite a lot of people do just zap around and flick, so.
+[35:48.18-35:49.50] ES2014b-T0344 | Industrial Designer (B): Okay, so we'll have um
+[35:49.42-35:49.82] ES2014b-T0345 | User Interface Designer (C): Right.
+[35:52.46-35:56.26] ES2014b-T0346 | Industrial Designer (B): So we've got ten eleven twelve thirteen fourteen fifteen sixteen there?
+[35:57.15-35:57.95] ES2014b-T0347 | Marketing Expert (D): Um.
+[35:57.82-36:00.88] ES2014b-T0348 | Project Manager (A): Channel up and down. What else have we got? What was that, sixteen?
+[36:00.64-36:02.51] ES2014b-T0349 | Marketing Expert (D): Numbers is ten, volume is
+[36:04.03-36:08.53] ES2014b-T0350 | Marketing Expert (D): twelve, th Yeah si One up, one down.
+[36:04.91-36:06.99] ES2014b-T0351 | Project Manager (A): Volume button. How many volumes?
+[36:08.50-36:10.05] ES2014b-T0352 | Project Manager (A): Right okay.
+[36:11.54-36:12.29] ES2014b-T0353 | User Interface Designer (C): On mute.
+[36:12.61-36:15.07] ES2014b-T0354 | Marketing Expert (D): And a mute, yeah. That's sixteen isn't it, yeah.
+[36:15.07-36:16.82] ES2014b-T0355 | Industrial Designer (B): Is there anything else? Um.
+[36:18.56-36:19.68] ES2014b-T0356 | Marketing Expert (D): I don't think so, no.
+[36:19.90-36:25.70] ES2014b-T0357 | Project Manager (A): Power button, stand-by, channel, up and down. So is that it?
+[36:25.56-36:26.40] ES2014b-T0358 | User Interface Designer (C): so.
+[36:26.80-36:31.66] ES2014b-T0359 | Project Manager (A): Okay. That's sixteen buttons, you reckon. And then at the back?
+[36:32.90-36:37.34] ES2014b-T0360 | Marketing Expert (D): You've got brightness and contrast.
+[36:38.11-36:39.07] ES2014b-T0361 | User Interface Designer (C): And then
+[36:38.29-36:44.80] ES2014b-T0362 | Industrial Designer (B): Maybe if we're gonna run out of time, one of us should come up with a list of these and then get back at the next meeting just at the start and say what they're gonna be.
+[36:44.39-36:46.72] ES2014b-T0363 | Project Manager (A): Okay. So on the back
+[36:45.28-36:45.62] ES2014b-T0364 | Marketing Expert (D): Yeah.
+[36:45.47-36:46.34] ES2014b-T0365 | User Interface Designer (C): Mm-hmm.
+[36:47.89-36:55.73] ES2014b-T0366 | Project Manager (A): it'll have brightness, contrast, anything else? You're also gonna have the channel tuner, as it were.
+[36:51.94-36:54.11] ES2014b-T0367 | User Interface Designer (C): Uh there's audio functions.
+[36:54.70-36:55.48] ES2014b-T0368 | Marketing Expert (D): Yeah.
+[36:55.26-36:57.41] ES2014b-T0369 | Industrial Designer (B): So tuner up and down, I guess.
+[36:58.06-36:58.43] ES2014b-T0370 | User Interface Designer (C): Yeah.
+[36:58.90-37:02.29] ES2014b-T0371 | Project Manager (A): Tuner, would that have up and down?.
+[37:01.62-37:06.13] ES2014b-T0372 | Industrial Designer (B): Um up Tune one way, tune the o I I dunno I dunno possibly.
+[37:02.96-37:04.36] ES2014b-T0373 | User Interface Designer (C): I think they normally do.
+[37:03.90-37:07.18] ES2014b-T0374 | Project Manager (A): okay. Okay.
+[37:04.82-37:05.04] ES2014b-T0375 | Marketing Expert (D): Yeah.
+[37:05.33-37:06.11] ES2014b-T0376 | User Interface Designer (C): Yeah.
+[37:08.77-37:23.58] ES2014b-T0377 | Marketing Expert (D): And then maybe sort of an enter button for sort of s you know, saying that you want that particular thing tuned in. So you go up and down and then it pick it finds something and then you wanna press enter to select it, yeah.
+[37:19.58-37:22.50] ES2014b-T0378 | Industrial Designer (B): Oh yeah and th and a enter button just to select. Yeah, okay.
+[37:27.66-37:34.36] ES2014b-T0379 | Industrial Designer (B): Um I guess we're keeping s it simple. We don't really need any other audio funct uh functions because it's just volume up, volume down.
+[37:33.34-37:35.57] ES2014b-T0380 | Project Manager (A): Um up volume, yeah, I would have thought so.
+[37:35.49-37:35.86] ES2014b-T0381 | Industrial Designer (B): Um.
+[37:36.06-37:36.53] ES2014b-T0382 | Marketing Expert (D): Yeah.
+[37:37.06-37:38.43] ES2014b-T0383 | User Interface Designer (C): So I think um
+[37:40.13-37:44.16] ES2014b-T0384 | User Interface Designer (C): there's quite a lot of like Dolby surround studio, surround sort of things.
+[37:44.37-37:44.83] ES2014b-T0385 | Marketing Expert (D): Yeah.
+[37:44.67-37:45.47] ES2014b-T0386 | Project Manager (A): Okay.
+[37:44.70-37:47.12] ES2014b-T0387 | User Interface Designer (C): Um maybe for the younger market.
+[37:44.75-37:50.91] ES2014b-T0388 | Industrial Designer (B): Do they have their own do they have their own controls on their actual products, then, or do you have to do it via the remote?
+[37:51.68-37:55.49] ES2014b-T0389 | User Interface Designer (C): Um I think they've got their own controls in this kind of like hidden panel.
+[37:55.41-37:59.25] ES2014b-T0390 | Industrial Designer (B): Yeah I suppose if we've got their if they've got their own controls then we can avoid it for ours just to keep it simple.
+[37:58.29-37:59.92] ES2014b-T0391 | Project Manager (A): Yeah. Yeah.
+[38:00.26-38:11.60] ES2014b-T0392 | User Interface Designer (C): Oh no, I mean um like there's kind of individual buttons for them, like on the T_V_ remote. But I don't really know what they're for, I've never used them. I just know they're something to do with Dolby.
+[38:03.42-38:03.95] ES2014b-T0393 | Industrial Designer (B): Oh, okay.
+[38:05.76-38:06.14] ES2014b-T0394 | Industrial Designer (B): Right.
+[38:06.42-38:06.62] ES2014b-T0395 | Marketing Expert (D): Mm-hmm.
+[38:08.74-38:13.30] ES2014b-T0396 | Industrial Designer (B): Um. Maybe unless something comes up then we should I think
+[38:12.30-38:16.51] ES2014b-T0397 | Project Manager (A): Well you might get some research.
+[38:16.66-38:19.25] ES2014b-T0398 | Industrial Designer (B): Well shall we look into that and just get back together.
+[38:19.41-38:33.58] ES2014b-T0399 | Project Manager (A): Okay. Right so I'll do the minutes of uh this meeting. And we'll meet back at I'm not sure. Um forty minutes, I believe is the time.
+[38:19.57-38:20.54] ES2014b-T0400 | Marketing Expert (D): Okay.
+[38:20.24-38:20.46] ES2014b-T0401 | User Interface Designer (C): Right.
+[38:20.94-38:21.14] ES2014b-T0402 | Marketing Expert (D): Right.
+[38:33.09-38:33.79] ES2014b-T0403 | Industrial Designer (B): 'Kay.
+[38:34.51-38:38.29] ES2014b-T0404 | Marketing Expert (D): Okay.
+[38:36.70-38:37.58] ES2014b-T0405 | Project Manager (A): Come on.

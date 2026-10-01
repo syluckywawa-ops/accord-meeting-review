@@ -1,0 +1,7138 @@
+{
+  "meeting_id": "TS3003d",
+  "date": "2004-10-11",
+  "start_time": null,
+  "duration_seconds": 2645.0,
+  "visibility": "unseen",
+  "speakers": {
+    "A": {
+      "agent": "A",
+      "role_code": "PM",
+      "role": "Project Manager",
+      "participant_id": "MTD009PM",
+      "channel": "0"
+    },
+    "C": {
+      "agent": "C",
+      "role_code": "ID",
+      "role": "Industrial Designer",
+      "participant_id": "MTD0010ID",
+      "channel": "2"
+    },
+    "B": {
+      "agent": "B",
+      "role_code": "UI",
+      "role": "User Interface Designer",
+      "participant_id": "MTD011UID",
+      "channel": "1"
+    },
+    "D": {
+      "agent": "D",
+      "role_code": "ME",
+      "role": "Marketing Expert",
+      "participant_id": "MTD012ME",
+      "channel": "3"
+    }
+  },
+  "split": "test",
+  "official_partition": "SC",
+  "transcribed_word_elements": 6419,
+  "turn_count": 639,
+  "turns": [
+    {
+      "turn_id": "TS3003d-T0001",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 11.719,
+      "end_seconds": 12.476,
+      "text": "So",
+      "source_segment_ids": [
+        "TS3003d.sync.6"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0002",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 20.507,
+      "end_seconds": 22.656,
+      "text": "Hello.",
+      "source_segment_ids": [
+        "TS3003d.sync.8"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0003",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 22.741,
+      "end_seconds": 29.046,
+      "text": "Good afternoon. Sorry I'm a little late. Got stuck in the traffic.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,152"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0004",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 26.819,
+      "end_seconds": 44.765,
+      "text": "No problem. Okay. That's possible on uh this time of day. Starts at three o'clock. Uh Uh, let me see. Our fourth and last meeting.",
+      "source_segment_ids": [
+        "TS3003d.sync.10",
+        "TS3003d.sync.12"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0005",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 37.148,
+      "end_seconds": 38.368,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,154"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0006",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 47.559,
+      "end_seconds": 48.906,
+      "text": "There he is.",
+      "source_segment_ids": [
+        "TS3003d.sync.14"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0007",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 51.884,
+      "end_seconds": 52.793,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.16"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0008",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 55.632,
+      "end_seconds": 155.487,
+      "text": "Okay this our last meeting. In this meeting we will discuss our final design. And we will do some evaluation about the, not only the product, but also the project. And then we're going to close the project today as well. So after this you will be uh free to go and uh spend all your money. And this uh design, detailed design meeting uh we will discuss uh the look-and-feel of the design, the usability interface design, and we will do the product evaluation. Um, in order to do that we have this agenda. We'll have the prototype presentation first. Then we will set up some evaluation cri um criteria. Then we will look at the finance. Uh we will have to see if everything we wanna do is also possible within our budget. Because everything costs money, and the more functions you wanna have the more money it will cost. So we have to see if it fits within the twelve and a half Euro per remote. But we will see that later. Then we will do the project uh evaluation, and the closing after that. We've got forty minutes. So we will be finished at half past three. But first um we will do the this is prototype presentation. So, if some yeah if somebody wants step forward.",
+      "source_segment_ids": [
+        "TS3003d.sync.18",
+        "TS3003d.sync.19",
+        "TS3003d.sync.20",
+        "TS3003d.sync.21",
+        "TS3003d.sync.23"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0009",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 153.072,
+      "end_seconds": 154.336,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.936"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0010",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 157.689,
+      "end_seconds": 205.703,
+      "text": "Well this is what me and Richard came up with. The default spot for the on-off button. The mute button just below that. Then there's the volume and channel selectors. Simple plus-minus button. Uh we thought of a help button. If you hold it and you press another button, uh the help goes to the L_C_D_ screen. Then there's the zero to one to zero buttons. A button for teletext. A button for the subtitles. And the company logo. So it's rather simple prototype. And uh we'll have to see from testing uh how the users take it.",
+      "source_segment_ids": [
+        "TS3003d.sync.938",
+        "TS3003d.sync.939",
+        "TS3003d.sync.940",
+        "TS3003d.sync.941"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0011",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 206.084,
+      "end_seconds": 206.892,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.25"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0012",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 207.148,
+      "end_seconds": 213.408,
+      "text": "Um, is this the moment where we ask or can ask questions about the functionality?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,160"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0013",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 210.491,
+      "end_seconds": 211.385,
+      "text": "So",
+      "source_segment_ids": [
+        "TS3003d.sync.558"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0014",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 213.731,
+      "end_seconds": 216.68,
+      "text": "Sure uh just pop in at any time.",
+      "source_segment_ids": [
+        "TS3003d.sync.943"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0015",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 213.734,
+      "end_seconds": 214.852,
+      "text": "Yeah. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.560"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0016",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 216.272,
+      "end_seconds": 225.392,
+      "text": "Um, when you're in teletext there usually are buttons where you just you just press it and you g go to the next teletext page.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,162"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0017",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 226.88,
+      "end_seconds": 252.545,
+      "text": "Uh, that's just uh the normal uh as th as the normal uh remote controls uh So um You put it uh you um came in uh page uh one hundred. Now you can use the normal uh one to zero buttons. And you But you can also uh use the um button th for uh changing the the channel.",
+      "source_segment_ids": [
+        "TS3003d.sync.562",
+        "TS3003d.sync.564"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0018",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 240.733,
+      "end_seconds": 241.547,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,164"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0019",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 252.545,
+      "end_seconds": 261.68,
+      "text": "S so uh the shifting uh button. Uh for uh yeah shif shifting up in uh on t on t uh teletext, and shifting uh down. So",
+      "source_segment_ids": [
+        "TS3003d.sync.565"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0020",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 255.328,
+      "end_seconds": 255.877,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,166"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0021",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 262.148,
+      "end_seconds": 265.369,
+      "text": "Okay. Um",
+      "source_segment_ids": [
+        "TS3003d.sync.1,168"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0022",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 266.996,
+      "end_seconds": 267.809,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,170"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0023",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 269.125,
+      "end_seconds": 289.428,
+      "text": "Okay. Uh but um I thought in a few meetings earlier we uh uh tried to keep it uh simple. Uh just a few buttons and large buttons. But uh I think these are altogether quite a quite a few buttons.",
+      "source_segment_ids": [
+        "TS3003d.sync.27"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0024",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 280.16,
+      "end_seconds": 280.866,
+      "text": "Oh yeah?",
+      "source_segment_ids": [
+        "TS3003d.sync.567"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0025",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 290.808,
+      "end_seconds": 296.816,
+      "text": "So I'm wondering if we if we neely really need all of those buttons.",
+      "source_segment_ids": [
+        "TS3003d.sync.29"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0026",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 297.296,
+      "end_seconds": 313.104,
+      "text": "I think if you look at most controls, they've got more buttons than this. And well the on-off button, it's it's a necessity. You can't drop that one. The volume and channel buttons, you need you obviously need those those.",
+      "source_segment_ids": [
+        "TS3003d.sync.945",
+        "TS3003d.sync.947"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0027",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 302.632,
+      "end_seconds": 303.642,
+      "text": "That's right.",
+      "source_segment_ids": [
+        "TS3003d.sync.31"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0028",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 303.017,
+      "end_seconds": 303.65,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.573"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0029",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 306.403,
+      "end_seconds": 307.177,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.33"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0030",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 306.464,
+      "end_seconds": 306.857,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.575"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0031",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 313.248,
+      "end_seconds": 314.18,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.35"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0032",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 314.144,
+      "end_seconds": 332.064,
+      "text": "The mute button could be replaced uh by pressing the volume-down button twice. So we could cancel that one. I think the help button really is necessary because there's no other way to know when someone wants to know what a button does.",
+      "source_segment_ids": [
+        "TS3003d.sync.949"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0033",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 326.62,
+      "end_seconds": 327.366,
+      "text": "Yeah yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.577"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0034",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 334.6,
+      "end_seconds": 335.677,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.37"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0035",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 334.67,
+      "end_seconds": 353.36,
+      "text": "Uh, or you can build in uh when you press uh one button uh uh Yeah. But m Yeah. We disc discuss that already. But uh we think uh old people uh don't know that uh option. So uh they just put in uh put press uh the button and uh",
+      "source_segment_ids": [
+        "TS3003d.sync.579"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0036",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 338.539,
+      "end_seconds": 341.435,
+      "text": "Long time. Yeah. If you put",
+      "source_segment_ids": [
+        "TS3003d.sync.39"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0037",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 354.648,
+      "end_seconds": 356.432,
+      "text": "Yeah. Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.41"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0038",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 356.576,
+      "end_seconds": 361.3,
+      "text": "Well, you can't leave out the number buttons I guess.",
+      "source_segment_ids": [
+        "TS3003d.sync.951",
+        "TS3003d.sync.953"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0039",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 361.04,
+      "end_seconds": 361.424,
+      "text": "And uh",
+      "source_segment_ids": [
+        "TS3003d.sync.581"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0040",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 361.213,
+      "end_seconds": 366.129,
+      "text": "Yeah. Uh teletext and subtitles are yeah necessary. Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.43"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0041",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 362.464,
+      "end_seconds": 368.016,
+      "text": "And Yeah. So it's rather basic already.",
+      "source_segment_ids": [
+        "TS3003d.sync.955",
+        "TS3003d.sync.957"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0042",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 364.529,
+      "end_seconds": 365.051,
+      "text": "Oh.",
+      "source_segment_ids": [
+        "TS3003d.sync.583"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0043",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 364.824,
+      "end_seconds": 365.604,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,172"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0044",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 368.0,
+      "end_seconds": 376.032,
+      "text": "Yeah. Think so. That's what I pointed out earlier. If you just make a control for just the T_V_ there's just not much to gain here.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,174"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0045",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 375.504,
+      "end_seconds": 376.085,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.585"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0046",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 375.894,
+      "end_seconds": 383.123,
+      "text": "Yep. Okay. So we had somebody about th interfa Something about the design of the buttons there?",
+      "source_segment_ids": [
+        "TS3003d.sync.45",
+        "TS3003d.sync.47"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0047",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 383.36,
+      "end_seconds": 399.44,
+      "text": "Yeah, they're It's rather hard to draw on the white-board. But they're supposed to be equal sized, round, with a with a little logo on it for the for the volume, the the triangle and stuff. Just for recognition.",
+      "source_segment_ids": [
+        "TS3003d.sync.959"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0048",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 384.475,
+      "end_seconds": 386.509,
+      "text": "Yeah. Yeah, it",
+      "source_segment_ids": [
+        "TS3003d.sync.587"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0049",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 384.503,
+      "end_seconds": 386.928,
+      "text": "Just n normal plain buttons.",
+      "source_segment_ids": [
+        "TS3003d.sync.49"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0050",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 396.192,
+      "end_seconds": 398.708,
+      "text": "Yeah yeah. Just to recognise it, so uh",
+      "source_segment_ids": [
+        "TS3003d.sync.589"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0051",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 396.389,
+      "end_seconds": 398.611,
+      "text": "Yeah.'Kay.",
+      "source_segment_ids": [
+        "TS3003d.sync.51"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0052",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 399.36,
+      "end_seconds": 402.528,
+      "text": "Uh yeah and now we don't need uh LEDs or um",
+      "source_segment_ids": [
+        "TS3003d.sync.591"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0053",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 402.707,
+      "end_seconds": 403.448,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.53"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0054",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 403.52,
+      "end_seconds": 413.536,
+      "text": "Y uh s some uh remote controls uh do it also, but um uh because we use the little display we don't uh have to use it. Uh so",
+      "source_segment_ids": [
+        "TS3003d.sync.593"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0055",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 407.017,
+      "end_seconds": 407.724,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.55"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0056",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 412.774,
+      "end_seconds": 414.592,
+      "text": "Yeah. Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.57"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0057",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 414.364,
+      "end_seconds": 423.488,
+      "text": "So and for the materials we've just chosen for rubber buttons. With a a different colour than the case. So they jump out.",
+      "source_segment_ids": [
+        "TS3003d.sync.961"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0058",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 417.824,
+      "end_seconds": 418.496,
+      "text": "Nay.",
+      "source_segment_ids": [
+        "TS3003d.sync.595"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0059",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 418.599,
+      "end_seconds": 419.138,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.59"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0060",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 425.071,
+      "end_seconds": 443.421,
+      "text": "Okay. That's nice. Then because we only have thirty minutes left, I will move on to the finance part, which is pretty exciting, to see if it's all possible what we wanna do. And I can tell you",
+      "source_segment_ids": [
+        "TS3003d.sync.61"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0061",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 425.143,
+      "end_seconds": 427.024,
+      "text": "And uh that's about it.",
+      "source_segment_ids": [
+        "TS3003d.sync.963"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0062",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 444.982,
+      "end_seconds": 452.053,
+      "text": "that we're going to have a pretty hard time producing this for twelve and a half Euros.",
+      "source_segment_ids": [
+        "TS3003d.sync.63"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0063",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 453.504,
+      "end_seconds": 454.068,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.597"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0064",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 454.073,
+      "end_seconds": 465.756,
+      "text": "If we see I don't know if I've filled in correctly, so just correct me if you see uh something wrong. I counted two batteries. But maybe we can also use one. I don't know if it's possible.",
+      "source_segment_ids": [
+        "TS3003d.sync.65"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0065",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 465.044,
+      "end_seconds": 466.366,
+      "text": "Since it rechargeable.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,178"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0066",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 466.733,
+      "end_seconds": 468.383,
+      "text": "It's rechargeable. That's right.",
+      "source_segment_ids": [
+        "TS3003d.sync.67"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0067",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 467.695,
+      "end_seconds": 469.898,
+      "text": "Yeah we can u just uh",
+      "source_segment_ids": [
+        "TS3003d.sync.599"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0068",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 471.563,
+      "end_seconds": 479.778,
+      "text": "Okay. That's two Euros off. We need the advanced chip. So there's not much to uh",
+      "source_segment_ids": [
+        "TS3003d.sync.69"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0069",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 474.644,
+      "end_seconds": 475.593,
+      "text": "'Kay.",
+      "source_segment_ids": [
+        "TS3003d.sync.601"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0070",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 477.943,
+      "end_seconds": 478.502,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.965"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0071",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 481.84,
+      "end_seconds": 494.324,
+      "text": "to save there. Here we have the single curves. Uh we can see that the difference between uncurved and the single curved is one Euro. Um,",
+      "source_segment_ids": [
+        "TS3003d.sync.71"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0072",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 492.752,
+      "end_seconds": 493.483,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.603"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0073",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 495.593,
+      "end_seconds": 508.058,
+      "text": "I don't know, but I think the single curved is good for design, and also for the display to have a prominent place on the remote control. I think we have to keep that.",
+      "source_segment_ids": [
+        "TS3003d.sync.73"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0074",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 500.304,
+      "end_seconds": 500.907,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.605"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0075",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 505.744,
+      "end_seconds": 506.473,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.967"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0076",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 507.584,
+      "end_seconds": 508.133,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.607"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0077",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 508.058,
+      "end_seconds": 539.312,
+      "text": "Then we have the case material supplements. It's plastic. It's the cheapest one we need. So that's uh not much to save either. But then the biggest costs are the buttons. So maybe we really should try to discard some buttons to uh keep our costs low. Because you have to we will have to get the twelve and a half Euros at the end. Um,",
+      "source_segment_ids": [
+        "TS3003d.sync.74",
+        "TS3003d.sync.75"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0078",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 526.992,
+      "end_seconds": 527.726,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.609"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0079",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 530.768,
+      "end_seconds": 531.286,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.611"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0080",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 540.736,
+      "end_seconds": 552.989,
+      "text": "so if we Let's fir first count the buttons we have now. Because I Sixteen. Nah, that will be even more then. Eighteen Euros.",
+      "source_segment_ids": [
+        "TS3003d.sync.77"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0081",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 543.131,
+      "end_seconds": 546.531,
+      "text": "Uh Sixteen, I believe so.",
+      "source_segment_ids": [
+        "TS3003d.sync.613",
+        "TS3003d.sync.615"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0082",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 556.12,
+      "end_seconds": 557.063,
+      "text": "So,",
+      "source_segment_ids": [
+        "TS3003d.sync.79"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0083",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 556.158,
+      "end_seconds": 557.48,
+      "text": "Uh seventeen.",
+      "source_segment_ids": [
+        "TS3003d.sync.617"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0084",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 558.207,
+      "end_seconds": 559.191,
+      "text": "seventeen.",
+      "source_segment_ids": [
+        "TS3003d.sync.81"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0085",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 558.591,
+      "end_seconds": 559.373,
+      "text": "Um",
+      "source_segment_ids": [
+        "TS3003d.sync.1,180"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0086",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 559.48,
+      "end_seconds": 561.108,
+      "text": "Uh with the help button.",
+      "source_segment_ids": [
+        "TS3003d.sync.619"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0087",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 562.04,
+      "end_seconds": 562.711,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.971"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0088",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 562.085,
+      "end_seconds": 569.93,
+      "text": "Okay, including the help? Yeah. Uh seventeen. I think we can uh discard the help and the mute button",
+      "source_segment_ids": [
+        "TS3003d.sync.83"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0089",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 562.803,
+      "end_seconds": 563.52,
+      "text": "Damn.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,182"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0090",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 563.429,
+      "end_seconds": 563.876,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.621"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0091",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 570.845,
+      "end_seconds": 575.862,
+      "text": "uh by pressing down volume long, or pressing down a a number",
+      "source_segment_ids": [
+        "TS3003d.sync.85"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0092",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 576.64,
+      "end_seconds": 576.992,
+      "text": ".",
+      "source_segment_ids": [
+        "TS3003d.sync.623"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0093",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 577.04,
+      "end_seconds": 577.66,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.973"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0094",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 577.444,
+      "end_seconds": 583.572,
+      "text": "long. That saves us uh one Euro already.'Cause then we have got fifteen I think?",
+      "source_segment_ids": [
+        "TS3003d.sync.87"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0095",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 583.05,
+      "end_seconds": 583.728,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.975"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0096",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 584.688,
+      "end_seconds": 587.811,
+      "text": "Wouldn't Yeah. No. That wouldn't be an option.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,186"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0097",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 585.592,
+      "end_seconds": 590.037,
+      "text": "Fifteen buttons. And this is",
+      "source_segment_ids": [
+        "TS3003d.sync.89",
+        "TS3003d.sync.91"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0098",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 589.066,
+      "end_seconds": 594.489,
+      "text": "Uh, d I assume you'd count the volume and channel thingies for two buttons each, right?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,188"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0099",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 594.414,
+      "end_seconds": 596.535,
+      "text": "No those are one, I think.",
+      "source_segment_ids": [
+        "TS3003d.sync.93"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0100",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 595.648,
+      "end_seconds": 596.277,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.625"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0101",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 597.579,
+      "end_seconds": 600.427,
+      "text": "Well, think actually there're two buttons, aren't they?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,190"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0102",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 597.735,
+      "end_seconds": 615.125,
+      "text": "Where did uh Uh, it's just one button. But, um Yeah. There were uh two uh for one big button. But they are uh more expensive than the small ones. Uh, yeah. So",
+      "source_segment_ids": [
+        "TS3003d.sync.627",
+        "TS3003d.sync.629",
+        "TS3003d.sync.631"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0103",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 614.154,
+      "end_seconds": 625.972,
+      "text": "Yeah but th it's not stated in this files. So maybe we can we can even make one button with the volume and the channel in one, by pressing",
+      "source_segment_ids": [
+        "TS3003d.sync.95"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0104",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 616.432,
+      "end_seconds": 619.774,
+      "text": "It's just a.",
+      "source_segment_ids": [
+        "TS3003d.sync.633"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0105",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 624.867,
+      "end_seconds": 629.24,
+      "text": "Well I was thinking, maybe you could just integrate three of those numbers to one button.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,192"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0106",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 630.335,
+      "end_seconds": 631.985,
+      "text": "That's possibility as well.",
+      "source_segment_ids": [
+        "TS3003d.sync.97"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0107",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 632.064,
+      "end_seconds": 634.122,
+      "text": "That would cut the cost.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,194"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0108",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 634.847,
+      "end_seconds": 643.735,
+      "text": "So And it's good for the design as well. So you can make Uh let's see. If you make this",
+      "source_segment_ids": [
+        "TS3003d.sync.99",
+        "TS3003d.sync.101"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0109",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 658.544,
+      "end_seconds": 666.208,
+      "text": "Looks a bit like uh a cross.",
+      "source_segment_ids": [
+        "TS3003d.sync.103",
+        "TS3003d.sync.105"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0110",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 670.544,
+      "end_seconds": 672.304,
+      "text": "Plus. Min.",
+      "source_segment_ids": [
+        "TS3003d.sync.107"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0111",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 674.541,
+      "end_seconds": 685.088,
+      "text": "But I don't don't know if if it's cheaper. So uh, we've still got four buttons, but just um So",
+      "source_segment_ids": [
+        "TS3003d.sync.635"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0112",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 677.232,
+      "end_seconds": 680.148,
+      "text": "Uh s yeah channel. Yeah w",
+      "source_segment_ids": [
+        "TS3003d.sync.109"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0113",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 684.911,
+      "end_seconds": 687.739,
+      "text": "Yeah th I think they count uh the materials.",
+      "source_segment_ids": [
+        "TS3003d.sync.111"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0114",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 687.118,
+      "end_seconds": 693.936,
+      "text": "You got uh not not a butt button itself, but uh on the um",
+      "source_segment_ids": [
+        "TS3003d.sync.637"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0115",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 692.621,
+      "end_seconds": 694.911,
+      "text": "Yeah on the chip there. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.113"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0116",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 693.936,
+      "end_seconds": 698.779,
+      "text": "Yeah. On the chip you've got still uh four uh four buttons. So",
+      "source_segment_ids": [
+        "TS3003d.sync.638"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0117",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 694.42,
+      "end_seconds": 695.2,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.977"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0118",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 695.639,
+      "end_seconds": 696.554,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,196"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0119",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 696.224,
+      "end_seconds": 697.744,
+      "text": "That's right. That's right.",
+      "source_segment_ids": [
+        "TS3003d.sync.115"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0120",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 698.432,
+      "end_seconds": 699.096,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,198"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0121",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 698.736,
+      "end_seconds": 706.123,
+      "text": "But I think because we have the advanced chip we can just count this as one button. But No but I think",
+      "source_segment_ids": [
+        "TS3003d.sync.117"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0122",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 701.712,
+      "end_seconds": 702.7,
+      "text": "Yeah, but",
+      "source_segment_ids": [
+        "TS3003d.sync.640"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0123",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 705.528,
+      "end_seconds": 708.64,
+      "text": "But, I think this really is four buttons anyhow.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,202"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0124",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 709.152,
+      "end_seconds": 709.808,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.979"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0125",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 711.68,
+      "end_seconds": 731.727,
+      "text": "Yeah. Maybe it is, but then it seems to me that it's impossible to get the twelve and a half Euros. Also the L_C_ display, I think it's, I think it's too expensive for the display we use. I think they uh try t",
+      "source_segment_ids": [
+        "TS3003d.sync.121"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0126",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 721.311,
+      "end_seconds": 722.242,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,204"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0127",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 723.744,
+      "end_seconds": 725.48,
+      "text": "Uh that's that's a big cost.",
+      "source_segment_ids": [
+        "TS3003d.sync.981"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0128",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 731.648,
+      "end_seconds": 735.968,
+      "text": "If we leave out the display we can also save money on the chip.",
+      "source_segment_ids": [
+        "TS3003d.sync.983"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0129",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 737.74,
+      "end_seconds": 745.44,
+      "text": "That's right, but what's the big advantage of our remote then?",
+      "source_segment_ids": [
+        "TS3003d.sync.123"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0130",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 745.36,
+      "end_seconds": 747.328,
+      "text": "Only the docking station, I guess.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,206"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0131",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 747.639,
+      "end_seconds": 748.615,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.125"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0132",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 749.598,
+      "end_seconds": 754.08,
+      "text": "Which isn't the the docking station isn't even in this c s schematic.",
+      "source_segment_ids": [
+        "TS3003d.sync.985"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0133",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 755.248,
+      "end_seconds": 760.231,
+      "text": "No. That's extra. That's extra. That's right.",
+      "source_segment_ids": [
+        "TS3003d.sync.127"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0134",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 755.293,
+      "end_seconds": 758.08,
+      "text": "So it's not even taken into the price.",
+      "source_segment_ids": [
+        "TS3003d.sync.987"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0135",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 760.768,
+      "end_seconds": 762.72,
+      "text": "Maybe we should to a different supplier.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,208"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0136",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 763.296,
+      "end_seconds": 783.392,
+      "text": "That's an option. Poland. Something. Polish supplier. Don't you think we can, if we can count this as v as one button, and integrate th uh these buttons in three, then we save a lot of money as well.",
+      "source_segment_ids": [
+        "TS3003d.sync.129"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0137",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 767.744,
+      "end_seconds": 769.152,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,212"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0138",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 782.535,
+      "end_seconds": 789.12,
+      "text": "We we could save money on it. But would it make the remote more usable for elderly people?",
+      "source_segment_ids": [
+        "TS3003d.sync.989"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0139",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 788.966,
+      "end_seconds": 789.577,
+      "text": ".",
+      "source_segment_ids": [
+        "TS3003d.sync.642"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0140",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 789.754,
+      "end_seconds": 792.601,
+      "text": "Yeah, that's what I'm wondering.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,214"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0141",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 791.418,
+      "end_seconds": 796.208,
+      "text": "My mother can't even send send an S_M_S_ message. So",
+      "source_segment_ids": [
+        "TS3003d.sync.991",
+        "TS3003d.sync.993"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0142",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 795.548,
+      "end_seconds": 797.4,
+      "text": "Yeah. That's a point.",
+      "source_segment_ids": [
+        "TS3003d.sync.131"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0143",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 797.991,
+      "end_seconds": 798.771,
+      "text": "Um",
+      "source_segment_ids": [
+        "TS3003d.sync.1,216"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0144",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 798.512,
+      "end_seconds": 804.032,
+      "text": "Are we gonna buy a um a remote control uh when you can uh use it? So um",
+      "source_segment_ids": [
+        "TS3003d.sync.646"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0145",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 805.84,
+      "end_seconds": 819.056,
+      "text": "Yeah. We m uh we must um stay below the um below um twelve uh fifty or Can't uh go um",
+      "source_segment_ids": [
+        "TS3003d.sync.648",
+        "TS3003d.sync.650"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0146",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 816.496,
+      "end_seconds": 817.013,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.133"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0147",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 816.576,
+      "end_seconds": 817.056,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.995"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0148",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 819.303,
+      "end_seconds": 819.875,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.135"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0149",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 821.52,
+      "end_seconds": 837.271,
+      "text": "Well, since the market research indicated that older people spend their money easier, more easy, maybe it's feasible to just put the price of the remote up a little. Especially since we have those nice features.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,218",
+        "TS3003d.sync.1,220"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0150",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 835.472,
+      "end_seconds": 835.978,
+      "text": "Nay.",
+      "source_segment_ids": [
+        "TS3003d.sync.652"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0151",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 838.072,
+      "end_seconds": 850.564,
+      "text": "Yeah but uh we have to stick to the twelve and a half Euros. We don't have any more budget to develop it. Yeah. So",
+      "source_segment_ids": [
+        "TS3003d.sync.137"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0152",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 845.351,
+      "end_seconds": 847.488,
+      "text": "The margin will get too small. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.997"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0153",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 845.504,
+      "end_seconds": 846.758,
+      "text": "Is it impossible to",
+      "source_segment_ids": [
+        "TS3003d.sync.654"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0154",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 849.572,
+      "end_seconds": 854.894,
+      "text": "But it is possible to make one uh for uh twelve fifty. I don't think so.",
+      "source_segment_ids": [
+        "TS3003d.sync.656",
+        "TS3003d.sync.658"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0155",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 854.315,
+      "end_seconds": 862.064,
+      "text": "It is. If you leave out the L_C_ display. And if you use less buttons.",
+      "source_segment_ids": [
+        "TS3003d.sync.139"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0156",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 855.127,
+      "end_seconds": 857.737,
+      "text": "It would be a be a pretty rigid one.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,222"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0157",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 856.426,
+      "end_seconds": 856.873,
+      "text": "S",
+      "source_segment_ids": [
+        "TS3003d.sync.660"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0158",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 860.432,
+      "end_seconds": 860.815,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.662"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0159",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 863.036,
+      "end_seconds": 868.464,
+      "text": "Say Or you can take the single chip.",
+      "source_segment_ids": [
+        "TS3003d.sync.141"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0160",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 864.368,
+      "end_seconds": 864.944,
+      "text": "Ten.",
+      "source_segment_ids": [
+        "TS3003d.sync.999"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0161",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 864.645,
+      "end_seconds": 867.696,
+      "text": "But, you can't use uh",
+      "source_segment_ids": [
+        "TS3003d.sync.666"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0162",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 871.05,
+      "end_seconds": 874.652,
+      "text": "There it is.",
+      "source_segment_ids": [
+        "TS3003d.sync.143"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0163",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 872.306,
+      "end_seconds": 872.917,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.668"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0164",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 875.328,
+      "end_seconds": 883.424,
+      "text": "But we want to make a uh so uh uh fancy and a good uh Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.670",
+        "TS3003d.sync.671"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0165",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 877.581,
+      "end_seconds": 878.861,
+      "text": "But then w",
+      "source_segment_ids": [
+        "TS3003d.sync.145"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0166",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 883.792,
+      "end_seconds": 884.802,
+      "text": "Good looking.",
+      "source_segment_ids": [
+        "TS3003d.sync.147"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0167",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 883.832,
+      "end_seconds": 887.152,
+      "text": "Uh, wi with n Oh, with uh",
+      "source_segment_ids": [
+        "TS3003d.sync.673"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0168",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 889.011,
+      "end_seconds": 889.92,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.149"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0169",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 889.067,
+      "end_seconds": 896.16,
+      "text": "attractive uh o options. So uh, you can stay uh below uh twelve fifty. So",
+      "source_segment_ids": [
+        "TS3003d.sync.675"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0170",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 896.183,
+      "end_seconds": 898.506,
+      "text": "I think it's uh difficult as well, but",
+      "source_segment_ids": [
+        "TS3003d.sync.151"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0171",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 896.43,
+      "end_seconds": 909.232,
+      "text": "Or b Basically becoming a choice between like either a good remote and a higher production cost, or just any other remote control.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,226",
+        "TS3003d.sync.1,228"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0172",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 907.104,
+      "end_seconds": 908.781,
+      "text": "No remote.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,003"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0173",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 909.711,
+      "end_seconds": 916.096,
+      "text": "Or we can leave out the ten buttons and take one scroll wheel for the programme numbers.",
+      "source_segment_ids": [
+        "TS3003d.sync.153"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0174",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 917.398,
+      "end_seconds": 918.656,
+      "text": "Scroll-wheel's one.",
+      "source_segment_ids": [
+        "TS3003d.sync.677"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0175",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 917.454,
+      "end_seconds": 918.238,
+      "text": "Then w",
+      "source_segment_ids": [
+        "TS3003d.sync.155"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0176",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 917.651,
+      "end_seconds": 919.923,
+      "text": "That's",
+      "source_segment_ids": [
+        "TS3003d.sync.1,005"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0177",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 918.869,
+      "end_seconds": 930.822,
+      "text": "Because then we save ten buttons. Then we have five and one. And and see. If we have this one and we've got the advanced",
+      "source_segment_ids": [
+        "TS3003d.sync.157"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0178",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 919.499,
+      "end_seconds": 922.19,
+      "text": "No, it Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.679",
+        "TS3003d.sync.681"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0179",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 933.671,
+      "end_seconds": 936.999,
+      "text": "W uh, we're getting close.",
+      "source_segment_ids": [
+        "TS3003d.sync.159"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0180",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 934.215,
+      "end_seconds": 935.538,
+      "text": "We're getting closer.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,007"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0181",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 935.662,
+      "end_seconds": 936.743,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.683"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0182",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 938.176,
+      "end_seconds": 940.304,
+      "text": "But how does scroll-wheel work here?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,230"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0183",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 942.992,
+      "end_seconds": 944.541,
+      "text": "Then you will",
+      "source_segment_ids": [
+        "TS3003d.sync.161"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0184",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 948.076,
+      "end_seconds": 949.76,
+      "text": "Or maybe you can",
+      "source_segment_ids": [
+        "TS3003d.sync.163"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0185",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 951.988,
+      "end_seconds": 960.81,
+      "text": "um scroll. If you scroll you will see the numbers on the L_C_D_ display. Until you've got the right number, then you push it.",
+      "source_segment_ids": [
+        "TS3003d.sync.165"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0186",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 958.786,
+      "end_seconds": 959.566,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,009"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0187",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 961.424,
+      "end_seconds": 964.584,
+      "text": "That would bring up the price of the scroll-wheel also.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,232"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0188",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 965.524,
+      "end_seconds": 972.944,
+      "text": "Alright. It's gotta scroll and push. Okay but then you you can push uh some other button as well.",
+      "source_segment_ids": [
+        "TS3003d.sync.167"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0189",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 965.567,
+      "end_seconds": 969.264,
+      "text": "Integrated scroll-wheel push-button. But Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,234"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0190",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 966.72,
+      "end_seconds": 967.096,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.685"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0191",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 973.785,
+      "end_seconds": 976.294,
+      "text": "You could just not scroll for a half a second.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,011"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0192",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 976.586,
+      "end_seconds": 983.084,
+      "text": "Yeah. That's right. So if you scroll to a number and then you wait a half second, then it g turns to that channel.",
+      "source_segment_ids": [
+        "TS3003d.sync.169"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0193",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 977.456,
+      "end_seconds": 979.209,
+      "text": "So you won't need a button.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,013"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0194",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 982.279,
+      "end_seconds": 985.264,
+      "text": "I think that would be like the end of our usability.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,236"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0195",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 985.34,
+      "end_seconds": 996.4,
+      "text": "But it would definitely crop cost, a lot. And we need the battery.",
+      "source_segment_ids": [
+        "TS3003d.sync.171"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0196",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 985.664,
+      "end_seconds": 987.491,
+      "text": "D yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.687"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0197",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 991.694,
+      "end_seconds": 992.672,
+      "text": "Yeah, but",
+      "source_segment_ids": [
+        "TS3003d.sync.1,240"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0198",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1001.052,
+      "end_seconds": 1005.53,
+      "text": "And the regular chip is not possible? It has to be advanced?",
+      "source_segment_ids": [
+        "TS3003d.sync.175"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0199",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1006.63,
+      "end_seconds": 1010.664,
+      "text": "If you want to use an L_C_D_ screen you you need an advanced chip, yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,017"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0200",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1008.695,
+      "end_seconds": 1016.91,
+      "text": "It has to be advanced. Yeah. Okay. And we can save a Euro by a flat design.",
+      "source_segment_ids": [
+        "TS3003d.sync.177"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0201",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1010.075,
+      "end_seconds": 1010.694,
+      "text": "Hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.689"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0202",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1019.806,
+      "end_seconds": 1025.264,
+      "text": "That's an option we can Then we're almost there.",
+      "source_segment_ids": [
+        "TS3003d.sync.179"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0203",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1021.184,
+      "end_seconds": 1022.016,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,019"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0204",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1021.483,
+      "end_seconds": 1022.33,
+      "text": "Ja ja.",
+      "source_segment_ids": [
+        "TS3003d.sync.691"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0205",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1026.016,
+      "end_seconds": 1029.778,
+      "text": "Yeah if you v could just leave out one more button.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,021"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0206",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1030.672,
+      "end_seconds": 1033.13,
+      "text": "Yeah. So if we",
+      "source_segment_ids": [
+        "TS3003d.sync.181"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0207",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1033.2,
+      "end_seconds": 1036.48,
+      "text": "Yeah, or we have to uh skip the subtitle uh button.",
+      "source_segment_ids": [
+        "TS3003d.sync.693"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0208",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1036.56,
+      "end_seconds": 1037.104,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,023"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0209",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1037.024,
+      "end_seconds": 1040.976,
+      "text": "Yeah but I think that's That is a big advantage, if we're",
+      "source_segment_ids": [
+        "TS3003d.sync.183"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0210",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1037.373,
+      "end_seconds": 1044.458,
+      "text": "So Yeah Yeah it's a big advantage. But um, it's",
+      "source_segment_ids": [
+        "TS3003d.sync.695",
+        "TS3003d.sync.697"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0211",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1042.053,
+      "end_seconds": 1047.945,
+      "text": "But Can we use can't we integrate the teletext and the subtitles in one button?",
+      "source_segment_ids": [
+        "TS3003d.sync.185",
+        "TS3003d.sync.187"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0212",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1048.414,
+      "end_seconds": 1049.939,
+      "text": "I think so. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,025"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0213",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1048.512,
+      "end_seconds": 1049.271,
+      "text": "Uh, yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.699"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0214",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1049.696,
+      "end_seconds": 1052.192,
+      "text": "If you push it three times?",
+      "source_segment_ids": [
+        "TS3003d.sync.189"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0215",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1049.776,
+      "end_seconds": 1060.736,
+      "text": "Well, think it's pretty much the teletext subtitles are right now you just push the teletext button, go to page eight eight eight, and teletext disappears. But the subtitles stay there.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,244"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0216",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1051.182,
+      "end_seconds": 1051.965,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.701"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0217",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1057.059,
+      "end_seconds": 1057.833,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.191"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0218",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1057.518,
+      "end_seconds": 1058.144,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.703"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0219",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1061.6,
+      "end_seconds": 1064.208,
+      "text": "But if you push the teletext button twice",
+      "source_segment_ids": [
+        "TS3003d.sync.707"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0220",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1062.313,
+      "end_seconds": 1063.872,
+      "text": "I think that's the case on most",
+      "source_segment_ids": [
+        "TS3003d.sync.1,246"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0221",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1062.632,
+      "end_seconds": 1070.562,
+      "text": "What if you have to scroll to page eighty eight? Eight hundred eighty eight.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,027"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0222",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1065.819,
+      "end_seconds": 1066.49,
+      "text": "It's uh",
+      "source_segment_ids": [
+        "TS3003d.sync.709"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0223",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1068.754,
+      "end_seconds": 1071.907,
+      "text": "One m uh one b uh, a few buttons.",
+      "source_segment_ids": [
+        "TS3003d.sync.711"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0224",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1068.776,
+      "end_seconds": 1070.359,
+      "text": "Ah that's not really that",
+      "source_segment_ids": [
+        "TS3003d.sync.193"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0225",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1069.363,
+      "end_seconds": 1075.228,
+      "text": "Well, that could be just uh like the scroll to eight, click, scroll to eight, click, scroll to eight, click.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,248"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0226",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1074.87,
+      "end_seconds": 1076.192,
+      "text": "Yeah. Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,029"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0227",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1076.848,
+      "end_seconds": 1083.824,
+      "text": "But then again that would be d j just pretty much not an option for older people, who don't even know what a scroll-wheel is.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,250"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0228",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1082.127,
+      "end_seconds": 1083.058,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,031"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0229",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1084.128,
+      "end_seconds": 1084.712,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.713"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0230",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1085.344,
+      "end_seconds": 1086.107,
+      "text": "Holding a",
+      "source_segment_ids": [
+        "TS3003d.sync.1,252"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0231",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1085.626,
+      "end_seconds": 1086.468,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.195"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0232",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1087.712,
+      "end_seconds": 1093.696,
+      "text": "remote with which they expect to have like ten buttons for the numbers one to zero.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,254"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0233",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1096.336,
+      "end_seconds": 1097.664,
+      "text": "With only five buttons on it.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,256"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0234",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1099.744,
+      "end_seconds": 1100.785,
+      "text": "And a scroll-wheel.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,258"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0235",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1101.737,
+      "end_seconds": 1117.528,
+      "text": "I think if you make a good advertisement uh on television and in the in the guide, you can explain to the people how to use the scroll wheel. If you just make it real simple.",
+      "source_segment_ids": [
+        "TS3003d.sync.197",
+        "TS3003d.sync.199"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0236",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1120.719,
+      "end_seconds": 1131.123,
+      "text": "Because it saves it saves a lot of money. And we can keep our L_C_D_ screen, which can provide extra information. How to use the scroll wheel. How to use the other bu buttons as subtitles.",
+      "source_segment_ids": [
+        "TS3003d.sync.201"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0237",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1128.494,
+      "end_seconds": 1130.022,
+      "text": "True. True.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,260"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0238",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1130.976,
+      "end_seconds": 1131.415,
+      "text": "Hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.715"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0239",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1133.042,
+      "end_seconds": 1140.783,
+      "text": "And it's good for the innovative design as well. If you would erase these.",
+      "source_segment_ids": [
+        "TS3003d.sync.203"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0240",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1142.5,
+      "end_seconds": 1144.991,
+      "text": "Mm eraser?",
+      "source_segment_ids": [
+        "TS3003d.sync.205"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0241",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1157.547,
+      "end_seconds": 1159.365,
+      "text": "And we put uh",
+      "source_segment_ids": [
+        "TS3003d.sync.207"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0242",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1166.907,
+      "end_seconds": 1169.804,
+      "text": "Looks a bit odd maybe.",
+      "source_segment_ids": [
+        "TS3003d.sync.209"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0243",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1169.871,
+      "end_seconds": 1171.566,
+      "text": "That's a pretty big scroll wheel.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,262"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0244",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1181.729,
+      "end_seconds": 1182.835,
+      "text": "That is",
+      "source_segment_ids": [
+        "TS3003d.sync.211"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0245",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1190.954,
+      "end_seconds": 1203.244,
+      "text": "Something like that. Then, yeah. We've got the scroll-wheel. One, two, three, four, five buttons, if we erase this one.",
+      "source_segment_ids": [
+        "TS3003d.sync.213"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0246",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1214.896,
+      "end_seconds": 1216.869,
+      "text": "And these are two buttons then.",
+      "source_segment_ids": [
+        "TS3003d.sync.215"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0247",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1227.042,
+      "end_seconds": 1238.384,
+      "text": "We could make two buttons out of that. And just um If you press the volume button you can control the volume with the scroll-wheel.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,035",
+        "TS3003d.sync.1,037"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0248",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1236.064,
+      "end_seconds": 1236.842,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.217"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0249",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1239.824,
+      "end_seconds": 1243.211,
+      "text": "So that would save two buttons. If you do the same for the channel.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,039"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0250",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1241.68,
+      "end_seconds": 1247.184,
+      "text": "Yeah. That's really a good good idea, I think.",
+      "source_segment_ids": [
+        "TS3003d.sync.219",
+        "TS3003d.sync.221"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0251",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1251.874,
+      "end_seconds": 1257.6,
+      "text": "And it will make the use of the scroll wheel uh more obvious indeed.",
+      "source_segment_ids": [
+        "TS3003d.sync.223"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0252",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1255.392,
+      "end_seconds": 1256.32,
+      "text": "More obvious.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,041"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0253",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1259.76,
+      "end_seconds": 1264.497,
+      "text": "So we make one for the volume, one for the channel.",
+      "source_segment_ids": [
+        "TS3003d.sync.225"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0254",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1271.792,
+      "end_seconds": 1282.52,
+      "text": "Plus scroll. That's right. So we've got one, two, three. Yeah, we can leave the teletext in if we want.",
+      "source_segment_ids": [
+        "TS3003d.sync.227"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0255",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1274.88,
+      "end_seconds": 1275.881,
+      "text": "So if we",
+      "source_segment_ids": [
+        "TS3003d.sync.1,043"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0256",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1282.681,
+      "end_seconds": 1284.41,
+      "text": "Yeah. So",
+      "source_segment_ids": [
+        "TS3003d.sync.1,045"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0257",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1283.04,
+      "end_seconds": 1283.392,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.717"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0258",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1283.584,
+      "end_seconds": 1284.976,
+      "text": "That's m that's better.",
+      "source_segment_ids": [
+        "TS3003d.sync.229"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0259",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1284.648,
+      "end_seconds": 1286.377,
+      "text": "So this is five buttons.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,266"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0260",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1285.728,
+      "end_seconds": 1304.992,
+      "text": "If we leave out all those buttons, perhaps you can go with the flat flat case. And make it smaller overall. So if you put the the volume and channel buttons on the same height as the on-off button, the screen right behi under that, than the scroll button",
+      "source_segment_ids": [
+        "TS3003d.sync.1,047",
+        "TS3003d.sync.1,049"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0261",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1295.109,
+      "end_seconds": 1295.946,
+      "text": "Y yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.231"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0262",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1301.808,
+      "end_seconds": 1302.476,
+      "text": "Mm yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.233"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0263",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1305.184,
+      "end_seconds": 1307.063,
+      "text": "Uh yeah, and then you can",
+      "source_segment_ids": [
+        "TS3003d.sync.235"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0264",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1305.984,
+      "end_seconds": 1308.144,
+      "text": "you get a a much smaller remote.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,051"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0265",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1307.92,
+      "end_seconds": 1308.68,
+      "text": "Uh yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.719"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0266",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1308.464,
+      "end_seconds": 1309.273,
+      "text": "That's right.",
+      "source_segment_ids": [
+        "TS3003d.sync.237"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0267",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1310.032,
+      "end_seconds": 1310.839,
+      "text": "And it",
+      "source_segment_ids": [
+        "TS3003d.sync.1,053"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0268",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1311.392,
+      "end_seconds": 1312.048,
+      "text": "So we can",
+      "source_segment_ids": [
+        "TS3003d.sync.239"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0269",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1311.517,
+      "end_seconds": 1312.297,
+      "text": "sh",
+      "source_segment_ids": [
+        "TS3003d.sync.1,055"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0270",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1313.28,
+      "end_seconds": 1316.224,
+      "text": "decrease this one to four buttons.",
+      "source_segment_ids": [
+        "TS3003d.sync.241"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0271",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1316.772,
+      "end_seconds": 1317.585,
+      "text": "Yeah?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,057"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0272",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1317.419,
+      "end_seconds": 1318.945,
+      "text": "Right now we have five.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,268"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0273",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1318.384,
+      "end_seconds": 1333.808,
+      "text": "But uh, you can make a f quite a big uh remote remote control for uh just the same price as a small one. Just uh you only have to pay for the double curved or single curved. It uh it's a bit uh",
+      "source_segment_ids": [
+        "TS3003d.sync.721"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0274",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1326.976,
+      "end_seconds": 1328.75,
+      "text": "Yeah. That's no problem.",
+      "source_segment_ids": [
+        "TS3003d.sync.243"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0275",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1332.076,
+      "end_seconds": 1350.069,
+      "text": "Yeah. Yeah. It's uh it's more the moulds in which they are being made, I think. Single curved is really easy to just fill in. And cases come right out of the machine. And single curved you have to have a different uh different machine, than a flat one.",
+      "source_segment_ids": [
+        "TS3003d.sync.245",
+        "TS3003d.sync.247"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0276",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1339.027,
+      "end_seconds": 1339.81,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,270"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0277",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1342.032,
+      "end_seconds": 1342.624,
+      "text": ".",
+      "source_segment_ids": [
+        "TS3003d.sync.723"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0278",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1350.069,
+      "end_seconds": 1363.744,
+      "text": "I think this is a really easy one. Um, what does everybody think about a flat or a single curved design? Freek, what do you think?",
+      "source_segment_ids": [
+        "TS3003d.sync.248",
+        "TS3003d.sync.250"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0279",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1364.72,
+      "end_seconds": 1370.08,
+      "text": "Well, I still think we should go for the single curve design. But then again,",
+      "source_segment_ids": [
+        "TS3003d.sync.1,272"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0280",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1367.952,
+      "end_seconds": 1368.628,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,059"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0281",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1368.448,
+      "end_seconds": 1368.912,
+      "text": ".",
+      "source_segment_ids": [
+        "TS3003d.sync.725"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0282",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1369.882,
+      "end_seconds": 1372.357,
+      "text": "Richard's argument was very good. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,061"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0283",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1370.793,
+      "end_seconds": 1371.463,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.727"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0284",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1370.848,
+      "end_seconds": 1376.284,
+      "text": "all these changes are not really okay with me. But since",
+      "source_segment_ids": [
+        "TS3003d.sync.1,274"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0285",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1371.333,
+      "end_seconds": 1371.935,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.252"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0286",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1373.643,
+      "end_seconds": 1374.346,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.254"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0287",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1376.991,
+      "end_seconds": 1381.578,
+      "text": "We have to cut costs. Yeah. Yeah I'm ag",
+      "source_segment_ids": [
+        "TS3003d.sync.258"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0288",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1377.504,
+      "end_seconds": 1378.758,
+      "text": "we just have to.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,276"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0289",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1378.302,
+      "end_seconds": 1378.946,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.729"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0290",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1380.881,
+      "end_seconds": 1382.672,
+      "text": "I'd rather just go to the board and",
+      "source_segment_ids": [
+        "TS3003d.sync.1,278"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0291",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1384.384,
+      "end_seconds": 1385.59,
+      "text": "Ask for more money.",
+      "source_segment_ids": [
+        "TS3003d.sync.260"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0292",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1384.707,
+      "end_seconds": 1387.961,
+      "text": "get us to spend eighteen dollars a a remote.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,280"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0293",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1386.816,
+      "end_seconds": 1390.88,
+      "text": "Yeah. Yeah. I am agreeing with the usability. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.262",
+        "TS3003d.sync.264"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0294",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1389.046,
+      "end_seconds": 1392.352,
+      "text": "Or do some market research and see what the options are.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,282"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0295",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1393.792,
+      "end_seconds": 1415.91,
+      "text": "Yeah. But th um I think we can then keep the single curved one. Just to express our L_C_D_ screen a bit more. So people will use it more, and especially for the help functions, it will be good if we have scroll bar, scroll button. It will be necessary to have good help function, as well.",
+      "source_segment_ids": [
+        "TS3003d.sync.266"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0296",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1403.168,
+      "end_seconds": 1404.005,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,063"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0297",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1403.262,
+      "end_seconds": 1403.896,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,284"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0298",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1404.139,
+      "end_seconds": 1404.735,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.731"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0299",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1423.786,
+      "end_seconds": 1425.728,
+      "text": "So this is scroll.",
+      "source_segment_ids": [
+        "TS3003d.sync.268"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0300",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1436.107,
+      "end_seconds": 1444.176,
+      "text": "I think it was better to have this price list a bit earlier. Before we went on to the to the whole design.",
+      "source_segment_ids": [
+        "TS3003d.sync.270"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0301",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1440.221,
+      "end_seconds": 1442.221,
+      "text": "Yes. Definitely.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,286"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0302",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1441.641,
+      "end_seconds": 1442.285,
+      "text": "The th",
+      "source_segment_ids": [
+        "TS3003d.sync.733"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0303",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1445.52,
+      "end_seconds": 1448.633,
+      "text": "But I'm glad we could make a bit.",
+      "source_segment_ids": [
+        "TS3003d.sync.272",
+        "TS3003d.sync.274"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0304",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1450.424,
+      "end_seconds": 1451.248,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,288"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0305",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1451.278,
+      "end_seconds": 1455.056,
+      "text": "It's pretty different, if you saw the last one than this one.",
+      "source_segment_ids": [
+        "TS3003d.sync.276"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0306",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1452.32,
+      "end_seconds": 1461.632,
+      "text": "It's pretty different. But this is not really like for the group we were making our remote. This will really require a lot of marketing",
+      "source_segment_ids": [
+        "TS3003d.sync.1,290"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0307",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1458.784,
+      "end_seconds": 1459.184,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.737"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0308",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1462.361,
+      "end_seconds": 1463.667,
+      "text": "Yeah. It will.",
+      "source_segment_ids": [
+        "TS3003d.sync.278"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0309",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1462.913,
+      "end_seconds": 1464.896,
+      "text": "to get this to sell.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,292"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0310",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1465.456,
+      "end_seconds": 1466.111,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.280"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0311",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1467.184,
+      "end_seconds": 1468.819,
+      "text": "But um",
+      "source_segment_ids": [
+        "TS3003d.sync.739"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0312",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1467.968,
+      "end_seconds": 1474.676,
+      "text": "'Cause if older people like familiar forms and familiar stuff. This is not familiar for them.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,294"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0313",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1475.536,
+      "end_seconds": 1476.928,
+      "text": "No, but I think",
+      "source_segment_ids": [
+        "TS3003d.sync.282"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0314",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1475.916,
+      "end_seconds": 1478.594,
+      "text": "So we're gonna have to do a lotta convincing them.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,296"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0315",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1478.154,
+      "end_seconds": 1479.216,
+      "text": "I think the most",
+      "source_segment_ids": [
+        "TS3003d.sync.284"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0316",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1479.2,
+      "end_seconds": 1488.48,
+      "text": "But they know the scroll-buttons from uh old radios. Uh they cal also uh buttons like that for uh changing uh channels. So maybe it's uh",
+      "source_segment_ids": [
+        "TS3003d.sync.741"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0317",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1485.449,
+      "end_seconds": 1498.928,
+      "text": "That's right. We can let l We can stick it out, a bit. Like a old old buttons. Maybe that's recognisable for them as well. Yeah. That's a good one.",
+      "source_segment_ids": [
+        "TS3003d.sync.286"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0318",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1485.509,
+      "end_seconds": 1486.255,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,298"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0319",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1491.249,
+      "end_seconds": 1492.639,
+      "text": "Yeah. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.743"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0320",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1496.469,
+      "end_seconds": 1497.079,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.745"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0321",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1498.928,
+      "end_seconds": 1514.793,
+      "text": "So, I'm afraid we have to move on. And it's uh it's b uh less frightening, I think. If they see this design they think oh, there are only five buttons, and uh But we will see.",
+      "source_segment_ids": [
+        "TS3003d.sync.287"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0322",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1513.472,
+      "end_seconds": 1514.223,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.747"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0323",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1513.709,
+      "end_seconds": 1515.872,
+      "text": "That's true. Might uh might be confusing too.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,300"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0324",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1516.128,
+      "end_seconds": 1518.077,
+      "text": "Yeah. That's definitely right.",
+      "source_segment_ids": [
+        "TS3003d.sync.289"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0325",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1516.963,
+      "end_seconds": 1519.234,
+      "text": "They'd be like, what? Only five buttons?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,302"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0326",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1517.12,
+      "end_seconds": 1517.828,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.749"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0327",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1520.16,
+      "end_seconds": 1520.89,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.291"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0328",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1521.536,
+      "end_seconds": 1523.41,
+      "text": "But very special, so uh",
+      "source_segment_ids": [
+        "TS3003d.sync.751"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0329",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1524.841,
+      "end_seconds": 1527.687,
+      "text": "I would buy it.",
+      "source_segment_ids": [
+        "TS3003d.sync.293"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0330",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1526.461,
+      "end_seconds": 1529.504,
+      "text": "Yeah. But you're not sixty.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,304"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0331",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1528.272,
+      "end_seconds": 1539.584,
+      "text": "That's right. I would buy it if I was six. No I don't know. What it costs under twelve and a half Euros? No? Uh, yes they are.",
+      "source_segment_ids": [
+        "TS3003d.sync.295",
+        "TS3003d.sync.297"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0332",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1539.838,
+      "end_seconds": 1541.712,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.755"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0333",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1540.519,
+      "end_seconds": 1546.077,
+      "text": "No. But we can go on with the project evaluation.",
+      "source_segment_ids": [
+        "TS3003d.sync.299"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0334",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1546.592,
+      "end_seconds": 1547.376,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,306"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0335",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1549.451,
+      "end_seconds": 1555.248,
+      "text": "Let's see. I can sit down I think. We still have fifteen minutes left, so we're nice on schedule.",
+      "source_segment_ids": [
+        "TS3003d.sync.301"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0336",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1555.744,
+      "end_seconds": 1556.413,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,071"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0337",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1557.18,
+      "end_seconds": 1560.304,
+      "text": "Um, the project process.",
+      "source_segment_ids": [
+        "TS3003d.sync.303"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0338",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1560.24,
+      "end_seconds": 1564.032,
+      "text": "So um, I like set up all these criteria.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,308"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0339",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1564.467,
+      "end_seconds": 1569.872,
+      "text": "Evaluation criteria. That's right. That was the the point I forgot.",
+      "source_segment_ids": [
+        "TS3003d.sync.307"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0340",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1564.554,
+      "end_seconds": 1566.48,
+      "text": "And evaluation of the",
+      "source_segment_ids": [
+        "TS3003d.sync.1,310"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0341",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1568.016,
+      "end_seconds": 1568.859,
+      "text": "thingy.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,312"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0342",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1570.708,
+      "end_seconds": 1585.959,
+      "text": "I should There we are. Evaluation criteria. Go ahead. We've got five minutes I think for those criteria. No we've got fifteen minutes but",
+      "source_segment_ids": [
+        "TS3003d.sync.309",
+        "TS3003d.sync.311"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0343",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1575.6,
+      "end_seconds": 1577.552,
+      "text": "Thank you.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,316"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0344",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1582.104,
+      "end_seconds": 1583.595,
+      "text": "Five more minutes?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,318"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0345",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1585.528,
+      "end_seconds": 1586.304,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,320"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0346",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1596.318,
+      "end_seconds": 1597.541,
+      "text": "Uh yes. What?",
+      "source_segment_ids": [
+        "TS3003d.sync.313"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0347",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1602.971,
+      "end_seconds": 1608.688,
+      "text": "'Kay so I did some literature study study, and analysis of the requirements we set up earlier.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,322"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0348",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1608.832,
+      "end_seconds": 1609.606,
+      "text": "Uh yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.315"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0349",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1609.68,
+      "end_seconds": 1638.528,
+      "text": "Translated it into criteria, which would be these. Um, is the remote fancy? The shape, look and feel. Innovative? What new functions are there? Uh, easy to use? Uh, learnability is a very important factor here. Uh, is it functional? Are there not too many functions uh among the functions? And are the those functions that are there, are they useful? And the cost.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,324",
+        "TS3003d.sync.1,326"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0350",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1640.72,
+      "end_seconds": 1661.093,
+      "text": "The target group. Is the remote really for the group we're making it for? And recognability. If our company is If it is easily recognisable that our company made it? And So we're supposed to evaluate it right now.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,328",
+        "TS3003d.sync.1,330",
+        "TS3003d.sync.1,332"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0351",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1661.776,
+      "end_seconds": 1662.406,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.317"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0352",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1664.064,
+      "end_seconds": 1664.979,
+      "text": "Let's see.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,334"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0353",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1667.284,
+      "end_seconds": 1674.437,
+      "text": "Oh I have to say this was a little hard, because the minutes of our last meeting were not here.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,336",
+        "TS3003d.sync.1,338"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0354",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1673.962,
+      "end_seconds": 1684.128,
+      "text": "Yeah, that's because my pen failed to upload his data. I tried to but it's uh it's giving errors by downloading the software.",
+      "source_segment_ids": [
+        "TS3003d.sync.319"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0355",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1674.752,
+      "end_seconds": 1675.216,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.759"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0356",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1677.968,
+      "end_seconds": 1678.708,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,340"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0357",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1677.993,
+      "end_seconds": 1679.112,
+      "text": "Yeah?",
+      "source_segment_ids": [
+        "TS3003d.sync.761"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0358",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1679.386,
+      "end_seconds": 1680.234,
+      "text": "Interesting.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,342"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0359",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1683.04,
+      "end_seconds": 1685.047,
+      "text": "So",
+      "source_segment_ids": [
+        "TS3003d.sync.1,344"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0360",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1684.048,
+      "end_seconds": 1687.2,
+      "text": "Mm.'Kay.",
+      "source_segment_ids": [
+        "TS3003d.sync.763"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0361",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1687.12,
+      "end_seconds": 1690.208,
+      "text": "Is the design fancy, on a scale of one to seven?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,346"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0362",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1690.301,
+      "end_seconds": 1691.657,
+      "text": "I think it's fancy.",
+      "source_segment_ids": [
+        "TS3003d.sync.321"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0363",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1692.528,
+      "end_seconds": 1693.184,
+      "text": "Six.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,077"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0364",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1693.376,
+      "end_seconds": 1693.616,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.323"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0365",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1694.16,
+      "end_seconds": 1695.484,
+      "text": "Uh six. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.765"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0366",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1694.323,
+      "end_seconds": 1696.934,
+      "text": "We all go for six? Good.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,348"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0367",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1695.232,
+      "end_seconds": 1695.776,
+      "text": "Six.",
+      "source_segment_ids": [
+        "TS3003d.sync.325"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0368",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1700.9,
+      "end_seconds": 1704.459,
+      "text": "Um, is the design innovative?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,350"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0369",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1704.117,
+      "end_seconds": 1706.185,
+      "text": "Mm. Sh",
+      "source_segment_ids": [
+        "TS3003d.sync.767"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0370",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1704.24,
+      "end_seconds": 1717.92,
+      "text": "Very. Subtitles, buttons. Yeah. Seven. Yeah. So we've got twenty cents for our docking station, huh?",
+      "source_segment_ids": [
+        "TS3003d.sync.327"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0371",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1704.967,
+      "end_seconds": 1709.34,
+      "text": "I think so, with our L_C_D_ screen, docking station, scroll-buttons.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,352"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0372",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1709.685,
+      "end_seconds": 1710.329,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,079"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0373",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1710.992,
+      "end_seconds": 1711.781,
+      "text": "Seven?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,354"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0374",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1711.467,
+      "end_seconds": 1712.111,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.771"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0375",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1716.912,
+      "end_seconds": 1722.179,
+      "text": "Should be do-able. Is the design easy to use?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,356"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0376",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1719.352,
+      "end_seconds": 1720.64,
+      "text": "Yeah. That's right.",
+      "source_segment_ids": [
+        "TS3003d.sync.329"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0377",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1722.384,
+      "end_seconds": 1723.738,
+      "text": "Mm. Not really.",
+      "source_segment_ids": [
+        "TS3003d.sync.775"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0378",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1723.059,
+      "end_seconds": 1725.974,
+      "text": "That's a bit dodgy.",
+      "source_segment_ids": [
+        "TS3003d.sync.331"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0379",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1725.501,
+      "end_seconds": 1729.298,
+      "text": "Well Would be for us. But",
+      "source_segment_ids": [
+        "TS3003d.sync.1,358",
+        "TS3003d.sync.1,360"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0380",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1729.68,
+      "end_seconds": 1731.132,
+      "text": "For old people I I",
+      "source_segment_ids": [
+        "TS3003d.sync.777"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0381",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1730.352,
+      "end_seconds": 1735.364,
+      "text": "I would say four. Four or five between. Between four or five.",
+      "source_segment_ids": [
+        "TS3003d.sync.333"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0382",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1731.885,
+      "end_seconds": 1733.343,
+      "text": "Four or five. Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,083"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0383",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1732.048,
+      "end_seconds": 1734.488,
+      "text": "W Yeah. Four.",
+      "source_segment_ids": [
+        "TS3003d.sync.779"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0384",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1735.535,
+      "end_seconds": 1736.993,
+      "text": "I'd go for four, too.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,362"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0385",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1736.454,
+      "end_seconds": 1737.031,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.781"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0386",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1736.72,
+      "end_seconds": 1737.312,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.335"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0387",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1741.296,
+      "end_seconds": 1742.483,
+      "text": "Is it functional?",
+      "source_segment_ids": [
+        "TS3003d.sync.337"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0388",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1742.688,
+      "end_seconds": 1747.459,
+      "text": "Is the design functional? Um, do we have all functions that we want to include?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,364"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0389",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1747.792,
+      "end_seconds": 1748.554,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.339"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0390",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1748.081,
+      "end_seconds": 1748.793,
+      "text": "N Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.783"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0391",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1748.34,
+      "end_seconds": 1753.323,
+      "text": "I think we do. Do we have too many functions? I don't think so. It's pretty slim.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,366"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0392",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1750.688,
+      "end_seconds": 1751.569,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,089"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0393",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1751.192,
+      "end_seconds": 1751.788,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.785"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0394",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1751.232,
+      "end_seconds": 1754.35,
+      "text": "No. Think it's uh seven.",
+      "source_segment_ids": [
+        "TS3003d.sync.341",
+        "TS3003d.sync.343"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0395",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1755.616,
+      "end_seconds": 1756.336,
+      "text": "Seven.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,368"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0396",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1758.416,
+      "end_seconds": 1760.171,
+      "text": "Oh, and do we um",
+      "source_segment_ids": [
+        "TS3003d.sync.1,370"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0397",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1761.904,
+      "end_seconds": 1768.336,
+      "text": "take care of the biggest frustrations of the remote control? Like it getting lost and",
+      "source_segment_ids": [
+        "TS3003d.sync.1,372"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0398",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1769.248,
+      "end_seconds": 1770.48,
+      "text": "Mm m",
+      "source_segment_ids": [
+        "TS3003d.sync.787"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0399",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1769.582,
+      "end_seconds": 1773.792,
+      "text": "R_S_I_ influences? Think we do.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,374"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0400",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1769.706,
+      "end_seconds": 1771.604,
+      "text": "Mm, we haven't thought of that one.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,091"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0401",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1772.112,
+      "end_seconds": 1775.248,
+      "text": "It was. I had them worked out.",
+      "source_segment_ids": [
+        "TS3003d.sync.345"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0402",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1777.654,
+      "end_seconds": 1782.832,
+      "text": "Mm. They are ugly, not very functional, and getting lost.",
+      "source_segment_ids": [
+        "TS3003d.sync.347"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0403",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1785.107,
+      "end_seconds": 1785.777,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.789"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0404",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1785.113,
+      "end_seconds": 1788.706,
+      "text": "Are the production costs within the preset limits? Well they are now.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,376"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0405",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1789.485,
+      "end_seconds": 1790.027,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.349"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0406",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1794.909,
+      "end_seconds": 1797.113,
+      "text": "Does the design fit the group of focus?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,378"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0407",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1798.325,
+      "end_seconds": 1800.189,
+      "text": "I think that's a three.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,097"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0408",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1798.559,
+      "end_seconds": 1800.776,
+      "text": "Mm, th yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.791"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0409",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1799.744,
+      "end_seconds": 1802.638,
+      "text": "Yeah. I think it doesn't.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,380"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0410",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1800.863,
+      "end_seconds": 1804.992,
+      "text": "No I think with our new radio button, I think it's uh",
+      "source_segment_ids": [
+        "TS3003d.sync.351"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0411",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1802.573,
+      "end_seconds": 1803.183,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.793"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0412",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1805.52,
+      "end_seconds": 1806.112,
+      "text": "Uh",
+      "source_segment_ids": [
+        "TS3003d.sync.795"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0413",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1805.88,
+      "end_seconds": 1806.965,
+      "text": "I think it's better.",
+      "source_segment_ids": [
+        "TS3003d.sync.353"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0414",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1807.408,
+      "end_seconds": 1809.617,
+      "text": "We have to test it s But",
+      "source_segment_ids": [
+        "TS3003d.sync.797"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0415",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1808.128,
+      "end_seconds": 1809.045,
+      "text": "I don't know.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,382"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0416",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1809.175,
+      "end_seconds": 1816.088,
+      "text": "I still I think it's too m too fancy. Too too flashy.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,099"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0417",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1810.743,
+      "end_seconds": 1811.522,
+      "text": "I think",
+      "source_segment_ids": [
+        "TS3003d.sync.1,384"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0418",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1811.648,
+      "end_seconds": 1812.287,
+      "text": "I think it",
+      "source_segment_ids": [
+        "TS3003d.sync.355"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0419",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1814.98,
+      "end_seconds": 1820.607,
+      "text": "I think a radio button is not exactly what older people expect to have a remote control.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,386"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0420",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1820.32,
+      "end_seconds": 1821.821,
+      "text": "Uh, yeah, true.",
+      "source_segment_ids": [
+        "TS3003d.sync.799"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0421",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1821.696,
+      "end_seconds": 1825.058,
+      "text": "Yeah. I would give it a four.",
+      "source_segment_ids": [
+        "TS3003d.sync.357",
+        "TS3003d.sync.359"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0422",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1829.76,
+      "end_seconds": 1831.861,
+      "text": "I'm not sure. I think I'd go for two.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,388"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0423",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1832.064,
+      "end_seconds": 1833.968,
+      "text": "I go for three. So",
+      "source_segment_ids": [
+        "TS3003d.sync.801"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0424",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1833.616,
+      "end_seconds": 1836.56,
+      "text": "Then we have to do the three. It's the",
+      "source_segment_ids": [
+        "TS3003d.sync.361"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0425",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1835.364,
+      "end_seconds": 1836.072,
+      "text": "'Kay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,390"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0426",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1843.246,
+      "end_seconds": 1847.424,
+      "text": "Is the company company recognisable? Well, we have the logo there.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,392"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0427",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1845.792,
+      "end_seconds": 1847.855,
+      "text": "Yes it is. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.363"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0428",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1845.813,
+      "end_seconds": 1846.744,
+      "text": "Yeah yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.803"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0429",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1848.636,
+      "end_seconds": 1849.314,
+      "text": "So",
+      "source_segment_ids": [
+        "TS3003d.sync.1,394"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0430",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1852.262,
+      "end_seconds": 1865.456,
+      "text": "And they wanna put fashion in their products. Uh in the slogan of the company. And we have the removable front cases. So, I think it's very recognisable. Yep.",
+      "source_segment_ids": [
+        "TS3003d.sync.365"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0431",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1862.061,
+      "end_seconds": 1862.671,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.805"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0432",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1862.534,
+      "end_seconds": 1863.178,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,396"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0433",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1870.336,
+      "end_seconds": 1871.611,
+      "text": "So that will be this.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,398"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0434",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1875.392,
+      "end_seconds": 1883.577,
+      "text": "I was also supposed to calculate the score, but thought we would have another private thingy after this.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,400",
+        "TS3003d.sync.1,402"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0435",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1881.808,
+      "end_seconds": 1885.056,
+      "text": "We've got a calculate it. Mm?",
+      "source_segment_ids": [
+        "TS3003d.sync.367",
+        "TS3003d.sync.369"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0436",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1885.144,
+      "end_seconds": 1888.24,
+      "text": "Twendag sieven an twendag.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,101"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0437",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1886.08,
+      "end_seconds": 1888.289,
+      "text": "Is this Like after this, are we done? Or",
+      "source_segment_ids": [
+        "TS3003d.sync.1,404"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0438",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1888.976,
+      "end_seconds": 1891.808,
+      "text": "N We've gonna We're going to evaluate it.",
+      "source_segment_ids": [
+        "TS3003d.sync.371"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0439",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1889.407,
+      "end_seconds": 1900.14,
+      "text": "We're gonna go to our other room again. Well, anyhow. These are seven factors times seven is forty something. Two? No. Nine?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,406",
+        "TS3003d.sync.1,408",
+        "TS3003d.sync.1,410",
+        "TS3003d.sync.1,412"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0440",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1899.788,
+      "end_seconds": 1901.686,
+      "text": "Forty nine.",
+      "source_segment_ids": [
+        "TS3003d.sync.373"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0441",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1902.242,
+      "end_seconds": 1903.869,
+      "text": "Uh, minus one.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,414"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0442",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1906.852,
+      "end_seconds": 1911.744,
+      "text": "Minus three, minus four. Minus four.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,416",
+        "TS3003d.sync.1,418"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0443",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1913.259,
+      "end_seconds": 1918.581,
+      "text": "So that would be minus eight. Forty one out of forty nine.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,420",
+        "TS3003d.sync.1,422"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0444",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1916.912,
+      "end_seconds": 1917.536,
+      "text": "Forty one.",
+      "source_segment_ids": [
+        "TS3003d.sync.375"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0445",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1919.551,
+      "end_seconds": 1920.466,
+      "text": "That's",
+      "source_segment_ids": [
+        "TS3003d.sync.377"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0446",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1925.613,
+      "end_seconds": 1927.816,
+      "text": "Around eighty percent. What is it?",
+      "source_segment_ids": [
+        "TS3003d.sync.379"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0447",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1926.101,
+      "end_seconds": 1931.488,
+      "text": "Okay. Guess I'll just type that in on the bottom here.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,424",
+        "TS3003d.sync.1,426"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0448",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1934.494,
+      "end_seconds": 1937.408,
+      "text": "That's eighty four percent.",
+      "source_segment_ids": [
+        "TS3003d.sync.381"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0449",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1942.776,
+      "end_seconds": 1943.745,
+      "text": "Hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.807"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0450",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1942.799,
+      "end_seconds": 1945.36,
+      "text": "I think that's a pretty nice score.",
+      "source_segment_ids": [
+        "TS3003d.sync.383"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0451",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1945.547,
+      "end_seconds": 1946.225,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,103"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0452",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1945.816,
+      "end_seconds": 1946.46,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.809"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0453",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1957.392,
+      "end_seconds": 1962.154,
+      "text": "Hmm.'Kay. So that will be the evaluation.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,428"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0454",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1961.888,
+      "end_seconds": 1963.21,
+      "text": "Okay. Thank you.",
+      "source_segment_ids": [
+        "TS3003d.sync.387"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0455",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1966.26,
+      "end_seconds": 1971.074,
+      "text": "So, that brings us to the project evaluation.",
+      "source_segment_ids": [
+        "TS3003d.sync.389",
+        "TS3003d.sync.391"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0456",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1974.938,
+      "end_seconds": 1983.872,
+      "text": "Yep. Thank you. Project process. Did we move through the right phases, you think? Along the process?",
+      "source_segment_ids": [
+        "TS3003d.sync.393",
+        "TS3003d.sync.395"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0457",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1984.508,
+      "end_seconds": 1985.491,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,105"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0458",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1985.696,
+      "end_seconds": 1987.069,
+      "text": "Yeah. But it",
+      "source_segment_ids": [
+        "TS3003d.sync.813"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0459",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1986.736,
+      "end_seconds": 1991.533,
+      "text": "Think we should have a should have had the finance thingy a lot earlier.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,432"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0460",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1991.36,
+      "end_seconds": 1991.712,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.815"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0461",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1992.052,
+      "end_seconds": 1992.797,
+      "text": "That's right.",
+      "source_segment_ids": [
+        "TS3003d.sync.397"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0462",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1993.392,
+      "end_seconds": 1994.651,
+      "text": "In the design phase.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,434"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0463",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1995.2,
+      "end_seconds": 1997.952,
+      "text": "So lack of information about prices.",
+      "source_segment_ids": [
+        "TS3003d.sync.399"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0464",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1998.075,
+      "end_seconds": 1998.787,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,436"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0465",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1998.135,
+      "end_seconds": 2000.542,
+      "text": "Yeah. That's true.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,107"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0466",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1998.493,
+      "end_seconds": 1998.968,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.817"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0467",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2000.064,
+      "end_seconds": 2000.768,
+      "text": "Definitely.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,438"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0468",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2000.72,
+      "end_seconds": 2001.424,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.401"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0469",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2003.792,
+      "end_seconds": 2004.848,
+      "text": "Uh",
+      "source_segment_ids": [
+        "TS3003d.sync.403"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0470",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2010.384,
+      "end_seconds": 2014.656,
+      "text": "Okay. Satisfaction. Was there room for creativity?",
+      "source_segment_ids": [
+        "TS3003d.sync.405"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0471",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2014.736,
+      "end_seconds": 2015.383,
+      "text": "No.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,440"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0472",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2016.368,
+      "end_seconds": 2022.16,
+      "text": "No? It's because of the finance sheet. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.407"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0473",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2017.383,
+      "end_seconds": 2019.417,
+      "text": "Not too much. No.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,442"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0474",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2021.23,
+      "end_seconds": 2021.942,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.821"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0475",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2021.702,
+      "end_seconds": 2024.347,
+      "text": "Yeah, there w there was enough room, but the finance uh",
+      "source_segment_ids": [
+        "TS3003d.sync.1,109"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0476",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2022.637,
+      "end_seconds": 2023.824,
+      "text": "Yeah, true. But",
+      "source_segment_ids": [
+        "TS3003d.sync.1,444"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0477",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2023.855,
+      "end_seconds": 2025.414,
+      "text": "The room was Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.409"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0478",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2024.138,
+      "end_seconds": 2024.846,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.823"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0479",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2029.84,
+      "end_seconds": 2034.24,
+      "text": "And I would've liked to go for the younger users also.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,446",
+        "TS3003d.sync.1,448"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0480",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2034.48,
+      "end_seconds": 2034.848,
+      "text": ".",
+      "source_segment_ids": [
+        "TS3003d.sync.825"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0481",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2036.272,
+      "end_seconds": 2041.505,
+      "text": "And just to be able to access internet and get something of your own.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,450",
+        "TS3003d.sync.1,452"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0482",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2041.808,
+      "end_seconds": 2042.341,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.827"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0483",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2044.12,
+      "end_seconds": 2045.408,
+      "text": "Restrictions.",
+      "source_segment_ids": [
+        "TS3003d.sync.411"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0484",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2049.679,
+      "end_seconds": 2051.136,
+      "text": "Internet access.",
+      "source_segment_ids": [
+        "TS3003d.sync.413"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0485",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2053.221,
+      "end_seconds": 2063.056,
+      "text": "'Kay. Leadership. Was it clear what everybody had to do uh according to their roles and functions?",
+      "source_segment_ids": [
+        "TS3003d.sync.415"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0486",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2064.166,
+      "end_seconds": 2064.911,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,111"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0487",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2064.201,
+      "end_seconds": 2064.699,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,454"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0488",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2064.336,
+      "end_seconds": 2064.78,
+      "text": "Yeah?",
+      "source_segment_ids": [
+        "TS3003d.sync.417"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0489",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2064.569,
+      "end_seconds": 2065.247,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.829"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0490",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2066.4,
+      "end_seconds": 2072.882,
+      "text": "Teamwork? Did it work out? Working together? Also, you two of you with the uh last phase?",
+      "source_segment_ids": [
+        "TS3003d.sync.419"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0491",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2067.012,
+      "end_seconds": 2067.72,
+      "text": "So",
+      "source_segment_ids": [
+        "TS3003d.sync.831"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0492",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2071.284,
+      "end_seconds": 2072.301,
+      "text": "Yes, was okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,113"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0493",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2072.095,
+      "end_seconds": 2072.603,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.833"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0494",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2074.475,
+      "end_seconds": 2075.568,
+      "text": "Nice.",
+      "source_segment_ids": [
+        "TS3003d.sync.421"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0495",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2080.928,
+      "end_seconds": 2086.96,
+      "text": "The tasks are very structured, so you can just do step by step and it's very easy.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,115"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0496",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2085.472,
+      "end_seconds": 2086.15,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.835"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0497",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2085.624,
+      "end_seconds": 2086.369,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,456"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0498",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2089.232,
+      "end_seconds": 2098.64,
+      "text": "tasks. Okay. Were the means sufficient for the tasks uh we had to do? Or were they too much?",
+      "source_segment_ids": [
+        "TS3003d.sync.423",
+        "TS3003d.sync.425",
+        "TS3003d.sync.427"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0499",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2099.001,
+      "end_seconds": 2104.144,
+      "text": "Well, the smart-board, the d d drawing is just a pain in the ass, but",
+      "source_segment_ids": [
+        "TS3003d.sync.1,117"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0500",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2099.888,
+      "end_seconds": 2101.031,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.837"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0501",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2105.171,
+      "end_seconds": 2107.849,
+      "text": "The digital the digital pen is very nice.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,119"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0502",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2105.344,
+      "end_seconds": 2106.308,
+      "text": "Smart-board.",
+      "source_segment_ids": [
+        "TS3003d.sync.429"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0503",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2107.472,
+      "end_seconds": 2108.082,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.841"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0504",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2108.704,
+      "end_seconds": 2112.376,
+      "text": "If it wants to download its uh data.",
+      "source_segment_ids": [
+        "TS3003d.sync.431"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0505",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2109.0,
+      "end_seconds": 2111.665,
+      "text": "Yeah. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,460"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0506",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2109.014,
+      "end_seconds": 2109.842,
+      "text": "But",
+      "source_segment_ids": [
+        "TS3003d.sync.843"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0507",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2110.493,
+      "end_seconds": 2111.374,
+      "text": "Yes. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,121"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0508",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2111.035,
+      "end_seconds": 2111.78,
+      "text": "Uh",
+      "source_segment_ids": [
+        "TS3003d.sync.845"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0509",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2117.766,
+      "end_seconds": 2119.456,
+      "text": "Failed download.",
+      "source_segment_ids": [
+        "TS3003d.sync.433"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0510",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2123.528,
+      "end_seconds": 2127.291,
+      "text": "Smart-board was irritating.",
+      "source_segment_ids": [
+        "TS3003d.sync.435"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0511",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2132.71,
+      "end_seconds": 2138.778,
+      "text": "So you rather wanted to have a flip-over? Or something else?",
+      "source_segment_ids": [
+        "TS3003d.sync.437"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0512",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2137.769,
+      "end_seconds": 2141.2,
+      "text": "A flip-over or a more precise uh",
+      "source_segment_ids": [
+        "TS3003d.sync.1,123"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0513",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2138.277,
+      "end_seconds": 2142.052,
+      "text": "Yeah. A flipper's uh easier, so Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.847",
+        "TS3003d.sync.849"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0514",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2142.0,
+      "end_seconds": 2142.537,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,462"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0515",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2142.32,
+      "end_seconds": 2144.71,
+      "text": "Faster as well, I think. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.439"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0516",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2142.592,
+      "end_seconds": 2143.786,
+      "text": "digit Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,125"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0517",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2148.948,
+      "end_seconds": 2150.168,
+      "text": "Flip-over.",
+      "source_segment_ids": [
+        "TS3003d.sync.441"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0518",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2150.048,
+      "end_seconds": 2173.624,
+      "text": "But if you want to share uh of uh when you make um a picture like this uh on the presentation, it's easier to uh share it with uh other people. Uh so uh you can sh save it uh and uh put it on the internet, or uh uh in shared f uh folder or uh sh uh shared directory. So",
+      "source_segment_ids": [
+        "TS3003d.sync.851"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0519",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2163.922,
+      "end_seconds": 2164.397,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.443"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0520",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2172.624,
+      "end_seconds": 2175.89,
+      "text": "Yeah, I tried to open the file on my laptop, but",
+      "source_segment_ids": [
+        "TS3003d.sync.1,464"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0521",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2174.496,
+      "end_seconds": 2176.669,
+      "text": "So Yeah? No?",
+      "source_segment_ids": [
+        "TS3003d.sync.853"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0522",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2175.648,
+      "end_seconds": 2177.089,
+      "text": "No. Didn't work.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,127"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0523",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2176.72,
+      "end_seconds": 2177.754,
+      "text": "not possible.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,466"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0524",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2177.109,
+      "end_seconds": 2181.248,
+      "text": "Uh you need a smart board uh application I think.",
+      "source_segment_ids": [
+        "TS3003d.sync.445"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0525",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2179.776,
+      "end_seconds": 2180.33,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,468"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0526",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2181.918,
+      "end_seconds": 2185.85,
+      "text": "T can uh can you export it uh like a Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.855"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0527",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2182.497,
+      "end_seconds": 2187.632,
+      "text": "But I think you can Yeah. Should be possible. Yeah you can export it as image.",
+      "source_segment_ids": [
+        "TS3003d.sync.447"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0528",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2185.11,
+      "end_seconds": 2185.957,
+      "text": "no.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,470"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0529",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2188.531,
+      "end_seconds": 2190.361,
+      "text": "Must Yeah must be",
+      "source_segment_ids": [
+        "TS3003d.sync.449"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0530",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2189.856,
+      "end_seconds": 2191.212,
+      "text": "Should've done that then.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,472"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0531",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2193.696,
+      "end_seconds": 2197.005,
+      "text": "So the sharing of the information was uh was okay?",
+      "source_segment_ids": [
+        "TS3003d.sync.451"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0532",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2194.014,
+      "end_seconds": 2195.841,
+      "text": ".",
+      "source_segment_ids": [
+        "TS3003d.sync.857"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0533",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2197.984,
+      "end_seconds": 2198.966,
+      "text": "Pen is here.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,474"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0534",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2198.56,
+      "end_seconds": 2199.34,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,129"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0535",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2198.599,
+      "end_seconds": 2201.446,
+      "text": "Uh, network. Yeah, pen is here on the table.",
+      "source_segment_ids": [
+        "TS3003d.sync.453"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0536",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2198.766,
+      "end_seconds": 2199.728,
+      "text": "Uh.",
+      "source_segment_ids": [
+        "TS3003d.sync.859"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0537",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2206.832,
+      "end_seconds": 2209.145,
+      "text": "Uh, yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.861"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0538",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2211.424,
+      "end_seconds": 2213.488,
+      "text": "So you can Uh",
+      "source_segment_ids": [
+        "TS3003d.sync.863"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0539",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2212.544,
+      "end_seconds": 2216.348,
+      "text": "Yeah. It's possible.",
+      "source_segment_ids": [
+        "TS3003d.sync.455"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0540",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2215.34,
+      "end_seconds": 2216.729,
+      "text": "Mm. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,478"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0541",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2215.38,
+      "end_seconds": 2216.386,
+      "text": "It's possible.",
+      "source_segment_ids": [
+        "TS3003d.sync.865"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0542",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2217.584,
+      "end_seconds": 2218.212,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.457"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0543",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2218.864,
+      "end_seconds": 2219.416,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.867"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0544",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2220.145,
+      "end_seconds": 2227.568,
+      "text": "That's nice. Have we found new ideas for having this kind of meetings? Or",
+      "source_segment_ids": [
+        "TS3003d.sync.459",
+        "TS3003d.sync.461"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0545",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2228.203,
+      "end_seconds": 2255.648,
+      "text": "Um, yeah maybe um uh when we n uh just uh give the numbers of of uh Uh uh o one of uh out of s uh sev Um it's uh easier to uh to do the th things that are like that on a computer. Uh, so uh just l uh like uh at u university uh",
+      "source_segment_ids": [
+        "TS3003d.sync.869",
+        "TS3003d.sync.871"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0546",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2243.153,
+      "end_seconds": 2243.792,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.463"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0547",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2250.848,
+      "end_seconds": 2251.39,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.465"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0548",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2252.976,
+      "end_seconds": 2253.492,
+      "text": "So",
+      "source_segment_ids": [
+        "TS3003d.sync.467"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0549",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2256.011,
+      "end_seconds": 2267.74,
+      "text": "Yeah. So everybody puts his own score. And then it mediates the score, and you can get one Yeah. That's better. So that's uh",
+      "source_segment_ids": [
+        "TS3003d.sync.469"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0550",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2256.72,
+      "end_seconds": 2257.141,
+      "text": "So",
+      "source_segment_ids": [
+        "TS3003d.sync.873"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0551",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2256.823,
+      "end_seconds": 2257.606,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,480"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0552",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2258.463,
+      "end_seconds": 2259.039,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.875"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0553",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2259.248,
+      "end_seconds": 2259.977,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,482"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0554",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2261.616,
+      "end_seconds": 2262.124,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.877"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0555",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2263.248,
+      "end_seconds": 2263.918,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,131"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0556",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2268.976,
+      "end_seconds": 2269.876,
+      "text": "How do we call?",
+      "source_segment_ids": [
+        "TS3003d.sync.471"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0557",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2280.96,
+      "end_seconds": 2282.209,
+      "text": "Evaluation",
+      "source_segment_ids": [
+        "TS3003d.sync.473"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0558",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2284.624,
+      "end_seconds": 2285.768,
+      "text": "criteria.",
+      "source_segment_ids": [
+        "TS3003d.sync.475"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0559",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2294.683,
+      "end_seconds": 2301.968,
+      "text": "Okay. Mm, any more ideas? Or questions about the project? Or about the product?",
+      "source_segment_ids": [
+        "TS3003d.sync.477",
+        "TS3003d.sync.479"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0560",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2304.48,
+      "end_seconds": 2305.37,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.879"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0561",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2308.32,
+      "end_seconds": 2310.416,
+      "text": "Because I think",
+      "source_segment_ids": [
+        "TS3003d.sync.481"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0562",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2314.752,
+      "end_seconds": 2318.539,
+      "text": "then that we get to our last sheet.",
+      "source_segment_ids": [
+        "TS3003d.sync.483"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0563",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2320.96,
+      "end_seconds": 2322.384,
+      "text": "Are the costs within the budget?",
+      "source_segment_ids": [
+        "TS3003d.sync.485"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0564",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2323.344,
+      "end_seconds": 2324.039,
+      "text": "Mm yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.881"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0565",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2324.256,
+      "end_seconds": 2324.776,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.487"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0566",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2324.816,
+      "end_seconds": 2325.76,
+      "text": "They are.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,484"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0567",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2325.682,
+      "end_seconds": 2330.288,
+      "text": "Considering we are not going to make a docking station.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,135"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0568",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2326.37,
+      "end_seconds": 2327.59,
+      "text": "Do we",
+      "source_segment_ids": [
+        "TS3003d.sync.489"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0569",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2330.016,
+      "end_seconds": 2339.472,
+      "text": "Docking station. That's a good point. But maybe because of the docking station the price of the remote can also be a little bit higher?",
+      "source_segment_ids": [
+        "TS3003d.sync.491"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0570",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2332.04,
+      "end_seconds": 2332.599,
+      "text": ".",
+      "source_segment_ids": [
+        "TS3003d.sync.883"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0571",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2340.624,
+      "end_seconds": 2341.392,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,486"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0572",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2341.332,
+      "end_seconds": 2342.189,
+      "text": "Perhaps.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,137"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0573",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2341.376,
+      "end_seconds": 2344.72,
+      "text": "Uh and I think you can compensate that as well.",
+      "source_segment_ids": [
+        "TS3003d.sync.493"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0574",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2344.992,
+      "end_seconds": 2345.392,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.885"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0575",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2345.84,
+      "end_seconds": 2350.592,
+      "text": "So I think that shouldn't be the biggest problem, because it's very cheap to make as well.",
+      "source_segment_ids": [
+        "TS3003d.sync.495"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0576",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2350.816,
+      "end_seconds": 2351.632,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,139"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0577",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2351.52,
+      "end_seconds": 2352.031,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.887"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0578",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2351.965,
+      "end_seconds": 2370.0,
+      "text": "Do we think we gonna get the twelve and a half million? Or what was it? Fifteen fifteen million. I think we will. If we gonna export this product. It's innovative. Especially in America. People are pretty decadent.",
+      "source_segment_ids": [
+        "TS3003d.sync.497"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0579",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2356.502,
+      "end_seconds": 2357.96,
+      "text": "Fifty grand.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,488"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0580",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2364.062,
+      "end_seconds": 2364.841,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,490"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0581",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2369.396,
+      "end_seconds": 2370.832,
+      "text": "Yeah. Mm.",
+      "source_segment_ids": [
+        "TS3003d.sync.889"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0582",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2371.118,
+      "end_seconds": 2371.999,
+      "text": "Sometimes.",
+      "source_segment_ids": [
+        "TS3003d.sync.499"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0583",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2372.533,
+      "end_seconds": 2376.6,
+      "text": "Yeah, still I think I mean if we're n gonna make a scroll-button anyway",
+      "source_segment_ids": [
+        "TS3003d.sync.1,492"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0584",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2373.067,
+      "end_seconds": 2373.588,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.891"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0585",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2377.92,
+      "end_seconds": 2379.296,
+      "text": "You can do more.",
+      "source_segment_ids": [
+        "TS3003d.sync.501"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0586",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2378.0,
+      "end_seconds": 2384.08,
+      "text": "it'd be more for the younger people than for the older people. So maybe we should just re-focus.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,494"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0587",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2381.694,
+      "end_seconds": 2382.474,
+      "text": "Ah.",
+      "source_segment_ids": [
+        "TS3003d.sync.893"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0588",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2381.824,
+      "end_seconds": 2382.406,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.503"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0589",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2385.104,
+      "end_seconds": 2409.646,
+      "text": "Just put it on the market for everybody. You can you can change markets where by changing the front covers. That's one thing you can change it with. So you can also try to uh reach the younger people by uh putting fancy covers on on the market. Just as a test. See how it works. That's I think a good advantage.",
+      "source_segment_ids": [
+        "TS3003d.sync.505"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0590",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2387.628,
+      "end_seconds": 2390.475,
+      "text": "Or specifically for younger people.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,496"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0591",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2387.729,
+      "end_seconds": 2388.326,
+      "text": "Ah.",
+      "source_segment_ids": [
+        "TS3003d.sync.895"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0592",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2393.897,
+      "end_seconds": 2394.474,
+      "text": "Ah.",
+      "source_segment_ids": [
+        "TS3003d.sync.897"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0593",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2394.86,
+      "end_seconds": 2395.791,
+      "text": "That's true.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,498"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0594",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2409.077,
+      "end_seconds": 2417.632,
+      "text": "Yeah, I think then it would be way more uh popular with younger people than it is, than would be with",
+      "source_segment_ids": [
+        "TS3003d.sync.1,500"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0595",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2419.2,
+      "end_seconds": 2420.06,
+      "text": "older people.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,502"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0596",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2420.336,
+      "end_seconds": 2420.784,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.507"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0597",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2421.517,
+      "end_seconds": 2423.348,
+      "text": "Even if it were their covers.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,504"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0598",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2423.565,
+      "end_seconds": 2424.073,
+      "text": "Hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.899"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0599",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2423.584,
+      "end_seconds": 2428.928,
+      "text": "Uh, uh then I think we can have our little celebration, right now.",
+      "source_segment_ids": [
+        "TS3003d.sync.509"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0600",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2425.423,
+      "end_seconds": 2427.286,
+      "text": "But",
+      "source_segment_ids": [
+        "TS3003d.sync.1,506"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0601",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2429.856,
+      "end_seconds": 2431.436,
+      "text": "Party party.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,508"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0602",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2430.064,
+      "end_seconds": 2439.136,
+      "text": "That's it. Yeah. I think we still have to fit in one more questionnaire. I think. I don't know. I didn't get a message",
+      "source_segment_ids": [
+        "TS3003d.sync.511"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0603",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2434.08,
+      "end_seconds": 2435.296,
+      "text": "Where's the champagne?",
+      "source_segment_ids": [
+        "TS3003d.sync.903"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0604",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2435.28,
+      "end_seconds": 2435.809,
+      "text": "'Kay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,510"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0605",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2440.288,
+      "end_seconds": 2448.656,
+      "text": "from the from ending of the Oh I think I have one now. Five more minutes? Oh that's nice.",
+      "source_segment_ids": [
+        "TS3003d.sync.513"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0606",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2443.793,
+      "end_seconds": 2444.98,
+      "text": "Uh, I believe y uh",
+      "source_segment_ids": [
+        "TS3003d.sync.905"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0607",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2444.622,
+      "end_seconds": 2445.402,
+      "text": "Oh you did.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,512"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0608",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2447.997,
+      "end_seconds": 2448.675,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.907"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0609",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2451.376,
+      "end_seconds": 2462.56,
+      "text": "Then we still have some questions. If somebody has some questions they can ask them now. Or we can put these in the project folder as well. Maybe that's",
+      "source_segment_ids": [
+        "TS3003d.sync.515"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0610",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2461.728,
+      "end_seconds": 2462.403,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,514"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0611",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2462.104,
+      "end_seconds": 2462.88,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.909"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0612",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2478.189,
+      "end_seconds": 2481.477,
+      "text": "Export as picture, I think.",
+      "source_segment_ids": [
+        "TS3003d.sync.523"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0613",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2482.08,
+      "end_seconds": 2482.734,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,518"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0614",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2482.336,
+      "end_seconds": 2482.981,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.913"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0615",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2496.626,
+      "end_seconds": 2500.016,
+      "text": "Hmm. This is another network, I guess.",
+      "source_segment_ids": [
+        "TS3003d.sync.527"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0616",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2509.304,
+      "end_seconds": 2514.558,
+      "text": "Does somebody see the project folder? I don't.",
+      "source_segment_ids": [
+        "TS3003d.sync.529"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0617",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2517.216,
+      "end_seconds": 2517.745,
+      "text": "Hmm.",
+      "source_segment_ids": [
+        "TS3003d.sync.531"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0618",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2520.694,
+      "end_seconds": 2521.92,
+      "text": "My Documents.",
+      "source_segment_ids": [
+        "TS3003d.sync.533"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0619",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2527.168,
+      "end_seconds": 2529.548,
+      "text": "Uh maybe uh they will save it. So uh",
+      "source_segment_ids": [
+        "TS3003d.sync.917"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0620",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2529.266,
+      "end_seconds": 2533.856,
+      "text": "Yeah, I'll just put it in My Documents and uh That's okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.535"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0621",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2530.084,
+      "end_seconds": 2531.191,
+      "text": "Yeah, it probably will.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,524"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0622",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2541.776,
+      "end_seconds": 2543.13,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.537"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0623",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2546.384,
+      "end_seconds": 2550.791,
+      "text": "I think I'm going to make our final presentation now.",
+      "source_segment_ids": [
+        "TS3003d.sync.539"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0624",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2551.408,
+      "end_seconds": 2555.152,
+      "text": "Oh yeah, you're supposed to make a final",
+      "source_segment_ids": [
+        "TS3003d.sync.1,526"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0625",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2552.384,
+      "end_seconds": 2560.0,
+      "text": "And then I will be back in about ten minutes to show you the final presentation.",
+      "source_segment_ids": [
+        "TS3003d.sync.541"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0626",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2560.016,
+      "end_seconds": 2560.828,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.919"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0627",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2560.56,
+      "end_seconds": 2561.483,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,147"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0628",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2561.36,
+      "end_seconds": 2563.072,
+      "text": "Summary of the project.",
+      "source_segment_ids": [
+        "TS3003d.sync.543"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0629",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2564.192,
+      "end_seconds": 2567.321,
+      "text": "Are we supposed to go into our own rooms again?",
+      "source_segment_ids": [
+        "TS3003d.sync.1,528"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0630",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2566.864,
+      "end_seconds": 2570.447,
+      "text": "Uh maybe we have to fill uh another questionnaire. So uh",
+      "source_segment_ids": [
+        "TS3003d.sync.921"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0631",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2568.96,
+      "end_seconds": 2579.77,
+      "text": "Yeah. Questionnaire. I think you all get a questionnaire in in your room. And then I'll meet you in I think about ten minutes, or something. Okay. Thank you.",
+      "source_segment_ids": [
+        "TS3003d.sync.545"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0632",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2570.558,
+      "end_seconds": 2571.191,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,530"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0633",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2571.539,
+      "end_seconds": 2574.371,
+      "text": "Yeah. Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.923",
+        "TS3003d.sync.925"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0634",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 2577.622,
+      "end_seconds": 2578.503,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,149"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0635",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 2577.904,
+      "end_seconds": 2578.887,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "TS3003d.sync.927"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0636",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2583.499,
+      "end_seconds": 2586.88,
+      "text": "Hopefully my pen will download its software.",
+      "source_segment_ids": [
+        "TS3003d.sync.547"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0637",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2586.601,
+      "end_seconds": 2587.712,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,532"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0638",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 2587.193,
+      "end_seconds": 2589.058,
+      "text": "Oh. Or data.",
+      "source_segment_ids": [
+        "TS3003d.sync.549",
+        "TS3003d.sync.551"
+      ]
+    },
+    {
+      "turn_id": "TS3003d-T0639",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 2590.499,
+      "end_seconds": 2591.889,
+      "text": "That'd be nice.",
+      "source_segment_ids": [
+        "TS3003d.sync.1,534"
+      ]
+    }
+  ]
+}

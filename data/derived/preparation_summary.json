@@ -1,0 +1,163 @@
+[
+  {
+    "meeting_id": "ES2003a",
+    "split": "development",
+    "word_count": 2387,
+    "turn_count": 107,
+    "duration_seconds": 1124.0
+  },
+  {
+    "meeting_id": "ES2003b",
+    "split": "development",
+    "word_count": 6542,
+    "turn_count": 253,
+    "duration_seconds": 2121.0
+  },
+  {
+    "meeting_id": "ES2003c",
+    "split": "development",
+    "word_count": 6778,
+    "turn_count": 281,
+    "duration_seconds": 2251.0
+  },
+  {
+    "meeting_id": "ES2004a",
+    "split": "test",
+    "word_count": 3135,
+    "turn_count": 241,
+    "duration_seconds": 1186.0
+  },
+  {
+    "meeting_id": "ES2004b",
+    "split": "test",
+    "word_count": 7681,
+    "turn_count": 424,
+    "duration_seconds": 2333.0
+  },
+  {
+    "meeting_id": "ES2004c",
+    "split": "test",
+    "word_count": 7850,
+    "turn_count": 457,
+    "duration_seconds": 2264.0
+  },
+  {
+    "meeting_id": "ES2004d",
+    "split": "test",
+    "word_count": 7337,
+    "turn_count": 566,
+    "duration_seconds": 2220.0
+  },
+  {
+    "meeting_id": "ES2014a",
+    "split": "test",
+    "word_count": 2522,
+    "turn_count": 147,
+    "duration_seconds": 1149.0
+  },
+  {
+    "meeting_id": "ES2014b",
+    "split": "test",
+    "word_count": 6935,
+    "turn_count": 405,
+    "duration_seconds": 2319.0
+  },
+  {
+    "meeting_id": "ES2014c",
+    "split": "test",
+    "word_count": 7330,
+    "turn_count": 445,
+    "duration_seconds": 2273.0
+  },
+  {
+    "meeting_id": "ES2014d",
+    "split": "test",
+    "word_count": 9058,
+    "turn_count": 643,
+    "duration_seconds": 2911.0
+  },
+  {
+    "meeting_id": "IS1009a",
+    "split": "test",
+    "word_count": 2393,
+    "turn_count": 182,
+    "duration_seconds": 831.0
+  },
+  {
+    "meeting_id": "IS1009b",
+    "split": "test",
+    "word_count": 6831,
+    "turn_count": 362,
+    "duration_seconds": 2051.0
+  },
+  {
+    "meeting_id": "IS1009c",
+    "split": "test",
+    "word_count": 5161,
+    "turn_count": 253,
+    "duration_seconds": 1806.0
+  },
+  {
+    "meeting_id": "IS1009d",
+    "split": "test",
+    "word_count": 5586,
+    "turn_count": 456,
+    "duration_seconds": 1929.0
+  },
+  {
+    "meeting_id": "TS3003a",
+    "split": "test",
+    "word_count": 3014,
+    "turn_count": 216,
+    "duration_seconds": 1505.644
+  },
+  {
+    "meeting_id": "TS3003b",
+    "split": "test",
+    "word_count": 5481,
+    "turn_count": 314,
+    "duration_seconds": 2210.305
+  },
+  {
+    "meeting_id": "TS3003c",
+    "split": "test",
+    "word_count": 5245,
+    "turn_count": 314,
+    "duration_seconds": 2566.84
+  },
+  {
+    "meeting_id": "TS3003d",
+    "split": "test",
+    "word_count": 6419,
+    "turn_count": 639,
+    "duration_seconds": 2645.0
+  },
+  {
+    "meeting_id": "TS3007a",
+    "split": "test",
+    "word_count": 4069,
+    "turn_count": 337,
+    "duration_seconds": 1609.345
+  },
+  {
+    "meeting_id": "TS3007b",
+    "split": "test",
+    "word_count": 7648,
+    "turn_count": 410,
+    "duration_seconds": 3354.86
+  },
+  {
+    "meeting_id": "TS3007c",
+    "split": "test",
+    "word_count": 8412,
+    "turn_count": 506,
+    "duration_seconds": 2430.0
+  },
+  {
+    "meeting_id": "TS3007d",
+    "split": "test",
+    "word_count": 9713,
+    "turn_count": 880,
+    "duration_seconds": 2725.0
+  }
+]

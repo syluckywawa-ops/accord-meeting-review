@@ -1,0 +1,343 @@
+Meeting: TS3007a
+Split: test
+Meeting date: 2004-10-18
+AMI duration (seconds): 1609
+Transcribed word elements: 4069
+
+[00:13.92-00:14.29] TS3007a-T0001 | User Interface Designer (B): Hi.
+[00:14.69-00:15.29] TS3007a-T0002 | Industrial Designer (C): Hi.
+[00:15.65-00:16.39] TS3007a-T0003 | Project Manager (A): Hello.
+[00:17.52-00:17.84] TS3007a-T0004 | User Interface Designer (B): Oh.
+[00:41.68-00:42.81] TS3007a-T0005 | Project Manager (A): Good morning.
+[00:42.70-00:43.60] TS3007a-T0006 | Industrial Designer (C): Morning.
+[00:42.77-00:43.48] TS3007a-T0007 | User Interface Designer (B): Good morning.
+[00:43.34-00:44.06] TS3007a-T0008 | Marketing Expert (D): Good morning.
+[00:44.72-01:06.50] TS3007a-T0009 | Project Manager (A): Uh before I start with the with the meeting I have a few things to tell you about the the setting we're in, uh because we're uh being watched by uh Big Brother. So um Yeah. Yeah. This uh These are cameras, so are these. This thing uh that looks like a pie, are actually all microphones.
+[00:55.44-00:58.14] TS3007a-T0010 | Marketing Expert (D): By Big Brother? Okay.
+[01:02.42-01:02.75] TS3007a-T0011 | Marketing Expert (D): Mm-hmm.
+[01:04.78-01:05.32] TS3007a-T0012 | Marketing Expert (D): Yeah.
+[01:07.28-01:08.00] TS3007a-T0013 | Marketing Expert (D): Okay.
+[01:07.73-01:22.61] TS3007a-T0014 | Project Manager (A): So you must be careful with uh with uh all this. And uh as I can see you uh you have placed your laptops uh exactly on the place where it must be. And that has to do with the camera settings, so we don't have our uh laptops in front of the cameras.
+[01:22.62-01:23.72] TS3007a-T0015 | Marketing Expert (D): Of our faces.
+[01:24.34-01:28.97] TS3007a-T0016 | Project Manager (A): And Indeed. So they can see our faces. Okay.
+[01:45.79-02:27.99] TS3007a-T0017 | Project Manager (A): Welcome at the kick-off meeting. My name is uh Danny Wolfs. Uh this is the agenda for today. Uh first a little opening. Uh I will introduce myself, uh and uh I think it's very uh good to introduce uh yourself. Uh then uh a little bit of acquaintance, acquaintance to uh to to ourselves. So uh we get to know each other. Uh that will be done uh with a tool training from the he these two uh smart boards. Then the project plan. What we're going to do, and how we're going to do it. Uh and discussion about that and a little closing at the end. Okay uh, my name is uh Danny Wolfs. I'm the Project Manager. What's your name?
+[02:28.05-02:30.70] TS3007a-T0018 | User Interface Designer (B): I'm Juergen Toffs. I'm the User Interface Designer.
+[02:30.74-02:31.98] TS3007a-T0019 | Project Manager (A): User interface, okay.
+[02:32.10-02:36.48] TS3007a-T0020 | Industrial Designer (C): Hi, my name's uh. I'm the Industrial Designer.
+[02:36.24-02:37.99] TS3007a-T0021 | Project Manager (A): Industrial, yes.
+[02:37.09-02:42.35] TS3007a-T0022 | Marketing Expert (D): I'm uh Tim. Um my function is the Marketing Expert.
+[02:42.00-04:31.92] TS3007a-T0023 | Project Manager (A): Okay, thank you. First a little about the project aim. Uh the the the aim is to make a new remote control. Uh maybe you have read uh read the website. It's a very uh, yeah, very uh ambitious uh company. They uh they wanna do something else. I w Uh there must be a new remote control. Uh first of all uh it must be original, uh and trendy. That's two things really uh close to each other. But at the same time uh user-friendly. And they have uh Yeah, that's uh very important uh for them. Uh there are three stages. There is a functional design. So uh what are we going uh to uh to do? What are we going to uh uh make f uh kind of functions in the remote? And why are we going to do it? Then the conceptual design. How are going to do it? And that's uh really global. Uh because at the detailed design, how, part two, uh we go uh to dig in uh really about how the the te the technical of If it's uh it's possible technical-wise. Uh each stage is uh uh is broken up in two uh two stages, individual work and a meeting. So it's uh it's very straightforward. Okay, the tool training. We have two smart boards. This one is for the presentations, the PowerPoint presentations or the Word presentation of whatever you uh you had. Uh and this is uh only for uh drawing. So uh we uh must let it uh stand on this uh this programme. This is called a smart board
+[04:32.38-04:34.92] TS3007a-T0024 | Marketing Expert (D): Speaks for itself.
+[04:33.04-05:19.66] TS3007a-T0025 | Project Manager (A): thing uh Yeah, it speaks for itself. Um and as you uh may have heard, the documents in the shared folder uh can be uh showed on this screen. Not in y the the My Documents. So if you wanna show something, put it in the shared folder. Uh This uh is very straightforward, with the save, the print, the undo, the blank, the select, the pen. Well, I don't uh gonna explain it all, because I think you know uh how it works. Um we must not forget uh everything we draw on here, uh all must be saved. We we may not delete anything. So uh if you have uh drawn something, save it. Never delete it. That's a very important uh thing.
+[05:21.39-05:53.22] TS3007a-T0026 | Project Manager (A): Okay. Uh little uh little kinda exercise to uh know each other. At uh the white board on the left. Every uh every one of us uh must draw our favourite animal, and uh tell uh tell us why we uh had uh chosen that animal. Uh important is that we use different colours, and uh different pen widths. Widths. Widths. Yes?
+[05:51.84-06:01.52] TS3007a-T0027 | Marketing Expert (D): I have a question. Um this exercise, um did the company board tell you to do it, or uh did you just make it up yourself?
+[05:55.26-05:55.82] TS3007a-T0028 | Project Manager (A): Yeah.
+[06:01.47-06:20.33] TS3007a-T0029 | Project Manager (A): No no no. It's uh it's uh I I I must do it. Yeah, yeah, yeah.'Cause we uh really don't know each other, and uh it's kinda new. So getting used to each other, we can uh have a little fun then, before we uh dig in really to the hard stuff. That kind of thing. Would you start with drawing your uh favourite animal?
+[06:04.84-06:07.00] TS3007a-T0030 | Marketing Expert (D): It's part of the introduction, okay.
+[06:13.75-06:16.43] TS3007a-T0031 | Marketing Expert (D): Okay.
+[06:19.03-06:25.39] TS3007a-T0032 | Marketing Expert (D): Um, yeah. I don't know really how it works. But maybe you can show us first?
+[06:23.54-06:36.06] TS3007a-T0033 | Project Manager (A): Okay, okay. Yeah, okay. Drawing goes with uh this thing. Do not touch your hand on uh this little uh thingy here. That's uh important. So hold it uh like this.
+[06:35.39-06:37.65] TS3007a-T0034 | Marketing Expert (D): You g you get electrocuted or
+[06:37.86-06:53.62] TS3007a-T0035 | Project Manager (A): Yeah, kinda. So, um You must p p uh push a little uh Good. Because And uh wait uh wait a few seconds. It's not uh fully real-time, so uh watch it.
+[06:52.11-06:53.35] TS3007a-T0036 | User Interface Designer (B): Ach.
+[06:58.67-06:59.58] TS3007a-T0037 | Project Manager (A): Oh yeah.
+[07:01.37-07:05.64] TS3007a-T0038 | Project Manager (A): Well I'm gonna paint in the red.
+[07:06.03-07:06.86] TS3007a-T0039 | User Interface Designer (B): Ooph.
+[07:06.41-07:10.00] TS3007a-T0040 | Project Manager (A): Oh. That's the background colour.
+[07:11.58-07:12.74] TS3007a-T0041 | Project Manager (A): Well, undo.
+[07:15.22-07:15.97] TS3007a-T0042 | Project Manager (A): Um
+[07:18.80-07:19.81] TS3007a-T0043 | Project Manager (A): The pen?
+[07:25.73-07:26.51] TS3007a-T0044 | Project Manager (A): No.
+[07:29.33-07:30.89] TS3007a-T0045 | Project Manager (A): One minute please.
+[07:40.57-07:41.95] TS3007a-T0046 | Project Manager (A): Yeah, that's the one.
+[07:48.06-07:50.54] TS3007a-T0047 | Project Manager (A): Well, five. Okay.
+[07:54.53-07:57.47] TS3007a-T0048 | Project Manager (A): My favourite animal huh?
+[07:57.41-08:00.51] TS3007a-T0049 | Marketing Expert (D): It's like Pictionary?
+[08:00.40-08:02.30] TS3007a-T0050 | Project Manager (A): Yeah, you can guess what it is.
+[08:01.28-08:05.54] TS3007a-T0051 | Marketing Expert (D): The the one who says it first gets a raise.
+[08:05.37-08:08.26] TS3007a-T0052 | Project Manager (A): May uh paint uh next.
+[08:15.01-08:18.29] TS3007a-T0053 | Marketing Expert (D): It's a pork?
+[08:16.02-08:22.07] TS3007a-T0054 | Project Manager (A): No, it's not an orc. You don't see it uh at the ears?
+[08:22.66-08:24.74] TS3007a-T0055 | Marketing Expert (D): Mm yeah, I have it at home.
+[08:26.43-08:27.73] TS3007a-T0056 | Project Manager (A): You have an orc at home?
+[08:27.71-08:29.00] TS3007a-T0057 | User Interface Designer (B): Very artistic.
+[08:29.38-08:30.16] TS3007a-T0058 | Project Manager (A): Thank you.
+[08:32.18-08:34.03] TS3007a-T0059 | Project Manager (A): So it's a cat.
+[08:34.77-08:35.44] TS3007a-T0060 | Marketing Expert (D): What's it called?
+[08:36.21-08:43.41] TS3007a-T0061 | Project Manager (A): Simba.'Cause uh we have a cat at home and he's called Simba.'Cause he looks like the uh the the lion from The Lion King.
+[08:37.18-08:37.52] TS3007a-T0062 | Marketing Expert (D): Ah.
+[08:40.17-08:40.93] TS3007a-T0063 | User Interface Designer (B): Okay.
+[08:43.76-08:46.50] TS3007a-T0064 | Marketing Expert (D): Miniature size?
+[08:45.36-08:48.78] TS3007a-T0065 | Project Manager (A): So we uh found it kinda cool to uh name it after a lion.
+[08:48.54-08:48.90] TS3007a-T0066 | Marketing Expert (D): Okay.
+[08:59.67-09:03.71] TS3007a-T0067 | Project Manager (A): He's happy with us, so uh he's smiling.
+[09:03.89-09:07.04] TS3007a-T0068 | User Interface Designer (B): Wow. He does have body uh
+[09:07.58-09:14.01] TS3007a-T0069 | Project Manager (A): No, only the face. Because we have we have twen twenty five minutes. So we uh Yeah.
+[09:07.64-09:09.12] TS3007a-T0070 | User Interface Designer (B): Huh.
+[09:11.46-09:13.40] TS3007a-T0071 | Marketing Expert (D): Okay. We have to speed up.
+[09:15.86-09:20.14] TS3007a-T0072 | Marketing Expert (D): Remember you use uh different colours, and different pen widths.
+[09:20.03-09:23.17] TS3007a-T0073 | Project Manager (A): Yeah. Okay, who wants to go next?
+[09:25.26-09:26.12] TS3007a-T0074 | Marketing Expert (D): I Okay.
+[09:26.42-09:31.45] TS3007a-T0075 | Project Manager (A): Yeah? So choose a colour, choose a pen width and draw a
+[09:31.00-09:35.55] TS3007a-T0076 | User Interface Designer (B): You don't have to change the colour and the pen width during uh the drawing. Or
+[09:32.97-09:33.89] TS3007a-T0077 | Marketing Expert (D): Save it.
+[09:35.19-09:35.80] TS3007a-T0078 | Project Manager (A): Yeah.
+[09:35.63-09:36.57] TS3007a-T0079 | Marketing Expert (D): You have to save it.
+[09:36.64-09:37.99] TS3007a-T0080 | Project Manager (A): Save it, okay.
+[09:37.81-09:39.86] TS3007a-T0081 | Marketing Expert (D): I've done it. New?
+[09:43.45-09:44.01] TS3007a-T0082 | Marketing Expert (D): 'Kay.
+[09:49.90-09:52.48] TS3007a-T0083 | User Interface Designer (B): You have to draw uh push hard on the pen or uh
+[09:52.62-09:57.22] TS3007a-T0084 | Marketing Expert (D): Mm uh Not really. Um
+[09:56.22-09:57.82] TS3007a-T0085 | Project Manager (A): Kind of firm touch.
+[09:58.86-09:59.76] TS3007a-T0086 | Marketing Expert (D): That one.
+[09:59.45-10:00.37] TS3007a-T0087 | User Interface Designer (B): Oh. Uh hmm.
+[10:09.68-10:10.36] TS3007a-T0088 | Marketing Expert (D): Yeah?
+[10:13.14-10:13.91] TS3007a-T0089 | Marketing Expert (D): Okay.
+[10:17.60-10:21.09] TS3007a-T0090 | Marketing Expert (D): Open. Which one is it?
+[10:25.39-10:28.80] TS3007a-T0091 | Marketing Expert (D): Smart board? Okay. And now?
+[10:27.10-10:28.01] TS3007a-T0092 | User Interface Designer (B): Okay.
+[10:27.28-10:28.08] TS3007a-T0093 | Project Manager (A): Yeah.
+[10:37.94-10:40.57] TS3007a-T0094 | Marketing Expert (D): Okay. Okay, thanks.
+[10:43.95-10:48.01] TS3007a-T0095 | Marketing Expert (D): 'Kay, I've speed up. 'Kay, that's fine.
+[10:49.52-10:50.25] TS3007a-T0096 | Marketing Expert (D): Line width.
+[10:50.32-10:52.53] TS3007a-T0097 | Industrial Designer (C): By the way, why was your cat uh red?
+[10:52.88-10:58.83] TS3007a-T0098 | Project Manager (A): Because uh my cat is red uh at home. And I have red hair, so uh must be red.
+[10:54.47-10:55.60] TS3007a-T0099 | Industrial Designer (C): Oh, okay.
+[10:54.55-10:55.23] TS3007a-T0100 | User Interface Designer (B): Oh.
+[10:56.47-10:57.95] TS3007a-T0101 | Industrial Designer (C): Oh, yeah, sure.
+[10:56.64-11:00.69] TS3007a-T0102 | User Interface Designer (B): It's a very bloody cat. It's a frog.
+[11:01.24-11:03.04] TS3007a-T0103 | Industrial Designer (C): No, it's a turtle.
+[11:02.22-11:06.02] TS3007a-T0104 | User Interface Designer (B): Uh it's an apple.
+[11:06.77-11:08.65] TS3007a-T0105 | Marketing Expert (D): It's not an apple.
+[11:09.09-11:14.10] TS3007a-T0106 | Industrial Designer (C): Must be a dog. Yeah.
+[11:11.57-11:13.70] TS3007a-T0107 | User Interface Designer (B): A dog?
+[11:14.80-11:15.12] TS3007a-T0108 | Marketing Expert (D): Hmm.
+[11:18.48-11:23.02] TS3007a-T0109 | Marketing Expert (D): Colour. Something like this.
+[11:25.25-11:26.14] TS3007a-T0110 | Marketing Expert (D): Smaller.
+[11:28.72-11:31.84] TS3007a-T0111 | User Interface Designer (B): Huh? Oh, it is a turtle.
+[11:31.92-11:34.60] TS3007a-T0112 | Project Manager (A): It is a turtle. Why a turtle? Why? Tim?
+[11:35.50-11:39.55] TS3007a-T0113 | Marketing Expert (D): Um 'Cause I liked Teenage Mutant Hero Turtles.
+[11:39.35-11:44.10] TS3007a-T0114 | Project Manager (A): You watched it a lot? You watched it a lot?
+[11:42.46-11:42.84] TS3007a-T0115 | Marketing Expert (D): Uh?
+[11:44.27-11:47.66] TS3007a-T0116 | User Interface Designer (B): It's uh inside its shell. You'll be uh finished sooner.
+[11:46.65-11:47.82] TS3007a-T0117 | Marketing Expert (D): No, it's uh
+[11:48.15-11:49.70] TS3007a-T0118 | Project Manager (A): It's a scared turtle.
+[11:50.64-11:53.41] TS3007a-T0119 | Marketing Expert (D): No no. It's coming up.
+[11:55.74-11:56.13] TS3007a-T0120 | Marketing Expert (D): Mm.
+[11:59.25-11:59.52] TS3007a-T0121 | Marketing Expert (D): Uh.
+[12:02.22-12:02.86] TS3007a-T0122 | User Interface Designer (B): Wow.
+[12:11.06-12:15.04] TS3007a-T0123 | Project Manager (A): Okay, Tim. Thank you.
+[12:12.22-12:16.83] TS3007a-T0124 | Marketing Expert (D): Something like this. Okay, you know Very artistic.
+[12:17.14-12:18.82] TS3007a-T0125 | Project Manager (A): Jurgen, you want to go next?
+[12:19.00-12:22.62] TS3007a-T0126 | User Interface Designer (B): Yes. Okay. Wha Thank you.
+[12:21.33-12:21.92] TS3007a-T0127 | Marketing Expert (D): Yeah?
+[12:25.63-12:26.25] TS3007a-T0128 | Marketing Expert (D): Here you go.
+[12:26.17-12:26.66] TS3007a-T0129 | User Interface Designer (B): Yeah.
+[12:28.60-12:29.65] TS3007a-T0130 | User Interface Designer (B): Um
+[12:33.44-12:34.48] TS3007a-T0131 | User Interface Designer (B): How did it work?
+[12:35.27-12:36.23] TS3007a-T0132 | Project Manager (A): Format?
+[12:36.51-12:37.42] TS3007a-T0133 | User Interface Designer (B): Performance?
+[12:37.01-12:39.92] TS3007a-T0134 | Project Manager (A): And then you have the the current colour, you can change.
+[12:41.82-12:43.49] TS3007a-T0135 | Project Manager (A): So no red or green.
+[12:43.45-12:44.42] TS3007a-T0136 | User Interface Designer (B): And a pen?
+[12:44.70-12:52.71] TS3007a-T0137 | Project Manager (A): And uh line uh width. I had five. Tim had Uh Tim, what kinda line width did you have?
+[12:49.72-12:50.82] TS3007a-T0138 | User Interface Designer (B): Um
+[12:51.78-12:54.36] TS3007a-T0139 | Marketing Expert (D): Uh the big lines were like nine.
+[12:56.62-12:58.10] TS3007a-T0140 | Project Manager (A): Okay. It's a dog.
+[12:58.19-13:03.39] TS3007a-T0141 | User Interface Designer (B): Well, very good. I just uh thought I'd pick the easiest one.
+[12:58.62-13:00.65] TS3007a-T0142 | Industrial Designer (C): Uh.
+[13:02.19-13:04.84] TS3007a-T0143 | Project Manager (A): Okay. Why a dog? You have a dog at home?
+[13:04.50-13:12.81] TS3007a-T0144 | User Interface Designer (B): Well, we had a dog, a few years ago. And and it, yeah, when it died we didn't get a new one or something. But uh
+[13:05.74-13:06.30] TS3007a-T0145 | Marketing Expert (D): Uh, it's p
+[13:05.82-13:07.98] TS3007a-T0146 | Project Manager (A): Had a dog? Yeah?
+[13:11.11-13:11.98] TS3007a-T0147 | Project Manager (A): Ah.
+[13:11.84-13:13.23] TS3007a-T0148 | Marketing Expert (D): It's pretty good uh
+[13:14.98-13:17.91] TS3007a-T0149 | Project Manager (A): You have an artistic uh inner middle.
+[13:18.53-13:20.27] TS3007a-T0150 | Marketing Expert (D): An artist.
+[13:21.13-13:23.65] TS3007a-T0151 | User Interface Designer (B): Uh a Graphical User Designer, so
+[13:24.02-13:24.22] TS3007a-T0152 | Industrial Designer (C): Hmm.
+[13:24.54-13:25.09] TS3007a-T0153 | User Interface Designer (B): Hey.
+[13:26.29-13:31.27] TS3007a-T0154 | Marketing Expert (D): Think you uh picked the wrong uh function. Wrong job.
+[13:31.97-13:36.67] TS3007a-T0155 | User Interface Designer (B): Oh. No. Can work together. Ah colour.
+[13:41.57-13:47.16] TS3007a-T0156 | Project Manager (A): So I think you can see it's real uh really a easy programme to use. Not difficult at all.
+[13:47.22-13:47.58] TS3007a-T0157 | Marketing Expert (D): Wha
+[13:52.00-13:54.28] TS3007a-T0158 | User Interface Designer (B): Well, it's okay.
+[13:53.28-13:56.08] TS3007a-T0159 | Project Manager (A): Okay, thank you.
+[13:54.50-13:58.63] TS3007a-T0160 | Marketing Expert (D): That's enough, thanks.
+[13:57.02-13:58.92] TS3007a-T0161 | Project Manager (A): Janus? The last one?
+[13:57.41-13:58.77] TS3007a-T0162 | Industrial Designer (C): Yeah, sure.
+[13:59.23-14:00.04] TS3007a-T0163 | User Interface Designer (B): Yeah.
+[14:02.69-14:03.78] TS3007a-T0164 | Industrial Designer (C): Uh thanks.
+[14:04.56-14:05.80] TS3007a-T0165 | Marketing Expert (D): I wonder.
+[14:05.91-14:09.17] TS3007a-T0166 | Project Manager (A): Yeah. After a cat, a turtle and a dog.
+[14:11.42-14:14.00] TS3007a-T0167 | Project Manager (A): I think he's gonna draw an elephant.
+[14:13.73-14:19.09] TS3007a-T0168 | Industrial Designer (C): I figure I should do something like that, but I'm gonna do something much more difficult.
+[14:19.18-14:19.89] TS3007a-T0169 | Project Manager (A): Uh-oh.
+[14:19.45-14:23.05] TS3007a-T0170 | User Interface Designer (B): Uh-oh. Oh, he is the artistic design.
+[14:24.53-14:29.46] TS3007a-T0171 | Marketing Expert (D): I'm gonna design a remote uh remote control animal.
+[14:26.68-14:28.92] TS3007a-T0172 | User Interface Designer (B): Remote control animal.
+[14:27.82-14:33.79] TS3007a-T0173 | Industrial Designer (C): Exactly. Uh
+[14:30.53-14:33.97] TS3007a-T0174 | Marketing Expert (D): Oh. Sorry.
+[14:38.14-14:43.09] TS3007a-T0175 | User Interface Designer (B): Well with the interface, it might be easier to ha to draw here and display there uh.
+[14:41.94-14:42.37] TS3007a-T0176 | Marketing Expert (D): Yeah.
+[14:47.35-14:54.72] TS3007a-T0177 | Marketing Expert (D): That that might be easier. But at the other hand, uh a pen like that is easy to hold in your hand, and
+[14:55.60-14:56.17] TS3007a-T0178 | Project Manager (A): No.
+[14:56.43-15:01.31] TS3007a-T0179 | Marketing Expert (D): I think it's easier to draw. Yeah. With a pen than with a mouse mouse.
+[14:57.49-14:59.55] TS3007a-T0180 | Project Manager (A): Better to draw with a with
+[14:59.47-15:07.74] TS3007a-T0181 | User Interface Designer (B): Than on the, with Yeah, I m I mean like uh like on here, drawing drawing uh. And then displaying on screen, but
+[15:02.72-15:10.40] TS3007a-T0182 | Marketing Expert (D): Mouth. Oh, okay. Yeah. W with this paper it's too mu too expensive.
+[15:07.76-15:10.64] TS3007a-T0183 | Project Manager (A): But what is he uh? Is it a rabbit?
+[15:09.21-15:10.66] TS3007a-T0184 | User Interface Designer (B): Too expensive, yeah.
+[15:11.22-15:14.85] TS3007a-T0185 | Industrial Designer (C): Yes. No.
+[15:12.33-15:13.70] TS3007a-T0186 | Project Manager (A): Do you have a rabbit at home?
+[15:14.77-15:19.02] TS3007a-T0187 | Marketing Expert (D): It's a rabbit with uh broken legs?
+[15:15.24-15:16.35] TS3007a-T0188 | User Interface Designer (B): A green rabbit.
+[15:17.14-15:20.06] TS3007a-T0189 | Industrial Designer (C): No.
+[15:17.72-15:20.99] TS3007a-T0190 | Project Manager (A): Is it a white rabbit f It's the white rabbit from The Matrix.
+[15:21.15-15:24.45] TS3007a-T0191 | Industrial Designer (C): Yeah, exactly.
+[15:22.12-15:23.39] TS3007a-T0192 | Project Manager (A): Okay, then yeah.
+[15:22.67-15:24.34] TS3007a-T0193 | User Interface Designer (B): There, the g white green rabbit.
+[15:25.53-15:25.86] TS3007a-T0194 | Industrial Designer (C): So.
+[15:26.50-15:30.68] TS3007a-T0195 | User Interface Designer (B): He's a little bit stoned there.
+[15:29.90-15:35.26] TS3007a-T0196 | Industrial Designer (C): Uh I figured this is a pretty b good impression of a rabbit.
+[15:35.20-15:35.46] TS3007a-T0197 | Marketing Expert (D): Yeah.
+[15:36.32-15:36.95] TS3007a-T0198 | Industrial Designer (C): Uh uh
+[15:36.53-15:37.25] TS3007a-T0199 | Marketing Expert (D): It will do.
+[15:37.87-15:38.83] TS3007a-T0200 | Industrial Designer (C): Uh well.
+[15:38.91-15:41.66] TS3007a-T0201 | Project Manager (A): Okay. Finishing touch and then we're going further.
+[15:45.12-15:46.97] TS3007a-T0202 | Marketing Expert (D): Project Manager? Uh
+[15:46.53-15:47.26] TS3007a-T0203 | Project Manager (A): Yeah?
+[15:47.35-15:48.95] TS3007a-T0204 | Industrial Designer (C): Where does the pen go? Just uh
+[15:48.27-15:50.98] TS3007a-T0205 | Marketing Expert (D): Have you been uh counting the time?
+[15:51.63-15:53.40] TS3007a-T0206 | Project Manager (A): Yeah, a little.
+[15:52.45-15:52.94] TS3007a-T0207 | Marketing Expert (D): Okay.
+[15:56.59-15:58.03] TS3007a-T0208 | Marketing Expert (D): Let's go on then.
+[16:01.20-16:05.34] TS3007a-T0209 | Project Manager (A): Well, I think the dog is the the most uh artistic.
+[16:03.57-16:07.52] TS3007a-T0210 | Industrial Designer (C): Uh I figured the rabbit was actually the most uh impressive.
+[16:07.84-16:14.26] TS3007a-T0211 | Project Manager (A): Don't choose for youself. That's selfish. Okay, now we're gonna dig into the to the serious stuff.
+[16:08.25-16:10.63] TS3007a-T0212 | Industrial Designer (C): Oh, sorry.
+[16:10.54-16:12.00] TS3007a-T0213 | Marketing Expert (D): It's pretty abstract.
+[16:14.26-16:51.49] TS3007a-T0214 | Project Manager (A): Uh the selling price for the remote will be uh twenty five Euro, and the production cost uh may not be more than uh twenty and a half Euro. So uh from my point of view, I don't think it's uh gonna be very uh very high tech, high definition, uh ultra modern uh kinda remote, for twelve uh fift uh twelve and a half Euro. Uh the profit we must make with uh the new remote is uh fifty million Euro. So that's a lot. We have to sell uh a lot of uh
+[16:51.49-16:55.07] TS3007a-T0215 | User Interface Designer (B): Yeah, how much is it? Hundred million uh remotes or something?
+[16:52.32-16:53.26] TS3007a-T0216 | Marketing Expert (D): Like how much?
+[16:54.30-17:09.73] TS3007a-T0217 | Project Manager (A): Uh I think uh w when the selling price is twenty five, uh uh you got two million, two million remotes. But our marketing range is uh, market range is international. So we have uh virtually the whole world we can sell uh
+[16:57.81-16:58.95] TS3007a-T0218 | Industrial Designer (C): Twenty million.
+[16:57.95-16:58.57] TS3007a-T0219 | User Interface Designer (B): Oh yeah.
+[17:00.52-17:02.62] TS3007a-T0220 | Industrial Designer (C): Two million, oh yeah, two million. Yeah.
+[17:10.86-17:18.22] TS3007a-T0221 | Project Manager (A): we can sell our r remotes to. At least that uh countries which have uh a television.
+[17:16.21-17:16.56] TS3007a-T0222 | Marketing Expert (D): Yeah.
+[17:20.38-17:49.19] TS3007a-T0223 | Project Manager (A): Um So now it's time uh for us to uh going uh to discuss a little uh things. You can think about uh experience with a remote control uh yourself, at home. What you think might be uh a useful uh new feature. What uh what can distinguish our new trendy remote control from all the others. Um so uh let's uh let's uh discuss a little. I'm gonna join you at the table.
+[17:51.95-17:57.51] TS3007a-T0224 | Project Manager (A): Well what what's the most uh important thing at a remote control?
+[17:57.67-18:07.74] TS3007a-T0225 | User Interface Designer (B): Um well I think the most important thing of a remote control is that you can switch channels. And my opinion is you should keep it as basic as possible. Uh
+[18:06.90-18:17.71] TS3007a-T0226 | Project Manager (A): Okay. So not a not a remote control who uh uh which can uh can be used for television and a D_V_D_ and radio and Or just only
+[18:16.56-18:23.17] TS3007a-T0227 | Marketing Expert (D): Yeah. I think so. Uh but I have some points. Can I show them on the on the big screen? Maybe?
+[18:22.35-18:25.01] TS3007a-T0228 | Project Manager (A): If you have them on uh I can uh
+[18:23.97-18:26.58] TS3007a-T0229 | Marketing Expert (D): Yeah. Yeah, I can find Uh.
+[18:26.06-18:26.91] TS3007a-T0230 | Project Manager (A): Okay.
+[18:38.72-18:46.33] TS3007a-T0231 | Project Manager (A): Oh, in case you want it This is a dead kind of fly. Between the the the, yeah, the the uh
+[18:46.94-18:49.02] TS3007a-T0232 | Marketing Expert (D): Screen? Okay.
+[18:47.68-18:49.41] TS3007a-T0233 | Project Manager (A): Yeah, be The screens.
+[18:49.09-18:52.74] TS3007a-T0234 | User Interface Designer (B): Is it possible to open pen drawings in this uh on this screen?
+[18:51.52-18:56.13] TS3007a-T0235 | Project Manager (A): No no no. Only All the drawings go there, at the left uh
+[18:56.90-19:00.34] TS3007a-T0236 | User Interface Designer (B): Uh but um which The ones we made on the
+[19:00.28-19:09.76] TS3007a-T0237 | Project Manager (A): Oh, that pen drawings. Uh no, I think uh when it is uh in Word and you have saved it in the Shared Documents folder, you can show it there. Yeah.
+[19:08.40-19:09.82] TS3007a-T0238 | User Interface Designer (B): Oh, only in Word, okay.
+[19:10.00-19:32.50] TS3007a-T0239 | Marketing Expert (D): Okay, I have some uh points from marketing point of view. Um just the standard thing li things like uh intuitive, uh small, fairly cheap. Uh it's pretty cheap, twenty five Euros. Uh brand independent. Um I think, it doesn't have to matter uh which brand your T_V_ or other thing is. Um
+[19:12.96-19:13.55] TS3007a-T0240 | Project Manager (A): Yeah.
+[19:30.66-19:31.26] TS3007a-T0241 | Project Manager (A): Yeah.
+[19:33.32-19:36.68] TS3007a-T0242 | Project Manager (A): Okay. Five minutes. Yeah.
+[19:35.22-19:57.49] TS3007a-T0243 | Marketing Expert (D): Five minutes? Okay, I'll wrap it up quickly. Um I personally think it has to be multi-purpose. Uh most of the remote c uh remote controls are uh just for one purpose. And uh by making it multi-purpose, it uh has a new feature, adds a new feature to the market, and distinguish from uh from current products.
+[19:42.18-19:42.61] TS3007a-T0244 | Project Manager (A): Yeah.
+[19:47.14-19:47.73] TS3007a-T0245 | Project Manager (A): Yeah.
+[19:57.25-19:58.03] TS3007a-T0246 | Project Manager (A): Mm-hmm.
+[19:57.49-20:14.89] TS3007a-T0247 | Marketing Expert (D): Um maybe some other technology than infrared. Uh I rather find it very annoying um, like when someone is standing in front of the T_V_ then you can't switch it. Um think about um sending it over radio waves or bluetooth.
+[20:14.41-20:16.31] TS3007a-T0248 | Project Manager (A): Okay. Okay.
+[20:15.87-20:23.81] TS3007a-T0249 | Marketing Expert (D): That might be a little bit uh expensive. Um And something like an L_C_D_ screen.
+[20:24.82-20:25.78] TS3007a-T0250 | User Interface Designer (B): For what purpose?
+[20:26.24-20:41.44] TS3007a-T0251 | Marketing Expert (D): Um uh like I said here um Maybe it's easy. It's nice as an added feature feature, that um, when you're on a certain channel, you can see on the L_C_D_ screen uh what programmes are coming up or
+[20:40.57-20:48.90] TS3007a-T0252 | Project Manager (A): Okay. So it be uh a multi-purpose uh very technically uh high uh
+[20:49.42-20:51.11] TS3007a-T0253 | Marketing Expert (D): From my point of view, yeah.
+[20:49.94-20:55.23] TS3007a-T0254 | Project Manager (A): remote? Yeah, it must be really uh innovative, technical-wise?
+[20:55.23-20:56.61] TS3007a-T0255 | Marketing Expert (D): Yeah, it has to be uh
+[20:58.59-21:00.91] TS3007a-T0256 | Marketing Expert (D): Yeah, our company is very uh
+[21:03.20-21:07.73] TS3007a-T0257 | Marketing Expert (D): good in making new innovative uh things.
+[21:05.38-21:05.82] TS3007a-T0258 | Project Manager (A): Yeah.
+[21:08.05-21:15.01] TS3007a-T0259 | Project Manager (A): So yeah, I I agree with you. So we must focus on things who are really uh really add something to uh to
+[21:08.39-21:09.40] TS3007a-T0260 | User Interface Designer (B): We
+[21:08.80-21:10.16] TS3007a-T0261 | Marketing Expert (D): So i i i i
+[21:15.02-21:16.26] TS3007a-T0262 | Marketing Expert (D): To the current market.
+[21:16.14-21:16.58] TS3007a-T0263 | Project Manager (A): Yeah.
+[21:17.36-21:23.30] TS3007a-T0264 | Marketing Expert (D): Look, you got some cheap uh remote controls there. They just uh
+[21:24.80-21:26.14] TS3007a-T0265 | Marketing Expert (D): Yeah, you got a dozen of'em.
+[21:26.11-21:26.50] TS3007a-T0266 | Project Manager (A): No.
+[21:27.34-21:30.98] TS3007a-T0267 | Marketing Expert (D): But when you enter a new market with a remote control and
+[21:30.06-21:30.81] TS3007a-T0268 | Project Manager (A): Mm-hmm.
+[21:32.27-21:35.33] TS3007a-T0269 | Marketing Expert (D): uh wanna gain market share
+[21:35.39-21:36.03] TS3007a-T0270 | Project Manager (A): Yeah.
+[21:36.34-21:38.61] TS3007a-T0271 | Marketing Expert (D): you have to do something special, I think.
+[21:37.78-21:56.56] TS3007a-T0272 | Project Manager (A): Yeah. But we have to keep an eye that it's Uh at the beginning of such a project, it's it's it's very uh cool to talk about, well, this would be cool, that would be cool. Uh but we must not uh lose uh sight of the the user uh uh friendly uh
+[21:49.38-21:49.65] TS3007a-T0273 | Marketing Expert (D): Yeah.
+[21:56.56-22:01.65] TS3007a-T0274 | Marketing Expert (D): Yeah, of course. But it's But but this is just from marketing uh aspect.
+[21:57.26-21:59.57] TS3007a-T0275 | User Interface Designer (B): And and the price.
+[22:00.70-22:03.42] TS3007a-T0276 | Project Manager (A): Yeah okay. Yeah. Okay.
+[22:02.53-22:06.85] TS3007a-T0277 | Marketing Expert (D): I don't know anything about user interface or design.
+[22:03.87-22:05.38] TS3007a-T0278 | User Interface Designer (B): Okay.
+[22:06.28-22:08.91] TS3007a-T0279 | Project Manager (A): And that's because we have him.
+[22:08.32-22:12.58] TS3007a-T0280 | Industrial Designer (C): And and him.
+[22:09.20-22:10.51] TS3007a-T0281 | User Interface Designer (B): And him.
+[22:12.73-22:43.50] TS3007a-T0282 | Project Manager (A): Okay, uh next meeting will start in thirty minutes. So uh you uh will have uh individual actions where I presume uh will be some feedback, uh via the m the mail. Um the the the Industrial uh Designer has to uh look at the working design. Uh the User Interface Designer has to look at the technical functions. So that's the thing we uh discussed. Yeah?
+[22:40.43-22:53.80] TS3007a-T0283 | User Interface Designer (B): Yeah. Um one thing uh, we must first agree on uh what we're going to m going to make. Do we Are we going to use um it it for multiple systems? Or uh We should have some agreement on that before we
+[22:53.13-22:56.60] TS3007a-T0284 | Project Manager (A): Okay. Um wha
+[22:55.82-23:00.72] TS3007a-T0285 | Marketing Expert (D): Mm uh I I don't think we have to be, we have to agree on that. Uh
+[23:02.86-23:05.54] TS3007a-T0286 | Industrial Designer (C): I figure we could get back to it on the next meeting actually.
+[23:03.06-23:09.97] TS3007a-T0287 | Marketing Expert (D): I think th that's a pha Yeah. That's a phase further. Ju just uh
+[23:06.12-23:07.10] TS3007a-T0288 | User Interface Designer (B): Okay.
+[23:07.14-23:07.58] TS3007a-T0289 | Industrial Designer (C): Yeah.
+[23:11.02-23:16.42] TS3007a-T0290 | Marketing Expert (D): make some mock-ups, some some general ideas. And and then we can plan
+[23:14.54-23:15.78] TS3007a-T0291 | User Interface Designer (B): Ah okay.
+[23:18.50-23:18.90] TS3007a-T0292 | Marketing Expert (D): Yeah.
+[23:19.02-23:19.82] TS3007a-T0293 | Project Manager (A): Yeah.
+[23:20.82-23:22.98] TS3007a-T0294 | Marketing Expert (D): We can plan further, I think.
+[23:22.24-23:38.80] TS3007a-T0295 | Project Manager (A): Yeah. But maybe, because uh you are working on the user requirements, you are working on the technical functions, we uh must uh have a little or kinda uh uh uh How do you call it? Uh
+[23:38.05-23:40.35] TS3007a-T0296 | User Interface Designer (B): Consensus on the, what we're gonna do.
+[23:39.76-23:49.49] TS3007a-T0297 | Project Manager (A): Uh a little plan on on what we're going to do. So you don't uh uh come up with the user requirements who don't fit the the the the technical functions at all.
+[23:51.02-23:58.55] TS3007a-T0298 | Project Manager (A): Some basic things we co we want to going to do. Uh I think that's well uh Yeah. Will come in handy.
+[23:58.93-23:59.93] TS3007a-T0299 | Marketing Expert (D): Mm yeah.
+[24:03.01-24:05.84] TS3007a-T0300 | Marketing Expert (D): I don't know. You decide. You're the Project Manager.
+[24:03.18-24:03.61] TS3007a-T0301 | User Interface Designer (B): Yeah.
+[24:04.43-24:07.80] TS3007a-T0302 | Project Manager (A): Okay. W He says
+[24:07.23-24:18.50] TS3007a-T0303 | User Interface Designer (B): Well yeah, if the technical functions have to be designed, I I've gotta know for what kind of machines they will be. Or do we use it a text screen? Or uh will it be with uh with bluetooth or
+[24:12.22-24:12.82] TS3007a-T0304 | Project Manager (A): Yeah.
+[24:17.78-24:26.93] TS3007a-T0305 | Project Manager (A): Well, th that's that's really a step further. But if you say uh is it uh uh one way or multi-purpose, that's a
+[24:20.30-24:21.03] TS3007a-T0306 | User Interface Designer (B): Okay.
+[24:25.73-24:26.24] TS3007a-T0307 | User Interface Designer (B): Mm-hmm.
+[24:26.06-24:28.30] TS3007a-T0308 | Marketing Expert (D): Uh tha that's a same step further.
+[24:28.58-24:29.82] TS3007a-T0309 | Industrial Designer (C): Yeah, actually it is.
+[24:28.71-24:29.33] TS3007a-T0310 | Project Manager (A): Why?
+[24:29.60-24:29.84] TS3007a-T0311 | Marketing Expert (D): Yeah.
+[24:30.78-24:31.48] TS3007a-T0312 | Project Manager (A): Why?
+[24:30.81-24:34.96] TS3007a-T0313 | Industrial Designer (C): Then looking at individual components, so that's actually a f step further.
+[24:31.81-24:34.03] TS3007a-T0314 | Marketing Expert (D): Uh. Yeah.
+[24:34.34-24:34.99] TS3007a-T0315 | Project Manager (A): Yeah.
+[24:35.42-24:44.99] TS3007a-T0316 | Marketing Expert (D): Like we all have a list of uh things that has to b that have to be in it, or how it has to be like. And then in the next meeting we decide
+[24:44.11-24:44.74] TS3007a-T0317 | Project Manager (A): Yeah.
+[24:46.29-24:49.74] TS3007a-T0318 | Industrial Designer (C): Yeah, we can take it from there. Yeah, I agree uh, we can take it from there.
+[24:46.58-24:48.82] TS3007a-T0319 | Marketing Expert (D): w what it's gonna be. A
+[24:47.76-24:48.54] TS3007a-T0320 | Project Manager (A): Okay.
+[24:49.55-24:52.00] TS3007a-T0321 | Marketing Expert (D): And then you s then you can delete uh
+[24:53.12-24:53.82] TS3007a-T0322 | Industrial Designer (C): Or edit.
+[24:53.26-24:55.45] TS3007a-T0323 | Marketing Expert (D): the o the obsolete uh details.
+[24:54.55-25:11.41] TS3007a-T0324 | Project Manager (A): Okay. So uh each individually i individually uh must think on what's uh at uh his point of view is the most important. And uh then we're going to fit uh all the pieces together the next meeting.
+[24:56.21-24:57.13] TS3007a-T0325 | Marketing Expert (D): I think.
+[25:05.09-25:05.69] TS3007a-T0326 | Marketing Expert (D): Yeah.
+[25:11.38-25:12.02] TS3007a-T0327 | Marketing Expert (D): Yeah.
+[25:11.41-25:20.71] TS3007a-T0328 | Project Manager (A): I must finish off now, so it's over. You uh will receive specific specific instructions uh by your personal coach. And I see you in uh thirty minutes. Thank you.
+[25:19.71-25:20.75] TS3007a-T0329 | Industrial Designer (C): Okay, cheers.
+[25:19.78-25:20.35] TS3007a-T0330 | User Interface Designer (B): Okay.
+[25:29.18-25:29.70] TS3007a-T0331 | User Interface Designer (B): Sorry.
+[25:31.23-25:36.19] TS3007a-T0332 | Project Manager (A): Be careful.
+[25:32.54-25:33.33] TS3007a-T0333 | Marketing Expert (D): Damn.
+[25:39.56-25:40.12] TS3007a-T0334 | User Interface Designer (B): Yes.
+[25:43.47-25:45.22] TS3007a-T0335 | Marketing Expert (D): Success?
+[25:43.97-25:44.49] TS3007a-T0336 | User Interface Designer (B): Yeah.
+[26:09.02-26:10.43] TS3007a-T0337 | User Interface Designer (B): No. Come up.

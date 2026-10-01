@@ -1,0 +1,579 @@
+{
+  "run": {
+    "system": "keyword-rule baseline",
+    "version": "rule-baseline-v1.0-frozen",
+    "split": "test",
+    "created_at_utc": "2026-09-28T15:42:03.520077+00:00",
+    "config_sha256": "652f7dcb5be35d4f9d5d4e232a0bac45b5e774cc3ad89cf10c63ce7ad32d8137",
+    "meeting_count": 20,
+    "randomness": "none",
+    "network_calls": 0
+  },
+  "results": [
+    {
+      "transcript_id": "ES2004a",
+      "transcript_sha256": "3b5d04b685c61e58c1182faaf25ece41cba6ddcbdb73fc27d2972f374b0e9fb7",
+      "action_items": []
+    },
+    {
+      "transcript_id": "ES2004b",
+      "transcript_sha256": "f5820588c20195f5d5432d5bdede96adf00f5811e67428414bcfd07dece4df05",
+      "action_items": [
+        {
+          "task": "be able to not answer them",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Um and I'll be able to not answer them.",
+          "evidence_ids": [
+            "ES2004b-T0424"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2004c",
+      "transcript_sha256": "0eece9b7e73ad743feb226495eaa682c5d898782088aa4f61732963cec875822",
+      "action_items": []
+    },
+    {
+      "transcript_id": "ES2004d",
+      "transcript_sha256": "1ff53893cf4e7064aa3132f11ad67214008037a8b3b30bd436b71f50a1262582",
+      "action_items": [
+        {
+          "task": "have something that's a proper funky thing, a funky item that's individual, individual to you, I mean they could even go into um you go in with an idea and they design it on Photoshop and then they just get it printed on the plastic, you would pray you would pay a lot extra, because it's individually being a plastic was being made for you",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "But then when it everything is really smart, and you've just got this big chunk of black thing sitting on your coffee table, it doesn't go, I mean if you could have something that's a proper funky thing, a funky item that's individual, individual to you, I mean they could even go into um you go in with an idea and they design it on Photoshop and then they just get it printed on the plastic, you would pray you would pay a lot extra, because it's individually being a plastic was being made for you. But people could have anything that they wanted.",
+          "evidence_ids": [
+            "ES2004d-T0499"
+          ],
+          "needs_review": true,
+          "review_reason": "Addressee inferred from recent speaker context.",
+          "rule_id": "direct_request"
+        },
+        {
+          "task": "really, you know, say is is obvious and visible",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I think it's really good that this has been very market research based, because just going back to mobile phones, I mean this is the first change in remote control devices that I can really, you know, say is is obvious and visible. We see it in mobile phones a lot, and tha that's where we've borrowed a lot of our ide our ideas from. There are innovations in that that people don't really want. I see people wanting a model of the phone they were really happy with, and they can't get it anymore and it's innovation for innovation's sake, and I think it's wonderful our company's so R_ and D_ based.",
+          "evidence_ids": [
+            "ES2004d-T0511"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "be delegating in my um role as Project Supervisor, so good luck",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Um the project has been evaluated well and truly. Um and we've got the meeting survey and questionnaire. Oh, so we've got about fifty minutes to catch up with everything that I fell behind with, so I'll be delegating in my um role as Project Supervisor, so good luck.",
+          "evidence_ids": [
+            "ES2004d-T0547"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014a",
+      "transcript_sha256": "70dc826e5958ef8901843f7484d5e5379b2e0488b1c3b08933d87e6fe8a1cb19",
+      "action_items": [
+        {
+          "task": "winding up. Um is there Next meeting in thirty minutes",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay. Um well we've got five minutes before the end of the meeting. So uh we have to uh start winding up. Um is there Next meeting in thirty minutes.",
+          "evidence_ids": [
+            "ES2014a-T0115"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "collective_obligation"
+        },
+        {
+          "task": "try and write up some minutes of uh this meeting to uh to give it to you for the next meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "for I_D_. For U_I_D_ the technical functions design. Marketing, the user requirement specification. Specific instructions will be sent to you by your person by your personal coach. So. Are we all clear what objectives we're looking to meet in the next thirty minutes? And I guess I'll try and write up some minutes of uh this meeting to uh to give it to you for the next meeting.",
+          "evidence_ids": [
+            "ES2014a-T0133"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "do minutes and and we'll see you in half and hour",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "That's true,'cause during during the course of our day we might make decisions based on information or meetings that would change where we're going. But at this point in time I think you're right that uh shall we make it just a T_V_. Okay? So we will depart. We will stay here and uh and break off. And I'll do minutes and and we'll see you in half and hour. Okay. Right s",
+          "evidence_ids": [
+            "ES2014a-T0142"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014b",
+      "transcript_sha256": "3a70e6cf58106e13fd60d5cbd5232d55b9f06e506fcd11edf1e5699bbf53c177",
+      "action_items": [
+        {
+          "task": "do the minutes of uh this meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay. Right so I'll do the minutes of uh this meeting. And we'll meet back at I'm not sure. Um forty minutes, I believe is the time.",
+          "evidence_ids": [
+            "ES2014b-T0399"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014c",
+      "transcript_sha256": "f36695160fcfee73a54e457990f8c82ee80edb08d87094616b0d2041d725676e",
+      "action_items": [
+        {
+          "task": "show you",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'm not exactly sure. Um I'll show you",
+          "evidence_ids": [
+            "ES2014c-T0356"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014d",
+      "transcript_sha256": "2c665723d9cc7da59ac5813b014687c216fc47c362fccc222388e973a89589a5",
+      "action_items": [
+        {
+          "task": "do",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I suppose the easiest way of doing it is to put some notes down, which I will do.",
+          "evidence_ids": [
+            "ES2014d-T0532"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "IS1009a",
+      "transcript_sha256": "fea8c1ad5318be0daf8890ac64ea6db29ff48331104c017014a80205b21b1939",
+      "action_items": []
+    },
+    {
+      "transcript_id": "IS1009b",
+      "transcript_sha256": "5c158bb437cc937d403ac07d570704dda2b97cc6f4e4fe35c5368bbd789a9f1c",
+      "action_items": []
+    },
+    {
+      "transcript_id": "IS1009c",
+      "transcript_sha256": "4feacc6eaa83c6f835ef93b8cf6d1392af83dc0e9fbfa94501b69cf633c8dced",
+      "action_items": [
+        {
+          "task": "already record uh a question like, uh good morning, like around eight o'clock I want to see the news in the television",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "No, it's it's, uh yeah, it it's like your recording of uh all uh um a question already, and then you're expecting an answer from th For example, you have a T_V_ system, I'm the user and my family members are the user, I will already record uh a question like, uh good morning, like around eight o'clock I want to see the news in the television. So I'll say just good morning and the T_V_ will switch on. It will recognise my voice and will switch on.",
+          "evidence_ids": [
+            "IS1009c-T0192"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "say just good morning and the T_V_ will switch on",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "No, it's it's, uh yeah, it it's like your recording of uh all uh um a question already, and then you're expecting an answer from th For example, you have a T_V_ system, I'm the user and my family members are the user, I will already record uh a question like, uh good morning, like around eight o'clock I want to see the news in the television. So I'll say just good morning and the T_V_ will switch on. It will recognise my voice and will switch on.",
+          "evidence_ids": [
+            "IS1009c-T0192"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "IS1009d",
+      "transcript_sha256": "b3ede08b4aa30e9d7a43f81069f8ef3350b2dc7b86009f1e6e5e0c3d99669e59",
+      "action_items": [
+        {
+          "task": "give three",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'll give three.",
+          "evidence_ids": [
+            "IS1009d-T0353"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "market",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'm pretty happy with it too, yeah um, it's something I think I can market. Yeah.",
+          "evidence_ids": [
+            "IS1009d-T0397"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003a",
+      "transcript_sha256": "4b177c62266d0e76cc9f548f440217084c0040f46755ad11877e1714fa9491c0",
+      "action_items": [
+        {
+          "task": "put the minutes from this meeting uh in our project folder",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay. So these are our um a few things we can think of. Um I will put the minutes from this meeting uh in our project folder.",
+          "evidence_ids": [
+            "TS3003a-T0192"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "meet you in about a half an hour, I think",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay then I'll meet you in about a half an hour, I think. So good luck.",
+          "evidence_ids": [
+            "TS3003a-T0212"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003b",
+      "transcript_sha256": "876094ef8fc3400d323d8114d45cfbe2f619a7d6e70da4b00422f9bfebb3758d",
+      "action_items": [
+        {
+          "task": "put the minutes in the project uh project document folder",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "Uh okay. I will put the minutes in the project uh project document folder. Um what we're going to do for the next meeting is the Industrial Designer will do the components concept, User Interface Designer the user interface concept, and the trend-watching. So just keep in mind the things we've said about the target group, uh requirements, and the trends which are uh going on. And uh specific instructions will be sent to you by uh the personal coach.",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003c",
+      "transcript_sha256": "4e02306535f14c4559d6788e482f67b93ef2fbe1e4b9edb9f3880b5c91df61eb",
+      "action_items": [
+        {
+          "task": "put these um minutes on the in the folder",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "We've got a general idea of the concepts and the materials we're going to use. So now for the next meeting uh we'll have to look at the look-and-feel design. It's important that the corporate design image uh is going to be in the remote. So check out the corporate website maybe. The user interface design, it's the same story. And product evaluation. So the Industrial Designer and User Interface Designer are going to work together on this one. But you're going to get your instructions I think sended by the coach. So just um I will put these um minutes on the in the folder.",
+          "evidence_ids": [
+            "TS3003c-T0300"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "look at the look-and-feel design. It's important that the corporate design image uh is going to be in the remote. So check out the corporate website maybe. The user interface design, it's the same story. And product evaluation. So the Industrial Designer and User Interface Designer are going to work together on this one. But you're going to get your instructions I think sended by the coach. So just um put these um minutes on the in the folder",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "We've got a general idea of the concepts and the materials we're going to use. So now for the next meeting uh we'll have to look at the look-and-feel design. It's important that the corporate design image uh is going to be in the remote. So check out the corporate website maybe. The user interface design, it's the same story. And product evaluation. So the Industrial Designer and User Interface Designer are going to work together on this one. But you're going to get your instructions I think sended by the coach. So just um I will put these um minutes on the in the folder.",
+          "evidence_ids": [
+            "TS3003c-T0300"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "collective_obligation"
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003d",
+      "transcript_sha256": "68a508408a619abf3325212ddc405f19fc85f2122fd885a81838456c3d391a32",
+      "action_items": [
+        {
+          "task": "put it in My Documents and uh That's okay",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Yeah, I'll just put it in My Documents and uh That's okay.",
+          "evidence_ids": [
+            "TS3003d-T0620"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "be back in about ten minutes to show you the final presentation",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "And then I will be back in about ten minutes to show you the final presentation.",
+          "evidence_ids": [
+            "TS3003d-T0625"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "meet you in I think about ten minutes, or something",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Yeah. Questionnaire. I think you all get a questionnaire in in your room. And then I'll meet you in I think about ten minutes, or something. Okay. Thank you.",
+          "evidence_ids": [
+            "TS3003d-T0631"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007a",
+      "transcript_sha256": "7cf9cfea016355ee250f81fbf6f684d9d2b733efcb1374474f35671dd3ba2290",
+      "action_items": []
+    },
+    {
+      "transcript_id": "TS3007b",
+      "transcript_sha256": "4a12ca19322e2efc61211687382fdfad603964fca36b5aa496747281edfee5c4",
+      "action_items": [
+        {
+          "task": "put my minutes uh I have updated them so uh s they're updated in the shared folder too",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay well uh it's almost at the end. So we have now a lunch break, finally, yeah. Uh after the lunch break uh it's back to uh individual work, once again uh thirty minutes. Uh I will put my minutes uh I have updated them so uh s they're updated in the shared folder too.",
+          "evidence_ids": [
+            "TS3007b-T0336"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "say much about it, so uh uh wait for your email and uh hopefully you get it done uh in the in the thirty minutes, and I w will see you after the lunch break and the thirty minutes",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Failure. Uh uh the specifi uh specific instructions for the next uh meeting you will all will receive uh at the uh the the email. I don't think I can uh say much about it, so uh uh wait for your email and uh hopefully you get it done uh in the in the thirty minutes, and I w will see you after the lunch break and the thirty minutes. Yeah?",
+          "evidence_ids": [
+            "TS3007b-T0341"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "I can uh",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Well I can I can uh",
+          "evidence_ids": [
+            "TS3007b-T0364"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "uh saved in my documents",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'll just uh saved in my documents.",
+          "evidence_ids": [
+            "TS3007b-T0383"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007c",
+      "transcript_sha256": "b68dcff9a1d26806902584ff622de85b9f1e5aa4f46b590b99160f3bd3bc6a65",
+      "action_items": [
+        {
+          "task": "thank you all",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I will thank you all.",
+          "evidence_ids": [
+            "TS3007c-T0483"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007d",
+      "transcript_sha256": "be3fdea8b5f2ed3bcd7dd4252ccf66c1ead7c0e3e263e47f57d70a9aa1de6ccf",
+      "action_items": [
+        {
+          "task": "put it on a story-board",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay well, that uh that can be done. Maybe we can do it uh together. You can see what I've uh yeah? So I I s I will uh put it on a story-board.",
+          "evidence_ids": [
+            "TS3007d-T0769"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "talk a little bit Dutch",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Yeah, I understand you, I can talk a little bit Dutch.",
+          "evidence_ids": [
+            "TS3007d-T0801"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        },
+        {
+          "task": "then do it one two three",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "You go there and you go there. So, okay. Well, maybe I can then do it one two three.",
+          "evidence_ids": [
+            "TS3007d-T0808"
+          ],
+          "needs_review": false,
+          "review_reason": null,
+          "rule_id": "self_commitment"
+        }
+      ]
+    }
+  ]
+}

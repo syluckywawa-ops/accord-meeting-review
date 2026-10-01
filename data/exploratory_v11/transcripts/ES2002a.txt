@@ -1,0 +1,213 @@
+Meeting: ES2002a
+Split: v11_exploratory_unseen
+Meeting date: 2004-12-13
+AMI duration (seconds): 1242
+Transcribed word elements: 3105
+
+[00:50.16-00:51.20] ES2002a-T0001 | Project Manager (B): Okay.
+[00:53.49-01:17.46] ES2002a-T0002 | Project Manager (B): Right. Um well this is the kick-off meeting for our our project. Um and um this is just what we're gonna be doing over the next twenty five minutes. Um so first of all, just to kind of make sure that we all know each other, I'm Laura and I'm the project manager. Do you want to introduce yourself again?
+[01:06.94-01:07.75] ES2002a-T0003 | Marketing Expert (D): Mm-hmm.
+[01:14.71-01:15.41] ES2002a-T0004 | Marketing Expert (D): Great.
+[01:17.41-01:20.95] ES2002a-T0005 | Industrial Designer (A): Hi, I'm David and I'm supposed to be an industrial designer.
+[01:20.74-01:21.30] ES2002a-T0006 | Project Manager (B): Okay.
+[01:21.58-01:24.58] ES2002a-T0007 | Marketing Expert (D): And I'm Andrew and I'm uh our marketing
+[01:25.51-01:28.98] ES2002a-T0008 | User Interface Designer (C): Um I'm Craig and I'm User Interface.
+[01:26.05-01:26.91] ES2002a-T0009 | Marketing Expert (D): expert.
+[01:29.28-01:42.28] ES2002a-T0010 | Project Manager (B): Great. Okay. Um so we're designing a new remote control and um Oh I have to record who's here actually. So that's David, Andrew and Craig, isn't it?
+[01:44.86-01:46.64] ES2002a-T0011 | Project Manager (B): And you all arrived on time.
+[01:48.67-02:12.57] ES2002a-T0012 | Project Manager (B): Um yeah so des uh design a new remote control. Um, as you can see it's supposed to be original, trendy and user friendly. Um so that's kind of our our brief, as it were. Um and so there are three different stages to the design. Um I'm not really sure what what you guys have already received um in your emails. What did you get?
+[02:12.38-02:22.06] ES2002a-T0013 | Industrial Designer (A): Um, I just got the project announcement about what the project is. Designing a remote control. That's about it, didn't get anything else. Did you get the same thing?
+[02:15.06-02:15.47] ES2002a-T0014 | Project Manager (B): Mm-hmm.
+[02:16.83-02:20.77] ES2002a-T0015 | Marketing Expert (D): Mm-hmm. Mm-hmm. Yeah, that's that's it.
+[02:19.90-02:47.39] ES2002a-T0016 | Project Manager (B): Is that what everybody got? Okay. Um. So we're gonna have like individual work and then a meeting about it. And repeat that process three times. Um and at this point we get try out the whiteboard over there. Um. So uh you get to draw your favourite animal and sum up your favourite characteristics of it. So who would like to go first?
+[02:20.22-02:21.07] ES2002a-T0017 | User Interface Designer (C): Yeah.
+[02:21.78-02:22.06] ES2002a-T0018 | Marketing Expert (D): Yeah.
+[02:46.49-02:48.37] ES2002a-T0019 | Marketing Expert (D): I will go. That's fine.
+[02:47.82-02:49.07] ES2002a-T0020 | Project Manager (B): Very good.
+[02:53.94-02:56.82] ES2002a-T0021 | Marketing Expert (D): Alright. So
+[03:01.36-03:02.58] ES2002a-T0022 | Marketing Expert (D): This one here, right?
+[03:02.99-03:04.51] ES2002a-T0023 | Project Manager (B): Mm-hmm.
+[03:03.73-03:08.38] ES2002a-T0024 | Marketing Expert (D): Okay. Very nice. Alright. My favourite animal
+[03:09.97-03:12.02] ES2002a-T0025 | Marketing Expert (D): is like
+[03:23.23-03:24.30] ES2002a-T0026 | Marketing Expert (D): A beagle.
+[03:31.71-04:02.46] ES2002a-T0027 | Marketing Expert (D): Um charac favourite characteristics of it? Is that right? Uh, right, well basically um high priority for any animal for me is that they be willing to take a lot of physical affection from their family. And, yeah that they have lots of personality and uh be fit and in robust good health. So this is blue. Blue beagle. My family's beagle.
+[03:35.78-03:36.97] ES2002a-T0028 | Project Manager (B): Yeah. Yeah.
+[04:03.38-04:05.74] ES2002a-T0029 | Project Manager (B): Right. Lovely.
+[04:14.61-04:17.68] ES2002a-T0030 | User Interface Designer (C): Well, my favourite animal would be a monkey.
+[04:27.72-04:34.05] ES2002a-T0031 | User Interface Designer (C): Then they're small cute and furry, and uh when planet of the apes becomes real, I'm gonna be up there with them.
+[04:35.65-04:36.24] ES2002a-T0032 | Project Manager (B): Right.
+[04:35.67-04:36.23] ES2002a-T0033 | Industrial Designer (A): Cool.
+[04:40.44-04:42.70] ES2002a-T0034 | Industrial Designer (A): There's too much gear.
+[04:45.94-04:53.41] ES2002a-T0035 | Project Manager (B): You can take as long over this as you like, because we haven't got an awful lot to discuss. Ok oh we do we do. Don't feel like you're in a rush, anyway.
+[04:53.14-04:54.66] ES2002a-T0036 | Industrial Designer (A): Okay.
+[04:55.68-05:01.25] ES2002a-T0037 | Marketing Expert (D): I coulda told you a whole lot more about beagles. Boy, let me tell you.
+[04:57.92-05:03.88] ES2002a-T0038 | Project Manager (B): Ach why not We might have to get you up again then. I don't know what mine is. I'm gonna have to think on the spot now.
+[05:06.98-05:07.94] ES2002a-T0039 | Marketing Expert (D): Impressionist.
+[05:09.36-05:11.03] ES2002a-T0040 | Industrial Designer (A): Can't draw.
+[05:11.95-05:15.60] ES2002a-T0041 | Project Manager (B): Is that a whale?
+[05:12.00-05:13.58] ES2002a-T0042 | Industrial Designer (A): Um. Yeah.
+[05:18.56-05:31.68] ES2002a-T0043 | Industrial Designer (A): Um, well anyway, I don't know, it's just the first animal I can think off the top of my head. Um. Yes. Big reason is'cause I'm allergic to most animals. Allergic to animal fur, so um fish was a natural choice.
+[05:27.74-05:28.64] ES2002a-T0044 | Project Manager (B): Ah.
+[05:31.68-05:38.04] ES2002a-T0045 | Industrial Designer (A): Um, yeah, and I kind of like whales. They come in and go eat everything in sight.
+[05:37.99-05:39.16] ES2002a-T0046 | Marketing Expert (D): Alright.
+[05:38.04-05:41.74] ES2002a-T0047 | Industrial Designer (A): And they're quite harmless and mild and interesting.
+[05:41.81-05:42.26] ES2002a-T0048 | Marketing Expert (D): Mm.
+[05:42.40-05:46.88] ES2002a-T0049 | Project Manager (B): Okay. God, I still don't know what I'm gonna write about. Um.
+[05:49.63-05:50.90] ES2002a-T0050 | Marketing Expert (D): Superb sketch, by the way.
+[05:51.69-05:55.38] ES2002a-T0051 | Industrial Designer (A): Tail's a bit big, I think.
+[05:54.26-06:04.96] ES2002a-T0052 | Project Manager (B): I was gonna choose a dog as well. But I'll just draw a different kind of dog. M my favourite animal is my own dog at home. Um
+[05:59.60-06:00.00] ES2002a-T0053 | Marketing Expert (D): Yep.
+[06:06.99-06:08.67] ES2002a-T0054 | Project Manager (B): That doesn't really look like him, actually.
+[06:12.92-06:16.51] ES2002a-T0055 | Project Manager (B): He looks more like a pig, actually. Ah well.
+[06:18.43-06:20.18] ES2002a-T0056 | Marketing Expert (D): I see a dog in there. Yep.
+[06:19.50-06:21.01] ES2002a-T0057 | Project Manager (B): Do you? Oh that's very good of you.
+[06:22.80-06:23.71] ES2002a-T0058 | Marketing Expert (D): Now I see a rooster.
+[06:28.22-06:29.14] ES2002a-T0059 | Project Manager (B): Uh.
+[06:33.38-06:34.34] ES2002a-T0060 | Marketing Expert (D): What kind is it?
+[06:34.35-07:02.26] ES2002a-T0061 | Project Manager (B): Um he's a mixture of uh various things. Um and what do I like about him, um That's just to suggest that his tail wags. Um he's very friendly and cheery and always pleased to see you, and very kind of affectionate and um uh and he's quite quite wee as well so you know he can doesn't take up too much space. Um
+[07:05.42-07:11.78] ES2002a-T0062 | Project Manager (B): and uh And he does a funny thing where he chases his tail as well, which is quite amusing, so
+[07:11.25-07:13.47] ES2002a-T0063 | Marketing Expert (D): Is he aware that th it's his own cha tail he's chasing?
+[07:13.81-07:22.01] ES2002a-T0064 | Project Manager (B): It is. I think it is. He only does it after he's had his dinner and um he'll just all of a sudden just get up and start chasing his tail'round the living room.
+[07:20.06-07:20.68] ES2002a-T0065 | Marketing Expert (D): Hmm.
+[07:20.38-07:23.26] ES2002a-T0066 | Industrial Designer (A): It's an after dinner dog then.
+[07:23.55-07:25.50] ES2002a-T0067 | Project Manager (B): Yeah, so uh
+[07:24.03-07:28.78] ES2002a-T0068 | Marketing Expert (D): Probably when he was little he got lots of attention for doing it and has forever been conditioned.
+[07:27.06-07:33.70] ES2002a-T0069 | Project Manager (B): Yeah, maybe. Maybe. Right, um where did you find this? Just down here? Yeah.
+[07:35.42-07:43.02] ES2002a-T0070 | Project Manager (B): Okay. Um what are we doing next? Uh um.
+[07:45.49-08:15.07] ES2002a-T0071 | Project Manager (B): Okay, uh we now need to discuss the project finance. Um so according to the brief um we're gonna be selling this remote control for twenty five Euro, um and we're aiming to make fifty million Euro. Um so we're gonna be selling this on an international scale. And uh we don't want it to cost any more than uh twelve fifty Euros, so fifty percent of the selling price.
+[08:08.35-08:09.05] ES2002a-T0072 | Marketing Expert (D): 'Kay.
+[08:16.00-08:17.70] ES2002a-T0073 | Marketing Expert (D): Um, can we just go over that again?
+[08:17.97-08:18.50] ES2002a-T0074 | Project Manager (B): Sure.
+[08:19.14-08:34.03] ES2002a-T0075 | Marketing Expert (D): Uh, so bas at twel Alright, yeah. Okay. So cost like production cost is twelve fifty, but selling price is is that wholesale or retail? Like on the shelf.
+[08:28.00-08:29.63] ES2002a-T0076 | Project Manager (B): All together.
+[08:34.26-08:39.00] ES2002a-T0077 | Project Manager (B): Um I dunno. I imagine That's a good question.
+[08:38.29-08:42.61] ES2002a-T0078 | Marketing Expert (D): Our sale our sale anyway. Yeah, okay okay.
+[08:39.65-08:50.24] ES2002a-T0079 | Project Manager (B): I imagine it probably is our sale actually because it's probably up to the the um the retailer to uh sell it for whatever price they want. Um.
+[08:46.77-08:47.09] ES2002a-T0080 | Marketing Expert (D): Okay.
+[08:48.86-08:49.18] ES2002a-T0081 | Marketing Expert (D): Mm-hmm.
+[08:51.46-08:51.84] ES2002a-T0082 | Marketing Expert (D): Alright.
+[08:51.62-08:58.30] ES2002a-T0083 | Project Manager (B): But I I don't know, I mean do you think the fact that it's going to be sold internationally will have a bearing on how we design it at all?
+[08:58.75-08:59.42] ES2002a-T0084 | Marketing Expert (D): Yes.
+[08:59.17-09:02.21] ES2002a-T0085 | Project Manager (B): Think it will? Um.
+[09:00.66-09:00.99] ES2002a-T0086 | Marketing Expert (D): Mm-hmm.
+[09:03.81-09:04.16] ES2002a-T0087 | Marketing Expert (D): Mm-hmm.
+[09:04.54-09:06.51] ES2002a-T0088 | Project Manager (B): Hmm.
+[09:08.26-09:25.63] ES2002a-T0089 | Marketing Expert (D): Well right away I'm wondering if there's um th th uh, like with D_V_D_ players, if there are zones. Um f frequencies or something um as well as uh characters, um different uh keypad styles and s symbols.
+[09:13.71-09:18.10] ES2002a-T0090 | Project Manager (B): Oh yeah, regions and stuff, yeah. Yeah. Okay.
+[09:24.96-09:31.04] ES2002a-T0091 | Project Manager (B): Yeah. Well for a remote control, do you think that will be I suppose it's depends on how complicated our remote control is.
+[09:24.99-09:25.51] ES2002a-T0092 | Industrial Designer (A): Hmm.
+[09:25.63-09:26.80] ES2002a-T0093 | Marketing Expert (D): Um.
+[09:28.42-09:28.88] ES2002a-T0094 | Marketing Expert (D): I don't know.
+[09:31.13-09:31.87] ES2002a-T0095 | Marketing Expert (D): Yeah.
+[09:31.68-09:40.25] ES2002a-T0096 | Industrial Designer (A): It does make sense from maybe the design point of view'cause you have more complicated characters like European languages, then you need more buttons.
+[09:40.40-09:44.22] ES2002a-T0097 | Project Manager (B): Yeah, yeah. Okay.
+[09:40.64-09:40.98] ES2002a-T0098 | Marketing Expert (D): Yeah.
+[09:41.10-09:42.77] ES2002a-T0099 | Industrial Designer (A): So, possibly.
+[09:42.11-09:48.88] ES2002a-T0100 | Marketing Expert (D): Yeah. And then a and then al the other thing international is on top of the price. I'm thinking
+[09:50.98-09:56.83] ES2002a-T0101 | Marketing Expert (D): the price might might appeal to a certain market in one region, whereas in another it'll be different, so
+[09:57.43-10:03.79] ES2002a-T0102 | Project Manager (B): What, just like in terms of like the wealth of the country? Like how much money people have to spend on things like?
+[09:58.24-10:16.98] ES2002a-T0103 | Marketing Expert (D): Just a chara just a characteristic of the Just Or just like, basic product podi positioning, the twenty five Euro remote control might be a big hit in London, might not be such a big hit in Greece, who knows, something like that, yeah.
+[10:15.09-10:25.02] ES2002a-T0104 | Project Manager (B): Aye, I see what you mean, yeah. Marketing. Good marketing thoughts. Oh gosh, I should be writing all this down. Um.
+[10:20.17-10:20.83] ES2002a-T0105 | Marketing Expert (D): Yep.
+[10:55.04-11:09.20] ES2002a-T0106 | Marketing Expert (D): Right away I'm making some kind of assumptions about what what information we're given here, thinking,'kay trendy probably means something other than just basic, something other than just standard. Um
+[11:00.63-11:01.34] ES2002a-T0107 | Project Manager (B): Mm.
+[11:05.21-11:05.88] ES2002a-T0108 | Project Manager (B): Yeah.
+[11:10.29-11:17.85] ES2002a-T0109 | Marketing Expert (D): so I'm wondering right away, is selling twenty five Euros, is that sort of the thi is this gonna to be like the premium product kinda thing or
+[11:16.78-11:20.58] ES2002a-T0110 | Project Manager (B): Yeah, yeah. Like how much does, you know, a remote control cost.
+[11:20.50-11:20.85] ES2002a-T0111 | Marketing Expert (D): Uh-huh.
+[11:21.44-11:31.72] ES2002a-T0112 | Project Manager (B): Well twenty five Euro, I mean that's um that's about like eighteen pounds or something, isn't it? Or no, is it as much as that? Sixteen seventeen eighteen pounds.
+[11:27.39-11:32.02] ES2002a-T0113 | Marketing Expert (D): Mm-hmm. Yep. Yeah, I'd say so, yeah.
+[11:32.37-11:40.45] ES2002a-T0114 | Project Manager (B): Um, I dunno, I've never bought a remote control, so I don't know how how good a remote control that would get you. Um.
+[11:36.21-11:42.08] ES2002a-T0115 | Marketing Expert (D): No. Yeah, yeah.
+[11:42.00-11:45.04] ES2002a-T0116 | Project Manager (B): But yeah, I suppose it has to look kind of cool and gimmicky.
+[11:44.00-11:44.46] ES2002a-T0117 | Marketing Expert (D): Mm-hmm.
+[11:46.03-12:01.47] ES2002a-T0118 | Project Manager (B): Um right, okay. Let me just scoot on ahead here. Okay. Um well d Does anybody have anything to add to uh to the finance issue at all?
+[12:02.38-12:07.06] ES2002a-T0119 | Marketing Expert (D): Do we have any other background information on like how that compares to other
+[12:02.67-12:03.15] ES2002a-T0120 | Project Manager (B): Thin
+[12:06.99-12:13.12] ES2002a-T0121 | Project Manager (B): No, actually. That would be useful, though, wouldn't it, if you knew like what your money would get you now.
+[12:08.32-12:11.10] ES2002a-T0122 | Marketing Expert (D): other Yeah.
+[12:12.29-12:12.77] ES2002a-T0123 | Industrial Designer (A): Hmm.
+[12:14.69-12:15.12] ES2002a-T0124 | Marketing Expert (D): Mm-hmm.
+[12:15.07-12:15.78] ES2002a-T0125 | Project Manager (B): Mm-hmm.
+[12:33.65-12:53.49] ES2002a-T0126 | Marketing Expert (D): Yeah, interesting thing about discussing um production of a remote control for me is that l as you point out, I just don't think of remote controls as somethin something people consciously assess in their purchasing habits. It's just like getting shoelaces with shoes or something. It just comes along.
+[12:47.53-12:48.42] ES2002a-T0127 | Project Manager (B): Yeah, yeah.
+[12:51.86-12:57.09] ES2002a-T0128 | Project Manager (B): Oh. Five minutes to end of meeting. Oh, okay. We're a bit behind.
+[12:56.10-13:13.66] ES2002a-T0129 | Marketing Expert (D): Do you know what I mean? Like so sort of like how do you I I mean one one way of looking at it would be, well the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have T_V_ sets are really fed up with their remote control and they really want a better one or something.
+[12:56.74-12:57.96] ES2002a-T0130 | User Interface Designer (C): Yeah.
+[12:57.68-12:58.27] ES2002a-T0131 | Industrial Designer (A): Yeah.
+[13:12.33-13:13.33] ES2002a-T0132 | User Interface Designer (C): I know um
+[13:14.26-13:15.16] ES2002a-T0133 | Marketing Expert (D): But
+[13:14.50-13:24.37] ES2002a-T0134 | User Interface Designer (C): My parents went out and bought um remote controls because um they got fed up of having four or five different remote controls for each things the house. So um for them it was just how many devices control.
+[13:19.86-13:22.45] ES2002a-T0135 | Marketing Expert (D): Right. Right. Okay so
+[13:24.45-13:30.45] ES2002a-T0136 | Marketing Expert (D): Right, so in function one of the priorities might be to combine as many uses
+[13:26.19-13:27.18] ES2002a-T0137 | Project Manager (B): Yeah.
+[13:31.46-13:41.12] ES2002a-T0138 | Project Manager (B): Right, so do you think that should be like a main design aim of our remote control d you know, do your your satellite and your regular telly and your V_C_R_ and everything?
+[13:34.78-13:54.13] ES2002a-T0139 | Marketing Expert (D): I think so. Yeah, yeah. Yeah. Well like um, maybe what we could use is a sort of like a example of a successful other piece technology is palm palm pilots. They're gone from being just like little sort of scribble boards to cameras, M_P_ three players, telephones,
+[13:52.60-13:53.36] ES2002a-T0140 | Project Manager (B): Mm-hmm.
+[13:55.20-14:04.10] ES2002a-T0141 | Marketing Expert (D): everything, agenda. So, like, I wonder if we might add something new to the to the remote control market, such as the lighting in your house, or um
+[13:59.54-14:01.05] ES2002a-T0142 | Project Manager (B): Yeah.
+[14:03.70-14:13.22] ES2002a-T0143 | Project Manager (B): Or even like, you know, notes about um what you wanna watch. Like you might put in there oh I want to watch such and such and look a Oh that's a good idea. So extra functionalities.
+[14:09.06-14:30.34] ES2002a-T0144 | Marketing Expert (D): Yeah, yeah. An Yeah. Like, p personally for me, at home I've I've combined the um the audio video of my television set and my D_V_D_ player and my C_D_ player. So they w all work actually function together but I have different remote controls for each of them. So it's sort of ironic that that then they're in there
+[14:26.26-14:27.45] ES2002a-T0145 | Project Manager (B): Mm-hmm.
+[14:31.97-14:37.81] ES2002a-T0146 | Marketing Expert (D): um you know, the sound and everything it's just one system. But each one's got its own little
+[14:36.64-14:37.75] ES2002a-T0147 | Project Manager (B): Hmm.
+[14:38.93-14:39.33] ES2002a-T0148 | Marketing Expert (D): part.
+[14:41.87-15:03.10] ES2002a-T0149 | Project Manager (B): Um okay, uh I'd wel we're gonna have to wrap up pretty quickly in the next couple of minutes. Um I'll just check we've nothing else. Okay. Um so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all?
+[15:03.06-15:04.02] ES2002a-T0150 | Industrial Designer (A): And you keep losing them.
+[15:04.38-15:06.11] ES2002a-T0151 | Project Manager (B): You keep losing them. Okay.
+[15:04.55-15:05.32] ES2002a-T0152 | Marketing Expert (D): Mm.
+[15:06.43-15:14.50] ES2002a-T0153 | Industrial Designer (A): Finding them is really a pain, you know. I mean it's usually quite small, or when you want it right, it slipped behind the couch or it's kicked under the table.
+[15:07.44-15:09.30] ES2002a-T0154 | Marketing Expert (D): Mm. Mm.
+[15:11.07-15:12.14] ES2002a-T0155 | Marketing Expert (D): Mm-hmm. Mm-hmm.
+[15:12.99-15:22.58] ES2002a-T0156 | Project Manager (B): Yeah. W You get those ones where you can, if you like, whistle or make a really high pitched noise they beep. There I mean is that something we'd want to include, do you think?
+[15:13.20-15:15.17] ES2002a-T0157 | Marketing Expert (D): Yeah. Yeah.
+[15:15.38-15:16.19] ES2002a-T0158 | Industrial Designer (A): You know.
+[15:15.83-15:17.39] ES2002a-T0159 | Marketing Expert (D): That's just really good id
+[15:19.26-15:19.74] ES2002a-T0160 | Marketing Expert (D): Yep.
+[15:24.27-15:53.04] ES2002a-T0161 | Marketing Expert (D): Uh, sure. I remember when the first remote control my my family had was on a cable. Actually had a cable between it and the T_V_ and big like buttons that sort of like, like on a blender or something. And um, you know, when I think about what they are now, it's better, but actually it's still kind of, I dunno, like a massive junky thing on the table. Maybe we could think about how, could be more, you know, streamlined. S
+[15:25.31-15:27.87] ES2002a-T0162 | Project Manager (B): Dunno. Okay maybe.
+[15:36.98-15:37.97] ES2002a-T0163 | Project Manager (B): My goodness.
+[15:46.24-15:48.19] ES2002a-T0164 | Project Manager (B): Still feels quite primitive.
+[15:51.39-15:52.82] ES2002a-T0165 | Project Manager (B): Maybe like a touch screen or something?
+[15:53.04-15:56.38] ES2002a-T0166 | Marketing Expert (D): Something like that, yeah. Or whatever would be technologically reasonable.
+[15:53.92-15:54.79] ES2002a-T0167 | Project Manager (B): Okay.
+[15:56.34-15:59.64] ES2002a-T0168 | Project Manager (B): Uh-huh, okay. Well I guess that's up to our industrial designer.
+[15:57.52-16:12.99] ES2002a-T0169 | Marketing Expert (D): 'Cause it could b it could it could be that f it could be that functionally that doesn't make it any better, but that just the appeal of of not having You know, these days there's a r pe things in people's homes are becoming more and more like chic, you know. Um, nicer materials and might be
+[16:01.69-16:03.50] ES2002a-T0170 | Project Manager (B): It looks better.
+[16:08.85-16:09.63] ES2002a-T0171 | Project Manager (B): Yeah.
+[16:11.68-16:12.54] ES2002a-T0172 | Project Manager (B): Okay.
+[16:15.18-16:15.66] ES2002a-T0173 | Project Manager (B): Okay.
+[16:15.55-16:16.86] ES2002a-T0174 | Marketing Expert (D): be worth exploring anyway.
+[16:16.31-16:17.09] ES2002a-T0175 | User Interface Designer (C): Uh.
+[16:17.15-16:48.78] ES2002a-T0176 | Project Manager (B): Right, well um so just to wrap up, the next meeting's gonna be in thirty minutes. So that's about um about ten to twelve by my watch. Um so inbetween now and then, um as the industrial designer, you're gonna be working on you know the actual working design of it so y you know what you're doing there. Um for user interface, technical functions, I guess that's you know like what we've been talking about, what it'll actually do. Um and uh marketing executive,
+[16:33.86-16:34.13] ES2002a-T0177 | Industrial Designer (A): Yep.
+[16:50.00-16:59.34] ES2002a-T0178 | Project Manager (B): you'll be just thinking about what it actually what, you know, what requirements it has to has to fulfil and you'll all get instructions emailed to you, I guess.
+[16:59.62-17:00.06] ES2002a-T0179 | Marketing Expert (D): Okay.
+[17:01.49-17:02.61] ES2002a-T0180 | Project Manager (B): Um.
+[17:08.03-17:11.79] ES2002a-T0181 | Project Manager (B): Yeah, so it's th the functional design stage is next, I guess.
+[17:14.45-17:22.62] ES2002a-T0182 | Project Manager (B): And uh and that's the end of the meeting. So I got that little message a lot sooner than I thought I would, so
+[17:19.38-17:21.25] ES2002a-T0183 | Marketing Expert (D): Um.
+[17:27.12-17:37.44] ES2002a-T0184 | Marketing Expert (D): Before we wrap up, just to make sure we're all on the same page here, um, do we We were given sort of an example of a coffee machine or something, right? Well,
+[17:29.44-17:30.14] ES2002a-T0185 | Project Manager (B): Mm-hmm.
+[17:36.27-17:37.73] ES2002a-T0186 | Project Manager (B): Uh-huh, yeah.
+[17:36.91-17:37.18] ES2002a-T0187 | Industrial Designer (A): Mm-hmm.
+[17:38.59-17:39.18] ES2002a-T0188 | Marketing Expert (D): um
+[17:40.88-17:54.58] ES2002a-T0189 | Marketing Expert (D): are we at ma right now on the assumption that our television remote control may have features which go beyond the television? Or are we keeping sort of like a a design commitment to television features? I I don't know.
+[17:48.64-17:48.97] ES2002a-T0190 | Project Manager (B): Th
+[17:53.52-18:04.85] ES2002a-T0191 | Project Manager (B): Okay, well just very quickly'cause this we're supposed to finish now. Um I guess that's up to us, I mean you probably want some kind of unique selling point of it, so um, you know
+[17:56.54-17:58.10] ES2002a-T0192 | Marketing Expert (D): Yep. Yeah, sure.
+[18:01.97-18:02.42] ES2002a-T0193 | Marketing Expert (D): Okay.
+[18:04.10-18:07.17] ES2002a-T0194 | Industrial Designer (A): I think one factor would be production cost.
+[18:06.94-18:07.79] ES2002a-T0195 | Marketing Expert (D): Okay, yeah.
+[18:07.17-18:15.20] ES2002a-T0196 | Industrial Designer (A): Because there's a cap there, so um depends on how much you can cram into that price. Um.
+[18:07.56-18:08.27] ES2002a-T0197 | Project Manager (B): Yeah.
+[18:09.86-18:10.29] ES2002a-T0198 | Marketing Expert (D): Okay.
+[18:13.76-18:14.50] ES2002a-T0199 | Project Manager (B): Mm-hmm.
+[18:13.81-18:14.16] ES2002a-T0200 | Marketing Expert (D): Okay.
+[18:15.64-18:18.46] ES2002a-T0201 | Industrial Designer (A): I think that that's the main factor.
+[18:15.76-18:16.19] ES2002a-T0202 | Project Manager (B): Yeah.
+[18:18.39-18:23.23] ES2002a-T0203 | Project Manager (B): Okay. Right, okay, we'll that's that's the end of the meeting, then. Um.
+[18:18.48-18:18.88] ES2002a-T0204 | Marketing Expert (D): Okay.
+[18:22.31-18:23.00] ES2002a-T0205 | Marketing Expert (D): Alright.
+[18:24.35-18:30.24] ES2002a-T0206 | Project Manager (B): So, uh thank you all for coming.
+[18:27.82-18:29.49] ES2002a-T0207 | Industrial Designer (A): Cool.

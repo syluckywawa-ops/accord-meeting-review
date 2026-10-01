@@ -1,0 +1,247 @@
+Meeting: ES2004a
+Split: test
+Meeting date: 2005-01-19
+AMI duration (seconds): 1186
+Transcribed word elements: 3135
+
+[00:00.00-00:01.79] ES2004a-T0001 | User Interface Designer (A): Hmm hmm hmm.
+[00:10.94-00:14.74] ES2004a-T0002 | Project Manager (B): Are we we're not allowed to dim the lights so people can see that a bit better?
+[00:17.62-00:18.39] ES2004a-T0003 | User Interface Designer (A): Yeah.
+[00:18.72-00:20.32] ES2004a-T0004 | Project Manager (B): Okay, that's fine.
+[00:22.35-00:23.87] ES2004a-T0005 | Project Manager (B): Am I supposed to be standing up there?
+[00:24.99-00:27.02] ES2004a-T0006 | Marketing Expert (D): So we've got both of these clipped on?
+[00:25.16-00:25.98] ES2004a-T0007 | Project Manager (B): Okay.
+[00:28.56-00:30.59] ES2004a-T0008 | Marketing Expert (D): She gonna answer me or not?
+[00:29.10-00:32.30] ES2004a-T0009 | Project Manager (B): Yeah, I've got
+[00:31.28-00:33.48] ES2004a-T0010 | Marketing Expert (D): Right, both of them, okay.
+[00:34.11-00:34.76] ES2004a-T0011 | Project Manager (B): Yes.
+[00:42.02-00:43.39] ES2004a-T0012 | Marketing Expert (D): God.
+[00:49.61-00:53.23] ES2004a-T0013 | Marketing Expert (D): Jesus, it's gonna fall off.
+[01:03.06-01:06.42] ES2004a-T0014 | User Interface Designer (A): Okay. Yep, yep.
+[01:11.09-01:12.62] ES2004a-T0015 | User Interface Designer (A): Okay.
+[01:20.27-01:34.74] ES2004a-T0016 | Project Manager (B): Okay. Hello everybody. Um I'm Sarah, the Project Manager and this is our first meeting, surprisingly enough. Okay, this is our agenda, um
+[01:20.44-01:24.33] ES2004a-T0017 | User Interface Designer (A): Tu tu tu tu Hi, good morning.
+[01:35.66-01:55.95] ES2004a-T0018 | Project Manager (B): we will do some stuff, get to know each other a bit better to feel more comfortable with each other. Um then we'll go do tool training, talk about the project plan, discuss our own ideas and everything um and we've got twenty five minutes to do that, as far as I can understand.
+[01:57.60-02:47.90] ES2004a-T0019 | Project Manager (B): Now, we're developing a remote control which you probably already know. Um, we want it to be original, something that's uh people haven't thought of, that's not out in the shops, um, trendy, appealing to a wide market, but you know, not a hunk of metal, and user-friendly, grannies to kids, maybe even pooches should be able to use it. Okay, um, first is the functional design, um this is where we all go off and do our individual work, um what needs need to be fulfilled by the product, um what effects the product has to have and how it's actually going to do that. Um, conceptual design, what we're thinking, how it's gonna go and then the detailed design, how we're actually gonna put it into practice and make it work.
+[02:48.77-02:49.04] ES2004a-T0020 | User Interface Designer (A): 'Kay.
+[02:50.29-03:06.13] ES2004a-T0021 | Project Manager (B): Okay, right. We're gonna practice with the pens and draw our favourite animal on the white board, I'll go first, and um sum up the characteristics of that animal. So
+[03:07.96-03:08.46] ES2004a-T0022 | User Interface Designer (A): Oops.
+[03:08.58-03:12.98] ES2004a-T0023 | Project Manager (B): Okay, I'll leave space for everyone else. Um
+[03:31.44-03:32.02] ES2004a-T0024 | Project Manager (B): What's missing?
+[04:03.20-04:04.43] ES2004a-T0025 | Project Manager (B): We're running out of blue.
+[04:06.91-04:10.64] ES2004a-T0026 | Project Manager (B): Okay. I'm not gonna ask you to guess, I'm going to tell you that's supposed to be a tiger.
+[04:12.16-04:12.83] ES2004a-T0027 | User Interface Designer (A): Mm.
+[04:14.51-04:17.44] ES2004a-T0028 | Project Manager (B): And I see them as majestic,
+[04:15.72-04:18.69] ES2004a-T0029 | User Interface Designer (A): Oh sorry. Mm-hmm.
+[04:19.87-04:22.39] ES2004a-T0030 | Project Manager (B): and independent,
+[04:26.16-04:27.07] ES2004a-T0031 | Project Manager (B): and
+[04:28.69-04:29.22] ES2004a-T0032 | Project Manager (B): proud.
+[04:32.21-04:35.84] ES2004a-T0033 | Project Manager (B): Now, who would like to go next?'Kay.
+[04:34.99-04:35.60] ES2004a-T0034 | User Interface Designer (A): Yeah, me.
+[04:37.31-04:39.80] ES2004a-T0035 | User Interface Designer (A): Cat.
+[04:44.82-04:47.36] ES2004a-T0036 | User Interface Designer (A): Where did this come from?
+[04:47.48-04:50.37] ES2004a-T0037 | Project Manager (B): Is that your lapel then? There you go.
+[04:49.07-04:56.18] ES2004a-T0038 | User Interface Designer (A): Uh, yep. Thank you. Uh, maybe you can guess what I'm trying to make?
+[05:06.21-05:07.25] ES2004a-T0039 | Marketing Expert (D): A kind of dog?
+[05:08.14-05:10.26] ES2004a-T0040 | User Interface Designer (A): Yep.
+[05:12.98-05:22.11] ES2004a-T0041 | User Interface Designer (A): It's actually sitting, so it's sitting, it's not standing. Okay, I see it as one thing it's very supportive.
+[05:15.59-05:16.54] ES2004a-T0042 | Marketing Expert (D): Sorry?
+[05:15.70-05:17.70] ES2004a-T0043 | Industrial Designer (C): It's sitting down.
+[05:17.87-05:18.90] ES2004a-T0044 | Marketing Expert (D): Uh.
+[05:23.90-05:52.37] ES2004a-T0045 | User Interface Designer (A): It's your best friend and your you can talk to a dog, it can be your best friend, it doesn't discriminate between you, based on what you are. Second it's loyal and third thing it's got intuition. dogs can som sometimes can make out between a thief and a person so basically these are the three unique features I think belong to a dog. Thank you.
+[05:44.62-05:45.49] ES2004a-T0046 | Marketing Expert (D): Mm-hmm.
+[05:49.97-05:51.33] ES2004a-T0047 | Project Manager (B): Okay, thank you.
+[05:53.46-05:55.75] ES2004a-T0048 | Industrial Designer (C): Yeah I'll have a go.
+[05:53.87-05:57.21] ES2004a-T0049 | User Interface Designer (A): Okay. Sorry.
+[05:56.26-06:02.22] ES2004a-T0050 | Marketing Expert (D): Please, please leave me a space at the bottom, I'm little, you can get to the top, with standing on a chair.
+[05:56.77-05:57.43] ES2004a-T0051 | Industrial Designer (C): Thanks.
+[05:59.09-06:07.70] ES2004a-T0052 | Industrial Designer (C): Alright, okay. Well since you guys have chosen the ones I wanted to do, I'll have to have to go for something a bit random.
+[06:04.34-06:08.08] ES2004a-T0053 | User Interface Designer (A): Does it look like a dog actually?
+[06:04.61-06:06.42] ES2004a-T0054 | Project Manager (B): Okay.
+[06:11.38-06:15.52] ES2004a-T0055 | Industrial Designer (C): And also, my drawing skill isn't that great so, yeah.
+[06:13.58-06:16.86] ES2004a-T0056 | Project Manager (B): Well, as you can see, the quality of the work today is um
+[06:14.88-06:15.84] ES2004a-T0057 | User Interface Designer (A): Mm.
+[06:16.78-06:19.58] ES2004a-T0058 | Marketing Expert (D): I think it's outstandingly good.
+[06:18.48-06:24.77] ES2004a-T0059 | Industrial Designer (C): Okay, now I'm gonna have to change what is was originally gonna be because that looks like a beak now, so.
+[06:30.41-06:46.30] ES2004a-T0060 | Industrial Designer (C): Yeah, it can be a crocodile, it can be a crocodile. Well it was it was an at first firstly it was an attempt at a T_ Rex and then it sort of changed into a pelican but it can be a crocodile now actually.
+[06:30.82-06:31.78] ES2004a-T0061 | Marketing Expert (D): Crocodile?
+[06:33.97-06:40.14] ES2004a-T0062 | Project Manager (B): Gonna be a bird. Is it gonna be it's gonna be a bird.
+[06:43.10-06:43.71] ES2004a-T0063 | Marketing Expert (D): O
+[07:00.08-07:00.99] ES2004a-T0064 | Project Manager (B): That's lovely.
+[07:01.18-07:02.34] ES2004a-T0065 | Marketing Expert (D): Beauti that's
+[07:01.18-07:06.59] ES2004a-T0066 | Industrial Designer (C): Yeah and uh I'll have to think on the spot of uh things that it is. Um
+[07:08.10-07:10.32] ES2004a-T0067 | Industrial Designer (C): uh scary,
+[07:12.46-07:14.45] ES2004a-T0068 | Industrial Designer (C): uh strong,
+[07:18.34-07:22.40] ES2004a-T0069 | Industrial Designer (C): yeah that's about it I think.
+[07:19.80-07:21.81] ES2004a-T0070 | Project Manager (B): Okay it's fine.
+[07:20.15-07:30.93] ES2004a-T0071 | Marketing Expert (D): Okay. Um, I'm very impressed with your artistic skills, mine's are dreadful. Oops this is now coming apart, let me just put the top in.
+[07:25.08-07:26.68] ES2004a-T0072 | Industrial Designer (C): Uh uh
+[07:30.14-07:31.74] ES2004a-T0073 | Industrial Designer (C): Wo
+[07:33.97-07:40.64] ES2004a-T0074 | Marketing Expert (D): I hope that clicks in, I'll just I'll hold it on, okay. Oops, oh dear, what happened there?
+[07:41.07-07:42.19] ES2004a-T0075 | Project Manager (B): Technical help.
+[07:45.28-07:46.03] ES2004a-T0076 | Industrial Designer (C): Hmm.
+[07:45.36-07:50.88] ES2004a-T0077 | Marketing Expert (D): Hopefully that'll stay on, two-handed version. Okay, uh
+[07:47.92-07:48.77] ES2004a-T0078 | Industrial Designer (C): Okay.
+[07:54.38-07:59.47] ES2004a-T0079 | Marketing Expert (D): Again this is off the top of my head, I was gonna do a big cat too, um.
+[07:56.67-07:57.79] ES2004a-T0080 | Industrial Designer (C): Uh
+[08:01.02-08:04.85] ES2004a-T0081 | Marketing Expert (D): Oh dear, it doesn't look what like what I want it to be.
+[08:01.25-08:01.72] ES2004a-T0082 | Project Manager (B): Hmm.
+[08:04.27-08:04.88] ES2004a-T0083 | Industrial Designer (C): S
+[08:06.93-08:07.75] ES2004a-T0084 | Marketing Expert (D): Uh.
+[08:07.41-08:07.92] ES2004a-T0085 | Industrial Designer (C): Uh
+[08:08.75-08:11.65] ES2004a-T0086 | Marketing Expert (D): It's not a vampire bat honestly.
+[08:09.66-08:11.40] ES2004a-T0087 | Project Manager (B): Okay, yeah.
+[08:12.88-08:38.75] ES2004a-T0088 | Marketing Expert (D): Uh and somewhere there's a body behind. That's my dreadful that's the worst yet, that's it's meant to be an eagle you can tell it's a flying animal could have been a seagull, I never thought of a seagull. An eagle, um again I'm thinking on my feet goodness. I suppose they're all so independent, I'd put that one down again. Da dum um.
+[08:17.13-08:20.59] ES2004a-T0089 | Industrial Designer (C): Okay, some sort of bird.
+[08:20.94-08:25.38] ES2004a-T0090 | Project Manager (B): A seagu right, not a seagull.
+[08:21.62-08:22.85] ES2004a-T0091 | User Interface Designer (A): Eagle, okay.
+[08:21.74-08:23.47] ES2004a-T0092 | Industrial Designer (C): Ah eagle, right okay.
+[08:39.74-08:41.01] ES2004a-T0093 | Industrial Designer (C): They're good at golf.
+[08:40.26-08:56.80] ES2004a-T0094 | Marketing Expert (D): Indepen independent, right, did you say they're good at golf? Are they? Oh. Oh right, okay, I'm not good at golf. I'd say they're quite free-spirited, flying around everywhere, doing their own thing.
+[08:44.13-08:46.00] ES2004a-T0095 | Project Manager (B): Eagle.
+[08:44.29-08:49.02] ES2004a-T0096 | Industrial Designer (C): Yeah, no yeah, an eagle.
+[09:01.12-09:09.66] ES2004a-T0097 | Marketing Expert (D): And uh, birds of prey aren't they, oh dear, intrepid. I'll put that, intrepid.
+[09:05.08-09:05.68] ES2004a-T0098 | Project Manager (B): Mm-hmm.
+[09:13.48-09:16.83] ES2004a-T0099 | Marketing Expert (D): There we go, hope that pen's gonna be okay.
+[09:14.41-09:15.40] ES2004a-T0100 | Project Manager (B): That's lovely.
+[09:18.53-09:19.51] ES2004a-T0101 | Marketing Expert (D): Whoops.
+[09:21.05-09:35.54] ES2004a-T0102 | Project Manager (B): Okay. That was fun, right. Um finance-wise, we've got a selling price at twenty five Euros, which I don't actually know what that is in Pounds, at all. Any ideas?
+[09:34.60-09:37.75] ES2004a-T0103 | Industrial Designer (C): It's about mm, mm yeah.
+[09:36.32-09:37.55] ES2004a-T0104 | Marketing Expert (D): Seventeen.
+[09:36.45-09:41.55] ES2004a-T0105 | User Interface Designer (A): One point four or something like that. One point four Euro would make a Pound or something like that.
+[09:40.78-09:47.65] ES2004a-T0106 | Industrial Designer (C): Yeah, yeah, something like that, so that yeah about seventeen, seventeen Pounds, something like that.
+[09:42.54-09:43.04] ES2004a-T0107 | User Interface Designer (A): Yeah.
+[09:43.73-09:48.02] ES2004a-T0108 | Project Manager (B): D fifteen? Seventeen. Okay, that's expensive.
+[09:44.70-09:46.17] ES2004a-T0109 | Marketing Expert (D): Seventeen Pounds.
+[09:48.24-09:52.37] ES2004a-T0110 | Marketing Expert (D): Should we be making notes of this? We can just refer to this later can't we? Yeah, okay.
+[09:50.68-09:51.37] ES2004a-T0111 | Industrial Designer (C): But
+[09:50.75-09:56.00] ES2004a-T0112 | Project Manager (B): I think so, I think so, I'll be able to um pull it up, or I could put it in the shared folder or something.
+[09:53.79-09:54.52] ES2004a-T0113 | Marketing Expert (D): Okay.
+[09:54.04-10:08.51] ES2004a-T0114 | Industrial Designer (C): Havi having said that though, if you wanna get one of those the the ones on the market at the moment they're s they're about twenty pounds anyway. So, it'd still be yeah, we had to buy one.
+[10:03.49-10:04.32] ES2004a-T0115 | Marketing Expert (D): Right.
+[10:03.61-10:04.26] ES2004a-T0116 | Project Manager (B): Really?
+[10:05.82-10:06.22] ES2004a-T0117 | Marketing Expert (D): So
+[10:06.49-10:07.07] ES2004a-T0118 | Project Manager (B): Mm.
+[10:08.02-10:14.11] ES2004a-T0119 | Marketing Expert (D): so I suppose later it depends if we want to undercut the price, we d or or is it going to make our product look a cheapie-cheapie option?
+[10:08.06-10:09.29] ES2004a-T0120 | Project Manager (B): I think
+[10:13.49-10:17.86] ES2004a-T0121 | Project Manager (B): Yeah, um production cost's at twelve fifty, so
+[10:14.02-10:15.06] ES2004a-T0122 | Industrial Designer (C): Hmm.
+[10:17.34-10:19.75] ES2004a-T0123 | User Interface Designer (A): Okay, pretty huge margin.
+[10:19.07-10:29.44] ES2004a-T0124 | Project Manager (B): half of the selling price is taken up by building it. Um, and profit aim is fifty million Euros, which is uh
+[10:21.20-10:22.42] ES2004a-T0125 | Industrial Designer (C): Yeah.
+[10:22.00-10:24.29] ES2004a-T0126 | Marketing Expert (D): Mm. Mm-hmm.
+[10:30.35-10:31.25] ES2004a-T0127 | Marketing Expert (D): In our first year?
+[10:30.90-10:37.20] ES2004a-T0128 | Project Manager (B): Yi yes, um yeah, I presume so. Um
+[10:35.41-10:35.94] ES2004a-T0129 | Marketing Expert (D): Mm-hmm.
+[10:36.16-10:37.10] ES2004a-T0130 | User Interface Designer (A): So then
+[10:38.00-10:51.52] ES2004a-T0131 | Marketing Expert (D): You've got market range international and you did say earlier it's got to be a um accessible and usable by sort of all age groups just t we're not focusing on business market, any particular thing, it's everyone user-friendly to everyone. Okay.
+[10:45.15-10:45.63] ES2004a-T0132 | Project Manager (B): Mm-hmm.
+[10:48.88-10:50.36] ES2004a-T0133 | Project Manager (B): No, yeah.
+[10:53.07-10:55.55] ES2004a-T0134 | Marketing Expert (D): Big target group.
+[10:53.55-11:10.38] ES2004a-T0135 | Project Manager (B): So yes, yes, I don't think we have to I don't think it's a case of worrying about different languages and things like that, um making that a key point, just that it's going to be in the international market like Australia, America, things like that. Okay.
+[11:01.78-11:02.27] ES2004a-T0136 | Marketing Expert (D): No.
+[11:06.58-11:06.98] ES2004a-T0137 | Marketing Expert (D): Mm.
+[11:15.18-11:44.83] ES2004a-T0138 | Project Manager (B): What are your experiences with remote controls? I mean I've got we got um we had three videos, a T_V_ and a sort of amp thing all set up so we got one of the universal remote controls, um that you programme each of your things into, but that kept losing the signals so we'd have to re-programme it every now and again. I think it was quite a cheapie as well, so that might have had something to do with it, but that was quite good, the fact that you could
+[11:27.15-11:27.87] ES2004a-T0139 | User Interface Designer (A): Mm-hmm.
+[11:27.80-11:28.54] ES2004a-T0140 | Industrial Designer (C): Yeah.
+[11:30.98-11:32.23] ES2004a-T0141 | Industrial Designer (C): Yeah.
+[11:30.98-11:32.47] ES2004a-T0142 | User Interface Designer (A): Yeah, that c
+[11:31.10-11:32.01] ES2004a-T0143 | Marketing Expert (D): Alright.
+[11:40.64-11:41.95] ES2004a-T0144 | Industrial Designer (C): Yeah uh.
+[11:40.98-11:41.88] ES2004a-T0145 | Marketing Expert (D): Mm-hmm.
+[11:44.94-11:47.28] ES2004a-T0146 | Industrial Designer (C): Use all the ones at the same time.
+[11:45.78-11:48.98] ES2004a-T0147 | Project Manager (B): You didn't have six remote controls sitting in front of you.
+[11:47.97-11:48.67] ES2004a-T0148 | Marketing Expert (D): Right.
+[11:48.49-11:51.04] ES2004a-T0149 | User Interface Designer (A): Okay, you wanna integrate everything into one like
+[11:51.07-11:53.33] ES2004a-T0150 | Industrial Designer (C): Yeah,'cause you
+[11:51.86-12:16.10] ES2004a-T0151 | Marketing Expert (D): Mm-hmm. My experience has only been being given the remote control with the object I buy, not doing any tampering with it and programming, using it to programme T_V_ and uh uh videos and things. But basically on, off, volume up and down, channel one, two, th that basic functions, I don't think I could go any further with it than that, so, I suppose it's got to be something usable by someone like me as well.
+[11:52.27-11:52.77] ES2004a-T0152 | User Interface Designer (A): Okay.
+[12:07.65-12:08.21] ES2004a-T0153 | Project Manager (B): Mm.
+[12:14.73-12:31.93] ES2004a-T0154 | Project Manager (B): Yeah, the main that's the main stuff anyway, I mean and you don't want to I hate I hate looking at a control and seeing a million tiny little buttons with tiny little words saying what they all do and just sitting there searching for the teletext button or something like that.
+[12:17.25-12:17.89] ES2004a-T0155 | Marketing Expert (D): Mm-hmm.
+[12:26.35-12:26.88] ES2004a-T0156 | Marketing Expert (D): Mm.
+[12:27.49-12:28.36] ES2004a-T0157 | Industrial Designer (C): Yeah.
+[12:29.64-12:35.33] ES2004a-T0158 | Marketing Expert (D): Mm. And symbols that you don't necessarily understand, symbols you're meant to understand that you don't.
+[12:32.40-12:32.99] ES2004a-T0159 | Project Manager (B): Yeah.
+[12:34.86-12:35.95] ES2004a-T0160 | Project Manager (B): Um.
+[12:34.94-12:38.27] ES2004a-T0161 | User Interface Designer (A): So simplification of symbols you could think of.
+[12:37.41-12:59.84] ES2004a-T0162 | Project Manager (B): When they're when you've got the main things on the front of it and a section opens up or something to the other functions where you can do sound or options kind of recording, things like that inside it.'Cause it doesn't make when you pick it up it doesn't make it really complicated to look at, it's obvious what you're doing, um.
+[12:48.48-12:49.02] ES2004a-T0163 | Marketing Expert (D): Oh yeah.
+[12:52.30-12:52.72] ES2004a-T0164 | Marketing Expert (D): Mm-hmm.
+[12:55.55-12:57.74] ES2004a-T0165 | Marketing Expert (D): Mm. Mm-hmm.
+[12:57.78-12:58.72] ES2004a-T0166 | Industrial Designer (C): Mm.
+[12:58.93-13:14.51] ES2004a-T0167 | Marketing Expert (D): Actually that just raises a point, I wonder what our design people think, but you know on a mobile phone, you can press a key and it gives you a menu, it's got a menu display, I wonder if incorporating that into the design of a remote control might be useful, so you've got a little L_C_D_ display.
+[13:04.96-13:05.39] ES2004a-T0168 | User Interface Designer (A): Mm-hmm.
+[13:07.06-13:07.87] ES2004a-T0169 | User Interface Designer (A): Menu, alright.
+[13:11.90-13:13.05] ES2004a-T0170 | Industrial Designer (C): Yeah.
+[13:12.66-13:32.06] ES2004a-T0171 | User Interface Designer (A): Uh uh Right, I was thinking on the same lines you, instead of having too many b buttons and make it complicated for the user, may h maybe have an L_C_D_ di display or something like that, like a mobile, yeah and with menus. And if it's s somewhat similar to what you have on mobile phone, people might find it easier to browse and navigate also maybe.
+[13:23.78-13:25.95] ES2004a-T0172 | Marketing Expert (D): With menus, yeah, yeah.
+[13:31.07-13:31.86] ES2004a-T0173 | Marketing Expert (D): Yeah.
+[13:31.44-13:35.12] ES2004a-T0174 | Project Manager (B): What about the older generation? What about granny and grandads?
+[13:35.22-13:39.16] ES2004a-T0175 | User Interface Designer (A): You mean to save it lesser number.
+[13:36.13-13:43.87] ES2004a-T0176 | Project Manager (B): Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that.
+[13:39.83-13:41.06] ES2004a-T0177 | Industrial Designer (C): Yeah.
+[13:41.33-13:48.18] ES2004a-T0178 | Marketing Expert (D): Mm-hmm. Mm-hmm. Can he programme his remote control or is it basic with that too?
+[13:45.95-13:46.46] ES2004a-T0179 | User Interface Designer (A): Right.
+[13:48.10-13:51.52] ES2004a-T0180 | Project Manager (B): I don't think they tape things, I don't think they use
+[13:49.26-13:54.54] ES2004a-T0181 | Industrial Designer (C): Yeah, my grandad's actually better than me at using teletext, so.
+[13:50.03-13:50.75] ES2004a-T0182 | Marketing Expert (D): Right.
+[13:53.20-14:04.69] ES2004a-T0183 | Marketing Expert (D): Right. So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that.
+[13:58.56-13:59.34] ES2004a-T0184 | Industrial Designer (C): Yeah.
+[14:00.95-14:03.36] ES2004a-T0185 | Project Manager (B): Mm, yeah, the age gap.
+[14:03.39-14:22.22] ES2004a-T0186 | Industrial Designer (C): Yeah, what it just needs to be as long as it's sort of self-intuitive and you can can work out what everything's doing,'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do.
+[14:22.29-14:22.80] ES2004a-T0187 | Project Manager (B): Mm.
+[14:23.17-14:23.58] ES2004a-T0188 | User Interface Designer (A): Mm-hmm.
+[14:24.07-14:25.88] ES2004a-T0189 | Industrial Designer (C): But I don't know how
+[14:24.21-14:31.84] ES2004a-T0190 | Project Manager (B): I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system.
+[14:30.16-14:30.86] ES2004a-T0191 | Industrial Designer (C): Oh yeah.
+[14:32.18-14:32.64] ES2004a-T0192 | Marketing Expert (D): Mm-hmm.
+[14:32.93-14:43.28] ES2004a-T0193 | Project Manager (B): I find it really confusing, I kept getting lost in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but
+[14:38.34-14:38.92] ES2004a-T0194 | Marketing Expert (D): Right.
+[14:44.29-14:45.20] ES2004a-T0195 | Project Manager (B): that's just me.
+[14:44.98-14:59.34] ES2004a-T0196 | Industrial Designer (C): Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway, I'd assume.
+[14:53.28-14:54.58] ES2004a-T0197 | Project Manager (B): Yeah.
+[14:55.38-14:55.98] ES2004a-T0198 | Marketing Expert (D): Mm-hmm.
+[14:58.69-15:12.41] ES2004a-T0199 | Marketing Expert (D): Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books? Obviously it displays less on the screen, it displays less on the screen but as long as they can read it that's the main thing.
+[15:05.22-15:05.76] ES2004a-T0200 | User Interface Designer (A): Okay.
+[15:05.49-15:07.78] ES2004a-T0201 | Project Manager (B): Teletext has got that option as well.
+[15:11.84-15:35.08] ES2004a-T0202 | Project Manager (B): Yeah. Or what about kind of a dual function? In that you've got the basic buttons just for your play, volume, programme things and also and then a menu to go into with obvious pictures, obvious symbols and that's where you control recording and things like that.
+[15:23.63-15:24.08] ES2004a-T0203 | Marketing Expert (D): Mm-hmm.
+[15:30.70-15:47.76] ES2004a-T0204 | Marketing Expert (D): Yeah. Mm-hmm. Mm. The other thing is, just ch chucking into mobile phone f design features again, it could have a flip top remote control so that when you flip over the top, your screen is you can have a bigger screen in the the flip over.
+[15:45.41-15:46.03] ES2004a-T0205 | Project Manager (B): Mm-hmm.
+[15:46.00-15:46.74] ES2004a-T0206 | User Interface Designer (A): Mm, okay.
+[15:48.28-15:49.18] ES2004a-T0207 | User Interface Designer (A): S
+[15:48.46-15:53.16] ES2004a-T0208 | Project Manager (B): I think that's a cost thing, I don't I don't know how much we're gonna know about
+[15:49.62-15:50.52] ES2004a-T0209 | Industrial Designer (C): Y
+[15:50.69-15:59.39] ES2004a-T0210 | User Interface Designer (A): It might it might save a b bit of space, it's i instead of looking bulky, it might look small. But it might have its cost implications.
+[15:51.04-15:51.44] ES2004a-T0211 | Marketing Expert (D): Yeah?
+[15:54.90-15:55.41] ES2004a-T0212 | Marketing Expert (D): Mm-hmm.
+[15:56.00-15:58.15] ES2004a-T0213 | Project Manager (B): Yes, no that's important.
+[15:56.75-15:58.64] ES2004a-T0214 | Marketing Expert (D): Yeah, like smaller.
+[15:57.15-15:57.86] ES2004a-T0215 | Industrial Designer (C): Yeah.
+[15:59.46-16:00.37] ES2004a-T0216 | Project Manager (B): Okay.
+[15:59.46-16:12.98] ES2004a-T0217 | Marketing Expert (D): And there's no reason we need to make it look as fashionable and stylish as a mobile phone, it can still be lightweight plastic, you know? Something that's easily moulded and produced. Sorry I'm treading on your territory guys.
+[16:05.06-16:05.60] ES2004a-T0218 | Project Manager (B): Mm.
+[16:06.19-16:06.73] ES2004a-T0219 | User Interface Designer (A): Right.
+[16:08.82-16:09.26] ES2004a-T0220 | Project Manager (B): Yeah.
+[16:10.38-16:11.79] ES2004a-T0221 | Industrial Designer (C): No uh uh
+[16:10.98-16:29.55] ES2004a-T0222 | Project Manager (B): Um, right, okay we've got half an hour before the next meeting, so we're all gonna go off and do our individual things. Um I think that's probably about it and then we'll come back and liaise again and I get to do another fantastic PowerPoint presentation.
+[16:24.94-16:54.85] ES2004a-T0223 | Industrial Designer (C): Yeah. Just just a quick thing about the um about what you're saying about the uh does does it need to be fashionable? The sort of I I had a quick look at the company website and it's like the the uh we put the fashion into electronics, so I think think the whole design thing might be qui I mean you don't you you can still have plastic and it'd look quite good but
+[16:30.99-16:31.66] ES2004a-T0224 | Project Manager (B): Sure.
+[16:44.98-16:46.02] ES2004a-T0225 | Marketing Expert (D): Ah right.
+[16:45.52-16:46.43] ES2004a-T0226 | User Interface Designer (A): Okay.
+[16:45.62-16:46.50] ES2004a-T0227 | Project Manager (B): Okay.
+[16:46.66-16:51.34] ES2004a-T0228 | Marketing Expert (D): Okay. Sure b y yeah.
+[16:53.68-17:04.51] ES2004a-T0229 | Marketing Expert (D): But yeah, I mean it doesn't have to be that, you know th that was my main point, we don't have to use metal, I don't know if using plastic does make it cheaper, I presume it would. Yeah, yeah, yeah.
+[16:58.34-16:59.57] ES2004a-T0230 | Industrial Designer (C): Yeah.
+[16:59.96-17:00.63] ES2004a-T0231 | Project Manager (B): Mm.
+[17:01.92-17:03.54] ES2004a-T0232 | Industrial Designer (C): Yeah. Yeah.
+[17:02.30-17:21.62] ES2004a-T0233 | Project Manager (B): I would it would probably. I mean there's Sky remote controls and everything. They're kind of moulded and look a bit different, and the Telewest remote controls are silver plastic, which looks a bit smarter, so yeah I guess that's stuff we can think about. Okay, so let's break it up there.
+[17:12.90-17:13.50] ES2004a-T0234 | Marketing Expert (D): Right.
+[17:17.07-17:18.08] ES2004a-T0235 | Marketing Expert (D): Okay.
+[17:22.00-17:22.82] ES2004a-T0236 | Marketing Expert (D): 'Kay.
+[17:22.33-17:24.21] ES2004a-T0237 | Project Manager (B): Okay? So, see you in half an hour.
+[17:22.33-17:23.63] ES2004a-T0238 | Industrial Designer (C): Okay.
+[17:26.40-17:28.58] ES2004a-T0239 | Marketing Expert (D): Do we go back to our room? Yep?
+[17:27.49-17:29.21] ES2004a-T0240 | Project Manager (B): I think so, yeah.
+[17:28.02-17:28.67] ES2004a-T0241 | User Interface Designer (A): Mm, yeah.

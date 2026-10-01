@@ -1,0 +1,2864 @@
+{
+  "meeting_id": "IS1009c",
+  "date": "2004-12-13",
+  "start_time": "14h22",
+  "duration_seconds": 1806.0,
+  "visibility": "unseen",
+  "speakers": {
+    "D": {
+      "agent": "D",
+      "role_code": "ME",
+      "role": "Marketing Expert",
+      "participant_id": "FIO089",
+      "channel": "3"
+    },
+    "B": {
+      "agent": "B",
+      "role_code": "UI",
+      "role": "User Interface Designer",
+      "participant_id": "FIO087",
+      "channel": "1"
+    },
+    "A": {
+      "agent": "A",
+      "role_code": "PM",
+      "role": "Project Manager",
+      "participant_id": "FIE088",
+      "channel": "0"
+    },
+    "C": {
+      "agent": "C",
+      "role_code": "ID",
+      "role": "Industrial Designer",
+      "participant_id": "FIO084",
+      "channel": "2"
+    }
+  },
+  "split": "test",
+  "official_partition": "SC",
+  "transcribed_word_elements": 5161,
+  "turn_count": 253,
+  "turns": [
+    {
+      "turn_id": "IS1009c-T0001",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 37.649,
+      "end_seconds": 43.363,
+      "text": "Okay. Hello everyone.",
+      "source_segment_ids": [
+        "IS1009c.sync.3",
+        "IS1009c.sync.5"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0002",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 42.23,
+      "end_seconds": 43.472,
+      "text": "Hi.",
+      "source_segment_ids": [
+        "IS1009c.sync.386"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0003",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 43.346,
+      "end_seconds": 43.952,
+      "text": "Hi.",
+      "source_segment_ids": [
+        "IS1009c.sync.531"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0004",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 43.686,
+      "end_seconds": 44.16,
+      "text": "Hi.",
+      "source_segment_ids": [
+        "IS1009c.sync.228"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0005",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 44.768,
+      "end_seconds": 47.264,
+      "text": "Um how uh how we doing?",
+      "source_segment_ids": [
+        "IS1009c.sync.7"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0006",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 48.254,
+      "end_seconds": 48.848,
+      "text": "Yeah, good.",
+      "source_segment_ids": [
+        "IS1009c.sync.388"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0007",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 49.248,
+      "end_seconds": 68.736,
+      "text": "Uh first we going uh over the minutes of the last meeting, more or less. Um in the last meeting uh the marketing manager had presented uh her method of working, meaning gathering i suggestions",
+      "source_segment_ids": [
+        "IS1009c.sync.9"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0008",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 55.568,
+      "end_seconds": 56.0,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.230"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0009",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 69.952,
+      "end_seconds": 79.072,
+      "text": "from everyone to see how she best could market uh this this product at the within the budget uh that was given.",
+      "source_segment_ids": [
+        "IS1009c.sync.11"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0010",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 81.36,
+      "end_seconds": 143.184,
+      "text": "Uh in general the idea is that it should be something that is not difficult to use. Um it's also an item that people lose a lot. So we should address that. And, of course, it should be something s s that is very simple to use. In addition to that to make it sell, of course, uh the marketing manager w wishes that it be very attractive, or like she says put some sizzle into it in one way or another so that the people are buying it now because, in particular with smaller items, that's a very important fact,'cause um if they say, well, I go home and think about it, that won't work. Um also mentioned was it should be uh it should have a very short learning curve. And maybe it could be sold by using a slogan.",
+      "source_segment_ids": [
+        "IS1009c.sync.13",
+        "IS1009c.sync.15",
+        "IS1009c.sync.17",
+        "IS1009c.sync.19",
+        "IS1009c.sync.20",
+        "IS1009c.sync.21",
+        "IS1009c.sync.23"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0011",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 144.048,
+      "end_seconds": 144.311,
+      "text": "Hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.390"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0012",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 144.863,
+      "end_seconds": 191.472,
+      "text": "Our technical manager has then said that she feels it should have a chip that has infra-red bits and it has an interface controls w interface that controls the chip. Therefore, messages uh will be controlled in the same manner. There should be extra features like lid buttons, maybe a beep. If too many buttons are pressed, mm uh uh child lock um and uh maybe a display clock so that people could um you could see the time, you know, what show they want to watch. Also mentioned was uh maybe different shapes.",
+      "source_segment_ids": [
+        "IS1009c.sync.25",
+        "IS1009c.sync.27",
+        "IS1009c.sync.29",
+        "IS1009c.sync.31",
+        "IS1009c.sync.33"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0013",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 193.36,
+      "end_seconds": 208.576,
+      "text": "So the components of the thing should be button, bulbs, infra infra-red bulbs, battery, chips, wires, and maybe some kind of a holder uh for the for the uh item.",
+      "source_segment_ids": [
+        "IS1009c.sync.35",
+        "IS1009c.sync.37"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0014",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 210.24,
+      "end_seconds": 228.768,
+      "text": "Francino who is our um interface designer um uh has mentioned that the that it, of course, should have an on-off button, and also has mentioned an interesting feature that it should have maybe a channel lock.",
+      "source_segment_ids": [
+        "IS1009c.sync.39"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0015",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 213.664,
+      "end_seconds": 215.059,
+      "text": "Interface designer.",
+      "source_segment_ids": [
+        "IS1009c.sync.232"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0016",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 230.016,
+      "end_seconds": 248.0,
+      "text": "Particularly with maybe small children that they couldn't uh watch a channel that is undesirable. It should be compact. Her personal favourite was it should be T-shaped. And maybe have an anar alarm-clock. And the material should possibly be not of non-allergic nature.",
+      "source_segment_ids": [
+        "IS1009c.sync.41"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0017",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 250.192,
+      "end_seconds": 277.712,
+      "text": "Uh the different systems uh that exist are infra-red or radio-waves. Uh maybe it should have uh electri electrici electricity saving feature. And even possibly a timer to so that people can program their favourite uh uh program on th right from the remote.",
+      "source_segment_ids": [
+        "IS1009c.sync.43",
+        "IS1009c.sync.45",
+        "IS1009c.sync.47"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0018",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 277.216,
+      "end_seconds": 277.856,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.234"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0019",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 279.056,
+      "end_seconds": 285.211,
+      "text": "Uh are we all in agreement that that's about what we discussed last time? Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.49"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0020",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 284.064,
+      "end_seconds": 284.32,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.392"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0021",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 284.24,
+      "end_seconds": 284.681,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.236"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0022",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 284.656,
+      "end_seconds": 286.814,
+      "text": "Yeah, I think that pretty much is it. Yeah. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.539"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0023",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 286.592,
+      "end_seconds": 299.808,
+      "text": "Okay, then we I'm looking for three presentations. And uh I don't know whether the order matters much uh, I don't I don't think so, so whoever w wants Yeah, okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.51"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0024",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 297.304,
+      "end_seconds": 300.537,
+      "text": "Okay, I can start first. Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.238",
+        "IS1009c.sync.240"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0025",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 305.376,
+      "end_seconds": 307.008,
+      "text": "Now my slide, please.",
+      "source_segment_ids": [
+        "IS1009c.sync.242"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0026",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 306.08,
+      "end_seconds": 309.392,
+      "text": "Okay, your slides. Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.53"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0027",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 314.16,
+      "end_seconds": 315.568,
+      "text": "Oh, come on, close already.",
+      "source_segment_ids": [
+        "IS1009c.sync.55"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0028",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 321.09,
+      "end_seconds": 323.715,
+      "text": "And that's number two, right?",
+      "source_segment_ids": [
+        "IS1009c.sync.57"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0029",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 323.808,
+      "end_seconds": 324.176,
+      "text": "Three.",
+      "source_segment_ids": [
+        "IS1009c.sync.244"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0030",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 324.459,
+      "end_seconds": 324.864,
+      "text": "Three.",
+      "source_segment_ids": [
+        "IS1009c.sync.59"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0031",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 325.776,
+      "end_seconds": 328.448,
+      "text": "Participant three. Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.246",
+        "IS1009c.sync.248"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0032",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 335.664,
+      "end_seconds": 336.038,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.250"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0033",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 336.886,
+      "end_seconds": 337.848,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.61"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0034",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 337.536,
+      "end_seconds": 371.296,
+      "text": "Now as an interface designer, I would give more emphasis on the interface, how the remote looks like so that it is sellable, it is attractive to customers. Next, please. Okay. Now the function of a remote is to send messages to the television. This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel, like you can have the numbers one, two, three, four, up to nine.",
+      "source_segment_ids": [
+        "IS1009c.sync.252",
+        "IS1009c.sync.254",
+        "IS1009c.sync.256"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0035",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 373.36,
+      "end_seconds": 376.368,
+      "text": "Nine what? Nine channel uh switches?",
+      "source_segment_ids": [
+        "IS1009c.sync.63"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0036",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 377.312,
+      "end_seconds": 377.728,
+      "text": "Pardon me?",
+      "source_segment_ids": [
+        "IS1009c.sync.258"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0037",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 377.936,
+      "end_seconds": 381.408,
+      "text": "Nine channel switches? Is Yeah. Mm-hmm. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.65"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0038",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 379.12,
+      "end_seconds": 381.008,
+      "text": "Yes, nine numbers.",
+      "source_segment_ids": [
+        "IS1009c.sync.260"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0039",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 382.88,
+      "end_seconds": 393.168,
+      "text": "And then you have swapping of uh button by which using which you can swap the channels if you don't want to see the third channel you can swap it to the fourth channel or vice versa.",
+      "source_segment_ids": [
+        "IS1009c.sync.262"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0040",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 385.916,
+      "end_seconds": 386.792,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.67"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0041",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 395.776,
+      "end_seconds": 408.217,
+      "text": "Then it should have a next button, and next button channel by which you can keep on uh v uh mm eh scrolling the channels one by one. Next slide, please.",
+      "source_segment_ids": [
+        "IS1009c.sync.264"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0042",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 402.83,
+      "end_seconds": 404.106,
+      "text": "Going to the nex next.",
+      "source_segment_ids": [
+        "IS1009c.sync.394"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0043",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 402.928,
+      "end_seconds": 403.436,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.69"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0044",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 405.255,
+      "end_seconds": 405.726,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.71"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0045",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 408.0,
+      "end_seconds": 408.4,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.73"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0046",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 410.368,
+      "end_seconds": 415.968,
+      "text": "Then you should have a button which should which ca which can be used for increasing or decreasing the volume.",
+      "source_segment_ids": [
+        "IS1009c.sync.266"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0047",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 416.048,
+      "end_seconds": 416.656,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.75"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0048",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 418.08,
+      "end_seconds": 439.744,
+      "text": "Then, there should be a button which can give subtitles for a particular program which is going on a television. For example, if you are watching a French program and you would like to have a subtitles in English, then there should be a channel which can trigger this mechanism in the television so that the user can see uh the the subtitles on the screen.",
+      "source_segment_ids": [
+        "IS1009c.sync.268"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0049",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 430.704,
+      "end_seconds": 431.3,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.77"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0050",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 441.728,
+      "end_seconds": 453.072,
+      "text": "Then there should d uh there should be some buttons which can control features like the colour, colour of the picture, the contrast, sharpness, brightness of the picture.",
+      "source_segment_ids": [
+        "IS1009c.sync.270"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0051",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 456.752,
+      "end_seconds": 458.784,
+      "text": "Now there should be a memory switch.",
+      "source_segment_ids": [
+        "IS1009c.sync.272"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0052",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 462.688,
+      "end_seconds": 488.88,
+      "text": "There should be a mute button. Suddenly if if if uh uh viewer he gets a telephone call, and if he want he doesn't want to switch off the uh T_V_, but he he can reduce the sound, he can bring the volume down and he can watch he can uh while talking he can watch the T_V_. Now the most important feature I would like to have in my remote would be the speech recognition feature.",
+      "source_segment_ids": [
+        "IS1009c.sync.274"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0053",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 490.432,
+      "end_seconds": 495.856,
+      "text": "It's an integrated progra programmable sample sensor speaker unit.",
+      "source_segment_ids": [
+        "IS1009c.sync.276"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0054",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 498.496,
+      "end_seconds": 507.12,
+      "text": "So a remote can be th can be uh designed which can have the voice recognisers, you can record your own voice",
+      "source_segment_ids": [
+        "IS1009c.sync.278"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0055",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 509.456,
+      "end_seconds": 509.984,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.79"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0056",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 510.352,
+      "end_seconds": 539.344,
+      "text": "which can be recognised by as voice recogniser in the television, for example, if you want to see we if you want to see the ninth channel if you say just say ninth channel, uh th now the the uh yeah, the remote will automatically it will switch to the ninth channel. So the T_V_ will have some recogniser which will recognise the user's voice and accordingly it will change its functionalities. So this is one of the very important feature a remote control can have.",
+      "source_segment_ids": [
+        "IS1009c.sync.280"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0057",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 524.13,
+      "end_seconds": 524.944,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.81"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0058",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 527.6,
+      "end_seconds": 528.096,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.83"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0059",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 534.928,
+      "end_seconds": 536.09,
+      "text": "Mm-hmm. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.85"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0060",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 541.152,
+      "end_seconds": 545.424,
+      "text": "So this is one one of the interface which can be created.",
+      "source_segment_ids": [
+        "IS1009c.sync.282"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0061",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 546.8,
+      "end_seconds": 547.37,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.87"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0062",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 547.152,
+      "end_seconds": 554.464,
+      "text": "A very simple interface which has all the t uh uh important features. Then, please, next slide.",
+      "source_segment_ids": [
+        "IS1009c.sync.284",
+        "IS1009c.sync.286"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0063",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 553.808,
+      "end_seconds": 554.867,
+      "text": "Mm-hmm. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.89"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0064",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 555.712,
+      "end_seconds": 578.255,
+      "text": "Then, these are some of the remotes which are different in shape and colour, but they have many buttons. So uh sometimes the user finds it very difficult to recognise which button is for what function and all that. So you can you can design an interface which is very simple, and which is user-friendly. Even a kid can use that. So can you go on t t uh to the next slide.",
+      "source_segment_ids": [
+        "IS1009c.sync.288"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0065",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 562.112,
+      "end_seconds": 562.773,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.91"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0066",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 575.744,
+      "end_seconds": 576.285,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.93"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0067",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 578.962,
+      "end_seconds": 592.864,
+      "text": "Yeah, so this is one of the interface or one of the remote which has this vi voice recogniser. And this has multi-purpose use, it can be used for T_V_, it can be used for cable-satellite, it can be used for V_C_R_, D_V_D_s and audio.",
+      "source_segment_ids": [
+        "IS1009c.sync.290"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0068",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 584.864,
+      "end_seconds": 585.406,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.95"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0069",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 595.168,
+      "end_seconds": 597.776,
+      "text": "And this has in-built voice recogniser.",
+      "source_segment_ids": [
+        "IS1009c.sync.292"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0070",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 601.632,
+      "end_seconds": 620.256,
+      "text": "Can you go on to the next slide? Yeah, now this is an interface for a chil uh for a remote uh uh which a child can use. Uh this is user-friendly, it's very attractive and uh children can use it as well as they can play with it. And this comes with different colours, different shapes.",
+      "source_segment_ids": [
+        "IS1009c.sync.294"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0071",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 609.872,
+      "end_seconds": 610.33,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.99"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0072",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 620.816,
+      "end_seconds": 621.183,
+      "text": "Mm.",
+      "source_segment_ids": [
+        "IS1009c.sync.396"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0073",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 626.283,
+      "end_seconds": 627.164,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.101"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0074",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 626.912,
+      "end_seconds": 640.816,
+      "text": "And this this uh child uh interface has minimum buttons and all the important uh buttons are there in this small, compact, attractive child interface.",
+      "source_segment_ids": [
+        "IS1009c.sync.296",
+        "IS1009c.sync.298"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0075",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 646.544,
+      "end_seconds": 658.096,
+      "text": "Next slide, please. Now this is a big over-sized remote which cannot be misplaced or it's impossible to misplace. this.",
+      "source_segment_ids": [
+        "IS1009c.sync.300"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0076",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 656.288,
+      "end_seconds": 663.12,
+      "text": "You don't know me. I could lose that in a minute.",
+      "source_segment_ids": [
+        "IS1009c.sync.553"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0077",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 661.12,
+      "end_seconds": 672.576,
+      "text": "So this is No this is a very big, you cannot misplace it anywhere. So this is a jumbo universal remote control and it's impossible to im misplace or lose.",
+      "source_segment_ids": [
+        "IS1009c.sync.303"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0078",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 672.736,
+      "end_seconds": 673.271,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.109"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0079",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 673.872,
+      "end_seconds": 676.848,
+      "text": "This i this is one such interface which can be created.",
+      "source_segment_ids": [
+        "IS1009c.sync.305"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0080",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 678.352,
+      "end_seconds": 689.904,
+      "text": "And the personal preference uh would be a spe uh uh to incorporate speech recognisers uh which will respond to user's voice for a particular uh function.",
+      "source_segment_ids": [
+        "IS1009c.sync.307"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0081",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 688.187,
+      "end_seconds": 688.927,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.111"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0082",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 690.477,
+      "end_seconds": 690.813,
+      "text": "Right.",
+      "source_segment_ids": [
+        "IS1009c.sync.113"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0083",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 691.952,
+      "end_seconds": 692.947,
+      "text": "Thank you, that's",
+      "source_segment_ids": [
+        "IS1009c.sync.309"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0084",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 693.504,
+      "end_seconds": 694.113,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.115"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0085",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 711.456,
+      "end_seconds": 716.944,
+      "text": "Okay, thank you very much. Uh any comments on uh her presentation?",
+      "source_segment_ids": [
+        "IS1009c.sync.117"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0086",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 720.352,
+      "end_seconds": 750.573,
+      "text": "Well, um looks like we still have quite a choice of things out there. Um what uh I'm No suggestion's bad. But uh we're gonna have to narrow it down a little more. I don't think that we can get uh The T-shape is good, the child one is good, the too big to misplace, I think it's just funny. Um I don't think that's gonna be our impulse purchase at the checkout counter. It's it's gonna be a little bit too unwieldy.",
+      "source_segment_ids": [
+        "IS1009c.sync.559"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0087",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 724.352,
+      "end_seconds": 724.752,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.400"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0088",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 728.704,
+      "end_seconds": 729.164,
+      "text": "Mm yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.311"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0089",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 740.384,
+      "end_seconds": 742.752,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.313"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0090",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 742.256,
+      "end_seconds": 744.116,
+      "text": "Yeah, I I th I think",
+      "source_segment_ids": [
+        "IS1009c.sync.119"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0091",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 747.232,
+      "end_seconds": 748.745,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.315"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0092",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 749.328,
+      "end_seconds": 763.361,
+      "text": "No, I think the these are her presentations, but uh as far as the decision making we getting to that after after but if I just wanted to know whether anybody had any any anything to add to her presentation.",
+      "source_segment_ids": [
+        "IS1009c.sync.121"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0093",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 751.568,
+      "end_seconds": 752.498,
+      "text": "Yeah mm. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.561"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0094",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 754.736,
+      "end_seconds": 756.656,
+      "text": "Have to come back to that later. Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.563"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0095",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 755.616,
+      "end_seconds": 756.085,
+      "text": "We can.",
+      "source_segment_ids": [
+        "IS1009c.sync.318"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0096",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 762.48,
+      "end_seconds": 766.852,
+      "text": "No, I think her presentation was good, and she really explored all the options. Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.565"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0097",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 764.119,
+      "end_seconds": 764.49,
+      "text": "Mm right.",
+      "source_segment_ids": [
+        "IS1009c.sync.123"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0098",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 766.416,
+      "end_seconds": 769.603,
+      "text": "Mm-hmm. Ho who wants to go next um?",
+      "source_segment_ids": [
+        "IS1009c.sync.125"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0099",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 770.064,
+      "end_seconds": 770.759,
+      "text": "Yeah, maybe.",
+      "source_segment_ids": [
+        "IS1009c.sync.404"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0100",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 770.608,
+      "end_seconds": 772.267,
+      "text": "Mm-hmm. Okay, and you",
+      "source_segment_ids": [
+        "IS1009c.sync.127"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0101",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 771.836,
+      "end_seconds": 772.928,
+      "text": "Participant two.",
+      "source_segment_ids": [
+        "IS1009c.sync.406"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0102",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 776.96,
+      "end_seconds": 777.952,
+      "text": "Uh okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.129"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0103",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 778.24,
+      "end_seconds": 781.36,
+      "text": "Uh the next one, sorry. It's it was the old one.",
+      "source_segment_ids": [
+        "IS1009c.sync.408"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0104",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 779.552,
+      "end_seconds": 780.048,
+      "text": "Oops.",
+      "source_segment_ids": [
+        "IS1009c.sync.131"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0105",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 787.568,
+      "end_seconds": 788.245,
+      "text": "Components.",
+      "source_segment_ids": [
+        "IS1009c.sync.410"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0106",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 787.584,
+      "end_seconds": 790.112,
+      "text": "The components design. Mm-hmm. Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.133"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0107",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 796.96,
+      "end_seconds": 809.481,
+      "text": "Um this time I'm I'm going to um concentrate more on the components and the technical side of the remote controller design. Uh, can you go on to the next slide, please.",
+      "source_segment_ids": [
+        "IS1009c.sync.412"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0108",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 803.296,
+      "end_seconds": 804.0,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.569"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0109",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 808.304,
+      "end_seconds": 808.677,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.135"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0110",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 809.818,
+      "end_seconds": 843.584,
+      "text": "I have just brief uh down few uh components which we require for the remote control uh construction. Uh the first one is case to keep all the components like integrated circuit, battery, etcetera, etcetera, it's like Uh it can be a plastic one, hard plastic, so that it can be strong, even if you just uh uh, you know, if you if it falls down, then it doesn't break. So it should be strong. And uh uh there are no harmful materials used in that. And it should be recyclable.",
+      "source_segment_ids": [
+        "IS1009c.sync.414",
+        "IS1009c.sync.416"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0111",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 837.328,
+      "end_seconds": 837.771,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.137"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0112",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 844.704,
+      "end_seconds": 845.264,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.139"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0113",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 845.184,
+      "end_seconds": 858.416,
+      "text": "Uh and uh, yeah, and also uh using of colouring compon components like uh if we want to have different colours, blue, red, green, so uh uh we have to use uh some colouring compone compone components.",
+      "source_segment_ids": [
+        "IS1009c.sync.418"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0114",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 845.68,
+      "end_seconds": 846.576,
+      "text": "Mm-hmm. Good point.",
+      "source_segment_ids": [
+        "IS1009c.sync.573"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0115",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 858.585,
+      "end_seconds": 923.632,
+      "text": "And uh the second important thing is uh uh uh integrated circuit. Uh which uh we can use a highly sophisticated one because it's like the it's like the heart of the remote controller. If it is not efficient then everything wi is going to be uh like um the lef ess less efficient so it you should we should have a highly sophisticated one. And it should be resistant to high as well as uh low temperatures. Suppose if it is thirty-eight degrees outside forty degrees outside, it should it should uh be able to re uh resist the uh temperature uh uh highs and uh high temperatures and low temperatures. And uh it should be with uh um equipped with timer and alarm facility. And the uh other component we should uh we have in the remote controller is a resistor uh which is like uh uh i it is very very much important for the electricity uh flow through through through the uh remote controller and uh also a capacitor which is a b which is a m I think it's it's like a battery, capacitor. Can you go on to the next slide, please?",
+      "source_segment_ids": [
+        "IS1009c.sync.420",
+        "IS1009c.sync.422"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0116",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 922.128,
+      "end_seconds": 922.496,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.577"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0117",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 923.616,
+      "end_seconds": 924.154,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.141"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0118",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 926.032,
+      "end_seconds": 967.519,
+      "text": "Uh a diode, a transistor, a resonator, these are all this uh technical uh electri electronic compons uh components which are which we have to use in a remote controller. A battery uh, I would like to suggest one thing uh if we uh if we will be able to make a res rechargeable battery then we sh we need not go for a high performance battery, even if it is a low performance battery it ca it can't l it can't charge much. It it it's not a high voltage battery. Then also we can If it is a rechargeable one, then uh people can use it for a long time, so in that way we can cut cut the cost, but w uh uh that we have to make the battery as rechargeable one.",
+      "source_segment_ids": [
+        "IS1009c.sync.424",
+        "IS1009c.sync.426"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0119",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 950.016,
+      "end_seconds": 950.46,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.579"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0120",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 968.092,
+      "end_seconds": 978.528,
+      "text": "And we we have a circuit board uh in a remote controller. Can you go to the next slide, please. And how it works, how the remote controller works. When you press a button",
+      "source_segment_ids": [
+        "IS1009c.sync.428"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0121",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 984.496,
+      "end_seconds": 984.928,
+      "text": "Go away.",
+      "source_segment_ids": [
+        "IS1009c.sync.143"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0122",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 986.374,
+      "end_seconds": 1084.278,
+      "text": "Thank you. Uh when you press a button, when you do that, you complete a specific connection that means when you when you press a button there will be a s a small circuit underneath the button, and it will send some signals through the wires, and then uh the chip will send start connection and knows that which button is pressed. Suppose you have pressed channel one button, number one you have pressed, then the uh chip will know that the number one button was pressed. It pros produces a mors morse code line signal specific to that button. Every button, every individual button, has its own morse code. Suppose uh the uh user has pressed butto button one, then it will have a spe the circuit will generate a specific morse code to b that that button, and the transistor will amplify the signal and send then to the L_E_D_ which translates the signal into infrared light. Like you have got a signal by pressing a button. That's a d a morse code has been generated by the integrated circuit. Now, that signal, that morse code, has to be amplified by the transistor. That is the use of transist transistor we which we use in the remote controller. It will amplify the signal and it will send it to the L_E_D_ and which translates the signal into an infra infrared bits. The sensor on the T_V_ can see the infrared light, and seeing the signal seeing the signal re it reacts appropriately, that when it sees the amplified mo morse code signal, then it will uh it will uh know which uh what what action it has to uh do. Then it will do the appropriate action. So uh this is how the remote controller works.",
+      "source_segment_ids": [
+        "IS1009c.sync.430",
+        "IS1009c.sync.432",
+        "IS1009c.sync.434"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0123",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1083.757,
+      "end_seconds": 1084.271,
+      "text": "It works.",
+      "source_segment_ids": [
+        "IS1009c.sync.320"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0124",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1085.997,
+      "end_seconds": 1097.783,
+      "text": "Can you go to the next slide, please. Yeah, I have few pictures. When you look at the uh um remote controller uh it's it's it this is a normal remote controller. And to the next slide, please.",
+      "source_segment_ids": [
+        "IS1009c.sync.436",
+        "IS1009c.sync.438"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0125",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1095.536,
+      "end_seconds": 1095.92,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.585"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0126",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1099.136,
+      "end_seconds": 1122.56,
+      "text": "And where we had a a few buttons and all. And uh if you open the remote controller you have this circui circuit board and few electronic components, like you can see a chip there which is having eighteen pins, and also a capac uh a capacitor, three resistors and also a resonator uh um mm yeah, and di and a diode transistor.",
+      "source_segment_ids": [
+        "IS1009c.sync.440"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0127",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1106.128,
+      "end_seconds": 1106.496,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.587"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0128",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1109.735,
+      "end_seconds": 1110.144,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.589"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0129",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1110.112,
+      "end_seconds": 1110.519,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.145"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0130",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1123.584,
+      "end_seconds": 1123.872,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.147"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0131",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1124.08,
+      "end_seconds": 1131.68,
+      "text": "The electronic components uh all of the electronic components have all those uh things like a chip and d diode transistors an",
+      "source_segment_ids": [
+        "IS1009c.sync.442"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0132",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1134.096,
+      "end_seconds": 1141.616,
+      "text": "Yeah, di um can y uh you can see the T_A_ double one eight three five labelled uh chip um.",
+      "source_segment_ids": [
+        "IS1009c.sync.444"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0133",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1138.88,
+      "end_seconds": 1140.496,
+      "text": "Mm-hmm. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.149"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0134",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1139.536,
+      "end_seconds": 1140.109,
+      "text": "Mm yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.322"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0135",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1140.784,
+      "end_seconds": 1141.125,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.591"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0136",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1142.72,
+      "end_seconds": 1164.131,
+      "text": "Uh you can also see the uh uh the green two green things are uh these are they are they are resistors, and uh just beside that you can see a transistor, and a uh uh cylinder shape, uh that one is a capacitor. Uh and also there are uh um resistors uh sorry, ther there is a diode. Can you go go on to the next slide.",
+      "source_segment_ids": [
+        "IS1009c.sync.446"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0137",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1149.248,
+      "end_seconds": 1149.79,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.324"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0138",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1161.952,
+      "end_seconds": 1163.464,
+      "text": "Mm-hmm. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.151"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0139",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1164.96,
+      "end_seconds": 1205.344,
+      "text": "So uh this is the circuit board. The green one is a circuit board. Actually, uh building a circuit bo board is pretty pretty uh easy and also it's a it's a l l inexpensive. Uh it's it costs less than what you print on a paper, because uh uh when you when you are building uh some circuits some um uh circuits and also wires, it's it's better to go for printing, because uh you can build these kind of k circuit boards on a on a bulk and it's just printing, nothing like uh, you know, you don't need to use wires and all. It's not exactly wires we are using. It's just printing something on a board. Tha tho those prints will acti act as wires and ci uh circuits.",
+      "source_segment_ids": [
+        "IS1009c.sync.448"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0140",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1193.36,
+      "end_seconds": 1193.896,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.326"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0141",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1206.688,
+      "end_seconds": 1230.728,
+      "text": "So th that green uh thing is a circuit board, and also you can see uh there are b s like uh um access for buttons, like when you press a button, the circuit under the button will be activated uh th it will it will he get some signals from it and it will uh it will ch its ch se send a signal signals to the, yeah, um integrated circuit. Can you go to the next slide, please.",
+      "source_segment_ids": [
+        "IS1009c.sync.450"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0142",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1224.49,
+      "end_seconds": 1225.193,
+      "text": "Transmit.",
+      "source_segment_ids": [
+        "IS1009c.sync.328"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0143",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1231.216,
+      "end_seconds": 1239.077,
+      "text": "Uh so this is these are the circuits un underneath the buttons. Uh can you see the black uh, round marks? They they are the circuits.",
+      "source_segment_ids": [
+        "IS1009c.sync.452"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0144",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1237.488,
+      "end_seconds": 1237.959,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.153"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0145",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1237.808,
+      "end_seconds": 1238.199,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.595"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0146",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1239.958,
+      "end_seconds": 1285.888,
+      "text": "Next, please. And um like uh we have uh designed uh before we have seen some uh few things like instead off buttons we have some scrolls. Uh b but a b a push-button requires a simple chip underneath it, but whereas a scroll wheel requires normally a regular chip which is a higher price range. Like for s scrolls we have to go for a sophisticated and and k uh uh uh full a complete chip. Uh and a as energy source we offer a basic battery, a more ingenious uh hard dynamo, um a kinetic provision of energy, more than what is that you shake casually to provide energy. So that also we can have in a battery, uh or we can use solar sells. Uh.",
+      "source_segment_ids": [
+        "IS1009c.sync.454"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0147",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1259.936,
+      "end_seconds": 1260.304,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.597"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0148",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1263.552,
+      "end_seconds": 1264.027,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.330"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0149",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1285.28,
+      "end_seconds": 1286.576,
+      "text": "Hmm, that's interesting.",
+      "source_segment_ids": [
+        "IS1009c.sync.599"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0150",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1287.296,
+      "end_seconds": 1287.648,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.456"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0151",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1289.84,
+      "end_seconds": 1301.792,
+      "text": "Uh yeah uh the product can be de delivered into different cases. Uh usually, the cases and card flat that w we see usually uh d uh a normal remote controller. Um.",
+      "source_segment_ids": [
+        "IS1009c.sync.458"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0152",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1297.133,
+      "end_seconds": 1297.651,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.332"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0153",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1302.816,
+      "end_seconds": 1307.612,
+      "text": "Okay. And you have more pictures. Uh we have five minutes to the end of the meeting.",
+      "source_segment_ids": [
+        "IS1009c.sync.155"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0154",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1303.552,
+      "end_seconds": 1303.968,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.460"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0155",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1306.704,
+      "end_seconds": 1340.458,
+      "text": "Yeah, maybe d uh I have just one more slide, I think. Um. Like we can have a ma material such as plastic, rubber, wood, titanium, but titanium we can't use. Um and also for electronics we can use a simple and regular um re or an advanced chip on the print, um also infra it includes the infrared se sender. Um yeah the uh for the movie just to j develop uh samples and so spe sample speaker. An Yeah, that's it. It's all for me now, thank you.",
+      "source_segment_ids": [
+        "IS1009c.sync.462",
+        "IS1009c.sync.464",
+        "IS1009c.sync.465",
+        "IS1009c.sync.467"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0156",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1340.256,
+      "end_seconds": 1345.849,
+      "text": "Okay, well thank you. Any particular comments by anybody?",
+      "source_segment_ids": [
+        "IS1009c.sync.157",
+        "IS1009c.sync.159"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0157",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1346.464,
+      "end_seconds": 1352.864,
+      "text": "Uh yeah, on the scroll and the push-button, um ca you can achieve scrolling by repeatedly pushing a button?",
+      "source_segment_ids": [
+        "IS1009c.sync.601"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0158",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1353.504,
+      "end_seconds": 1374.464,
+      "text": "No, no, no, th the the the scrolling wheels are different, like you can go for a sw switches like buttons or scrolls, uh which which we used to do before ten ten years before, I think. Now, nobody uses that because you need you need a a k sophisticated chip and all. So I think it's better we go for uh um ordinary buttons. Yeah uh yeah, push-buttons. Yeah. Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.469"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0159",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1359.248,
+      "end_seconds": 1359.664,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.603"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0160",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1368.318,
+      "end_seconds": 1368.655,
+      "text": "Um.",
+      "source_segment_ids": [
+        "IS1009c.sync.607"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0161",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1371.072,
+      "end_seconds": 1374.752,
+      "text": "We'll just go for push buttons for in the interest of cost. Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.609"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0162",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1372.365,
+      "end_seconds": 1373.136,
+      "text": "Push-buttons.",
+      "source_segment_ids": [
+        "IS1009c.sync.334"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0163",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1374.928,
+      "end_seconds": 1382.781,
+      "text": "We don't have a lot of time left and we will still have to make a decision, and the marketing expert has to present her her thing.",
+      "source_segment_ids": [
+        "IS1009c.sync.161"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0164",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1381.136,
+      "end_seconds": 1383.536,
+      "text": "Okay. Go right to my first my next slide.",
+      "source_segment_ids": [
+        "IS1009c.sync.613"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0165",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1383.664,
+      "end_seconds": 1384.912,
+      "text": "Uh okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.163"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0166",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1386.336,
+      "end_seconds": 1514.736,
+      "text": "Um alright, my method is uh I'm interested in what the competition is doing, and wanna see how we can make ourselves different from the competition, so I've really been looking at the press and the ads that are out there for other remote controllers. I s I spend a lot of time on the internet um surfing around doing the same thing. And then when I'm out um in people's houses or at meetings or anything like that, I try to notice what kind of remote controls people have, and if it's convenient in the conversation I ask about it. And I would encourage you all to do the same. Um and my findings from this is that, you know, small is beautiful. Um people like something that really fits in their hand. Simple is beautiful. They don't want to have to squint at small print um, they want buttons whose functions are obvious, and they want um as few buttons as possible, and they don't care for the mode thing. They want each button to do something. And eye-catching is important. It's gotta look cute, it's gotta look appealing. Go ahead, I'm trying to finish fast for you. Um and our preference is, as far as I'm concerned, are we got to get to the market before the competition. Ours has to be look really great and it has to come out before the others, so that we have a leg up on time to sell it and push it before other people get out their Christmas item. And we should develop one or two features we can really dwell on in our ad campaign. If we try to tell people it has too many great features, um the consumer just gets confused and we don't get anywhere. So we've gotta narrow our selection down to li two things, I think, that we gonna say are really great about our our our new product. And I've been looking around um at what designs every year different things are popular. And in my research this year I found out that fruit and vegetable shapes are really popular. And people are tired of hard plastic and hard metal. They are more back into soft feel, spongy feeling things, things with maybe a little cloth on them. So those are things maybe we wanna look at as far as saleability of the item.",
+      "source_segment_ids": [
+        "IS1009c.sync.615"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0167",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1429.577,
+      "end_seconds": 1430.128,
+      "text": "'Kay.",
+      "source_segment_ids": [
+        "IS1009c.sync.336"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0168",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1514.896,
+      "end_seconds": 1515.312,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.338"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0169",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1517.152,
+      "end_seconds": 1532.145,
+      "text": "Okay. Uh that concludes the presentation of everyone. And what we really have to decide in this meeting is um the concept of the remote.",
+      "source_segment_ids": [
+        "IS1009c.sync.165",
+        "IS1009c.sync.167"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0170",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1532.416,
+      "end_seconds": 1532.896,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.619"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0171",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1533.6,
+      "end_seconds": 1542.053,
+      "text": "And uh so what do we think on the concept of the remote?",
+      "source_segment_ids": [
+        "IS1009c.sync.169",
+        "IS1009c.sync.171"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0172",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1545.168,
+      "end_seconds": 1549.05,
+      "text": "You wanna try to come back to yours, and limit yours a bit?",
+      "source_segment_ids": [
+        "IS1009c.sync.623"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0173",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1547.568,
+      "end_seconds": 1551.888,
+      "text": "Uh yes, I would like to include this feature which is called as voice recogniser.",
+      "source_segment_ids": [
+        "IS1009c.sync.340"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0174",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1547.828,
+      "end_seconds": 1548.789,
+      "text": "Y",
+      "source_segment_ids": [
+        "IS1009c.sync.175"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0175",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1552.112,
+      "end_seconds": 1552.672,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.625"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0176",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1552.189,
+      "end_seconds": 1554.917,
+      "text": "Okay. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.177"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0177",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1554.464,
+      "end_seconds": 1554.88,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.471"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0178",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1556.288,
+      "end_seconds": 1559.488,
+      "text": "So speech recognition is most important as far as you're concerned?",
+      "source_segment_ids": [
+        "IS1009c.sync.627"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0179",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1559.408,
+      "end_seconds": 1559.856,
+      "text": "Yeah, but w",
+      "source_segment_ids": [
+        "IS1009c.sync.473"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0180",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1559.92,
+      "end_seconds": 1562.688,
+      "text": "This could be uh one feature which could be sellable.",
+      "source_segment_ids": [
+        "IS1009c.sync.342"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0181",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1562.736,
+      "end_seconds": 1567.968,
+      "text": "Yeah h that could that could that could be our star feature. That that be really good, yeah, I agree with that.",
+      "source_segment_ids": [
+        "IS1009c.sync.629"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0182",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1563.453,
+      "end_seconds": 1563.823,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.475"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0183",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1563.68,
+      "end_seconds": 1564.559,
+      "text": "I think that's",
+      "source_segment_ids": [
+        "IS1009c.sync.179"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0184",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1566.631,
+      "end_seconds": 1578.206,
+      "text": "Yeah, but but I what I'm uh very very much doubtful how how uh far it will work, because a speech recogniser like i it it has its own uh uh problems, issues.",
+      "source_segment_ids": [
+        "IS1009c.sync.477"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0185",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1566.96,
+      "end_seconds": 1567.468,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.181"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0186",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1577.072,
+      "end_seconds": 1578.208,
+      "text": "Distance problem?",
+      "source_segment_ids": [
+        "IS1009c.sync.631"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0187",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1578.542,
+      "end_seconds": 1587.633,
+      "text": "Yeah, it's not distance problem it it's recognising a person's voice, like maybe different people will be having different voices, so it like it's uh everything so i",
+      "source_segment_ids": [
+        "IS1009c.sync.479"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0188",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1580.032,
+      "end_seconds": 1580.4,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.344"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0189",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1584.8,
+      "end_seconds": 1585.328,
+      "text": "Uh.",
+      "source_segment_ids": [
+        "IS1009c.sync.633"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0190",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1586.162,
+      "end_seconds": 1589.296,
+      "text": "Well, you you teach You have to teach uh",
+      "source_segment_ids": [
+        "IS1009c.sync.183"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0191",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1588.73,
+      "end_seconds": 1593.444,
+      "text": "So to get a good recogni recognising system, it's a costly thing, I think.",
+      "source_segment_ids": [
+        "IS1009c.sync.481"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0192",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1591.168,
+      "end_seconds": 1620.326,
+      "text": "No, it's it's, uh yeah, it it's like your recording of uh all uh um a question already, and then you're expecting an answer from th For example, you have a T_V_ system, I'm the user and my family members are the user, I will already record uh a question like, uh good morning, like around eight o'clock I want to see the news in the television. So I'll say just good morning and the T_V_ will switch on. It will recognise my voice and will switch on.",
+      "source_segment_ids": [
+        "IS1009c.sync.346"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0193",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1603.344,
+      "end_seconds": 1603.76,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.483"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0194",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1607.248,
+      "end_seconds": 1609.334,
+      "text": "Yeah, but Yeah. Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.485",
+        "IS1009c.sync.487"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0195",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1612.928,
+      "end_seconds": 1613.436,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.489"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0196",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1617.2,
+      "end_seconds": 1617.803,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.491"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0197",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1619.392,
+      "end_seconds": 1619.722,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.493"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0198",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1619.92,
+      "end_seconds": 1629.008,
+      "text": "Okay, before we get too far off here um, the components of the concept is the energy. What kind of energy do we foresee?",
+      "source_segment_ids": [
+        "IS1009c.sync.185"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0199",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1630.336,
+      "end_seconds": 1636.624,
+      "text": "I think I think battery, and I think we all agreed on that. That that's that's gonna be most cost-effective and the best thing.",
+      "source_segment_ids": [
+        "IS1009c.sync.637"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0200",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1630.447,
+      "end_seconds": 1632.224,
+      "text": "Battery. Battery.",
+      "source_segment_ids": [
+        "IS1009c.sync.187"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0201",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1631.817,
+      "end_seconds": 1634.134,
+      "text": "Battery. Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.348",
+        "IS1009c.sync.350"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0202",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1633.931,
+      "end_seconds": 1635.6,
+      "text": "Yeah. Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.495"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0203",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1636.647,
+      "end_seconds": 1639.408,
+      "text": "Okay then chip on print.",
+      "source_segment_ids": [
+        "IS1009c.sync.189"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0204",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1639.344,
+      "end_seconds": 1639.808,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.497"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0205",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1639.76,
+      "end_seconds": 1640.048,
+      "text": "Yep.",
+      "source_segment_ids": [
+        "IS1009c.sync.639"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0206",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1639.833,
+      "end_seconds": 1640.368,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.352"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0207",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1640.464,
+      "end_seconds": 1647.6,
+      "text": "Okay. And the case. And I think we all agree on the case, we wanna have something uh maybe bright, colourful.",
+      "source_segment_ids": [
+        "IS1009c.sync.191"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0208",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1647.632,
+      "end_seconds": 1648.144,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.499"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0209",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1648.144,
+      "end_seconds": 1652.336,
+      "text": "Bright, colourful, trendy trendy design, and strong.",
+      "source_segment_ids": [
+        "IS1009c.sync.641"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0210",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1648.768,
+      "end_seconds": 1649.76,
+      "text": "And compact.",
+      "source_segment_ids": [
+        "IS1009c.sync.354"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0211",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1649.08,
+      "end_seconds": 1652.293,
+      "text": "And also strong. Trendy, yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.501",
+        "IS1009c.sync.503"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0212",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1651.168,
+      "end_seconds": 1652.944,
+      "text": "Trendy design and compact.",
+      "source_segment_ids": [
+        "IS1009c.sync.356"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0213",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1652.912,
+      "end_seconds": 1657.583,
+      "text": "Mm-hmm. Trendy design, compact and strong.",
+      "source_segment_ids": [
+        "IS1009c.sync.193",
+        "IS1009c.sync.195"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0214",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1657.264,
+      "end_seconds": 1657.824,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.643"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0215",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1657.443,
+      "end_seconds": 1657.968,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.358"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0216",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1660.256,
+      "end_seconds": 1666.48,
+      "text": "User interface concept, uh interface type, supplements.",
+      "source_segment_ids": [
+        "IS1009c.sync.197"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0217",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1669.552,
+      "end_seconds": 1672.698,
+      "text": "That will be your area I think, right, Jana.",
+      "source_segment_ids": [
+        "IS1009c.sync.199"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0218",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1670.083,
+      "end_seconds": 1670.529,
+      "text": "Uh.",
+      "source_segment_ids": [
+        "IS1009c.sync.505"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0219",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1674.256,
+      "end_seconds": 1678.883,
+      "text": "Um like the switches, like we use buttons for user interface.",
+      "source_segment_ids": [
+        "IS1009c.sync.507"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0220",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1678.832,
+      "end_seconds": 1679.576,
+      "text": "Push-buttons.",
+      "source_segment_ids": [
+        "IS1009c.sync.360"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0221",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1679.424,
+      "end_seconds": 1682.304,
+      "text": "Put uh k I guess uh for yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.201"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0222",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1679.904,
+      "end_seconds": 1680.541,
+      "text": "Push-buttons.",
+      "source_segment_ids": [
+        "IS1009c.sync.509"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0223",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1685.168,
+      "end_seconds": 1689.248,
+      "text": "And Not sure what they mean by supplements.",
+      "source_segment_ids": [
+        "IS1009c.sync.203",
+        "IS1009c.sync.205"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0224",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1687.888,
+      "end_seconds": 1688.096,
+      "text": "And",
+      "source_segment_ids": [
+        "IS1009c.sync.362"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0225",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1689.168,
+      "end_seconds": 1689.584,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.511"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0226",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1689.456,
+      "end_seconds": 1690.704,
+      "text": "Well, I think that",
+      "source_segment_ids": [
+        "IS1009c.sync.647"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0227",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1689.76,
+      "end_seconds": 1696.608,
+      "text": "Supplements like different types of features buttons, like can have a f mute button or a swapping button.",
+      "source_segment_ids": [
+        "IS1009c.sync.364"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0228",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1692.624,
+      "end_seconds": 1699.329,
+      "text": "Yeah, or or like her speech recognition would also be a supplement. Her speech recognition feature would be a supplement.",
+      "source_segment_ids": [
+        "IS1009c.sync.649"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0229",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1693.152,
+      "end_seconds": 1695.44,
+      "text": "Oh, like Oh.",
+      "source_segment_ids": [
+        "IS1009c.sync.207",
+        "IS1009c.sync.209"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0230",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1696.992,
+      "end_seconds": 1699.28,
+      "text": "A what? Right, right, right, mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.211"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0231",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1698.337,
+      "end_seconds": 1699.986,
+      "text": "Recogniser. Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.366"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0232",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1698.916,
+      "end_seconds": 1699.424,
+      "text": "Mm yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.513"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0233",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1700.096,
+      "end_seconds": 1707.296,
+      "text": "Okay, so why don't we put down speech recognition if possible pending some more research from our industrial engineer on how expensive that is.",
+      "source_segment_ids": [
+        "IS1009c.sync.651"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0234",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1702.996,
+      "end_seconds": 1703.347,
+      "text": "Hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.515"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0235",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1706.208,
+      "end_seconds": 1707.472,
+      "text": "Mm-hmm. Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.517"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0236",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1707.392,
+      "end_seconds": 1707.962,
+      "text": "Right.",
+      "source_segment_ids": [
+        "IS1009c.sync.213"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0237",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1707.552,
+      "end_seconds": 1708.016,
+      "text": "Yes.",
+      "source_segment_ids": [
+        "IS1009c.sync.368"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0238",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1711.584,
+      "end_seconds": 1727.008,
+      "text": "Okay. Uh our next meeting will be in thirty minutes, and the uh I_D_ is to this is the individual actions to be taken until then, to have the look and feel design,",
+      "source_segment_ids": [
+        "IS1009c.sync.215"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0239",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1728.688,
+      "end_seconds": 1737.344,
+      "text": "and uh the U_I_D_ is supposed to uh come up with the user interface design,",
+      "source_segment_ids": [
+        "IS1009c.sync.217"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0240",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1737.728,
+      "end_seconds": 1738.176,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.519"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0241",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1738.448,
+      "end_seconds": 1758.128,
+      "text": "and the marketing expert with the product evaluation. In this phase, the two of you, Jana and Francine, have to work together on a prototype using modelling clay, it says here. You will receive specific instructions will be sent to you by your coaches.",
+      "source_segment_ids": [
+        "IS1009c.sync.219"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0242",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1742.32,
+      "end_seconds": 1742.832,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.655"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0243",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1748.72,
+      "end_seconds": 1749.42,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.370"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0244",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1753.472,
+      "end_seconds": 1753.816,
+      "text": "Mm-hmm.",
+      "source_segment_ids": [
+        "IS1009c.sync.521"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0245",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1758.304,
+      "end_seconds": 1758.928,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.374"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0246",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1759.426,
+      "end_seconds": 1771.424,
+      "text": "Um if you have any questions, you know, you you can always uh contact me um or uh or your coach, I suppose.",
+      "source_segment_ids": [
+        "IS1009c.sync.221"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0247",
+      "speaker": "D",
+      "role": "Marketing Expert",
+      "start_seconds": 1769.123,
+      "end_seconds": 1774.24,
+      "text": "Wherever they're hiding?",
+      "source_segment_ids": [
+        "IS1009c.sync.661"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0248",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1773.248,
+      "end_seconds": 1784.016,
+      "text": "Um so um I think we conclude the meeting here and we come back in uh uh thirty minutes, according to our timetable here.",
+      "source_segment_ids": [
+        "IS1009c.sync.223"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0249",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1781.296,
+      "end_seconds": 1781.616,
+      "text": "Yeah.",
+      "source_segment_ids": [
+        "IS1009c.sync.525"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0250",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1781.392,
+      "end_seconds": 1781.808,
+      "text": "Okay.",
+      "source_segment_ids": [
+        "IS1009c.sync.380"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0251",
+      "speaker": "A",
+      "role": "Project Manager",
+      "start_seconds": 1787.504,
+      "end_seconds": 1788.416,
+      "text": "Thank you very much.",
+      "source_segment_ids": [
+        "IS1009c.sync.225"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0252",
+      "speaker": "C",
+      "role": "Industrial Designer",
+      "start_seconds": 1788.288,
+      "end_seconds": 1789.328,
+      "text": "Thank you.",
+      "source_segment_ids": [
+        "IS1009c.sync.527"
+      ]
+    },
+    {
+      "turn_id": "IS1009c-T0253",
+      "speaker": "B",
+      "role": "User Interface Designer",
+      "start_seconds": 1788.352,
+      "end_seconds": 1788.896,
+      "text": "Thank you.",
+      "source_segment_ids": [
+        "IS1009c.sync.382"
+      ]
+    }
+  ]
+}

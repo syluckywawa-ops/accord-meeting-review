@@ -1,0 +1,30 @@
+{
+  "version": "gold-v1.0-locked",
+  "frozen_at": "2026-09-27T20:53:12+08:00",
+  "timezone": "Asia/Singapore",
+  "source_workbook": "Lin_Siyuan_ActionAI_Gold_Labels_v1_revised.xlsx",
+  "locked_workbook": "Lin_Siyuan_ActionAI_Gold_Labels_v1_locked.xlsx",
+  "workbook_sha256": "ea5a1113f62fae9e2abd93941302a6b96678c3df787da22c350d772df07e7758",
+  "csv_sha256": {
+    "final_gold_labels.csv": "d7f095a9283f1bc819a4114ae9546a85864c1cef76295aebf34d5ca6c949f2ef",
+    "annotation_progress.csv": "6e44891a986208d5ad3e39fc8fc28e725ffbff11ce85c8a67f6d51c8ab4048bd",
+    "adjudication_log.csv": "59ec006aceecf9239d5a0ccbdeeb7170a1df55d64bdc72405bbee5b094dd38db"
+  },
+  "meetings_total": 23,
+  "meetings_with_actions": 21,
+  "zero_action_meetings": [
+    "IS1009b",
+    "IS1009d"
+  ],
+  "gold_actions_total": 51,
+  "development_actions": 6,
+  "test_actions": 45,
+  "adjudication_entries": 52,
+  "allowed_adjudication_categories": [
+    "match",
+    "manual_only",
+    "official_only",
+    "scope_disagreement"
+  ],
+  "timing_note": "Three post-lock gold additions have no original manual-annotation timestamp; values remain blank rather than being invented."
+}

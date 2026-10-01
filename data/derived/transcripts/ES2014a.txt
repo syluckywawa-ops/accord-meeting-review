@@ -1,0 +1,153 @@
+Meeting: ES2014a
+Split: test
+Meeting date: 2005-03-02
+AMI duration (seconds): 1149
+Transcribed word elements: 2522
+
+[01:11.38-01:12.16] ES2014a-T0001 | Project Manager (A): Right, so
+[01:13.97-01:17.92] ES2014a-T0002 | Project Manager (A): start of the first meeting. Uh.
+[01:16.11-01:16.43] ES2014a-T0003 | Marketing Expert (D): Mm-hmm.
+[01:21.31-01:26.85] ES2014a-T0004 | Project Manager (A): Right, so agenda of the first meeting. Where we uh
+[01:28.91-01:44.59] ES2014a-T0005 | Project Manager (A): We have twenty five minutes for this meeting. We uh are to get acquainted. So does everyone want to say who they are? that seem sensible?
+[01:31.86-01:32.58] ES2014a-T0006 | Industrial Designer (B): Okay.
+[01:42.85-01:46.82] ES2014a-T0007 | Marketing Expert (D): Yeah. I'm Robin. I'm the Marketing Manager.
+[01:47.62-01:50.16] ES2014a-T0008 | User Interface Designer (C): I'm Louisa. I'm the User Interface Designer.
+[01:50.38-01:53.01] ES2014a-T0009 | Industrial Designer (B): I'm Nick. I am the Industrial Designer.
+[01:53.07-02:02.67] ES2014a-T0010 | Project Manager (A): And I'm Alastair and I'm the project leader. Alright okay, so tool training. Um.
+[02:05.39-02:16.38] ES2014a-T0011 | Project Manager (A): Project plan. So does anyone have any uh thoughts as to the tool training that uh is required?
+[02:16.08-02:17.45] ES2014a-T0012 | Industrial Designer (B): Tool training.
+[02:17.07-02:20.11] ES2014a-T0013 | User Interface Designer (C): I'm not exactly sure what you mean by tool training.
+[02:20.26-02:22.77] ES2014a-T0014 | Project Manager (A): Neither am I.
+[02:25.74-02:28.05] ES2014a-T0015 | Project Manager (A): Oh I see, so we shouldn't really be
+[02:36.86-03:25.76] ES2014a-T0016 | Project Manager (A): Oh right okay, so. So we have the project team, which is to um basically to come up with a new r remote control device. Uh we have uh the starting base was the original which has been in existence now for a period of time. And uh our idea is to uh to make the new remote control device uh more user friendly than the previous one, and to to be trendier, to be with it, and therefore to uh to get a bigger market share and bigger audience. So um method of doing this is uh split up as you can see into uh
+[03:11.27-03:13.36] ES2014a-T0017 | Industrial Designer (B): Yeah.
+[03:26.93-03:34.27] ES2014a-T0018 | Project Manager (A): the functional design, the conceptional design, and the detailed design. So um
+[03:37.39-03:46.45] ES2014a-T0019 | Project Manager (A): in each of these uh phases we'll uh basically be handing over to yourselves, the designers of this uh
+[03:43.49-03:44.32] ES2014a-T0020 | Industrial Designer (B): Yes.
+[03:47.76-03:56.58] ES2014a-T0021 | Project Manager (A): this device. And uh having uh meetings so that we can uh during the course of the day um come up with a
+[03:59.20-04:45.65] ES2014a-T0022 | Project Manager (A): better better inst implement than we had before. And therefore um have a successful uh conclusion to the day. Um and you'll be doing uh various designs uh throughout the day to meet this end. So we've got tool training. Try out whiteboard. Uh. So we will um. Right so everyone's to uh supposedly uh draw their favourite animal over on the white board over there. I guess this is uh make sure the whiteboard works. So uh I don't know who wishes to go first. Do you wish to go f Have a first bash at uh whatever.
+[04:14.73-04:16.10] ES2014a-T0023 | Marketing Expert (D): Mm-hmm, okay.
+[04:37.64-04:38.71] ES2014a-T0024 | Industrial Designer (B): Okay.
+[04:42.15-04:44.32] ES2014a-T0025 | User Interface Designer (C): I don't mind.
+[04:42.24-04:44.23] ES2014a-T0026 | Marketing Expert (D): I dunno.
+[04:46.14-04:47.25] ES2014a-T0027 | User Interface Designer (C): Um.
+[04:47.89-04:50.83] ES2014a-T0028 | Project Manager (A): Ah uh.
+[04:48.36-04:51.79] ES2014a-T0029 | User Interface Designer (C): Let's see. Good job I got pockets today.
+[04:51.60-04:52.82] ES2014a-T0030 | Marketing Expert (D): Your microphone's just
+[04:51.78-04:57.71] ES2014a-T0031 | Project Manager (A): But now you you uh you'll move out from the microphone and the camera. I take it that
+[04:56.80-04:59.45] ES2014a-T0032 | User Interface Designer (C): Are we supposed to do this right now, do you think, or?
+[04:59.06-05:02.59] ES2014a-T0033 | Project Manager (A): I would I would guess so. Or
+[05:01.01-05:03.45] ES2014a-T0034 | Marketing Expert (D): Yeah. I don't know.
+[05:01.62-05:03.65] ES2014a-T0035 | Industrial Designer (B): You've lost uh your microphone there.
+[05:03.34-05:04.35] ES2014a-T0036 | User Interface Designer (C): Oh.
+[05:04.05-05:15.76] ES2014a-T0037 | Project Manager (A): Technical problems. I mean you designers are meant to come up with these sort of things.
+[05:05.42-05:10.56] ES2014a-T0038 | User Interface Designer (C): Right here we go.
+[05:22.54-05:29.94] ES2014a-T0039 | User Interface Designer (C): Okay. I think that I would have to say that my favourite animal is the cat.
+[05:35.51-05:37.36] ES2014a-T0040 | User Interface Designer (C): Little smiley cat there.
+[05:39.55-05:57.58] ES2014a-T0041 | User Interface Designer (C): Um and this would be because they're very independent, uh they're very intelligent, compared to dogs maybe. Um and they can be very very affectionate. Some people don't think so but I know very affectionate cats. Um.
+[05:59.63-06:01.78] ES2014a-T0042 | User Interface Designer (C): Um and they can look after themselves.
+[06:03.02-06:06.13] ES2014a-T0043 | Project Manager (A): Next.
+[06:05.47-06:07.21] ES2014a-T0044 | Industrial Designer (B): Okay, yeah. I'll I'll
+[06:06.50-06:07.90] ES2014a-T0045 | User Interface Designer (C): Shall I rub that out, actually?
+[06:08.62-06:15.02] ES2014a-T0046 | Project Manager (A): I don't see as there's any need to. There's plenty of space. I mean whatever.
+[06:13.86-06:17.42] ES2014a-T0047 | Marketing Expert (D): We can have have a whole menagerie.
+[06:16.43-06:17.60] ES2014a-T0048 | Project Manager (A): Exactly.
+[06:17.30-06:20.22] ES2014a-T0049 | Industrial Designer (B): Shall I see if I can get across without just tangling everything.
+[06:23.41-06:24.70] ES2014a-T0050 | Industrial Designer (B): Okay. There's one.
+[06:23.46-06:31.65] ES2014a-T0051 | Project Manager (A): We've had more time to prepare over this side, so we've all stuck our bits and pieces in our pockets.
+[06:26.69-06:30.38] ES2014a-T0052 | Industrial Designer (B): Didn't think of that.
+[06:32.14-06:37.65] ES2014a-T0053 | Industrial Designer (B): 'Kay uh pens are over here. I'll try the red pen.
+[06:34.64-06:35.97] ES2014a-T0054 | Project Manager (A): The three pens are underneath.
+[06:39.89-06:50.59] ES2014a-T0055 | Industrial Designer (B): Okay. Um. I'm gonna go for the bear which I'm be able to draw very well, but
+[06:49.97-06:57.31] ES2014a-T0056 | Project Manager (A): You get marks for artistic impression.
+[06:50.99-06:53.76] ES2014a-T0057 | Industrial Designer (B): I'll have a bash at it. Uh.
+[07:03.01-07:08.62] ES2014a-T0058 | Industrial Designer (B): Ooh ooh I lost it there. I think I've just knocked the microphone. Um.
+[07:07.60-07:13.31] ES2014a-T0059 | Project Manager (A): So you're just doing the face.
+[07:10.80-07:15.52] ES2014a-T0060 | Industrial Designer (B): We'll g then we'll go for a a s small small bear.
+[07:22.42-07:38.83] ES2014a-T0061 | Industrial Designer (B): Um and I like my animal that looks nothing like a bear because um I dunno maybe because there's so many cartoon characters made up after the bear like the jungle book characters and stuff like that. Great.
+[07:40.48-07:41.40] ES2014a-T0062 | Marketing Expert (D): Right.
+[07:50.49-07:56.96] ES2014a-T0063 | Marketing Expert (D): Hello. Um I'm gonna go for the dog, and I'm gonna draw one badly as well. Uh.
+[08:04.67-08:08.62] ES2014a-T0064 | Marketing Expert (D): looks like it's going to be a dachshund or something.
+[08:15.96-08:18.57] ES2014a-T0065 | User Interface Designer (C): That's quite good.
+[08:22.74-08:50.73] ES2014a-T0066 | Marketing Expert (D): Right. There's my dog. Um I like dogs because they're very loyal. And they're always happy, so whenever whenever you're feeling sort of a bit a bit down or tired, they're always coming up and they're always um quite excited. So um you can always have a lot of fun with a dog. And they're also good for exercise as well. You can sorta get out and they they sorta never get tired. And and when they're tired they're quite cute as well, so. Okay, that's why I like dogs.
+[08:51.60-09:07.18] ES2014a-T0067 | Project Manager (A): Right, um. Well I've not actually had too many pets uh over my uh time'cause to be honest with you uh
+[09:08.99-09:24.64] ES2014a-T0068 | Project Manager (A): I'm not too keen on them anyway. Not to worry. So what my daughters have got at the moment is they've got uh a few fish and so hopefully um won't prove too difficult to draw. Uh
+[09:36.06-10:30.18] ES2014a-T0069 | Project Manager (A): As you can see that my artist artistic work is useless as well. Anyway um. And uh one of the best uh things about fish is that they don't really take uh too much looking after because uh with most of the animals if you're going away on holiday or whatever, you've gotta spend money or get a friend or whatever to look after them for you. Whereas if you got fish, you just gotta put the food in a a a dripper feed which feeds them over the uh couple of weeks that you're away and uh change the water every couple of months, and buy in a few plants, so. Other than the fact that they keep dying, uh fish are uh are not are are are reasonable pets in that uh they're low maintenance. Right.
+[10:26.51-10:29.46] ES2014a-T0070 | Marketing Expert (D): Great.
+[10:31.92-11:30.53] ES2014a-T0071 | Project Manager (A): Okay, uh if we're still all with us. Right okay, so. Work has been done on uh this uh project where by um twenty five Euros is uh the uh expected uh selling price. That information has come from our marketing manager here. So we're looking to sell internationally, not just in Europe. We're looking at um having our production costs limited to uh twelve and an half Euro per unit. And therefore making a profit margin of uh well not actually a profit margin it's uh because obviously you're gonna have overheads and various other costs to uh take uh from uh
+[10:55.84-10:56.18] ES2014a-T0072 | Marketing Expert (D): Mm-hmm.
+[10:58.79-11:00.60] ES2014a-T0073 | Marketing Expert (D): Yeah.
+[11:31.84-11:34.98] ES2014a-T0074 | Project Manager (A): from that to give you your profit margin per unit.
+[11:36.91-11:51.37] ES2014a-T0075 | Project Manager (A): And so depending what the uh the overhead uh costs are will determine uh how many units we're uh looking to sell or projecting to sell at this point in time. So um
+[11:56.38-12:19.52] ES2014a-T0076 | Project Manager (A): Experience with remote control, first ideas. New remote. So I guess we're looking at um having a discussion at this point in time to help uh you um folks design our our new model as it were. So uh any any thoughts?
+[12:13.42-12:14.37] ES2014a-T0077 | Industrial Designer (B): Yes.
+[12:19.44-12:30.53] ES2014a-T0078 | Industrial Designer (B): Um I with some remote controls the buttons were a little small so they're quite hard to press so maybe we make something with uh easy to press buttons. As that is the main function.
+[12:30.94-12:44.59] ES2014a-T0079 | Project Manager (A): Okay, so so basically we're looking for some um we're looking for a device that is um robust and
+[12:42.96-12:43.58] ES2014a-T0080 | Industrial Designer (B): Yes.
+[12:45.81-12:52.72] ES2014a-T0081 | Project Manager (A): and therefore uh won't get damaged too easily. Um we're looking for a device
+[12:56.51-12:59.39] ES2014a-T0082 | Project Manager (A): that is uh What was the other things you said there?
+[12:59.47-13:03.46] ES2014a-T0083 | Industrial Designer (B): Um sort of easy to use so the buttons are accessible.
+[13:01.46-13:04.75] ES2014a-T0084 | Project Manager (A): Easy to use. Use.
+[13:06.24-13:07.38] ES2014a-T0085 | Industrial Designer (B): is easy to use and see.
+[13:08.09-13:13.65] ES2014a-T0086 | Project Manager (A): And see. Okay. Uh.
+[13:08.98-13:09.69] ES2014a-T0087 | Industrial Designer (B): Yes.
+[13:12.42-13:29.71] ES2014a-T0088 | User Interface Designer (C): Can I just check? Is this just a television remote? Because a lot of um systems are kind of T_V_ video combined now, or T_V_ D_V_D_ combined. And one of the most annoying things is having like five remotes in the house. So if you've got a combined system, it could be a combined remote.
+[13:23.02-13:23.71] ES2014a-T0089 | Project Manager (A): Mm-hmm.
+[13:30.62-13:30.93] ES2014a-T0090 | Marketing Expert (D): Mm.
+[13:30.85-13:32.93] ES2014a-T0091 | User Interface Designer (C): Or is it just a television that we're supposed to be doing?
+[13:33.89-13:48.69] ES2014a-T0092 | Project Manager (A): Oh I w um basically I'll get back to you on that. But it seems to me sensible,'cause as you rightly said, there's nothing more annoying than having three or four devices littered about the uh about the room. And uh
+[13:44.70-13:45.38] ES2014a-T0093 | Marketing Expert (D): Yeah.
+[13:50.66-13:52.62] ES2014a-T0094 | Project Manager (A): So a device for
+[13:54.59-13:56.07] ES2014a-T0095 | Project Manager (A): for all remotes.
+[13:58.72-13:59.55] ES2014a-T0096 | Marketing Expert (D): I've
+[13:59.14-14:01.42] ES2014a-T0097 | Industrial Designer (B): Sorry, you go. You go.
+[14:00.75-14:40.88] ES2014a-T0098 | Marketing Expert (D): Okay. Yeah. Um one of the things um we found from the market research is that people often get confused by the number of buttons on them as well.'Cause there's quite often lots and lots. And um sometimes uh they sort of remote controls defeat their own purpose because you're sat in the chair and the remote is somewhere else in the room. So whereas in the past you'd have to get up to change the channel, now you have to get up to sort of pick up the remote. So so I don't we need to sort of maybe think about how um we could maybe uh develop a remote control which moves around the room. I don't know.
+[14:39.33-14:43.79] ES2014a-T0099 | User Interface Designer (C): Comes to your whistle.
+[14:40.80-14:42.32] ES2014a-T0100 | Project Manager (A): Hmm.
+[14:42.58-14:47.08] ES2014a-T0101 | Marketing Expert (D): That's that's maybe something for the future when you can talk to your television, but
+[14:45.68-15:08.93] ES2014a-T0102 | Project Manager (A): But is it in a sense it's r um mutually exclusive. You can't have both the th the one device and then have few buttons on it to'cause you want you want simplicity as well, you want any idiot to be able to use it. Whilst at the same time you want, as you rightly said, one remote for all.
+[14:45.94-14:47.28] ES2014a-T0103 | Industrial Designer (B): Yeah.
+[14:51.99-14:52.87] ES2014a-T0104 | Marketing Expert (D): Yeah.
+[15:03.70-15:03.95] ES2014a-T0105 | Marketing Expert (D): Yeah.
+[15:09.58-15:09.90] ES2014a-T0106 | Marketing Expert (D): Mm-hmm.
+[15:10.02-15:30.93] ES2014a-T0107 | Project Manager (A): And so these are probably mutually exclusive options that uh Hmm you could argue that experience of using devices and similar devices as people get more and more used to using remotes, therefore they're more with handling them, therefore you can make them more complicated as time goes on.
+[15:14.82-15:15.30] ES2014a-T0108 | Industrial Designer (B): Yes.
+[15:15.90-15:16.19] ES2014a-T0109 | Marketing Expert (D): Mm-hmm.
+[15:27.18-15:28.38] ES2014a-T0110 | Industrial Designer (B): Yeah.
+[15:30.86-15:37.76] ES2014a-T0111 | Industrial Designer (B): Maybe we could um have better instructions with the remote. Or are we just doing the design of the remote control itself, or sort of the instructions that would come with it?
+[15:37.68-15:41.15] ES2014a-T0112 | Project Manager (A): Better instructions.
+[15:41.76-16:13.79] ES2014a-T0113 | Marketing Expert (D): Yeah. I mean we've done some research um about sort of you know what the cutting edge sort of hand held devices are, and a lot of them sort of use you know they're like they're like mini laptops. So it's possible that we could devise a system where where you're you're basically sort of holding a a miniature computer which is controlling all your your sort of your television, your stereo, and where you know if you buy a new thing then it sort of you can link it to that as well, maybe.
+[15:56.74-15:57.20] ES2014a-T0114 | Project Manager (A): Mm-hmm.
+[16:13.18-16:27.87] ES2014a-T0115 | Project Manager (A): Okay. Um well we've got five minutes before the end of the meeting. So uh we have to uh start winding up. Um is there Next meeting in thirty minutes.
+[16:28.60-16:29.30] ES2014a-T0116 | Industrial Designer (B): 'Kay.
+[16:29.47-16:33.49] ES2014a-T0117 | Project Manager (A): So um
+[16:29.71-16:30.26] ES2014a-T0118 | Marketing Expert (D): Okay.
+[16:34.98-16:40.46] ES2014a-T0119 | Project Manager (A): Right, so we've got I_D_ the Come on, where's my
+[16:40.27-16:44.48] ES2014a-T0120 | Marketing Expert (D): If you just click return it should be okay. It'll get rid of the message.
+[16:47.92-16:51.54] ES2014a-T0121 | Industrial Designer (B): Or not.
+[16:51.47-16:54.40] ES2014a-T0122 | Marketing Expert (D): If you hit just hit return and it should get rid of the message.
+[17:03.55-17:14.14] ES2014a-T0123 | Project Manager (A): Oh there we go. Yeah. That's what I was looking for. Right. So we've got function
+[17:06.30-17:09.39] ES2014a-T0124 | Marketing Expert (D): Oh you've got.
+[17:15.58-17:18.22] ES2014a-T0125 | Project Manager (A): Oh what happened to the
+[17:17.55-17:23.95] ES2014a-T0126 | User Interface Designer (C): I think that might be back to the start. Um if you grab the kind of uh slide to the left and pull it down?
+[17:19.54-17:20.32] ES2014a-T0127 | Marketing Expert (D): Yeah.
+[17:21.81-17:24.37] ES2014a-T0128 | Industrial Designer (B): slide four
+[17:24.94-17:25.28] ES2014a-T0129 | Marketing Expert (D): Yeah.
+[17:33.28-17:34.55] ES2014a-T0130 | Project Manager (A): Right.
+[17:42.48-17:48.90] ES2014a-T0131 | Project Manager (A): Right. Sorry about that. Okay, so we've got um the working design
+[17:43.63-17:44.48] ES2014a-T0132 | Industrial Designer (B): Okay.
+[17:49.89-18:19.31] ES2014a-T0133 | Project Manager (A): for I_D_. For U_I_D_ the technical functions design. Marketing, the user requirement specification. Specific instructions will be sent to you by your person by your personal coach. So. Are we all clear what objectives we're looking to meet in the next thirty minutes? And I guess I'll try and write up some minutes of uh this meeting to uh to give it to you for the next meeting.
+[18:10.03-18:10.34] ES2014a-T0134 | Marketing Expert (D): Mm-hmm.
+[18:10.29-18:11.08] ES2014a-T0135 | Industrial Designer (B): Yes.
+[18:18.62-18:19.55] ES2014a-T0136 | Industrial Designer (B): 'Kay, yes.
+[18:19.71-18:20.02] ES2014a-T0137 | Marketing Expert (D): Mm-hmm.
+[18:19.94-18:28.58] ES2014a-T0138 | User Interface Designer (C): I'm not exactly clear on what we're designing the rem remote for. Is this a mun multi-functional one or do we decide that ourselves as we go away and work on it?
+[18:29.07-18:34.40] ES2014a-T0139 | Industrial Designer (B): I think you just said at the start it was a television remote control, so maybe we should just stick to that unless we get told otherwise.
+[18:30.99-18:33.20] ES2014a-T0140 | Project Manager (A): Television remote control.
+[18:31.55-18:32.41] ES2014a-T0141 | User Interface Designer (C): Right.
+[18:34.62-19:09.01] ES2014a-T0142 | Project Manager (A): That's true,'cause during during the course of our day we might make decisions based on information or meetings that would change where we're going. But at this point in time I think you're right that uh shall we make it just a T_V_. Okay? So we will depart. We will stay here and uh and break off. And I'll do minutes and and we'll see you in half and hour. Okay. Right s
+[18:44.00-18:45.31] ES2014a-T0143 | Marketing Expert (D): Okay cool.
+[18:52.26-18:52.82] ES2014a-T0144 | Industrial Designer (B): 'Kay.
+[19:02.80-19:03.36] ES2014a-T0145 | Industrial Designer (B): Okay, that's great.
+[19:03.06-19:03.46] ES2014a-T0146 | User Interface Designer (C): Okay.
+[19:03.38-19:05.05] ES2014a-T0147 | Marketing Expert (D): Okay cheers.

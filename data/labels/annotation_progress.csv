@@ -1,0 +1,24 @@
+meeting_id,split,word_count,duration_minutes,annotation_status,annotator,started_at,completed_at,minutes,initial_action_count,audit_status,final_action_count,notes
+ES2003a,development,2387,18.73,adjudicated,Lin Siyuan,2026-09-26T10:00:00,2026-09-26T10:23:00,23,1,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.
+ES2003b,development,6542,35.35,adjudicated,Lin Siyuan,2026-09-26T10:24:00,2026-09-26T10:39:00,15,1,completed,1,Initial rows normalised and checked against the official action summary and transcript evidence.
+ES2003c,development,6778,37.52,adjudicated,Lin Siyuan,2026-09-26T14:00:00,2026-09-26T14:07:00,7,1,completed,3,Initial rows normalised and checked against the official action summary and transcript evidence.
+ES2004a,test,3135,19.77,adjudicated,Lin Siyuan,,,,0,completed,1,Missing from the original workbook; final action(s) added during the documented post-lock audit. Original timing was not recorded.
+ES2004b,test,7681,38.88,adjudicated,Lin Siyuan,2026-09-26T14:17:00,2026-09-26T14:56:00,39,2,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.
+ES2004c,test,7850,37.73,adjudicated,Lin Siyuan,2026-09-26T15:00:00,2026-09-26T15:19:00,19,2,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.
+ES2004d,test,7337,37.00,adjudicated,Lin Siyuan,,,,0,completed,1,Missing from the original workbook; one transcript-supported recommendation action remains after evidence-only review. Original timing was not recorded.
+ES2014a,test,2522,19.15,adjudicated,Lin Siyuan,2026-09-26T15:34:00,2026-09-26T15:49:00,15,1,completed,4,Initial rows normalised and checked against the official action summary and transcript evidence.
+ES2014b,test,6935,38.65,adjudicated,Lin Siyuan,2026-09-26T15:50:00,2026-09-26T15:56:00,6,1,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.
+ES2014c,test,7330,37.88,adjudicated,Lin Siyuan,2026-09-26T15:57:00,2026-09-26T16:27:00,30,2,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.
+ES2014d,test,9058,48.52,adjudicated,Lin Siyuan,,,,0,completed,1,Missing from the original workbook; final action(s) added during the documented post-lock audit. Original timing was not recorded.
+IS1009a,test,2393,13.85,adjudicated,Lin Siyuan,2026-09-26T16:30:00,2026-09-26T16:47:00,17,1,completed,4,Initial rows normalised and checked against the official action summary and transcript evidence.
+IS1009b,test,6831,34.18,adjudicated,Lin Siyuan,,,,0,completed,0,Complete transcript and official-summary review recorded zero eligible post-meeting actions; original timing was not recorded.
+IS1009c,test,5161,30.10,adjudicated,Lin Siyuan,2026-09-26T16:50:00,2026-09-26T17:48:00,58,4,completed,4,Initial rows normalised and checked against the official action summary and transcript evidence.
+IS1009d,test,5586,32.15,adjudicated,Lin Siyuan,,,,0,completed,0,Complete transcript and official-summary review recorded zero eligible post-meeting actions; original timing was not recorded.
+TS3003a,test,3014,25.09,adjudicated,Lin Siyuan,2026-09-26T17:50:00,2026-09-26T18:09:00,19,1,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.
+TS3003b,test,5481,36.84,adjudicated,Lin Siyuan,2026-09-26T18:10:00,2026-09-26T19:00:00,50,4,completed,4,Initial rows normalised and checked against the official action summary and transcript evidence.
+TS3003c,test,5245,42.78,adjudicated,Lin Siyuan,2026-09-26T19:04:00,2026-09-26T19:40:00,36,3,completed,3,Initial rows normalised and checked against transcript evidence. The optional corporate-website suggestion was merged into the joint design action rather than counted separately.
+TS3003d,test,6419,44.08,adjudicated,Lin Siyuan,2026-09-26T19:42:00,2026-09-26T20:05:00,23,2,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.
+TS3007a,test,4069,26.82,adjudicated,Lin Siyuan,2026-09-26T20:07:00,2026-09-26T20:49:00,42,3,completed,3,Initial rows normalised and checked against the official action summary and transcript evidence.
+TS3007b,test,7648,55.91,adjudicated,Lin Siyuan,2026-09-26T20:50:00,2026-09-26T21:17:00,27,2,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.
+TS3007c,test,8412,40.50,adjudicated,Lin Siyuan,2026-09-26T21:19:00,2026-09-26T22:20:00,61,4,completed,4,Initial rows normalised and checked against the official action summary and transcript evidence.
+TS3007d,test,9713,45.42,adjudicated,Lin Siyuan,2026-09-26T22:21:00,2026-09-26T23:01:00,40,2,completed,2,Initial rows normalised and checked against the official action summary and transcript evidence.

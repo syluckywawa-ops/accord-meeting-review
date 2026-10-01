@@ -1,0 +1,451 @@
+{
+  "status": "locked_after_student_confirmation_2026-09-29",
+  "standard": "fixed current gold labels; one-to-one semantic task matching; owner and deadline scored separately",
+  "scope": "full zero-shot test set; all meetings locked",
+  "decisions": {
+    "ES2004a-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2004a-A001",
+      "error_category": "",
+      "human_reason": "Same team follow-up to continue individual role-specific work before the next meeting; the prediction adds unsupported design detail, but the core action and deadline agree."
+    },
+    "ES2004b-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2004b-A001",
+      "error_category": "",
+      "human_reason": "Same task to investigate the company logo and incorporate it into the product design; owner accuracy is scored separately."
+    },
+    "ES2004b-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "A tentative design-generation idea was promoted to a standalone follow-up without a clear assignment or current gold counterpart."
+    },
+    "ES2004b-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "This is a product-design principle discussed in the meeting, not the Marketing Expert's assigned research into instruction-manual usability."
+    },
+    "ES2004b-P004": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2004b-A002",
+      "error_category": "",
+      "human_reason": "Same Marketing Expert assignment to examine instruction-manual usability before the next meeting. The model cites only T0411, so the full assignment requires the wider T0408–T0414 context."
+    },
+    "ES2004b-P005": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "duplicate_fragment",
+      "human_reason": "This is the Marketing Expert's question before the specific instruction-manual assignment, already matched by ES2004b-P004; it is not a separate action."
+    },
+    "ES2004c-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2004c-A002",
+      "error_category": "",
+      "human_reason": "Same Industrial Designer assignment to investigate rechargeable-battery options."
+    },
+    "ES2004c-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The team is considering a closing or attachment feature during design discussion; no distinct assigned follow-up or current gold counterpart is established."
+    },
+    "ES2004c-P003": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2004c-A001",
+      "error_category": "",
+      "human_reason": "Checking the financial feasibility of voice recognition is the same task as finding out more about its cost; owner and deadline accuracy are scored separately."
+    },
+    "ES2004c-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "This is a product-design decision or requirement rather than a distinct follow-up; the later discussion also weakens the need to display the company logo prominently."
+    },
+    "ES2004d-P001": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "The presentation is an immediate activity already beginning in the meeting, not a post-meeting follow-up action."
+    },
+    "ES2004d-P002": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2004d-A001",
+      "error_category": "",
+      "human_reason": "Same team action to include voice recognition as an optional business-class or upgraded feature in the recommendations; owner accuracy is scored separately."
+    },
+    "ES2004d-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "duplicate_fragment",
+      "human_reason": "This is a second fragment of the same recommendation already matched by ES2004d-P002, not a separate action."
+    },
+    "ES2004d-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "Although the Project Manager says 'I'll be delegating', no independently identifiable deliverable, assignee, or concrete work item is stated."
+    },
+    "ES2014a-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2014a-A001",
+      "error_category": "",
+      "human_reason": "Same Project Manager commitment to write the meeting minutes for the next meeting; owner and deadline also agree."
+    },
+    "ES2014a-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "The personal-coach sentence describes how role instructions will be delivered, not a Project Manager follow-up; the three role-specific tasks remain separate unmatched gold actions."
+    },
+    "ES2014b-P001": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "This describes the immediate purpose of the current meeting and its decision process, not a distinct post-meeting task."
+    },
+    "ES2014b-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "This is a conditional communication rule if new information arises, not a concrete deliverable known at the end of the meeting."
+    },
+    "ES2014b-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "A product-feature decision about a whistle or clap-back function was promoted to a standalone follow-up task."
+    },
+    "ES2014b-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "The front-versus-back button decision is work the team intends to complete immediately in the current meeting, not at the next meeting as predicted."
+    },
+    "ES2014b-P005": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "duplicate_fragment",
+      "human_reason": "This is the broad preliminary formulation of the unresolved button-function task; the specific audio and Dolby follow-up is already matched by ES2014b-P006."
+    },
+    "ES2014b-P006": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2014b-A002",
+      "error_category": "",
+      "human_reason": "Same follow-up to investigate unresolved audio and Dolby controls and report back; owner and deadline accuracy are scored separately. T0398 alone leaves 'that' unresolved, so the task requires the wider T0362, T0384, T0392, T0397–T0398 context."
+    },
+    "ES2014b-P007": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2014b-A001",
+      "error_category": "",
+      "human_reason": "Same Project Manager commitment to prepare the meeting minutes; scheduling the next meeting is extra scope and deadline accuracy is scored separately."
+    },
+    "ES2014c-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2014c-A001",
+      "error_category": "",
+      "human_reason": "Same Industrial Designer commitment to investigate whether speech recognition requires an advanced circuit board; the predicted cost-impact detail is supported by the surrounding discussion."
+    },
+    "ES2014c-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "This is a product architecture decision reached during the meeting, not an assigned follow-up task."
+    },
+    "ES2014c-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The kinetic power supply is a selected product feature, not a separately assigned action item."
+    },
+    "ES2014c-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The rubber buttons and case are agreed design choices, not a standalone follow-up task."
+    },
+    "ES2014c-P005": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The simple push-button choice is a design decision made in the meeting, not a separate assigned deliverable."
+    },
+    "ES2014c-P006": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "This records agreed button-design characteristics rather than an independently assigned follow-up action."
+    },
+    "ES2014c-P007": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The red-apple standby button is a design decision, not a separate task to be completed after the meeting."
+    },
+    "ES2014c-P008": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The single-curved case is an agreed design specification, not an assigned follow-up."
+    },
+    "ES2014c-P009": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The cited turns discuss uncertainty about colours and a possible logo sticker, but assign no investigation or separate deliverable."
+    },
+    "ES2014c-P010": {
+      "human_decision": "match",
+      "final_gold_action_id": "ES2014c-A002",
+      "error_category": "",
+      "human_reason": "Same joint assignment to the Industrial Designer and User Interface Designer to build the physical Plasticine prototype."
+    },
+    "IS1009a-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "IS1009a-A002",
+      "error_category": "",
+      "human_reason": "Same Industrial Designer assignment to prepare the working design before the next meeting; owner and deadline also agree."
+    },
+    "IS1009a-P002": {
+      "human_decision": "match",
+      "final_gold_action_id": "IS1009a-A003",
+      "error_category": "",
+      "human_reason": "The core task and owner match the User Interface Designer's functional and technical-functions design assignment; friendliness and price are extra scope borrowed from the separate Marketing task."
+    },
+    "IS1009a-P003": {
+      "human_decision": "match",
+      "final_gold_action_id": "IS1009a-A004",
+      "error_category": "",
+      "human_reason": "Same Marketing Expert assignment to prepare user requirement specifications covering friendliness and price before the next meeting."
+    },
+    "IS1009b-P001": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "This is a request for specific suggestions during the current meeting, not an assigned post-meeting deliverable; the meeting has no current gold action."
+    },
+    "IS1009b-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "This describes an ongoing collaboration method between Marketing and Industrial Design, not a discrete action with a defined output."
+    },
+    "IS1009b-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "This describes an ongoing consultation process with the User Interface Designer, not a specific assigned deliverable."
+    },
+    "IS1009b-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "A current-meeting discussion about one-button versus multi-mode controls was promoted to a standalone follow-up task."
+    },
+    "IS1009b-P005": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "This is a product and target-segment feasibility question being debated in the meeting, without a distinct assignment or accepted deliverable."
+    },
+    "IS1009b-P006": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "Removable covers are proposed as a product idea and discussed immediately; no separate investigation is assigned."
+    },
+    "IS1009c-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "IS1009c-A004",
+      "error_category": "",
+      "human_reason": "Same joint assignment to the Industrial Designer and User Interface Designer to build a modelling-clay prototype before the next meeting."
+    },
+    "IS1009c-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "gold_omission_candidate",
+      "human_reason": "T0233 explicitly makes speech recognition conditional on further Industrial Designer research into cost, and the Industrial Designer acknowledges it; the fixed current gold set has no corresponding action."
+    },
+    "IS1009d-P001": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "This is a proposed consumer-research step within the Marketing Expert's evaluation presentation, without a confirmed assignee, acceptance, or scheduled follow-up."
+    },
+    "IS1009d-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The team notices and discusses the voice-recognition budget issue in the current final meeting; no separate future task is assigned."
+    },
+    "IS1009d-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "These are possible button and feature changes considered during the final product evaluation, not an assigned follow-up deliverable."
+    },
+    "IS1009d-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "The production-evaluation presentation is an immediate agenda activity already taking place, not post-meeting work."
+    },
+    "TS3003a-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3003a-A001",
+      "error_category": "",
+      "human_reason": "The predicted task, Project Manager owner, and cited commitment all directly match putting the meeting minutes in the project folder."
+    },
+    "TS3003b-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3003b-A002",
+      "error_category": "",
+      "human_reason": "This directly matches the Industrial Designer's assigned components-concept work for the next meeting; the prediction omits the deadline, which is scored separately."
+    },
+    "TS3003b-P002": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3003b-A003",
+      "error_category": "",
+      "human_reason": "This directly matches the User Interface Designer's combined user-interface concept and trend-watching assignment; the prediction omits the next-meeting deadline."
+    },
+    "TS3003b-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "'Keep in mind' is contextual guidance for the two assigned concept tasks, not a separately identifiable post-meeting deliverable."
+    },
+    "TS3003b-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "The transcript predicts that the personal coach will send instructions; it does not assign a deliverable to a meeting participant."
+    },
+    "TS3003c-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3003c-A003",
+      "error_category": "",
+      "human_reason": "The joint owners, look-and-feel and user-interface design work, corporate-design guidance, and next-meeting deadline align with the gold action."
+    },
+    "TS3003c-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "gold_omission_candidate",
+      "human_reason": "T0302 says the participants are expected to fill in questionnaires before starting the collaborative work. This is a plausible action, but it is tentative and absent from the fixed gold set; the predicted owners may also be too narrow."
+    },
+    "TS3003d-P001": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The team is calculating the current design cost and immediately considers using one battery; no separate future feasibility task is assigned."
+    },
+    "TS3003d-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "Discarding the help and mute buttons is an in-meeting cost/design decision, not an assigned investigation deliverable."
+    },
+    "TS3003d-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "This is a design suggestion raised while the team is jointly reducing component cost, without a confirmed follow-up assignee."
+    },
+    "TS3003d-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The scroll-wheel arrangement is developed as part of the live design discussion; it is not delegated as later work."
+    },
+    "TS3003d-P005": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "T0235 is a conditional suggestion about how advertising or a guide could explain the design, not a committed instructions or advertising task."
+    },
+    "TS3003d-P006": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "Combining scroll-wheel controls is an accepted design idea inside the current meeting, with no separate owner or future deliverable."
+    },
+    "TS3003d-P007": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The cited turns pose and discuss a possible combined teletext/subtitles control; they do not assign implementation work."
+    },
+    "TS3003d-P008": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "T0609 refers to putting questions in the project folder and does not support distributing a questionnaire for team completion. It does not match the team's separate questionnaire action."
+    },
+    "TS3003d-P009": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3003d-A001",
+      "error_category": "",
+      "human_reason": "The Project Manager explicitly commits to make and then show the final presentation. The prediction omits the approximately ten-minute deadline and overstates distribution, which are field/evidence-quality issues rather than a task mismatch."
+    },
+    "TS3007a-P001": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3007a-A001",
+      "error_category": "",
+      "human_reason": "The working-design task and Industrial Designer owner directly match; the prediction's generic next-meeting deadline omits the stated thirty-minute interval."
+    },
+    "TS3007a-P002": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3007a-A002",
+      "error_category": "",
+      "human_reason": "The technical-functions task and User Interface Designer owner directly match; the relative thirty-minute deadline is only partially captured."
+    },
+    "TS3007a-P003": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3007a-A003",
+      "error_category": "",
+      "human_reason": "This captures the required individual identification of the most important requirements for the next meeting. Listing the three specialist roles is semantically equivalent to the team excluding the facilitating Project Manager in this context."
+    },
+    "TS3007a-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "duplicate_fragment",
+      "human_reason": "Fitting the pieces together is the next-meeting continuation of the same requirement-identification action already matched by P003, not a second independent gold action."
+    },
+    "TS3007d-P001": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "other",
+      "human_reason": "The component-cost calculation is an immediate evaluation activity performed inside the meeting, not a post-meeting assignment."
+    },
+    "TS3007d-P002": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The cited context supports a live budget/design discussion and does not assign removal of the kinetic component as later work."
+    },
+    "TS3007d-P003": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "Changing to a single-curved design is considered and agreed during the current redesign discussion, not delegated as a future task."
+    },
+    "TS3007d-P004": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "Flattening the back is part of the same in-meeting redesign decision, without a separate deliverable or deadline."
+    },
+    "TS3007d-P005": {
+      "human_decision": "no_match",
+      "final_gold_action_id": "",
+      "error_category": "discussion_to_action",
+      "human_reason": "The turns summarize the already-made battery decision for the report; they do not create a new implementation action."
+    },
+    "TS3007d-P006": {
+      "human_decision": "match",
+      "final_gold_action_id": "TS3007d-A002",
+      "error_category": "",
+      "human_reason": "This matches the Project Manager's commitment to finish the final/end report. The ten-minute timing is supported by the earlier cited instruction, although the clearest first-person commitment appears later at T0876."
+    }
+  }
+}

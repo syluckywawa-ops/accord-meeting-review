@@ -1,0 +1,462 @@
+Meeting: IS1009d
+Split: test
+Meeting date: 2004-12-13
+AMI duration (seconds): 1929
+Transcribed word elements: 5586
+
+[00:39.13-00:41.37] IS1009d-T0001 | Project Manager (A): Well hi everyone again.
+[00:40.96-00:43.22] IS1009d-T0002 | Marketing Expert (D): Hello
+[00:41.09-00:41.60] IS1009d-T0003 | Industrial Designer (C): Hello.
+[00:41.12-00:41.68] IS1009d-T0004 | User Interface Designer (B): Hello.
+[00:43.04-00:54.43] IS1009d-T0005 | Project Manager (A): Um like before we uh I have to redo the meetings from n th the minutes from the last meeting and so here we go.
+[00:50.86-00:51.39] IS1009d-T0006 | Marketing Expert (D): Mm-hmm.
+[00:55.89-01:30.04] IS1009d-T0007 | Project Manager (A): Uh it was discussed in the last meeting uh which was opened by the presentation from the interface um designer that uh looks would be very important on this new remote and um it is to send messages of course to the T_V_. It should have nine channel buttons, a next button, volume buttons, subtitle buttons, switch to control features, colour contrast, sharpness etcetera.
+[01:05.62-01:07.06] IS1009d-T0008 | User Interface Designer (B): Designer.
+[01:30.04-01:48.66] IS1009d-T0009 | Project Manager (A): It should have a memory switch, a mute button in case the telephone rings or something. Uh speech recognition is one of her very f favourite personal uh features she would like see d d to be integrated in this um in this new remote. Um.
+[01:50.92-02:09.30] IS1009d-T0010 | Project Manager (A): Should be child friendly design with few buttons, colourful maybe with s star shaped or other shaped buttons. Um she uh presented also an oversized remote which she guarantees nobody will ever be able to lose.
+[02:10.02-02:15.22] IS1009d-T0011 | Marketing Expert (D): And she was challenged on that point
+[02:10.35-02:13.79] IS1009d-T0012 | Project Manager (A): Um that's right.
+[02:12.28-02:14.68] IS1009d-T0013 | User Interface Designer (B): Yes.
+[02:14.83-03:40.05] IS1009d-T0014 | Project Manager (A): But uh her very f personal favourite really she, she would very much like to see a speech recogniser integrated in this remote. The industrial designer um presented her uh thoughts on the issue. She would like a special case made out of plastic that is very strong, not using any harmful materials, should be recyclable and should be colourful. Should have an integrated circuit board that's highly sophisticated and temperature resistant. She would like to see a timer and or alarm facility integrated. Uh technically this thing would also have a resistor and a capacitor, diode transistor, resonator, and if possible a rechargeable battery. Uh and of course a circuit board. And how it would works, you press the button, the chip is morse morse code related relays the uh to the generat to the generator amplification and uh the circuit board is very inexpensive to build and so she thinks this is a great feature uh to to to consider.
+[03:35.44-03:35.82] IS1009d-T0015 | Marketing Expert (D): Okay.
+[03:42.14-04:22.77] IS1009d-T0016 | Project Manager (A): She would like uh this whole thing should be push buttons with a simple chip uh scrolling method is more expensive and not that practical anymore. Should be battery operated and of course she would have the special cases. The marketing expert uh who has to finally come up with to to to market this product has been watching the competition, has done some research on the internet and also has used h her personal observations to come up with the fact that such a remote sh should be small,
+[04:24.29-04:26.58] IS1009d-T0017 | Project Manager (A): easy to use and it should be eye catching.
+[04:30.34-04:37.52] IS1009d-T0018 | Project Manager (A): From her point of view of course one of the most important facts is that we should get to market before our competition does.
+[04:40.46-04:50.61] IS1009d-T0019 | Project Manager (A): To do that uh maybe one or two features should be developed on which we could dwell on or in other words on which our campaign could be built on.
+[04:52.11-05:11.30] IS1009d-T0020 | Project Manager (A): Too many new features or too many points would only confuse matter. So we prefer to have one or two features that can be really uh driven home. Um it should have a fruit and vegetable design and should have a soft feel. She feels that's really what people want today.
+[05:12.90-05:38.54] IS1009d-T0021 | Project Manager (A): And the decision that we took last time was that uh the special feature we would like to see is a speech recogniser, the energy should be battery uh should be on a chip, should be trendy design, compact and strong, and should have buttons. And that concludes the presentation from the last minutes from the last meeting.
+[05:40.67-05:45.50] IS1009d-T0022 | Project Manager (A): Now uh we are ready for the presentation of the prototype.
+[05:47.18-05:47.49] IS1009d-T0023 | Industrial Designer (C): Yeah.
+[05:47.70-05:51.15] IS1009d-T0024 | User Interface Designer (B): Yeah. Just the look like, the button part I'll explain.
+[05:51.30-05:51.60] IS1009d-T0025 | Industrial Designer (C): Yeah.
+[05:56.21-06:31.33] IS1009d-T0026 | Industrial Designer (C): Uh so this is our what uh we have made. This is a model of the remote control which we are going to build. Uh this is us in a snail shape so uh it it is attractive um and it's it's blue in colour uh bright and uh it has yellow buttons and all the different colour buttons so it is a uh uh a looks-wise it is beautiful. Uh and also compact in shape. Uh um and also i it it will be easily fit into into the hands and you can access all the buttons easily.
+[06:03.36-06:03.81] IS1009d-T0027 | Project Manager (A): Mm-hmm.
+[06:06.72-06:07.18] IS1009d-T0028 | Marketing Expert (D): Mm-hmm.
+[06:12.33-06:12.91] IS1009d-T0029 | Marketing Expert (D): Mm-hmm.
+[06:17.76-06:18.31] IS1009d-T0030 | Marketing Expert (D): Mm-hmm.
+[06:21.12-06:21.47] IS1009d-T0031 | Marketing Expert (D): Mm-hmm.
+[06:23.86-06:24.30] IS1009d-T0032 | Marketing Expert (D): Mm-hmm.
+[06:28.93-06:29.47] IS1009d-T0033 | Marketing Expert (D): Mm-hmm.
+[06:31.41-06:33.02] IS1009d-T0034 | Marketing Expert (D): Mm-hmm. Good.
+[06:32.98-06:36.90] IS1009d-T0035 | Industrial Designer (C): Yeah, oops, sorry.
+[06:35.02-06:40.24] IS1009d-T0036 | Marketing Expert (D): You used to have all the buttons
+[06:38.29-07:10.37] IS1009d-T0037 | Industrial Designer (C): Um yeah and um uh the material which we are going to use for the case is uh plastic and uh w which which is s strong um uh and also uh for the Um the material is plastic and uh for the buttons it is uh s soft rubber um and als yeah. Yeah because uh uh you'll be touching the buttons more so it is soft when you touch it.
+[07:02.24-07:04.54] IS1009d-T0038 | Marketing Expert (D): Oh that's good, no, that's nice and friendly.
+[07:06.83-07:07.73] IS1009d-T0039 | Marketing Expert (D): Mm-hmm. Mm.
+[07:09.18-07:10.34] IS1009d-T0040 | Project Manager (A): Mm-hmm, mm-hmm.
+[07:09.44-07:09.95] IS1009d-T0041 | Marketing Expert (D): Mm-hmm.
+[07:10.37-07:22.57] IS1009d-T0042 | Industrial Designer (C): And then um uh for the for the led, for the light emitting diode it is a fluorescent green and it's a a it is a bulb like an ordinary infrared.
+[07:14.90-07:17.25] IS1009d-T0043 | Marketing Expert (D): Mm-hmm. Mm-hmm.
+[07:24.11-07:28.82] IS1009d-T0044 | Industrial Designer (C): And and the button button's part uh will be explained by F Francina.
+[07:28.82-07:49.76] IS1009d-T0045 | User Interface Designer (B): Okay. Now the um we decided upon including certain features on our remote. Now these features includes the s um signal emitting uh signal it's the led or L_E_D_ the infrared. Now uh we have included the switch on and off button.
+[07:29.02-07:29.55] IS1009d-T0046 | Marketing Expert (D): Okay.
+[07:42.86-07:44.14] IS1009d-T0047 | Marketing Expert (D): Yeah, okay, mm-hmm.
+[07:43.25-07:44.48] IS1009d-T0048 | Project Manager (A): Mm-hmm, mm-hmm.
+[07:50.19-07:51.26] IS1009d-T0049 | Marketing Expert (D): Mm-hmm.
+[07:53.10-07:57.12] IS1009d-T0050 | User Interface Designer (B): Now we have included another feature that is the mute button
+[07:59.17-08:00.46] IS1009d-T0051 | Marketing Expert (D): Mm-hmm.
+[08:01.10-08:07.76] IS1009d-T0052 | User Interface Designer (B): on the side of the model. Then we have included one to nine buttons
+[08:02.70-08:03.66] IS1009d-T0053 | Marketing Expert (D): Mm-hmm.
+[08:08.88-08:11.94] IS1009d-T0054 | User Interface Designer (B): for controlling the programmes the different channels.
+[08:14.35-08:15.95] IS1009d-T0055 | Marketing Expert (D): Mm-hmm.
+[08:16.48-08:22.69] IS1009d-T0056 | User Interface Designer (B): We have also included two buttons for increasing or decreasing the volume.
+[08:26.16-08:27.09] IS1009d-T0057 | Marketing Expert (D): Mm-hmm.
+[08:27.36-08:32.98] IS1009d-T0058 | User Interface Designer (B): And we have also included two buttons for scrolling up and scrolling down the programme channels.
+[08:36.50-08:36.80] IS1009d-T0059 | Marketing Expert (D): Mm.
+[08:36.88-08:41.52] IS1009d-T0060 | User Interface Designer (B): Now our our model also contains a button which is called as the menu button.
+[08:41.76-08:42.64] IS1009d-T0061 | Project Manager (A): What kind of button?
+[08:42.56-08:43.49] IS1009d-T0062 | User Interface Designer (B): Menu button.
+[08:43.66-08:46.03] IS1009d-T0063 | Project Manager (A): Menu? Uh menu th menu, uh one one.
+[08:44.03-08:45.02] IS1009d-T0064 | User Interface Designer (B): Yes, menu
+[08:44.38-08:45.55] IS1009d-T0065 | Marketing Expert (D): Menu button.
+[08:46.11-08:47.01] IS1009d-T0066 | User Interface Designer (B): At the centre
+[08:47.65-08:48.13] IS1009d-T0067 | Marketing Expert (D): Mm-hmm.
+[08:48.34-08:56.53] IS1009d-T0068 | User Interface Designer (B): we have included a button which is fluorescent green colour and this is the menu button which will control the colour, sharpness, brightness
+[08:57.17-08:59.76] IS1009d-T0069 | Marketing Expert (D): Mm-hmm. Of the screen. Mm, mm-hmm.
+[08:58.94-09:00.10] IS1009d-T0070 | User Interface Designer (B): of this uh picture.
+[09:02.82-09:33.57] IS1009d-T0071 | User Interface Designer (B): We have also included a button which is called as the swapping button. Now this is uh a special, special feature which we have included. Now this button is an elongated shaped button and this is slightly flexible so if it is turned towards the right it will take to the previous channel, if it is turned towards the right it will take to the next channel. It will take the user to the previous and the next channel so this is a
+[09:36.56-09:37.60] IS1009d-T0072 | User Interface Designer (B): swapping button.
+[09:40.06-09:44.18] IS1009d-T0073 | Marketing Expert (D): The next channel in the numeric pattern, or
+[09:44.10-09:54.61] IS1009d-T0074 | User Interface Designer (B): No, swapping is if if example you're you're watching the second channel and then you go to the tenth channel and if you want to go back to the second channel you can swap, this button. Yes.
+[09:47.76-09:48.56] IS1009d-T0075 | Marketing Expert (D): Yeah, mm-hmm.
+[09:50.59-09:50.86] IS1009d-T0076 | Marketing Expert (D): Mm.
+[09:53.68-09:54.90] IS1009d-T0077 | Marketing Expert (D): Okay, okay.
+[09:59.17-10:09.22] IS1009d-T0078 | User Interface Designer (B): And at the end, it this remote has inbuilt voice recogniser which c which will recognise the user's voice and then it'll act accordingly.
+[10:04.13-10:04.32] IS1009d-T0079 | Project Manager (A): Okay.
+[10:07.09-10:07.52] IS1009d-T0080 | Project Manager (A): Mm-hmm.
+[10:12.12-10:13.20] IS1009d-T0081 | Project Manager (A): Mm-hmm.
+[10:14.69-10:19.94] IS1009d-T0082 | User Interface Designer (B): So this is our proposed model. Now the marketing expert has to
+[10:14.81-10:15.49] IS1009d-T0083 | Marketing Expert (D): Okay.
+[10:17.26-10:17.70] IS1009d-T0084 | Marketing Expert (D): Mm-hmm.
+[10:20.29-10:21.39] IS1009d-T0085 | Industrial Designer (C): Tell, yeah.
+[10:21.18-10:28.22] IS1009d-T0086 | User Interface Designer (B): give her suggestion whether it'll be sellable or it'll be cost effective.
+[10:28.16-10:42.64] IS1009d-T0087 | Marketing Expert (D): Okay, well um what what I really like a lot about it is that you can reach the whole thing with one thumb, that you can really hold it in one h you don't need two hands and it's easily reachable even for somebody with a small hand, yeah?
+[10:35.30-10:36.31] IS1009d-T0088 | User Interface Designer (B): Yes, yes.
+[10:37.48-10:38.27] IS1009d-T0089 | Industrial Designer (C): Mm-hmm.
+[10:42.78-10:44.85] IS1009d-T0090 | Project Manager (A): Yes the buttons are all raised, right?
+[10:44.98-10:45.84] IS1009d-T0091 | User Interface Designer (B): Yes.
+[10:45.09-11:11.36] IS1009d-T0092 | Marketing Expert (D): The buttons are all raised and if you hold it in the centre of your hand you can even reach it over here so you don't have to turn it around, turn it upside down, move it up, up and down, I really like that. You really did a good job on that, my little designers. Um and um I like the idea that the on-off button is in a really prominent place. That's that's a really good good thing.
+[10:45.25-10:46.54] IS1009d-T0093 | Project Manager (A): Are raised, mm-hmm.
+[10:49.68-10:50.13] IS1009d-T0094 | Project Manager (A): Right.
+[10:52.75-10:55.40] IS1009d-T0095 | Project Manager (A): Or have two hands to operate it, yeah.
+[10:56.67-10:57.30] IS1009d-T0096 | Industrial Designer (C): Mm-hmm.
+[10:56.79-10:57.22] IS1009d-T0097 | User Interface Designer (B): Mm.
+[11:10.78-11:18.13] IS1009d-T0098 | Project Manager (A): Yes, and it sort of sticks up so that you really you don't have to g first go like oh yeah here it's on and yeah, mm-hmm.
+[11:12.18-11:13.61] IS1009d-T0099 | Marketing Expert (D): Yeah, that's great.
+[11:14.77-11:15.30] IS1009d-T0100 | Industrial Designer (C): Hmm.
+[11:15.80-11:16.41] IS1009d-T0101 | Marketing Expert (D): Mm-hmm.
+[11:16.31-11:17.10] IS1009d-T0102 | Industrial Designer (C): Mm-hmm.
+[11:16.60-11:17.92] IS1009d-T0103 | User Interface Designer (B): Abs okay.
+[11:17.66-11:26.50] IS1009d-T0104 | Marketing Expert (D): The colour's very attractive. Um the um these buttons uh around here are the mute
+[11:27.30-11:33.26] IS1009d-T0105 | User Interface Designer (B): No, these the front buttons which are here, are the mute buttons. Yes, yes.
+[11:27.51-11:35.73] IS1009d-T0106 | Marketing Expert (D): and these mm-hmm On both sides they're mute? So you can push either one? Okay.
+[11:34.38-11:34.88] IS1009d-T0107 | User Interface Designer (B): Yes.
+[11:35.68-11:38.25] IS1009d-T0108 | Project Manager (A): So if you're left-handed or right-handed it doesn't matter.
+[11:37.01-11:43.94] IS1009d-T0109 | Marketing Expert (D): And this brings the menu up on the screen? This brings the menu up on the screen and the orange ones are
+[11:39.14-11:41.51] IS1009d-T0110 | User Interface Designer (B): Pardon me? This is the menu yes, yes.
+[11:44.02-11:52.64] IS1009d-T0111 | User Interface Designer (B): A the the these these two are th to increase or decrease the volumes, and these two are to uh scroll the programme channels.
+[11:47.58-11:48.66] IS1009d-T0112 | Marketing Expert (D): Okay.
+[11:51.99-11:54.98] IS1009d-T0113 | Marketing Expert (D): F f okay. Right, very good.
+[11:54.06-11:55.94] IS1009d-T0114 | User Interface Designer (B): Scroll up or scroll down the channels.
+[11:55.86-12:04.16] IS1009d-T0115 | Marketing Expert (D): Uh it looks mm looks like something I can sell. Okay and now I'm supposed to yeah.
+[12:02.53-12:13.90] IS1009d-T0116 | Project Manager (A): Well, I have one question uh will there be anything written on the buttons, like that people know, or they have to learn that from a piece of paper which button does what?
+[12:13.82-12:22.10] IS1009d-T0117 | User Interface Designer (B): Yes, it will have uh these buttons will have the numbers and all the rest of the buttons will have symbols. Yes, which can be easily recognised.
+[12:14.08-12:16.23] IS1009d-T0118 | Industrial Designer (C): Ah. Yeah, definitely.
+[12:19.31-12:24.57] IS1009d-T0119 | Project Manager (A): Will have symbols so that that that the user really knows you know and doesn't have to first learn it
+[12:20.46-12:21.69] IS1009d-T0120 | Industrial Designer (C): Yeah. Yeah.
+[12:20.46-12:20.69] IS1009d-T0121 | Marketing Expert (D): Yeah.
+[12:22.41-12:23.04] IS1009d-T0122 | Industrial Designer (C): Yeah.
+[12:22.79-12:23.33] IS1009d-T0123 | User Interface Designer (B): Yes.
+[12:23.48-12:23.97] IS1009d-T0124 | Industrial Designer (C): Yeah.
+[12:23.71-12:29.74] IS1009d-T0125 | Marketing Expert (D): Good point because we need the symbols'cause we're going into an international market we can't have anything that's language dependent.
+[12:24.62-12:25.15] IS1009d-T0126 | User Interface Designer (B): Yes.
+[12:26.09-12:27.76] IS1009d-T0127 | Industrial Designer (C): Yeah of course, and also
+[12:27.78-12:28.44] IS1009d-T0128 | User Interface Designer (B): Yes.
+[12:28.40-12:28.77] IS1009d-T0129 | Industrial Designer (C): Hmm.
+[12:28.91-12:36.18] IS1009d-T0130 | Project Manager (A): Yeah. But anyway it would ha i i i it has to have some kind of of symbols, text or something so that people kn
+[12:29.32-12:29.80] IS1009d-T0131 | Industrial Designer (C): Yeah.
+[12:29.76-12:30.37] IS1009d-T0132 | User Interface Designer (B): Yes.
+[12:31.37-12:32.53] IS1009d-T0133 | Industrial Designer (C): Yeah we can
+[12:33.54-12:35.47] IS1009d-T0134 | Marketing Expert (D): Symbols on it. Mm-hmm, mm-hmm.
+[12:33.80-12:34.36] IS1009d-T0135 | Industrial Designer (C): Text.
+[12:34.64-12:35.22] IS1009d-T0136 | User Interface Designer (B): Yes.
+[12:34.84-12:41.52] IS1009d-T0137 | Industrial Designer (C): Text that we can have on the case itself, we can it will be printed on the case and symbols as well as the buttons. Yeah.
+[12:37.66-12:38.26] IS1009d-T0138 | User Interface Designer (B): Yes.
+[12:37.70-12:38.08] IS1009d-T0139 | Project Manager (A): That's right.
+[12:38.08-12:38.40] IS1009d-T0140 | Marketing Expert (D): Mm-hmm.
+[12:39.22-12:41.63] IS1009d-T0141 | Project Manager (A): Okay, yeah just wanted make sure of that mm-hmm.
+[12:39.85-12:40.45] IS1009d-T0142 | User Interface Designer (B): And
+[12:41.19-12:42.33] IS1009d-T0143 | Marketing Expert (D): Mm,'kay, mm.
+[12:41.24-12:48.11] IS1009d-T0144 | User Interface Designer (B): and one more feature is we we have a holder for this remote which is an oyster shape. A shell shape.
+[12:45.01-12:45.48] IS1009d-T0145 | Marketing Expert (D): Mm-hmm.
+[12:48.48-13:10.94] IS1009d-T0146 | Marketing Expert (D): For the snail, yeah, mm-hmm, we have the snail shell. He goes right back into his shell. Well you know I think we could do something really funny with this too because the snail is known to be slow and we could have some sort of little comic effect on our marketing about how this is a rapid snail or something like that you know that would, that would really work. So
+[12:49.20-12:50.29] IS1009d-T0147 | User Interface Designer (B): Yes, yes.
+[12:49.25-12:50.03] IS1009d-T0148 | Project Manager (A): Right, mm-hmm.
+[12:49.27-12:53.35] IS1009d-T0149 | Industrial Designer (C): Yeah. So it is yeah, yeah shell.
+[12:50.71-12:51.53] IS1009d-T0150 | Project Manager (A): Mm-hmm.
+[12:50.91-12:53.43] IS1009d-T0151 | User Interface Designer (B): Yes, snail shell. Yes.
+[12:53.26-12:53.68] IS1009d-T0152 | Project Manager (A): Right.
+[12:58.26-12:58.75] IS1009d-T0153 | Industrial Designer (C): Mm-hmm.
+[13:04.16-13:04.54] IS1009d-T0154 | User Interface Designer (B): Mm-hmm.
+[13:04.46-13:04.69] IS1009d-T0155 | Industrial Designer (C): Mm.
+[13:06.78-13:08.23] IS1009d-T0156 | User Interface Designer (B): Y Yes
+[13:06.99-13:10.03] IS1009d-T0157 | Industrial Designer (C): Yeah, of course, yeah.
+[13:09.79-13:17.18] IS1009d-T0158 | Project Manager (A): Now what, what are our special features for the marketing? That's really the voice recognition that's really unusual
+[13:16.30-13:22.61] IS1009d-T0159 | Marketing Expert (D): I think voice recognition is our big selling point'cause nobody else seems to have that in in this price range.
+[13:19.09-13:21.34] IS1009d-T0160 | Industrial Designer (C): Mm. Mm-hmm. Mm.
+[13:22.74-13:29.41] IS1009d-T0161 | Project Manager (A): And then, and then the other thing would basically be sh shape or practicality of use.
+[13:29.70-13:43.36] IS1009d-T0162 | Marketing Expert (D): Yep uh well I think that everybody's gonna say their remote control is practical. I think we have to, we have to dwell on on on the appearance. We're really gonna have the be the
+[13:30.77-13:31.78] IS1009d-T0163 | Project Manager (A): You know.
+[13:36.93-13:37.95] IS1009d-T0164 | Project Manager (A): Colours.
+[13:40.72-13:41.17] IS1009d-T0165 | Project Manager (A): Mm-hmm.
+[13:44.13-13:44.75] IS1009d-T0166 | Project Manager (A): Cutest.
+[13:44.43-13:57.79] IS1009d-T0167 | Marketing Expert (D): cutest remote control on the block. So I think we have to play with the image, play with the snail image um play with the visual and then the voice recognition. I think those are the two things to push. The look
+[13:46.48-13:46.82] IS1009d-T0168 | Industrial Designer (C): Mm.
+[13:46.92-13:47.38] IS1009d-T0169 | Project Manager (A): Yeah.
+[13:55.53-13:56.05] IS1009d-T0170 | Industrial Designer (C): Mm-hmm.
+[13:58.93-14:01.89] IS1009d-T0171 | Marketing Expert (D): and the voice recognition. They're gonna be our two selling points.
+[14:02.78-14:05.75] IS1009d-T0172 | Project Manager (A): Okay, now uh having said that
+[14:05.54-14:07.65] IS1009d-T0173 | Marketing Expert (D): I'm supposed to make a little presentation, aren't I?
+[14:08.32-14:15.81] IS1009d-T0174 | Project Manager (A): No, now this was our evaluation criteria which we uh just have done. Now we're gonna talk about financing.
+[14:11.38-14:12.50] IS1009d-T0175 | Marketing Expert (D): Okay.
+[14:16.61-14:22.80] IS1009d-T0176 | Marketing Expert (D): Ah, but in my instructions I think it said I was supposed to go to the board and do something. No?
+[14:21.85-14:24.90] IS1009d-T0177 | Project Manager (A): Well, there is a production evaluation. Is that you?
+[14:25.15-14:25.82] IS1009d-T0178 | Marketing Expert (D): Yeah, that's me.
+[14:26.02-14:29.33] IS1009d-T0179 | Project Manager (A): But that's after the financing. See? Fi see?
+[14:27.39-14:30.93] IS1009d-T0180 | Marketing Expert (D): Oh, okay. Sorry, sorry. Mm-mm.
+[14:33.07-14:54.46] IS1009d-T0181 | Project Manager (A): Um. Okay, we had looks and voice recognition. Okay now on the financing we bring up the mm there it is. Okay uh energy source we say that's battery, right?
+[14:54.83-14:55.22] IS1009d-T0182 | Industrial Designer (C): Mm.
+[14:55.54-14:56.02] IS1009d-T0183 | Marketing Expert (D): That's right.
+[14:56.35-14:57.70] IS1009d-T0184 | Project Manager (A): Okay, now.
+[15:00.83-15:02.86] IS1009d-T0185 | Project Manager (A): So we I guess we use one.
+[15:03.71-15:04.11] IS1009d-T0186 | Industrial Designer (C): Yeah.
+[15:03.97-15:04.68] IS1009d-T0187 | User Interface Designer (B): Yes.
+[15:05.82-15:06.61] IS1009d-T0188 | Project Manager (A): What?
+[15:09.37-15:19.88] IS1009d-T0189 | Project Manager (A): T cell or chart you are trying to change is protected. Well, that's nice. She told me I could just ch change it here and then it would It doesn't work.
+[15:21.98-15:22.43] IS1009d-T0190 | Project Manager (A): Hmm.
+[15:24.75-15:27.31] IS1009d-T0191 | Marketing Expert (D): Can you just fill it in in the yellow boxes? Or
+[15:27.28-15:44.35] IS1009d-T0192 | Project Manager (A): Oh, okay yeah, okay, let's see. Okay, one, okay. Oh go away. Um kinetic source so that's in the energy source that's all we need. Uh electronics, simple chip on print? Is that's what we're using? One of those?
+[15:27.81-15:28.51] IS1009d-T0193 | Industrial Designer (C): Yeah.
+[15:29.81-15:30.43] IS1009d-T0194 | User Interface Designer (B): Yes.
+[15:38.30-15:38.69] IS1009d-T0195 | Industrial Designer (C): Mm-hmm.
+[15:42.13-15:43.60] IS1009d-T0196 | Industrial Designer (C): Yeah, yeah.
+[15:42.37-15:42.90] IS1009d-T0197 | User Interface Designer (B): Yes.
+[15:45.57-15:51.62] IS1009d-T0198 | Project Manager (A): Come on. Okay, one. Uh regular chip on print. No.
+[15:52.48-15:52.86] IS1009d-T0199 | Industrial Designer (C): No.
+[15:52.82-15:58.67] IS1009d-T0200 | Project Manager (A): That's all we need, the one case, uncurved flat, single curved, double curved.
+[15:53.63-15:54.18] IS1009d-T0201 | Industrial Designer (C): Yeah.
+[15:59.62-16:01.22] IS1009d-T0202 | Marketing Expert (D): Well.
+[16:02.75-16:03.47] IS1009d-T0203 | Industrial Designer (C): This is a
+[16:03.58-16:05.05] IS1009d-T0204 | User Interface Designer (B): Single curve? Mm.
+[16:05.18-16:06.82] IS1009d-T0205 | Marketing Expert (D): I guess it's double curved.
+[16:07.02-16:09.41] IS1009d-T0206 | Project Manager (A): Double curved? One of those?
+[16:09.42-16:09.98] IS1009d-T0207 | Marketing Expert (D): Mm-hmm.
+[16:12.21-16:16.48] IS1009d-T0208 | Project Manager (A): Case materi s supplements. Plastic we said, right?
+[16:15.46-16:16.12] IS1009d-T0209 | Industrial Designer (C): Yeah.
+[16:15.99-16:16.91] IS1009d-T0210 | User Interface Designer (B): Plastic.
+[16:18.24-16:19.71] IS1009d-T0211 | Project Manager (A): Uh wood, rubber?
+[16:19.68-16:21.68] IS1009d-T0212 | Marketing Expert (D): Rubber, because we're gonna have the soft buttons.
+[16:20.08-16:20.42] IS1009d-T0213 | Industrial Designer (C): Yeah.
+[16:22.59-16:24.62] IS1009d-T0214 | Project Manager (A): Uh but, yes but
+[16:24.99-16:29.71] IS1009d-T0215 | Industrial Designer (C): I think uh that is uh f for rubbers that is uh yeah case material.
+[16:27.18-16:32.78] IS1009d-T0216 | Project Manager (A): That's just for the case material, so special colours though, we having that, right?
+[16:28.60-16:30.38] IS1009d-T0217 | User Interface Designer (B): Is this for the case? Yes.
+[16:29.34-16:31.02] IS1009d-T0218 | Marketing Expert (D): Oh okay, the mm-hmm, mm' kay.
+[16:32.50-16:33.56] IS1009d-T0219 | Industrial Designer (C): Mm-hmm.
+[16:32.78-16:33.35] IS1009d-T0220 | User Interface Designer (B): Yes.
+[16:33.06-16:33.50] IS1009d-T0221 | Marketing Expert (D): Mm-hmm.
+[16:35.07-16:39.09] IS1009d-T0222 | Project Manager (A): And then we have to interface push buttons.
+[16:39.13-16:39.89] IS1009d-T0223 | Marketing Expert (D): Mm-hmm.
+[16:39.15-16:39.69] IS1009d-T0224 | User Interface Designer (B): Yes.
+[16:43.66-16:47.76] IS1009d-T0225 | Project Manager (A): Scroll wheel, no. Integrated scroll wheel, L_C_ display?
+[16:47.95-16:51.09] IS1009d-T0226 | Marketing Expert (D): No,'cause we didn't put the clock in it after all, right?
+[16:48.22-16:48.67] IS1009d-T0227 | User Interface Designer (B): No.
+[16:49.02-16:50.03] IS1009d-T0228 | Project Manager (A): Button.
+[16:51.40-16:52.09] IS1009d-T0229 | Industrial Designer (C): Yeah.
+[16:51.60-16:51.97] IS1009d-T0230 | Project Manager (A): No.
+[16:52.19-16:52.56] IS1009d-T0231 | Marketing Expert (D): Mm-hmm.
+[16:52.96-16:55.42] IS1009d-T0232 | Project Manager (A): Uh, button supplement special colour?
+[16:53.23-16:55.97] IS1009d-T0233 | User Interface Designer (B): Speci Yes
+[16:57.68-16:58.70] IS1009d-T0234 | Project Manager (A): Special form?
+[16:59.28-17:01.33] IS1009d-T0235 | User Interface Designer (B): Yes d we do have special form.
+[16:59.63-17:00.22] IS1009d-T0236 | Marketing Expert (D): Yes.
+[17:02.74-17:05.67] IS1009d-T0237 | Project Manager (A): And special material, rubber, wood, yes.
+[17:05.33-17:05.78] IS1009d-T0238 | Industrial Designer (C): Yeah.
+[17:07.15-17:07.90] IS1009d-T0239 | Project Manager (A): Okay.
+[17:10.51-17:14.21] IS1009d-T0240 | Project Manager (A): Total seven point six whatever that means.
+[17:14.86-17:17.69] IS1009d-T0241 | Industrial Designer (C): Uh, I think that's the price.
+[17:16.41-17:19.74] IS1009d-T0242 | User Interface Designer (B): One two three four five six seven eight nine
+[17:16.62-17:17.92] IS1009d-T0243 | Project Manager (A): That's the price.
+[17:18.91-17:20.53] IS1009d-T0244 | Industrial Designer (C): Maybe it is it just n
+[17:19.14-17:22.40] IS1009d-T0245 | Project Manager (A): Mm? Eight, eight point two.
+[17:26.61-17:28.95] IS1009d-T0246 | User Interface Designer (B): Nine points, okay, yes.
+[17:26.82-17:30.58] IS1009d-T0247 | Project Manager (A): That's hmm? Eight point two, right?
+[17:32.35-17:36.59] IS1009d-T0248 | Project Manager (A): So, we looks like we are well within budget.
+[17:36.55-17:37.17] IS1009d-T0249 | Industrial Designer (C): Yeah.
+[17:36.69-17:37.06] IS1009d-T0250 | Marketing Expert (D): Mm-hmm.
+[17:36.98-17:37.47] IS1009d-T0251 | User Interface Designer (B): Okay.
+[17:37.78-17:38.46] IS1009d-T0252 | Project Manager (A): Okay.
+[17:40.91-17:42.75] IS1009d-T0253 | Project Manager (A): I guess I should save this I suppose, huh?
+[17:42.91-17:43.34] IS1009d-T0254 | Marketing Expert (D): Yeah.
+[17:48.62-17:49.47] IS1009d-T0255 | Project Manager (A): Oops.
+[17:59.97-18:01.12] IS1009d-T0256 | Project Manager (A): Uh-huh huh huh.
+[18:04.96-18:06.19] IS1009d-T0257 | User Interface Designer (B): On the desktop.
+[18:06.59-18:11.47] IS1009d-T0258 | Project Manager (A): I just tried that. My documents, computer. My compu Ah oh here it is, yes.
+[18:07.80-18:11.12] IS1009d-T0259 | Industrial Designer (C): AMI. AMI should for
+[18:16.22-18:19.04] IS1009d-T0260 | Project Manager (A): Okay, fine. Save.
+[18:21.38-18:30.00] IS1009d-T0261 | Project Manager (A): Okay good, so that's the good news. We gonna be popular. Um.
+[18:25.91-18:26.71] IS1009d-T0262 | Industrial Designer (C): Yeah.
+[18:25.95-18:26.37] IS1009d-T0263 | Marketing Expert (D): Mm-hmm.
+[18:31.62-18:34.27] IS1009d-T0264 | Project Manager (A): So that uh I think financing was pretty simple.
+[18:34.54-18:34.94] IS1009d-T0265 | Marketing Expert (D): Mm-hmm.
+[18:35.34-18:41.95] IS1009d-T0266 | Project Manager (A): Now we would like to have a presentation by the marketing expert on production evaluation.
+[18:42.14-18:44.62] IS1009d-T0267 | Marketing Expert (D): Okay, I'll take my file down so you can bring it up.
+[18:57.89-18:59.02] IS1009d-T0268 | Marketing Expert (D): 'Kay should be able to get it now.
+[19:02.67-19:05.14] IS1009d-T0269 | Marketing Expert (D): 'Kay, why don't you move just to the next slide right away.
+[19:05.98-19:08.03] IS1009d-T0270 | Project Manager (A): You wanna go to the next slide? Okay.
+[19:06.86-19:55.55] IS1009d-T0271 | Marketing Expert (D): Yeah right away. Okay, well uh obviously my method for uh s m the marketing of this thing is first to ask the big question, will it sell? And I think we should show this prototype to people from various age and socio-economic groups and see about any fine tuning that maybe little things we haven't thought of. We can't accept every suggestion of course, but maybe we just need to get a few. And show the the prototype to consumer research groups, we don't s want somebody to suddenly come to us and tell us that this button is toxic and you know some child will swallow it and then we won't sell any. So we have to get some input from those people. And then after that we just have to go with our best intuition and you know we like it, we think it's good, we're gonna get behind it and sell it. Um, next slide please.
+[19:25.10-19:25.95] IS1009d-T0272 | User Interface Designer (B): Okay.
+[19:26.84-19:27.53] IS1009d-T0273 | Industrial Designer (C): Mm-hmm.
+[19:30.99-19:31.78] IS1009d-T0274 | Industrial Designer (C): Yeah.
+[19:40.27-19:40.88] IS1009d-T0275 | Industrial Designer (C): Mm-hmm.
+[19:43.07-19:43.47] IS1009d-T0276 | Industrial Designer (C): Mm.
+[19:45.82-19:46.22] IS1009d-T0277 | Industrial Designer (C): Mm-hmm.
+[19:57.79-20:43.58] IS1009d-T0278 | Marketing Expert (D): Okay, now the things that I was thinking and th my wish list has really been realised in this prototype. I wanted the shape to be biomorphic, I didn't want anything with angles and all square, I wanted it to be comfy and roundy so we we've got that. The size is small, the colour's bright and warm which is what we wanted. We wanted the feel to be as soft as possible, we'll have the soft buttons and the way this is shaped, even though it's gonna be hard plastic, it feels good in your hand so that's nice. And functionality I put last on my list because people aren't going to use it before they buy it. So paradoxically the other features, in other words, the look, the feel um and the shape, that's what people are gonna get in the store. They don't have a television in the store, they can't play with it.
+[20:20.69-20:21.33] IS1009d-T0279 | Industrial Designer (C): Mm-hmm.
+[20:38.76-20:40.72] IS1009d-T0280 | User Interface Designer (B): Fee selling.
+[20:40.61-20:41.24] IS1009d-T0281 | Industrial Designer (C): Yeah.
+[20:43.27-20:44.20] IS1009d-T0282 | User Interface Designer (B): Yes.
+[20:43.38-20:43.79] IS1009d-T0283 | Industrial Designer (C): Yeah.
+[20:43.58-21:24.39] IS1009d-T0284 | Marketing Expert (D): Um so they'll be our main selling points. So um th those have been fulfilled by your prototype and go ahead to the next slide please. Okay, so um the shape um I think is a a one. That's really, really excellent shape. The size is small um and th these points are in the importance for the, for the marketing, these aren't i in how I feel. I think that it's I think that it's plenty small enough to sell but I think we're sort of right the scale is one to seven. I think we're sort of right in the middle as far as c other competitors.
+[21:21.79-21:22.85] IS1009d-T0285 | User Interface Designer (B): Okay.
+[21:24.39-21:53.89] IS1009d-T0286 | Marketing Expert (D): And our colour I think is great. The colours are bright and warm and we really do great job there. And given um the constraints that we had I think we got it as soft as possible. And then functionality um I think you did a really good job on functionality, obviously we could have ad added different functions but then we'd disturb something else so I would say that we got to a five out of seven on on functionality. So I think that basically we've got a great product and we can get off and running with it.
+[21:50.00-21:50.70] IS1009d-T0287 | User Interface Designer (B): Okay.
+[21:50.11-21:50.90] IS1009d-T0288 | Industrial Designer (C): Mm-hmm.
+[21:53.93-21:54.30] IS1009d-T0289 | Industrial Designer (C): Yeah.
+[21:54.16-22:01.84] IS1009d-T0290 | Project Manager (A): Um I just realised one thing. In the financing there was no room for our voice recogniser.
+[21:57.45-21:57.93] IS1009d-T0291 | Marketing Expert (D): Yes.
+[22:02.20-22:03.23] IS1009d-T0292 | User Interface Designer (B): Yes.
+[22:02.62-22:03.26] IS1009d-T0293 | Marketing Expert (D): Ah.
+[22:03.30-22:03.71] IS1009d-T0294 | Industrial Designer (C): Yeah.
+[22:04.27-22:11.98] IS1009d-T0295 | Project Manager (A): And uh I don't know how we can evaluate that or how we can include that, too.
+[22:11.41-22:15.90] IS1009d-T0296 | Marketing Expert (D): Well, um we had what, eight eight euros twenty as our cost?
+[22:15.52-22:17.14] IS1009d-T0297 | Project Manager (A): Eight, eight twenty, yes.
+[22:16.42-22:17.65] IS1009d-T0298 | Industrial Designer (C): Eight twenty so
+[22:17.28-22:21.10] IS1009d-T0299 | Marketing Expert (D): And so we've got we've still got four euros to go to spend.
+[22:17.89-22:21.23] IS1009d-T0300 | Industrial Designer (C): We have um four euros, yeah
+[22:20.22-22:26.19] IS1009d-T0301 | Project Manager (A): I mean maximum we have another four point three euros I mean four thirty.
+[22:24.27-22:28.30] IS1009d-T0302 | Marketing Expert (D): Mm-hmm. Well um that's
+[22:27.55-22:40.86] IS1009d-T0303 | Project Manager (A): But I mean we have no way of presenting that to management as you know as a f finished, as a finished product and saying okay with the voice recogniser that costs so much.
+[22:40.85-22:41.36] IS1009d-T0304 | Marketing Expert (D): Mm-hmm.
+[22:42.00-22:51.04] IS1009d-T0305 | Project Manager (A): So um we just have to beware of that. I mean and know whether the four thirty will really cover that.
+[22:46.59-22:47.38] IS1009d-T0306 | Industrial Designer (C): Yeah.
+[22:51.44-23:15.16] IS1009d-T0307 | Marketing Expert (D): Well as we know in today's technic technological world you can do just about anything at any price, the the the problem is quality. So we're just gonna have to settle for whatever quality that will buy us. And um it may not be the greatest quality but it may sell anyway. As we've seen with so many of these kinds of products.
+[22:51.44-22:51.99] IS1009d-T0308 | Industrial Designer (C): Yeah.
+[22:59.18-23:03.20] IS1009d-T0309 | Industrial Designer (C): Yeah. Yeah, yeah.
+[23:02.15-23:03.66] IS1009d-T0310 | User Interface Designer (B): Yes, yes.
+[23:09.50-23:10.54] IS1009d-T0311 | Industrial Designer (C): Yeah, still.
+[23:09.79-23:10.19] IS1009d-T0312 | Project Manager (A): Yeah.
+[23:11.42-23:12.18] IS1009d-T0313 | Industrial Designer (C): Yeah.
+[23:14.86-23:33.47] IS1009d-T0314 | Project Manager (A): I'm sorry to interrupt then but I just uh recog I just remembered that there was no that that was not um included uh that there was no room for any special features, okay? So to beware of that. You wanna go to this next slide, marketing expert?
+[23:22.19-23:23.50] IS1009d-T0315 | Industrial Designer (C): Included, yeah.
+[23:25.79-23:27.67] IS1009d-T0316 | Industrial Designer (C): Hmm, hmm
+[23:27.12-23:27.79] IS1009d-T0317 | User Interface Designer (B): Yeah mm.
+[23:32.50-23:39.46] IS1009d-T0318 | Marketing Expert (D): Uh, well I isn't this my last slide? Maybe. Go ahead. I think that was my last slide, yeah. Um.
+[23:35.38-23:38.19] IS1009d-T0319 | Project Manager (A): I dunno. Yes it is. Mm-hmm.
+[23:42.70-23:43.68] IS1009d-T0320 | Marketing Expert (D): Mm okay.
+[23:45.94-23:56.02] IS1009d-T0321 | Marketing Expert (D): And I'm supposed to present this scale on the whiteboard. Um and we're supposed to talk about those things as a team now, so if you put my last slide back up there.
+[23:56.62-23:57.01] IS1009d-T0322 | Project Manager (A): Oh.
+[23:58.10-24:02.45] IS1009d-T0323 | Marketing Expert (D): I'm sorry I've um forgot to do that, um.
+[24:02.53-24:04.32] IS1009d-T0324 | Project Manager (A): Why? Wh why you need that up?
+[24:06.10-24:16.16] IS1009d-T0325 | Marketing Expert (D): Hmm? Well because I can't remember what I put on there. Okay. Now I'm supposed to see how long my leash is here.
+[24:16.16-24:17.53] IS1009d-T0326 | Project Manager (A): I think you can make it there.
+[24:17.33-24:28.01] IS1009d-T0327 | Marketing Expert (D): Mm'kay. You ready. So now we're all supposed to say what we think. Um okay so on shape
+[24:32.02-24:45.01] IS1009d-T0328 | Marketing Expert (D): I gave it a one. Wait what would you ra uh one being good and seven being the worst. Um what do you think the shape is? One, okay, and Be Betsy?
+[24:38.31-24:39.34] IS1009d-T0329 | User Interface Designer (B): Worse, okay.
+[24:41.94-24:42.61] IS1009d-T0330 | User Interface Designer (B): One.
+[24:44.98-24:46.67] IS1009d-T0331 | Project Manager (A): Yes I think uh shape is one.
+[24:46.64-24:49.39] IS1009d-T0332 | Industrial Designer (C): Yeah, even my yeah, shape is one.
+[24:46.80-24:52.77] IS1009d-T0333 | Marketing Expert (D): Okay, uh-huh one, okay. And how about on size?
+[24:56.74-24:57.86] IS1009d-T0334 | Marketing Expert (D): On size
+[24:57.54-24:58.90] IS1009d-T0335 | Project Manager (A): You you gave it a four.
+[24:58.61-25:02.02] IS1009d-T0336 | Marketing Expert (D): I gave it a four, yeah, I feel it's just average.
+[25:02.04-25:07.04] IS1009d-T0337 | Project Manager (A): Um, I dunno. I think I would give it at least a two.
+[25:07.14-25:07.74] IS1009d-T0338 | Marketing Expert (D): Okay.
+[25:09.70-25:10.14] IS1009d-T0339 | User Interface Designer (B): One.
+[25:10.92-25:11.50] IS1009d-T0340 | Marketing Expert (D): Mm-hmm.
+[25:11.46-25:14.45] IS1009d-T0341 | Industrial Designer (C): Yeah, even I think it is one. It's quite small.
+[25:13.12-25:23.29] IS1009d-T0342 | Marketing Expert (D): Okay. Okay you're the designer, of course you wanna give it a one. Um and then how about how we doing on colour?
+[25:25.94-25:27.26] IS1009d-T0343 | Project Manager (A): Colour uh I
+[25:26.66-25:30.62] IS1009d-T0344 | Marketing Expert (D): Colour, I gave it a one. I really like all those nice bright, warm colours.
+[25:28.08-25:32.18] IS1009d-T0345 | Project Manager (A): One. I I like the colours. One.
+[25:31.17-25:32.45] IS1009d-T0346 | User Interface Designer (B): One. Yes.
+[25:31.81-25:32.34] IS1009d-T0347 | Marketing Expert (D): One.
+[25:32.64-25:33.46] IS1009d-T0348 | Industrial Designer (C): Yeah, one.
+[25:33.94-25:38.60] IS1009d-T0349 | Marketing Expert (D): One, one, one, okay. And how about the feel?
+[25:41.23-25:46.83] IS1009d-T0350 | Marketing Expert (D): Taking into um consideration texture and comfort in the hand.
+[25:47.74-25:49.74] IS1009d-T0351 | Project Manager (A): Uh, I think I would give it a two.
+[25:50.42-25:54.66] IS1009d-T0352 | Marketing Expert (D): Okay, I gave it a three, two, yeah? Three.
+[25:52.66-25:53.86] IS1009d-T0353 | User Interface Designer (B): I'll give three.
+[25:55.68-25:57.60] IS1009d-T0354 | Industrial Designer (C): Uh maybe two, yeah.
+[25:56.77-26:06.91] IS1009d-T0355 | Marketing Expert (D): Two, okay. And the next is functionality where I I admit I was a little hard on our team here, but
+[26:09.20-26:17.89] IS1009d-T0356 | Project Manager (A): Well it's also you can't really try it out uh the other things you have have more is are more tangible so from that point of view but um
+[26:11.22-26:12.45] IS1009d-T0357 | Marketing Expert (D): Yeah.
+[26:14.91-26:15.54] IS1009d-T0358 | Marketing Expert (D): Mm-hmm.
+[26:20.86-26:22.08] IS1009d-T0359 | Project Manager (A): I'll give it a three.
+[26:22.21-26:23.44] IS1009d-T0360 | Marketing Expert (D): Okay.
+[26:26.26-26:26.53] IS1009d-T0361 | User Interface Designer (B): Two.
+[26:26.82-26:27.89] IS1009d-T0362 | Marketing Expert (D): Two, okay.
+[26:28.67-26:30.22] IS1009d-T0363 | Industrial Designer (C): Uh three, mm-hmm.
+[26:29.46-26:35.62] IS1009d-T0364 | Marketing Expert (D): Three? Okay. Well, um.
+[26:37.66-26:59.14] IS1009d-T0365 | Marketing Expert (D): It looks like we've got got ourselves a pretty good product. Um the functionality's the only place where maybe we have to think about m m maybe, heaven forbid, having another meeting. But um otherwise I think we're we're ready to go to go with this product.
+[26:51.60-26:53.55] IS1009d-T0366 | Industrial Designer (C): Yeah.
+[27:00.66-27:05.06] IS1009d-T0367 | Marketing Expert (D): Anybody else have any other comments or any other things that we feel we should evaluate?
+[27:10.40-27:11.31] IS1009d-T0368 | Project Manager (A): Uh.
+[27:17.63-27:26.38] IS1009d-T0369 | Project Manager (A): Here is what we looking at uh satisfaction on for example room for creativity. Um.
+[27:29.79-27:34.30] IS1009d-T0370 | Project Manager (A): Is there more room for creativity or are we absolutely happy?
+[27:35.13-27:37.49] IS1009d-T0371 | User Interface Designer (B): We can always improve, yes.
+[27:35.31-27:55.19] IS1009d-T0372 | Industrial Designer (C): Maybe we can yeah, include some more buttons and uh um yeah features. We can make the buttons few buttons smaller. Uh I think they are quite big, so I think I I mean we can just have small buttons and more buttons in that case. If we want to have more features than that.
+[27:38.67-27:39.85] IS1009d-T0373 | User Interface Designer (B): Yes, features.
+[27:54.42-27:54.83] IS1009d-T0374 | Marketing Expert (D): Mm-hmm.
+[27:56.40-28:22.96] IS1009d-T0375 | Marketing Expert (D): Well then again if we're gonna um do the speech recognition thing we're gon there gonna be some buttons that are gonna have to be added for that for the recording of the the speech. So that that's where we're gonna have to do maybe we can eliminate one of the mute buttons, instead of having two mute buttons. And um then maybe we can do something with the um
+[28:01.18-28:01.55] IS1009d-T0376 | Industrial Designer (C): Yeah.
+[28:03.87-28:05.29] IS1009d-T0377 | Industrial Designer (C): Yeah, definitely.
+[28:04.70-28:08.02] IS1009d-T0378 | User Interface Designer (B): Yes. Voices.
+[28:07.47-28:07.83] IS1009d-T0379 | Industrial Designer (C): Mm-hmm.
+[28:13.36-28:16.72] IS1009d-T0380 | Industrial Designer (C): Yeah, definitely, yeah, two mu mute buttons.
+[28:13.72-28:16.26] IS1009d-T0381 | User Interface Designer (B): Yes. Yes.
+[28:24.05-28:27.94] IS1009d-T0382 | Marketing Expert (D): the volume control. Maybe we can put that all on one button.
+[28:28.37-28:28.83] IS1009d-T0383 | Industrial Designer (C): Hmm.
+[28:29.12-28:38.08] IS1009d-T0384 | Marketing Expert (D): Um and a couple of other th maybe comp uh consolidate some of the usage an and see what we can do with that.
+[28:38.29-28:38.66] IS1009d-T0385 | Industrial Designer (C): Mm-hmm.
+[28:38.33-29:03.98] IS1009d-T0386 | Project Manager (A): Y um al always bearing in mind that right now we are of course well within the budget and that we still you know we probably can't, with this particular item, we probably can't just uh add a whole lot of more things. Uh um we need uh you know we need to leave space money-wise for the voice recogniser.
+[28:38.83-28:40.54] IS1009d-T0387 | User Interface Designer (B): And maybe
+[28:42.74-28:43.27] IS1009d-T0388 | Marketing Expert (D): Mm-hmm.
+[28:52.86-28:53.42] IS1009d-T0389 | Marketing Expert (D): No.
+[28:53.85-28:54.45] IS1009d-T0390 | Industrial Designer (C): Yeah.
+[29:01.28-29:01.81] IS1009d-T0391 | Marketing Expert (D): Mm-hmm.
+[29:04.03-29:04.59] IS1009d-T0392 | Marketing Expert (D): Mm-hmm.
+[29:04.34-29:04.82] IS1009d-T0393 | User Interface Designer (B): Yes.
+[29:05.40-29:06.11] IS1009d-T0394 | Industrial Designer (C): Mm-hmm.
+[29:05.50-29:06.64] IS1009d-T0395 | Project Manager (A): Um.
+[29:09.84-29:31.47] IS1009d-T0396 | Project Manager (A): So th the question really is how do we feel with the project process? Uh, um are we happy with the creativity that has passed here or we're not happy with the new product we created or that was created? Uh I think personally I think uh I'm pretty happy.
+[29:31.65-29:36.05] IS1009d-T0397 | Marketing Expert (D): I'm pretty happy with it too, yeah um, it's something I think I can market. Yeah.
+[29:32.32-29:33.45] IS1009d-T0398 | Industrial Designer (C): Even I'm happy.
+[29:32.56-29:34.05] IS1009d-T0399 | Project Manager (A): Um an
+[29:35.22-29:35.60] IS1009d-T0400 | Industrial Designer (C): Yeah.
+[29:36.11-29:42.82] IS1009d-T0401 | Project Manager (A): and then the next question is are we happy with the leadership of this project? Uh
+[29:42.13-29:47.17] IS1009d-T0402 | Marketing Expert (D): I think you've done a good job, Miss leader.
+[29:44.00-29:46.76] IS1009d-T0403 | User Interface Designer (B): Yes, yes you've done a good job.
+[29:44.26-29:46.69] IS1009d-T0404 | Industrial Designer (C): Yeah, yeah, definitely.
+[29:45.74-29:51.82] IS1009d-T0405 | Project Manager (A): And I think team work I think was very very good, I think we really yeah.
+[29:49.54-29:53.10] IS1009d-T0406 | Marketing Expert (D): Yeah I d I do too I think we worked well together as a team, yeah. Mm-hmm.
+[29:49.75-29:53.11] IS1009d-T0407 | Industrial Designer (C): Mm-hmm. Yeah. Yeah.
+[29:52.47-30:03.28] IS1009d-T0408 | Project Manager (A): Mm-hmm. And uh I think we are we happy with the means we used? We used whiteboard, we didn't use digital p well digital pens I guess are these things.
+[30:03.20-30:08.14] IS1009d-T0409 | Marketing Expert (D): Yeah maybe we could've used the whiteboard a little bit more, yeah, we didn't use that enough.
+[30:04.63-30:07.94] IS1009d-T0410 | User Interface Designer (B): Whiteboard more, yes, yes.
+[30:06.33-30:07.74] IS1009d-T0411 | Industrial Designer (C): Yeah, probably.
+[30:07.41-30:22.58] IS1009d-T0412 | Project Manager (A): Yes, we could. Uh, it's maybe not in the best position in the room um you know like sometimes it's positioned so that it's much better visible for everybody and I think from that point of view we sort of ignored it a little bit.
+[30:18.22-30:18.75] IS1009d-T0413 | Marketing Expert (D): Mm-hmm.
+[30:21.95-30:24.45] IS1009d-T0414 | Marketing Expert (D): And we used the slide because it was better positioned.
+[30:22.06-30:22.86] IS1009d-T0415 | User Interface Designer (B): Yes.
+[30:23.04-30:35.33] IS1009d-T0416 | Project Manager (A): Yes, I think so, I think absolutely, and fortunately we all had slides presentation which made it a little easier. Um did we new did we find new ideas? I think we did.
+[30:24.37-30:24.90] IS1009d-T0417 | Industrial Designer (C): Yeah.
+[30:24.58-30:25.18] IS1009d-T0418 | User Interface Designer (B): No.
+[30:25.34-30:26.73] IS1009d-T0419 | Marketing Expert (D): Mm I think that's true mm-hmm.
+[30:30.42-30:30.77] IS1009d-T0420 | Industrial Designer (C): Hmm.
+[30:30.91-30:31.38] IS1009d-T0421 | Marketing Expert (D): Mm-hmm.
+[30:30.92-30:31.55] IS1009d-T0422 | User Interface Designer (B): Yes.
+[30:35.30-30:36.90] IS1009d-T0423 | Industrial Designer (C): Yeah, many.
+[30:35.31-30:38.15] IS1009d-T0424 | Marketing Expert (D): I think we were we were very good, yeah, mm.
+[30:37.25-30:45.06] IS1009d-T0425 | Project Manager (A): I think we we did, uh in more than one respect and uh so I think we did very well here.
+[30:40.40-30:41.20] IS1009d-T0426 | Marketing Expert (D): Mm-hmm.
+[30:46.48-30:46.82] IS1009d-T0427 | Marketing Expert (D): Okay.
+[30:47.17-30:59.06] IS1009d-T0428 | Project Manager (A): Are the costs within budget? Yes, yes. Uh is the project evaluated? Yes. Um then celebration.
+[30:51.79-30:52.63] IS1009d-T0429 | Marketing Expert (D): Yes, yes.
+[30:53.06-30:53.42] IS1009d-T0430 | Industrial Designer (C): Yeah.
+[30:53.48-31:05.77] IS1009d-T0431 | Marketing Expert (D): Celebration. Today we have apple juice and after we sell m million of'em we have champagne.
+[30:54.83-30:58.59] IS1009d-T0432 | User Interface Designer (B): Cel celebration yes, yes.
+[30:55.88-30:59.06] IS1009d-T0433 | Industrial Designer (C): Ah.
+[31:04.13-31:11.57] IS1009d-T0434 | Project Manager (A): So I I thank you all very much. Um, I think this was very good and um
+[31:09.81-31:10.64] IS1009d-T0435 | Marketing Expert (D): Mm-hmm.
+[31:09.89-31:10.51] IS1009d-T0436 | Industrial Designer (C): Yeah.
+[31:12.70-31:20.91] IS1009d-T0437 | Project Manager (A): I think we did come up with a new product that's uh feasible. Feasible from the production point of view and feasible from a marketing point of view.
+[31:16.50-31:17.03] IS1009d-T0438 | Marketing Expert (D): Mm-hmm.
+[31:20.72-31:21.04] IS1009d-T0439 | Marketing Expert (D): Mm-hmm.
+[31:22.78-31:24.18] IS1009d-T0440 | Project Manager (A): So, thank you.
+[31:22.98-31:23.30] IS1009d-T0441 | Marketing Expert (D): Okay.
+[31:23.52-31:23.99] IS1009d-T0442 | Industrial Designer (C): Yeah.
+[31:24.27-31:24.99] IS1009d-T0443 | User Interface Designer (B): Thank you.
+[31:24.30-31:25.25] IS1009d-T0444 | Industrial Designer (C): Thank you very much.
+[31:24.74-31:29.57] IS1009d-T0445 | Marketing Expert (D): Okay. Watch I I have my cord behind you here. Okay.
+[31:28.22-31:28.75] IS1009d-T0446 | User Interface Designer (B): Okay.
+[31:34.18-31:36.61] IS1009d-T0447 | Project Manager (A): I always get it on here, but getting it off is
+[31:36.54-31:38.90] IS1009d-T0448 | Industrial Designer (C): Do we do we have some time left?
+[31:41.09-31:42.91] IS1009d-T0449 | Industrial Designer (C): Uh you have
+[31:42.90-31:44.08] IS1009d-T0450 | User Interface Designer (B): They say it's forty minutes.
+[31:44.77-31:46.21] IS1009d-T0451 | Project Manager (A): Ah yes we have time later but we don't
+[31:44.83-31:51.82] IS1009d-T0452 | Marketing Expert (D): But we we were told we could end the final meeting at any time, whenever we felt we were finished.
+[31:48.70-31:49.31] IS1009d-T0453 | User Interface Designer (B): Okay.
+[31:49.06-31:49.96] IS1009d-T0454 | Industrial Designer (C): Oh, alright.
+[31:58.32-32:02.14] IS1009d-T0455 | Marketing Expert (D): It'll take me the rest of the time to get my microphone out from my necklace.
+[32:05.09-32:06.09] IS1009d-T0456 | Marketing Expert (D): Oh, there we go.

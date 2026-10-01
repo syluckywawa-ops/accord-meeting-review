@@ -1,0 +1,121 @@
+{
+  "status": "locked_after_full_human_review",
+  "locked_on": "2026-09-30",
+  "test_scope": {
+    "meetings": 20,
+    "gold_actions": 45,
+    "transcript_words": 121820
+  },
+  "matching_rule": "Human one-to-one semantic task matching against fixed gold labels; owner and deadline scored separately.",
+  "systems": {
+    "rule_baseline": {
+      "tp": 8,
+      "fp": 22,
+      "fn": 37,
+      "micro_precision": 0.2666666667,
+      "micro_recall": 0.1777777778,
+      "micro_f1": 0.2133333333,
+      "macro_f1": 0.1781954887,
+      "owner_exact_accuracy": 0.875,
+      "owner_exact_correct": 7,
+      "owner_exact_eligible": 8,
+      "deadline_exact_accuracy": 0.4,
+      "deadline_exact_correct": 2,
+      "deadline_exact_eligible": 5,
+      "validation_success_rate": 1.0,
+      "invalid_meetings": 0,
+      "retries": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "estimated_cost_usd": 0.0
+    },
+    "zero_shot": {
+      "tp": 24,
+      "fp": 50,
+      "fn": 21,
+      "micro_precision": 0.3243243243,
+      "micro_recall": 0.5333333333,
+      "micro_f1": 0.4033613445,
+      "macro_f1": 0.3897655123,
+      "owner_exact_accuracy": 0.75,
+      "owner_exact_correct": 18,
+      "owner_exact_eligible": 24,
+      "deadline_exact_accuracy": 0.1176470588,
+      "deadline_exact_correct": 2,
+      "deadline_exact_eligible": 17,
+      "validation_success_rate": 0.85,
+      "invalid_meetings": 3,
+      "retries": 16,
+      "input_tokens": 697334,
+      "output_tokens": 21164,
+      "total_tokens": 718498,
+      "total_latency_seconds": 276.990515209,
+      "mean_latency_seconds_per_meeting": 13.8495257605,
+      "estimated_cost_usd": 0.312796,
+      "error_categories": {
+        "discussion_to_action": 30,
+        "duplicate_fragment": 4,
+        "other": 14,
+        "gold_omission_candidate": 2
+      }
+    },
+    "few_shot": {
+      "tp": 25,
+      "fp": 29,
+      "fn": 20,
+      "micro_precision": 0.462962963,
+      "micro_recall": 0.5555555556,
+      "micro_f1": 0.5050505051,
+      "macro_f1": 0.452050581,
+      "owner_exact_accuracy": 0.84,
+      "owner_exact_correct": 21,
+      "owner_exact_eligible": 25,
+      "deadline_exact_accuracy": 0.2777777778,
+      "deadline_exact_correct": 5,
+      "deadline_exact_eligible": 18,
+      "validation_success_rate": 0.85,
+      "invalid_meetings": 3,
+      "retries": 13,
+      "input_tokens": 650047,
+      "output_tokens": 9353,
+      "total_tokens": 659400,
+      "total_latency_seconds": 137.325375293,
+      "mean_latency_seconds_per_meeting": 6.8662687646,
+      "estimated_cost_usd": 0.2749836,
+      "error_categories": {
+        "discussion_to_action": 10,
+        "duplicate_fragment": 6,
+        "other": 10,
+        "gold_omission_candidate": 3
+      }
+    }
+  },
+  "manual_review_timing": {
+    "design": "Descriptive pre-declared five-meeting sample; one reviewer; no randomized manual-only control.",
+    "meetings": 5,
+    "words": 31648,
+    "net_minutes": 303,
+    "mean_minutes_per_meeting": 60.6,
+    "median_minutes_per_meeting": 66,
+    "mean_minutes_per_1000_words": 9.8067136342,
+    "source_workbook_sha256": "751f03cd923cb45e7d9d279710ab1d5c9f7b2271ea6f11cd0fe746aec3b68332",
+    "date_correction": "Five session dates and their start/finish date portions corrected from 2026-09-27 to 2026-09-29 after reviewer confirmation on 2026-10-01; elapsed minutes unchanged.",
+    "public_observations": "data/review_timing_public.md"
+  },
+  "decision": {
+    "best_test_arm": "few_shot",
+    "few_shot_absolute_f1_gain_over_rule": 0.2917171718,
+    "few_shot_absolute_f1_gain_over_zero_shot": 0.1016891606,
+    "pre_registered_success_gate_met": false,
+    "recommended_use": "Human-reviewed drafting only; no autonomous assignment, notification, or record update."
+  },
+  "sources": [
+    "outputs/formal-review/rule_baseline_test_metrics.json",
+    "outputs/formal-review/zero_shot_test_metrics.json",
+    "outputs/formal-review/few_shot_test_metrics.json",
+    "outputs/formal-review/zero_shot_test_adjudication.json",
+    "outputs/formal-review/few_shot_test_adjudication.json",
+    "outputs/raw_api/llm-experiment-v1.0-frozen",
+    "outputs/final-analysis/ActionAI_Manual_Review_Timing_corrected_2026-10-01.xlsx"
+  ]
+}

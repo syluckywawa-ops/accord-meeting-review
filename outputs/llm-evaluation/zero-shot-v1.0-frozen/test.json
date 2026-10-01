@@ -1,0 +1,1328 @@
+{
+  "run": {
+    "system": "structured LLM",
+    "version": "llm-experiment-v1.0-frozen",
+    "condition": "zero_shot",
+    "split": "test",
+    "meeting_count": 20,
+    "valid_meeting_count": 17,
+    "invalid_meeting_count": 3,
+    "validation_success_rate": 0.85,
+    "config_sha256": "2320a817da458d490ec77763e92eabd54425da67d212e3ad8815031495cf4a85",
+    "schema_sha256": "13f2c17002452e1dc8aa2933fc7911e1618114abb76d06ec7616a8aeac905504",
+    "retry_count": 16,
+    "estimated_cost_usd": 0.312796,
+    "invalid_output_policy": "Invalid after one repair contributes no accepted predictions to primary scoring."
+  },
+  "results": [
+    {
+      "transcript_id": "ES2004a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/ES2004a.json",
+      "raw_log_sha256": "e67f55e5b107c7faf088cae92c1444672e4a3ec0480e92ac77425ea51a1ff557",
+      "action_items": [
+        {
+          "task": "Go off and do individual work on functional, conceptual, and detailed design of the remote control",
+          "owners": [
+            "Project Manager",
+            "Marketing Expert",
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": "in half an hour before the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "Um, right, okay we've got half an hour before the next meeting, so we're all gonna go off and do our individual things.",
+          "evidence_ids": [
+            "ES2004a-T0222"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2004b",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/ES2004b.json",
+      "raw_log_sha256": "5b36186ebc6b930ff0d6e8538482c2cff999f504cbdb6813deec936a4a9ef1b9",
+      "action_items": [
+        {
+          "task": "Look into the company logo and explore ways to incorporate it into the product design distinctively",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Can you look into the company logo? Um, things that are associated with the company in view to trying to incorporate that into the design of the product.",
+          "evidence_ids": [
+            "ES2004b-T0352"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Develop five to six different remote control designs and select the most appealing one",
+          "owners": [
+            "User Interface Designer",
+            "Project Manager",
+            "Industrial Designer",
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "maybe we could come at some say five, six des designs and then choose which are whichever appeals the most like, that could be the most common design.",
+          "evidence_ids": [
+            "ES2004b-T0374"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Make the instruction manual user-friendly and simple to encourage usage",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "we should focus on making the manual as user-friendly as possible because a lot of them are just tiny little writing and lots and lots of pages. It does, you just put it in the drawer until something goes wrong and then you try and search through it, so that should be something we think about.",
+          "evidence_ids": [
+            "ES2004b-T0297"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Marketing to review and provide input on instruction manuals and related user documentation before the next meeting",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": "before the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "I think you might get guidance, but um I th Instruction manuals,",
+          "evidence_ids": [
+            "ES2004b-T0411"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Marketing to generally look at all issues involved with the project before the next meeting",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": "before the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "What would you specifically like marketing to look at before the next meeting? Or shall I just sort of generally look at all the issues involved?",
+          "evidence_ids": [
+            "ES2004b-T0408"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2004c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/ES2004c.json",
+      "raw_log_sha256": "4b5bf6b2987d2f1e28e1c8c3791cf50e13c49dcf3d5ee615490b74b4b2f24fc6",
+      "action_items": [
+        {
+          "task": "Look into rechargeable battery options for the remote control",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "You were going to look into the rechargeable batteries",
+          "evidence_ids": [
+            "ES2004c-T0025"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Think about including an attachment or closing feature to prevent losing the remote",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay, can we add in uh an attachment to closing feature?",
+          "evidence_ids": [
+            "ES2004c-T0127"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is ambiguous; 'we' implies team but no explicit assignment"
+        },
+        {
+          "task": "Check financial feasibility of incorporating voice recognition for finding the remote",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So we we can check into the financial feasibility of incorporating this.",
+          "evidence_ids": [
+            "ES2004c-T0312"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Incorporate company logo prominently in the remote control design",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "we'll be incorporating in the design.",
+          "evidence_ids": [
+            "ES2004c-T0431"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2004d",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/ES2004d.json",
+      "raw_log_sha256": "6c8d2a5099f12d9d57ba3b00a3da4475477092359fcfe57a6c7906ebeee7cca9",
+      "action_items": [
+        {
+          "task": "Prepare and present the prototype presentation",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Me and William worked on a prototype, and I think William is going to make a p presentation on that",
+          "evidence_ids": [
+            "ES2004d-T0019"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Put in recommendations for voice recognition as an optional feature for business class customers",
+          "owners": [
+            "Marketing Expert",
+            "Industrial Designer",
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "We can put in our recommendations. If we if we're working to head office specifications as this is what this project team's working for, we can put in our recommendations for what we've we've found and what we the consensus that we've come to as a result of the meetings. But we need to work to that specification to start with. And I think the voice recognition sounds wonderful, but our object is so distinctive that that in itself is gonna make it easier to locate as a f you know in a first instance. Um as you say, we can offer the voice recognition initially to business class customers and so",
+          "evidence_ids": [
+            "ES2004d-T0383"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Make the price fit the budget and recommend voice recognition as an upgrade option",
+          "owners": [
+            "Project Manager",
+            "Industrial Designer",
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "make the price fit, and then say if we'd had our budget, we would've had this, because it also sets it apart from the crowd. They like their gadgets, they like something that's completely different. It's s something completely different associated with your company. Right, okay, so",
+          "evidence_ids": [
+            "ES2004d-T0392"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Delegate catch-up tasks for the project supervisor role",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'll be delegating in my um role as Project Supervisor, so good luck",
+          "evidence_ids": [
+            "ES2004d-T0547"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/ES2014a.json",
+      "raw_log_sha256": "f5e5ff6816e0457eeb31ed611d7a2d9654f7769e5bb2b91cb5330119237e5544",
+      "action_items": [
+        {
+          "task": "Write up minutes of this meeting for the next meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "I'll try and write up some minutes of uh this meeting to uh to give it to you for the next meeting",
+          "evidence_ids": [
+            "ES2014a-T0133"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Send specific instructions to each designer via their personal coach",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "Specific instructions will be sent to you by your person by your personal coach",
+          "evidence_ids": [
+            "ES2014a-T0133"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014b",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/ES2014b.json",
+      "raw_log_sha256": "cea166bdfaef481a2fc7ce725bb869a5bf6191c7ba17b92457562d8a303105be",
+      "action_items": [
+        {
+          "task": "Decide on the remote control functions and plan how to proceed so each person with a task is clear on their responsibilities for the next meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "at the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "and how we were planning to proceed so that at the next uh meeting each person that's got a a a task to do is clear from this meeting what that task is",
+          "evidence_ids": [
+            "ES2014b-T0196"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Communicate any additional relevant information obtained before the next meeting to the team via email",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": "before the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "And if dur between the time of this meeting finishing and the next meeting starting, if you get any additional information that uh only you have at that point in time you'd think would be relevant to other people in terms of their des decision making um process, then we should communicate that as quickly as possible and not wait until the next meeting || Do it via the email so that rather than coming you know If you get the information just before the next meeting that's fine. Come along with it in the next meeting, we can discuss it then and take whatever action is appropriate. But if you get it well before the next meeting, let everybody else know'cause that might have an impact on their uh on what they come up with effectively at the next meeting. Okay.",
+          "evidence_ids": [
+            "ES2014b-T0204",
+            "ES2014b-T0207"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Focus on developing a simple and quick whistle or clap back function to help users find the remote control",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Maybe we should concentrate just on the whistle back function at the moment || Something simple. Uh if if our primary consideration is to get it there in time, time's short, you want something to meet the major concerns of the consumer so that we can have that as a selling point for the product, something that's quick and simple. So, sounds good.",
+          "evidence_ids": [
+            "ES2014b-T0223",
+            "ES2014b-T0224"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is ambiguous; commitment is collective but no explicit assignment"
+        },
+        {
+          "task": "Decide which buttons will be on the front and which will be on the back of the remote control",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": "in the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "So um we're gonna have to have to work out what's gonna be on these other functions as as well. So we're gonna have like two separate two separate lists, I guess || That's right so we're dis So you've got which ones are gonna be on the front and which ones are gonna be on the back. We have to decide",
+          "evidence_ids": [
+            "ES2014b-T0302",
+            "ES2014b-T0309"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is ambiguous; task is collective decision"
+        },
+        {
+          "task": "Prepare a list of front and back button functions and present it at the start of the next meeting",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": "at the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "Maybe if we're gonna run out of time, one of us should come up with a list of these and then get back at the next meeting just at the start and say what they're gonna be",
+          "evidence_ids": [
+            "ES2014b-T0362"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner ambiguous; no explicit individual commitment"
+        },
+        {
+          "task": "Look into the necessity and implementation of audio tuning functions and report back",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": "before the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "Well shall we look into that and just get back together",
+          "evidence_ids": [
+            "ES2014b-T0398"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Prepare minutes of this meeting and schedule the next meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "implied before next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "Okay. Right so I'll do the minutes of uh this meeting. And we'll meet back at I'm not sure. Um forty minutes, I believe is the time.",
+          "evidence_ids": [
+            "ES2014b-T0399"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/ES2014c.json",
+      "raw_log_sha256": "05e3214c9d738002f28dcb7af183cee524ba96ada1351b478c806c95f8cef90a",
+      "action_items": [
+        {
+          "task": "Investigate whether speech recognition requires an advanced circuit board and determine its cost impact",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I don't know, so that is something I'll have to look into.",
+          "evidence_ids": [
+            "ES2014c-T0032"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Proceed with using a simple circuit board and treat speech recognition as an optional extra feature",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "And then have to change all change everything at the last minute.",
+          "evidence_ids": [
+            "ES2014c-T0135"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Use kinetic power supply for the remote control",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So did we did we decide on the kinetic power supply? The one you move around? Okay. Um || Yeah I think that think that's a good idea.",
+          "evidence_ids": [
+            "ES2014c-T0383",
+            "ES2014c-T0384"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Use rubber push buttons and rubber case for the remote control",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "And the rubber push buttons, rubber case. || Rubber buttons and case.",
+          "evidence_ids": [
+            "ES2014c-T0387",
+            "ES2014c-T0389"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Use a simple push button instead of a scroll wheel to reduce cost and maintain sleek design",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "'Kay. So maybe just a simple push button, and that would cut costs on the || Simple circuit board. Simple push button.",
+          "evidence_ids": [
+            "ES2014c-T0066",
+            "ES2014c-T0100"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Keep button design simple and mainly circular or plain shapes with clear labeling",
+          "owners": [
+            "User Interface Designer",
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Yeah. Yeah that seems pretty straight forward.'Cause most of them will just be kind of mainly circular or like very plain. || And j yeah, just keeping the sort of the labelling them labelling of them fairly simple as well. Fairly sort of self explanatory.",
+          "evidence_ids": [
+            "ES2014c-T0428",
+            "ES2014c-T0438"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Make the standby button shaped like a red apple to incorporate a subtle fashion trend",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Um I think an apple would be a good recognisable shape. If you start getting into kinda aubergines and things, it gets a bit weird. || A red apple? Is it? || Yeah'cause we wanna incorporate a bit of colour if we can, once we find out um || We will go for the a a a apples apples.",
+          "evidence_ids": [
+            "ES2014c-T0412",
+            "ES2014c-T0423",
+            "ES2014c-T0424",
+            "ES2014c-T0420"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Use a single curved case design for the remote to achieve a sleek look",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Definitely a single, maybe a double. || Shall we go for single curve, just to compromise? || 'Kay, so shall we quickly We'll go for single curve, yeah. Single curve.",
+          "evidence_ids": [
+            "ES2014c-T0377",
+            "ES2014c-T0378",
+            "ES2014c-T0380"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Investigate company color scheme and logo application, possibly using a sticker badge on the casing",
+          "owners": [
+            "Industrial Designer",
+            "Marketing Expert",
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Um and we don't really know much about the colour scheme or logo yet do we, but possibly a sticker. || It might and we might be able to do both but it might clash with certain things.",
+          "evidence_ids": [
+            "ES2014c-T0390",
+            "ES2014c-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Prepare Plasticine models of the remote control design for next stage",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I guess you two are on plasticine duty or whatever.",
+          "evidence_ids": [
+            "ES2014c-T0441"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2014d",
+      "run_status": "invalid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/ES2014d.json",
+      "raw_log_sha256": "e0d39e06ebb6f58cd3adf01067fee37841b2e44b6e568175b6ca17bee1281eff",
+      "action_items": []
+    },
+    {
+      "transcript_id": "IS1009a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/IS1009a.json",
+      "raw_log_sha256": "38e36cedbdda0dbfae67b81bc77cfbcaad5e1ade669077b4d8e0829a7f023c1b",
+      "action_items": [
+        {
+          "task": "Develop a working design focusing on technical-functional aspects",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": "next meeting in thirty minutes",
+          "deadline_normalized": null,
+          "evidence_text": "Okay, the next meeting will be in thirty minutes. I think you all did you get uh notices on your computer for this? Okay so well, you got the notice um uh. The working design, I guess that's the function I_D_ uh who is this? The industrial designer That's you. || Okay. So, we looking for a working design when we come back.",
+          "evidence_ids": [
+            "IS1009a-T0149",
+            "IS1009a-T0153"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Create a functional design incorporating user requirements such as friendliness and price",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": "next meeting in thirty minutes",
+          "deadline_normalized": null,
+          "evidence_text": "Then And then the technical funct you are the technical function, so so you are the working design. So you have a working design and then a functional design. And the marketing manager is coming up with some user requirement specification, like friendliness, and what we just discussed in general. That would be your idea. And, of course, price. That it, that it, that the price is a good price. I mean, the price is given, but, that was",
+          "evidence_ids": [
+            "IS1009a-T0155"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Develop user requirement specifications including friendliness and pricing to justify the product price",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": "next meeting in thirty minutes",
+          "deadline_normalized": null,
+          "evidence_text": "Then And then the technical funct you are the technical function, so so you are the working design. So you have a working design and then a functional design. And the marketing manager is coming up with some user requirement specification, like friendliness, and what we just discussed in general. That would be your idea. And, of course, price. That it, that it, that the price is a good price. I mean, the price is given, but, that was || We have to justify that price by having sufficient features to make it sell at that price.",
+          "evidence_ids": [
+            "IS1009a-T0155",
+            "IS1009a-T0159"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "IS1009b",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/IS1009b.json",
+      "raw_log_sha256": "414a2e93847340b785e4f8d2f86396579fd4a052f5783492d9d2679d21bbb938",
+      "action_items": [
+        {
+          "task": "Provide specific suggestions for remote control features within budget constraints",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'd like your suggestions to come back to the other slide where I was saying we we could suggest anything. I'd like the suggestions to be really specific, so that we'll have a list of things we can cross off",
+          "evidence_ids": [
+            "IS1009b-T0042"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Consult Industrial Designer frequently about feasibility, cost, and development time of suggested features",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So I'll be coming to you um frequently as the Industrial Expert to tell me how hard it's gonna be to add a feature or how expensive it's gonna be or if your time, if it takes five years to develop this it's just something we can't do",
+          "evidence_ids": [
+            "IS1009b-T0025"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Consult User Interface Designer to prioritize user-friendly features and aesthetics",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'll be coming to you as the User Interface person to try to tell me from your point of view what are the most friendly features that we could put on it and try to prior help me with that prioritising of uh of the features and of the the look and the colour",
+          "evidence_ids": [
+            "IS1009b-T0032"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Discuss button design and feature mapping with User Interface Designer to balance simplicity and functionality",
+          "owners": [
+            "Marketing Expert",
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I think that that's something that we'll have to discuss um with the User Interface person because I think there's a lot of argument to be made for one button for one feature",
+          "evidence_ids": [
+            "IS1009b-T0129"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Research and evaluate feasibility and cost impact of designing one remote with cosmetic variations for subgroups versus multiple remotes",
+          "owners": [
+            "Project Manager",
+            "Industrial Designer",
+            "User Interface Designer",
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "The the quest the question to be addressed here is only who is the target group and how will it function, and I think the how will it function is probably the question of the buttons you know, within the target group or subgroups. The question is only whether our budget will allow to have more than one design in a sense. I mean the basic design I understand will be the same, but the question is how much will that set us back if let's say uh forty percent we make large buttons and the rest we make regular buttons for example.",
+          "evidence_ids": [
+            "IS1009b-T0297"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Investigate possibility of removable or interchangeable remote control covers for color and shape variety",
+          "owners": [
+            "Project Manager",
+            "Marketing Expert",
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Well maybe there's there's an idea you know t the new for example new portable phones? They have like removable plastic cases, so you can have a striped one or you can have a fluorescent blue one, or whatever, and maybe something like that, that in each package you know you have you you have you have for example uh you have let's say a fluorescent blue on it but then you have uh another colour or stripe whatever that already comes in a package. And then if people really want more colours they can buy it separately.",
+          "evidence_ids": [
+            "IS1009b-T0311"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "IS1009c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/IS1009c.json",
+      "raw_log_sha256": "047a2596f85796e35076f9c003ebe6c1f5f18c2cd5e97d86b4fb74befd175dc7",
+      "action_items": [
+        {
+          "task": "Develop a prototype model of the remote control using modelling clay",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": "next meeting in thirty minutes",
+          "deadline_normalized": null,
+          "evidence_text": "Okay. Uh our next meeting will be in thirty minutes, and the uh I_D_ is to this is the individual actions to be taken until then, to have the look and feel design, || and uh the U_I_D_ is supposed to uh come up with the user interface design, || and the marketing expert with the product evaluation. In this phase, the two of you, Jana and Francine, have to work together on a prototype using modelling clay, it says here. You will receive specific instructions will be sent to you by your coaches.",
+          "evidence_ids": [
+            "IS1009c-T0238",
+            "IS1009c-T0239",
+            "IS1009c-T0241"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Conduct research on the cost and feasibility of incorporating speech recognition in the remote control",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay, so why don't we put down speech recognition if possible pending some more research from our industrial engineer on how expensive that is.",
+          "evidence_ids": [
+            "IS1009c-T0233"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "IS1009d",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/IS1009d.json",
+      "raw_log_sha256": "3689333a24e682dbcba0515a2c1b3ce3ddd83dba61ac4a21410b77c1c437754d",
+      "action_items": [
+        {
+          "task": "Show the prototype to consumer research groups to gather feedback and identify any necessary fine tuning",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "we should show this prototype to people from various age and socio-economic groups and see about any fine tuning that maybe little things we haven't thought of",
+          "evidence_ids": [
+            "IS1009d-T0271"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Evaluate how to include the voice recogniser feature within the budget and product design",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Um I just realised one thing. In the financing there was no room for our voice recogniser. || And uh I don't know how we can evaluate that or how we can include that, too.",
+          "evidence_ids": [
+            "IS1009d-T0290",
+            "IS1009d-T0295"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is ambiguous as it is a team concern; deadline not specified"
+        },
+        {
+          "task": "Consider consolidating buttons and adjusting button sizes to accommodate speech recognition controls within budget constraints",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Maybe we can yeah, include some more buttons and uh um yeah features. We can make the buttons few buttons smaller. Uh I think they are quite big, so I think I I mean we can just have small buttons and more buttons in that case. If we want to have more features than that. || Well then again if we're gonna um do the speech recognition thing we're gon there gonna be some buttons that are gonna have to be added for that for the recording of the the speech. So that that's where we're gonna have to do maybe we can eliminate one of the mute buttons, instead of having two mute buttons. And um then maybe we can do something with the um || the volume control. Maybe we can put that all on one button. || Um and a couple of other th maybe comp uh consolidate some of the usage an and see what we can do with that. || Y um al always bearing in mind that right now we are of course well within the budget and that we still you know we probably can't, with this particular item, we probably can't just uh add a whole lot of more things. Uh um we need uh you know we need to leave space money-wise for the voice recogniser.",
+          "evidence_ids": [
+            "IS1009d-T0372",
+            "IS1009d-T0375",
+            "IS1009d-T0382",
+            "IS1009d-T0384",
+            "IS1009d-T0386"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is ambiguous as it is a team discussion; no explicit commitment"
+        },
+        {
+          "task": "Present the production evaluation findings to the team and discuss evaluation criteria",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Now we would like to have a presentation by the marketing expert on production evaluation. || Okay, I'll take my file down so you can bring it up. || 'Kay should be able to get it now. || 'Kay, why don't you move just to the next slide right away.",
+          "evidence_ids": [
+            "IS1009d-T0266",
+            "IS1009d-T0267",
+            "IS1009d-T0268",
+            "IS1009d-T0269"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/TS3003a.json",
+      "raw_log_sha256": "2be006512938d134a53afca21c1924946f3acbcf6fac2fa0edc3760d5c10e78e",
+      "action_items": [
+        {
+          "task": "Put the minutes from this meeting in the project folder",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I will put the minutes from this meeting uh in our project folder",
+          "evidence_ids": [
+            "TS3003a-T0192"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003b",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/TS3003b.json",
+      "raw_log_sha256": "b440f22a6e4cca227eb9f08041f6be1bf879b9b86aaa9156dee3ffcf5b56c055",
+      "action_items": [
+        {
+          "task": "Do the components concept for the remote control",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "the Industrial Designer will do the components concept",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Develop the user interface concept and trend-watching for the remote control",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "User Interface Designer the user interface concept, and the trend-watching",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Keep in mind the things we've said about the target group, requirements, and the trends which are uh going on",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So just keep in mind the things we've said about the target group, uh requirements, and the trends which are uh going on",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Send specific instructions for the next tasks by the personal coach",
+          "owners": [],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "specific instructions will be sent to you by uh the personal coach",
+          "evidence_ids": [
+            "TS3003b-T0309"
+          ],
+          "needs_review": true,
+          "review_reason": "No explicit owner assigned for sending instructions; ambiguous who will send them"
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003c",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/TS3003c.json",
+      "raw_log_sha256": "13427227dce269070bf92903f4cc786b8111d808e51e95058bb63081dfc51116",
+      "action_items": [
+        {
+          "task": "Work together on look-and-feel design, ensuring corporate design image is integrated",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "the look-and-feel design. It's important that the corporate design image uh is going to be in the remote. So check out the corporate website maybe. The user interface design, it's the same story. And product evaluation. So the Industrial Designer and User Interface Designer are going to work together on this one.",
+          "evidence_ids": [
+            "TS3003c-T0300"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Fill in questionnaires before starting collaborative work",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'm not sure if you're going to start right away to work together or I think you're going to fill in the questionnaires first. And then you'll get a message.",
+          "evidence_ids": [
+            "TS3003c-T0302"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3003d",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/TS3003d.json",
+      "raw_log_sha256": "2168be58b2c6d1cf2293bae465cd5a1aa609bf644dd2e6b65dc6e67b7f60dc5f",
+      "action_items": [
+        {
+          "task": "Evaluate feasibility of using one battery instead of two in the remote control",
+          "owners": [
+            "User Interface Designer",
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I counted two batteries. But maybe we can also use one. I don't know if it's possible. || Since it rechargeable. || Yeah we can u just uh",
+          "evidence_ids": [
+            "TS3003d-T0064",
+            "TS3003d-T0065",
+            "TS3003d-T0067"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Investigate cost savings by discarding help and mute buttons and using volume-down double press for mute",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Okay, including the help? Yeah. Uh seventeen. I think we can uh discard the help and the mute button",
+          "evidence_ids": [
+            "TS3003d-T0088"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Explore integrating multiple number buttons into fewer buttons to reduce cost",
+          "owners": [
+            "Marketing Expert",
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Well I was thinking, maybe you could just integrate three of those numbers to one button. || That's possibility as well. || That would cut the cost.",
+          "evidence_ids": [
+            "TS3003d-T0105",
+            "TS3003d-T0106",
+            "TS3003d-T0107"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Design remote with scroll wheel for channel selection to replace multiple buttons",
+          "owners": [
+            "Project Manager",
+            "User Interface Designer",
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Or we can leave out the ten buttons and take one scroll wheel for the programme numbers. || Scroll-wheel's one. || If you scroll you will see the numbers on the L_C_D_ display. Until you've got the right number, then you push it.",
+          "evidence_ids": [
+            "TS3003d-T0173",
+            "TS3003d-T0174",
+            "TS3003d-T0185"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Develop usage instructions and advertising to explain scroll wheel operation to users",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I think if you make a good advertisement uh on television and in the in the guide, you can explain to the people how to use the scroll wheel. If you just make it real simple.",
+          "evidence_ids": [
+            "TS3003d-T0235"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Implement combined scroll wheel controls for volume and channel to save buttons",
+          "owners": [
+            "Industrial Designer",
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "If you press the volume button you can control the volume with the scroll-wheel. || So that would save two buttons. If you do the same for the channel. || Yeah. That's really a good good idea, I think.",
+          "evidence_ids": [
+            "TS3003d-T0247",
+            "TS3003d-T0249",
+            "TS3003d-T0250"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Integrate teletext and subtitles functions into one button with multiple presses",
+          "owners": [
+            "Project Manager",
+            "Industrial Designer",
+            "User Interface Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "But Can we use can't we integrate the teletext and the subtitles in one button? || I think so. Yeah. || If you push it three times?",
+          "evidence_ids": [
+            "TS3003d-T0211",
+            "TS3003d-T0212",
+            "TS3003d-T0214"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Put questionnaire in project folder and distribute to team for completion",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Then we still have some questions. If somebody has some questions they can ask them now. Or we can put these in the project folder as well.",
+          "evidence_ids": [
+            "TS3003d-T0609"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Prepare and distribute final project presentation to team",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I think I'm going to make our final presentation now. || And then I will be back in about ten minutes to show you the final presentation.",
+          "evidence_ids": [
+            "TS3003d-T0623",
+            "TS3003d-T0625"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007a",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/TS3007a.json",
+      "raw_log_sha256": "fadd30f55503d5c38cb002d12aa0fdb9bf542b28c3b093ec941c6c752c23330b",
+      "action_items": [
+        {
+          "task": "Look at the working design",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "the the the Industrial uh Designer has to uh look at the working design",
+          "evidence_ids": [
+            "TS3007a-T0282"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Look at the technical functions",
+          "owners": [
+            "User Interface Designer"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "the User Interface Designer has to look at the technical functions",
+          "evidence_ids": [
+            "TS3007a-T0282"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Individually think on what's at his point of view the most important",
+          "owners": [
+            "Industrial Designer",
+            "User Interface Designer",
+            "Marketing Expert"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "each individually i individually uh must think on what's uh at uh his point of view is the most important",
+          "evidence_ids": [
+            "TS3007a-T0324"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Fit all the pieces together",
+          "owners": [
+            "Team"
+          ],
+          "deadline_text": "next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "then we're going to fit uh all the pieces together the next meeting",
+          "evidence_ids": [
+            "TS3007a-T0324"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "TS3007b",
+      "run_status": "invalid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/TS3007b.json",
+      "raw_log_sha256": "3bd523ed25d02ac022a789eb9f8e2358fe5d537c87d2f8c26d3cd1c14d855f52",
+      "action_items": []
+    },
+    {
+      "transcript_id": "TS3007c",
+      "run_status": "invalid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/TS3007c.json",
+      "raw_log_sha256": "e5bde5c1c48380e44586b8fb7a8fb1501f39ef8b8d6ff08a8c43f5bd42662c17",
+      "action_items": []
+    },
+    {
+      "transcript_id": "TS3007d",
+      "run_status": "valid",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-frozen/zero_shot/test/TS3007d.json",
+      "raw_log_sha256": "e1bb2c963763ca15cb69486233557c8985805b0c74c1c47b6a6516e139d3efaf",
+      "action_items": [
+        {
+          "task": "Fill in the Excel file with component numbers and calculate if production cost stays under twelve and a half Euro",
+          "owners": [
+            "Project Manager",
+            "Industrial Designer",
+            "User Interface Designer",
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Uh, we have to fill in the numbers of the component uh components. We have to uh fil uh, want to uh do it in and uh see uh if we stay under the twelve and a half Euro",
+          "evidence_ids": [
+            "TS3007d-T0324"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Remove kinetic component from design to reduce cost",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "And that would solve the budget problem.",
+          "evidence_ids": [
+            "TS3007d-T0435"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Change design from double-curved to single-curved to solve budget problem",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "W Could we just make the bubbles uh cut off the back, and then we're uh has || Yeah, we just make it flat. But, you do l",
+          "evidence_ids": [
+            "TS3007d-T0467",
+            "TS3007d-T0468"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Cut off bubbles on back and make it flat to adapt design to single-curved shape",
+          "owners": [
+            "User Interface Designer",
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "W Could we just make the bubbles uh cut off the back, and then we're uh has || Yeah, we just make it flat. But, you do l",
+          "evidence_ids": [
+            "TS3007d-T0467",
+            "TS3007d-T0468"
+          ],
+          "needs_review": true,
+          "review_reason": "Duplicate task with same evidence as previous; ambiguous ownership"
+        },
+        {
+          "task": "Decide to use battery power and remove kinetic energy component due to cost constraints",
+          "owners": [
+            "Project Manager",
+            "User Interface Designer",
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "then the conceptual design. Uh, well all the things we have uh discussed, uh the energy, which uh turn out to be uh batteries, so that's || Yeah. Well, okay, maybe you can add it later that we decided in the end because of the cost.",
+          "evidence_ids": [
+            "TS3007d-T0814",
+            "TS3007d-T0815"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "Complete and finalize the end report summarizing all meetings and decisions",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": "finish up the end report in ten minutes",
+          "deadline_normalized": null,
+          "evidence_text": "You have now ten minutes left to finish up the end report. || Okay well, that uh that can be done. Maybe we can do it uh together. You can see what I've uh yeah? So I I s I will uh put it on a story-board.",
+          "evidence_ids": [
+            "TS3007d-T0768",
+            "TS3007d-T0769"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    }
+  ],
+  "invalid_runs": [
+    {
+      "transcript_id": "ES2014d",
+      "retry_count": 1,
+      "parsed_action_count": 7,
+      "final_validation_issues": [
+        {
+          "location": "action_items[6].evidence_text",
+          "message": "Evidence is not verbatim within ES2014d-T0637"
+        }
+      ],
+      "scoring_treatment": "no accepted predictions; gold actions remain unmatched"
+    },
+    {
+      "transcript_id": "TS3007b",
+      "retry_count": 1,
+      "parsed_action_count": 17,
+      "final_validation_issues": [
+        {
+          "location": "action_items[2].evidence_text",
+          "message": "Evidence is not verbatim within TS3007b-T0011"
+        }
+      ],
+      "scoring_treatment": "no accepted predictions; gold actions remain unmatched"
+    },
+    {
+      "transcript_id": "TS3007c",
+      "retry_count": 1,
+      "parsed_action_count": 2,
+      "final_validation_issues": [
+        {
+          "location": "action_items[0].evidence_text",
+          "message": "Evidence is not verbatim within TS3007c-T0469"
+        }
+      ],
+      "scoring_treatment": "no accepted predictions; gold actions remain unmatched"
+    }
+  ]
+}

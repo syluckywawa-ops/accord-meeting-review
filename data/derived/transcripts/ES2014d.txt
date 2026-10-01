@@ -1,0 +1,649 @@
+Meeting: ES2014d
+Split: test
+Meeting date: 2005-03-02
+AMI duration (seconds): 2911
+Transcribed word elements: 9058
+
+[00:00.00-00:03.29] ES2014d-T0001 | Project Manager (A): So is Why not save that.
+[00:03.29-00:06.81] ES2014d-T0002 | Marketing Expert (D): No, you'll ha have to open it up from elsewhere.
+[00:09.77-00:12.69] ES2014d-T0003 | Project Manager (A): Do you want to replace existing file, no.
+[00:18.56-00:21.89] ES2014d-T0004 | Project Manager (A): I actually tried to transfer it to My Documents, but
+[00:21.81-00:28.11] ES2014d-T0005 | Marketing Expert (D): Yeah, you have to you have to close that window.'Cause that's the save one isn't it, so And then find it.
+[00:33.38-00:34.97] ES2014d-T0006 | Project Manager (A): spreadsheet.
+[00:47.06-00:54.13] ES2014d-T0007 | Project Manager (A): Yeah, but I've ta uh right, I'll just re-do it. That's the easiest way.
+[01:11.35-01:12.05] ES2014d-T0008 | Project Manager (A): Right.
+[01:16.43-01:21.42] ES2014d-T0009 | User Interface Designer (C): Well we've made our prototype anyway. We can have a good look at that.
+[01:20.84-01:22.76] ES2014d-T0010 | Marketing Expert (D): You pass it round to have a look.
+[01:22.18-01:25.58] ES2014d-T0011 | User Interface Designer (C): Mm-hmm. Y no, it's a slightly curved around the sides.
+[01:24.68-01:26.35] ES2014d-T0012 | Marketing Expert (D): Mm very nice.
+[01:26.66-01:43.69] ES2014d-T0013 | User Interface Designer (C): Um, it's almost curved like up to the main display as well. And the little line at the bottom indicates the bit the panel that you pull down. And the extra function buttons are below that panel on the little line. And we've got the stick on the button with the company logo on.
+[01:31.66-01:32.33] ES2014d-T0014 | Marketing Expert (D): Mm-hmm.
+[01:39.87-01:40.50] ES2014d-T0015 | Marketing Expert (D): Mm-hmm.
+[01:43.76-01:50.46] ES2014d-T0016 | Industrial Designer (B): We also have a apple slash cherry design at the top.
+[01:43.90-01:44.34] ES2014d-T0017 | Marketing Expert (D): Mm-hmm.
+[01:47.99-01:51.28] ES2014d-T0018 | Marketing Expert (D): So it is, yeah. Cherry would be alright actually. Yeah.
+[01:51.28-01:57.81] ES2014d-T0019 | User Interface Designer (C): Yeah, it's a bit more fun, isn't it? And it's kinda not really at a kind of you think apple, you think computers, like Apple Mac.
+[01:57.04-01:59.41] ES2014d-T0020 | Industrial Designer (B): Yeah, yeah, we might get a
+[01:58.16-02:03.34] ES2014d-T0021 | Marketing Expert (D): Mm-hmm. Copyright, yeah. What's this this one? What's that one there?
+[02:00.55-02:04.43] ES2014d-T0022 | User Interface Designer (C): Yeah, and cherries are fun, summery. Ah, that's the mute.
+[02:04.30-02:05.48] ES2014d-T0023 | Marketing Expert (D): Oh, okay. Right.
+[02:04.80-02:06.69] ES2014d-T0024 | Industrial Designer (B): For the M_.
+[02:05.80-02:11.63] ES2014d-T0025 | User Interface Designer (C): It it'd probably have to be labelled mute. But um, we didn't have anything small enough to write.
+[02:09.15-02:09.78] ES2014d-T0026 | Marketing Expert (D): Uh-huh.
+[02:09.24-02:10.50] ES2014d-T0027 | Industrial Designer (B): They're thinking
+[02:11.67-02:12.67] ES2014d-T0028 | Marketing Expert (D): Okay.
+[02:11.92-02:17.75] ES2014d-T0029 | Industrial Designer (B): For the first time, well it was hard to get the h um the actual labelling on the individual buttons.
+[02:17.03-02:18.06] ES2014d-T0030 | Marketing Expert (D): Mm-hmm.
+[02:17.58-02:27.94] ES2014d-T0031 | User Interface Designer (C): Yeah. Uh, we just chose simple shapes for all them. Um, the important ones are the volume ones. So we made them a bit bigger. The mute could possibly be a bit smaller.
+[02:25.39-02:26.05] ES2014d-T0032 | Marketing Expert (D): Mm-hmm.
+[02:27.86-02:38.58] ES2014d-T0033 | Industrial Designer (B): Hum, you separate off in colour the volume related buttons from the channel related buttons, so you've got the volume in orange on design there, and the the channel is in blue.
+[02:35.49-02:36.00] ES2014d-T0034 | Marketing Expert (D): Yeah.
+[02:38.71-02:39.12] ES2014d-T0035 | User Interface Designer (C): Mm-hmm.
+[02:39.32-02:57.66] ES2014d-T0036 | Project Manager (A): R right. Um, all these things have cost implications. And so when I done my thing on cost a I had assumed that the only uh button that would be a different colour would be the uh the red apple button.
+[02:39.74-02:42.21] ES2014d-T0037 | User Interface Designer (C): Yeah, and we chose a V_ plus and V_ minus.
+[02:58.91-03:18.45] ES2014d-T0038 | Project Manager (A): So However, I've now. But um, yeah so uh but there would be a cost implication on that, and uh as I suppose that so whether wanted to put in all these colours, would be uh open to debate, I suppose.
+[03:05.47-03:06.97] ES2014d-T0039 | Marketing Expert (D): I'll see if I can find them.
+[03:15.01-03:16.68] ES2014d-T0040 | Industrial Designer (B): Yeah, sis
+[03:17.43-03:27.47] ES2014d-T0041 | User Interface Designer (C): Well the colours wouldn't like that's they wouldn't be too important, but we didn't have any white Play-Doh. So that's where the colour buttons came from.
+[03:17.51-03:18.07] ES2014d-T0042 | Marketing Expert (D): Have
+[03:23.34-03:29.42] ES2014d-T0043 | Project Manager (A): An important consideration. Right, okay so um
+[03:30.93-03:35.20] ES2014d-T0044 | Project Manager (A): And the second one underneath would be the idea for the
+[03:34.57-03:36.24] ES2014d-T0045 | Industrial Designer (B): Yes, we'll have the slide-away.
+[03:36.51-03:42.19] ES2014d-T0046 | Project Manager (A): Right, okay. So we've got um detail design meeting.
+[03:38.21-03:38.66] ES2014d-T0047 | Industrial Designer (B): Bottom.
+[03:44.30-03:44.86] ES2014d-T0048 | Project Manager (A): Right.
+[03:47.62-04:45.09] ES2014d-T0049 | Project Manager (A): So So, we've got prototype presentation, which we've just done, evaluation criteria, um and finance, so I guess w we have to evaluate if that meets the various uh aspects that we're looking for uh from um our previous meeting. So other than the fact that it doesn't have the second layer, but um obviously obviously it would. But other than that, we got the red apple. We got the buttons and the only thing that has really changed is the is the colouration of the buttons, and the bit after the evaluation criteria is uh is the finance. And the and the cost implication. The only snag about this is that uh
+[04:09.09-04:09.80] ES2014d-T0050 | Marketing Expert (D): Mm-hmm.
+[04:12.86-04:13.46] ES2014d-T0051 | Marketing Expert (D): Mm-hmm.
+[04:15.87-04:16.32] ES2014d-T0052 | Industrial Designer (B): Mm-hmm.
+[04:30.61-04:31.47] ES2014d-T0053 | Industrial Designer (B): Yes, yes.
+[04:39.31-04:40.01] ES2014d-T0054 | Marketing Expert (D): Right.
+[04:39.40-04:40.02] ES2014d-T0055 | Industrial Designer (B): Okay.
+[04:46.42-04:59.54] ES2014d-T0056 | Project Manager (A): the cost is probably kind of important. So um, and then the production evaluation, as to how easy that would be to uh to manufacture. Um,
+[04:57.46-04:57.81] ES2014d-T0057 | Industrial Designer (B): Mm-hmm.
+[05:00.75-05:03.71] ES2014d-T0058 | Project Manager (A): and whether it would uh
+[05:03.88-05:08.69] ES2014d-T0059 | Marketing Expert (D): So if you had to do a presentation or will you just work it on the prototype?
+[05:08.61-05:10.91] ES2014d-T0060 | User Interface Designer (C): Uh, that's it.
+[05:08.75-05:12.16] ES2014d-T0061 | Industrial Designer (B): This this is a yes, this is our presentation of the prototype.
+[05:09.99-05:11.02] ES2014d-T0062 | Marketing Expert (D): That's the pr
+[05:12.68-05:31.06] ES2014d-T0063 | Project Manager (A): Right, so uh as far as the the finance of it would be concern would be to make sure that the cost aye the production cost'cause you may remember that was one of the first uh considerations was to be in d under um uh twelve fifty or two and a half uh twelve and a half Euros.
+[05:12.85-05:13.70] ES2014d-T0064 | Marketing Expert (D): Okay.
+[05:27.71-05:28.18] ES2014d-T0065 | Industrial Designer (B): Mm-hmm.
+[05:32.80-05:45.31] ES2014d-T0066 | Project Manager (A): So, there's no redesign. So that should uh Right, so, seems to me that the thing that I have to do is
+[05:51.04-05:54.32] ES2014d-T0067 | Project Manager (A): is quickly find that uh
+[05:58.04-06:01.47] ES2014d-T0068 | Industrial Designer (B): Could we get this on the board just so we can see or do you mean do you have the figures there?
+[06:03.30-06:08.00] ES2014d-T0069 | Marketing Expert (D): we should plug it in. Do you wanna plu do you wanna plug it in into the the back of that one.
+[06:04.05-06:04.64] ES2014d-T0070 | Project Manager (A): Right.
+[06:06.66-06:08.09] ES2014d-T0071 | Project Manager (A): Okay.
+[06:07.40-06:10.62] ES2014d-T0072 | Industrial Designer (B): 'Kay, Alice. So, sh
+[06:10.05-06:13.33] ES2014d-T0073 | Marketing Expert (D): We could do it as we d go along, the production costs, looking at the prototype.
+[06:14.01-06:16.08] ES2014d-T0074 | Project Manager (A): Right..
+[06:17.06-06:18.20] ES2014d-T0075 | Industrial Designer (B): 'Kay this should be then.
+[06:20.72-06:32.95] ES2014d-T0076 | Project Manager (A): Okay, so, by the fact that we've got uh the simple chip and the uh kinetic energy source, we've got a single curved
+[06:35.26-06:48.82] ES2014d-T0077 | Project Manager (A): case. We've got a rubber uh case materials supplements. So, we had decided that we're having rubber buttons and
+[06:44.71-06:45.34] ES2014d-T0078 | Industrial Designer (B): Mm-hmm.
+[06:51.78-06:53.47] ES2014d-T0079 | Industrial Designer (B): Have a push button interface.
+[06:57.63-07:19.14] ES2014d-T0080 | Project Manager (A): Okay. W the button supplements. Well, originally, I thought there would just be uh one in there because it was the one red apple. But So the so the real w the real question then would come in. Do you make all the buttons
+[07:00.19-07:01.52] ES2014d-T0081 | Industrial Designer (B): Um
+[07:09.84-07:10.55] ES2014d-T0082 | Industrial Designer (B): Um
+[07:19.89-07:23.98] ES2014d-T0083 | Marketing Expert (D): Well do we'll do it on the prototype, so do two, see how much it is.
+[07:20.35-07:20.91] ES2014d-T0084 | Project Manager (A): O
+[07:23.57-07:42.64] ES2014d-T0085 | Project Manager (A): Well, so we've got one special button form, which was the apple. Everything else is gonna be a standard. We've got special material, rubber, wood, titanium, et cetera and that, so, I was originally, I was thinking rubber wasn't special, but according to this, maybe it is. So
+[07:28.00-07:28.62] ES2014d-T0086 | Marketing Expert (D): Yeah.
+[07:28.33-07:31.25] ES2014d-T0087 | Industrial Designer (B): Yeah. And then we'd have
+[07:33.92-07:34.65] ES2014d-T0088 | Marketing Expert (D): Mm-hmm.
+[07:40.35-07:40.83] ES2014d-T0089 | Marketing Expert (D): Mm-hmm.
+[07:43.95-07:49.39] ES2014d-T0090 | Project Manager (A): And the r I mean effectively we've got sixteen buttons that we're gonna have on there.
+[07:49.13-07:52.37] ES2014d-T0091 | Marketing Expert (D): Yeah. I think you just do one, don't you, for the
+[07:52.58-08:11.63] ES2014d-T0092 | Project Manager (A): W I don't know is is is the sort of answer, is that meant to be all sixteen buttons, and therefore I mean, what's the op The option was maybe not to have rubber buttons, but just to have the one that was soft and spongy, and therefore
+[08:10.84-08:13.17] ES2014d-T0093 | Marketing Expert (D): I think I think it's just it's just a one. Else
+[08:13.84-08:23.73] ES2014d-T0094 | Project Manager (A): Whereas it would be the special colour would be for the So you would only have the one special button that was rubber, whereas the rest would be hard plastic.
+[08:24.50-08:32.15] ES2014d-T0095 | Marketing Expert (D): I thi I think I think the button supplement i is just a supplement for all the buttons made in a different material, rather than per button.
+[08:31.22-08:48.80] ES2014d-T0096 | Project Manager (A): Mm. I would Every design change is uh I dunno, um Okay, um,
+[08:33.58-08:34.44] ES2014d-T0097 | Marketing Expert (D): I don't know though.
+[08:41.08-08:41.63] ES2014d-T0098 | Marketing Expert (D): Hmm.
+[08:49.79-09:00.35] ES2014d-T0099 | Project Manager (A): if we just had all the buttons as standard, except for the one red apple, then that would take care of that, I guess. We'd have one special colour and one special button form.
+[09:00.69-09:01.07] ES2014d-T0100 | Marketing Expert (D): Mm-hmm.
+[09:01.39-09:08.99] ES2014d-T0101 | Project Manager (A): And when I plugged that in last time remember it has to be under twelve and a half.
+[09:10.75-09:23.42] ES2014d-T0102 | Project Manager (A): As far as I know, that um that took care of the uh of the various supplements. And if What happened?
+[09:19.65-09:20.00] ES2014d-T0103 | Marketing Expert (D): Mm-hmm.
+[09:26.53-09:30.00] ES2014d-T0104 | Marketing Expert (D): You've just gone off the window into another one. It's on the bottom row.
+[09:37.82-09:42.02] ES2014d-T0105 | User Interface Designer (C): Maybe if you just minimise that one in the top right-hand corner of the little box. Yeah.
+[09:43.74-09:49.84] ES2014d-T0106 | Project Manager (A): Now, right. Okay, so, but the point would be that if we uh
+[09:51.81-09:57.87] ES2014d-T0107 | Project Manager (A): if we just did special Sorry, you were saying that it would be that one, that you would put in one there.
+[09:57.79-09:59.28] ES2014d-T0108 | Marketing Expert (D): Yeah. Yeah.
+[10:00.89-10:01.63] ES2014d-T0109 | Project Manager (A): Okay.
+[10:03.97-10:06.70] ES2014d-T0110 | Industrial Designer (B): So that's nine point one there so we've got some
+[10:06.03-10:10.83] ES2014d-T0111 | Project Manager (A): So it Well, is it s is no, it's nine point seven I've got. Okay.
+[10:08.93-10:09.26] ES2014d-T0112 | Industrial Designer (B): 'Kay.
+[10:09.39-10:09.78] ES2014d-T0113 | Marketing Expert (D): Mm-hmm.
+[10:10.75-10:11.76] ES2014d-T0114 | Industrial Designer (B): Just give us a bit of
+[10:12.05-10:14.32] ES2014d-T0115 | Project Manager (A): So, that would
+[10:16.06-10:18.29] ES2014d-T0116 | Project Manager (A): that would work out fine if uh
+[10:18.55-10:19.22] ES2014d-T0117 | Marketing Expert (D): Mm-hmm.
+[10:19.95-10:34.94] ES2014d-T0118 | Project Manager (A): uh as assuming your correction are are assuming that that one change covers all the buttons, then that would be fine. And there's nothing else as far as I can see that we we had uh planned to put on.
+[10:28.46-10:28.80] ES2014d-T0119 | Marketing Expert (D): Mm-hmm.
+[10:29.64-10:30.31] ES2014d-T0120 | User Interface Designer (C): S
+[10:33.81-10:56.58] ES2014d-T0121 | Industrial Designer (B): I switching around those th um on the electronics we got the sample sensor. At the moment we've just got the simple chip, which costs one. Um, I guess the sample sens sample speaker would be the voice recognition thing, which puts up to four? We should be slightly over our budget but if we gather something else down to slightly lower standard, and maybe go with the one the special form buttons, then we could have the speech
+[10:41.88-10:42.54] ES2014d-T0122 | Project Manager (A): Uh-huh.
+[10:46.27-10:46.80] ES2014d-T0123 | Marketing Expert (D): Yeah.
+[10:52.31-10:52.79] ES2014d-T0124 | Marketing Expert (D): Yeah.
+[10:55.12-10:58.48] ES2014d-T0125 | Project Manager (A): Well, hold on. Um, if we
+[11:01.80-11:03.98] ES2014d-T0126 | Project Manager (A): Okay, that gives us twelve point seven
+[11:03.98-11:13.33] ES2014d-T0127 | Industrial Designer (B): So uh maybe if we got rid of like the maybe one of the special colours, kept them all the same colour, then we could have the voice recognition without
+[11:12.04-11:19.58] ES2014d-T0128 | Project Manager (A): But remember that the idea was to keep it the colour of the Oh, I see, so just take out the special colour for the apple and
+[11:19.36-11:21.39] ES2014d-T0129 | Industrial Designer (B): Yeah, yeah. Um
+[11:20.67-11:31.23] ES2014d-T0130 | User Interface Designer (C): Um,. D wouldn't you have to keep the simple chip there as well? You know how you turn that one to a zero, wouldn't the chip and the sample speaker be separate things, so you need both of them?
+[11:27.95-11:29.06] ES2014d-T0131 | Marketing Expert (D): Yeah, we have to have it
+[11:30.13-11:34.61] ES2014d-T0132 | Industrial Designer (B): Oh possibly, yeah, yeah maybe. Maybe um we'd be giving up on the kinetic.
+[11:30.50-11:31.28] ES2014d-T0133 | Marketing Expert (D): Yeah.
+[11:35.94-11:36.70] ES2014d-T0134 | Industrial Designer (B): Um
+[11:37.01-11:40.22] ES2014d-T0135 | Project Manager (A): And go for battery instead. That would give you one less.
+[11:37.27-11:38.27] ES2014d-T0136 | Marketing Expert (D): Yeah.
+[11:38.77-11:42.69] ES2014d-T0137 | Industrial Designer (B): We should Yeah, that would save us one, though we'd still be slightly ov
+[11:41.89-11:49.81] ES2014d-T0138 | Project Manager (A): But you reckon that i I mean the thing is that you wanted to a appeal to people and not have to replace batteries.
+[11:49.36-12:19.65] ES2014d-T0139 | Industrial Designer (B): Yeah, yeah. Well, since it's the through the whole technology type thing, um, you were saying in the market research that people like kind of interesting gadgets in them. Um, whether they would figure the the s uh sample senor and the sample speaker, voice recognition be sort of a worthwhile thing to have. And then still have the batteries, or whatever they would prefer not uh You know what I mean? The the problem was the battery's running out and losing the um losing the remote. So you gotta decide which of those is more important to them.
+[11:58.98-11:59.72] ES2014d-T0140 | Marketing Expert (D): Mm-hmm.
+[12:08.54-12:09.06] ES2014d-T0141 | Marketing Expert (D): Mm-hmm.
+[12:12.50-12:13.68] ES2014d-T0142 | Project Manager (A): Mm-hmm.
+[12:15.23-12:15.90] ES2014d-T0143 | Marketing Expert (D): Yeah.
+[12:19.68-12:44.03] ES2014d-T0144 | Project Manager (A): But which do you think or which do we think is the more important of the options? In a sense, at the moment, we've got a total which we need to reduce down by one point two. At least. Remember that was a minimum requirement. The other option if we're planning on just going for something cheap and cheerful, would be to um make it originally, we're gonna make it a simple product.
+[12:24.97-12:26.60] ES2014d-T0145 | User Interface Designer (C): I think the voice recognition.
+[12:42.88-12:43.62] ES2014d-T0146 | Industrial Designer (B): Yeah.
+[12:43.06-13:03.82] ES2014d-T0147 | Marketing Expert (D): Shall we shall we evaluate the prototype as we've got it now first, and then sort of make decisions about what needs to be changed after? Okay. Right um, I have a little thing. So, we've all got a note of it's thirteen point seven, isn't it, with everything we want on.
+[12:52.15-12:54.00] ES2014d-T0148 | Project Manager (A): Mm-hmm. Makes sense.
+[12:53.35-12:53.98] ES2014d-T0149 | Industrial Designer (B): Okay.
+[13:04.55-13:05.02] ES2014d-T0150 | Project Manager (A): .
+[13:10.30-13:13.46] ES2014d-T0151 | Project Manager (A): Sorry, do you want that back up?
+[13:11.24-13:14.35] ES2014d-T0152 | Marketing Expert (D): Yeah, I just had a presentation to
+[13:14.74-13:15.28] ES2014d-T0153 | Project Manager (A): Right.
+[13:16.27-13:17.57] ES2014d-T0154 | Marketing Expert (D): do.
+[13:18.83-13:26.19] ES2014d-T0155 | User Interface Designer (C): But I do think uh the v uh voice recognition thing would be more impressive than the fact that it's got no battery.
+[13:26.75-13:33.78] ES2014d-T0156 | Project Manager (A): Okay, but remember the main the only reason we were planning on having the voice recognition was so that they could find the remote if it got lost.
+[13:34.50-14:07.75] ES2014d-T0157 | Marketing Expert (D): Mm-hmm. Mm. Right okay um, This is about the evaluation criteria that we use for the the prototype we've got here. And so the method is that the design team makes a prototype, and we evaluate the prototype against some criteria that we've formulated. And those ones are gonna be in response to sort of market research, and also finance, I guess. And do that on a scale from say true being one and false being seven, so if it's neither true nor false, then that's four.
+[14:15.33-14:54.25] ES2014d-T0158 | Marketing Expert (D): So, I got a set of criteria just based on the marketing that we need to add in a financial one as well, at the end. Um so, We have to say whether it's true or false that the product looks and feels fancy. Um The whether the product demonstrates technical innovation. Whether it's easy to use. Whether it's incorporating sort of the fashion element to attract the buyer. And whether it's a sort of recognisable Real Reaction product. And I have to go up onto the whiteboard and do this apparently, so I'll go over here.
+[14:49.31-14:49.63] ES2014d-T0159 | Industrial Designer (B): Okay.
+[15:02.48-15:11.66] ES2014d-T0160 | Marketing Expert (D): Right. So the first one is um, does the product look and feel fancy. So if we do a sort of a one
+[15:17.71-15:18.38] ES2014d-T0161 | Marketing Expert (D): So
+[15:18.23-15:26.27] ES2014d-T0162 | Industrial Designer (B): Okay, well we have a single curve, which was maybe like the feel of the product's quite good. So uh
+[15:22.64-15:22.94] ES2014d-T0163 | Marketing Expert (D): Yeah.
+[15:25.55-15:26.41] ES2014d-T0164 | Marketing Expert (D): Okay.
+[15:27.02-15:32.38] ES2014d-T0165 | Industrial Designer (B): Um, then we have the rubber kinda spongy feel, which was in at the time.
+[15:30.82-15:33.89] ES2014d-T0166 | Marketing Expert (D): Yeah. Yeah. Yeah.
+[15:33.22-15:35.92] ES2014d-T0167 | Industrial Designer (B): Um, sorry that'd be considered fancy.
+[15:36.97-15:40.60] ES2014d-T0168 | User Interface Designer (C): Yeah, I'd maybe give it a a two.
+[15:41.81-15:52.19] ES2014d-T0169 | Marketing Expert (D): Of but I think What Is one false, or is t one true? I forgot. One's true, and okay. Seven's fal Four is neutral, okay. So
+[15:44.66-15:45.84] ES2014d-T0170 | User Interface Designer (C): One's true.
+[15:47.54-15:48.91] ES2014d-T0171 | User Interface Designer (C): And a four is neutral.
+[15:51.62-15:53.13] ES2014d-T0172 | Industrial Designer (B): So maybe maybe a two.
+[15:53.51-16:01.72] ES2014d-T0173 | User Interface Designer (C): Yeah,'cause we haven't got the double curve, so we can't like say it's completely true. But it's pretty close. We've got almost everything we can.
+[15:55.68-16:00.38] ES2014d-T0174 | Project Manager (A): Go for one. Yep.
+[15:56.49-15:57.31] ES2014d-T0175 | Marketing Expert (D): Right.
+[16:02.12-16:06.74] ES2014d-T0176 | Marketing Expert (D): Okay. Right. I gonna put underneath so I've got some more space.
+[16:02.89-16:03.55] ES2014d-T0177 | Project Manager (A): Okay.
+[16:08.96-16:13.09] ES2014d-T0178 | Marketing Expert (D): So, false is seven, true is one, and
+[16:16.86-16:20.51] ES2014d-T0179 | Marketing Expert (D): So uh say about a two for fancy, you think? Okay.
+[16:19.06-16:19.34] ES2014d-T0180 | Industrial Designer (B): Yeah.
+[16:19.52-16:20.18] ES2014d-T0181 | User Interface Designer (C): Yeah.
+[16:20.24-16:23.36] ES2014d-T0182 | Project Manager (A): Yeah, why not not, m m maybe nearer three.
+[16:23.94-16:27.61] ES2014d-T0183 | Marketing Expert (D): Okay, well d you do an average at the end, I don't know. Um
+[16:24.99-16:37.57] ES2014d-T0184 | Project Manager (A): Two three. Well, it's just that uh saying something remember that when you look down, we've got solar power, we've got uh various other things you could have, and we're not going for these options.
+[16:35.09-16:41.25] ES2014d-T0185 | Marketing Expert (D): Uh-huh. This this is just this is just for like the look. Does it sort of look fancy rather than functional. So
+[16:39.05-16:39.64] ES2014d-T0186 | Project Manager (A): Mm-hmm.
+[16:43.97-16:46.85] ES2014d-T0187 | User Interface Designer (C): Yeah, I suppose that might be in the technical innovation bit.
+[16:46.69-16:50.91] ES2014d-T0188 | Marketing Expert (D): Yeah, so that so sh should we go for a a two on that?
+[16:50.91-16:51.57] ES2014d-T0189 | Project Manager (A): Okay.
+[16:51.54-16:58.64] ES2014d-T0190 | Marketing Expert (D): 'Kay. And I mean, how much does the product demonstrate technical innovation do you reckon?
+[16:57.63-17:09.70] ES2014d-T0191 | Industrial Designer (B): Um, deciding between the kinetic power or um the speech recognition, and if we had either of those for our budget, they both show a reasonable amount of speech recognition.
+[17:07.84-17:17.59] ES2014d-T0192 | Marketing Expert (D): D yeah. Okay. So, what about the pr The prototype as it is, we've got we've got the speech recognition on it, haven't we.
+[17:14.03-17:14.88] ES2014d-T0193 | Industrial Designer (B): Um
+[17:17.17-17:18.35] ES2014d-T0194 | Industrial Designer (B): But not the kinetic.
+[17:19.31-17:20.70] ES2014d-T0195 | Marketing Expert (D): But not the kinetic.
+[17:20.29-17:21.07] ES2014d-T0196 | Industrial Designer (B): Like the power.
+[17:20.99-17:24.26] ES2014d-T0197 | Project Manager (A): No.'Cause you can't afford that w we took that out too.
+[17:23.01-17:25.68] ES2014d-T0198 | Industrial Designer (B): No, we c ca yeah, we can't afford both.
+[17:26.91-17:28.80] ES2014d-T0199 | Marketing Expert (D): Alright, so
+[17:27.47-17:28.91] ES2014d-T0200 | Project Manager (A): Didn't you? Or
+[17:29.98-17:36.22] ES2014d-T0201 | Marketing Expert (D): So it doesn't It's pretty The prototype as it is isn't sort of um fulfilling the
+[17:36.58-17:40.24] ES2014d-T0202 | Industrial Designer (B): No may is maybe about neutral plus it it it's got something, but it hasn't got
+[17:37.43-17:38.62] ES2014d-T0203 | User Interface Designer (C): Maybe a three.
+[17:40.35-17:41.73] ES2014d-T0204 | Marketing Expert (D): Okay. Yeah.
+[17:41.62-17:58.30] ES2014d-T0205 | Project Manager (A): Well, wait a minute. In thirteen point seven we do have kinetic. The problem is we have to reduce down from there to get it down to twelve point five. And one way of doing that would be to take out the kinetic. So, it's very much dependant on what you do with your options.
+[17:42.42-17:44.57] ES2014d-T0206 | User Interface Designer (C): I would give it more than a four.
+[17:47.67-17:48.41] ES2014d-T0207 | Industrial Designer (B): Right.
+[17:50.01-17:50.63] ES2014d-T0208 | Industrial Designer (B): Okay.
+[18:00.19-18:01.34] ES2014d-T0209 | Marketing Expert (D): Right, okay.
+[18:00.41-18:17.09] ES2014d-T0210 | Project Manager (A): And if you're definitely going for the sample sensor and sample speaker, then because that the other functions we've got in are are more at the The special material, the rubber, wood, titanium, et cetera,
+[18:00.47-18:01.26] ES2014d-T0211 | Industrial Designer (B): 'Kay.
+[18:18.40-18:36.64] ES2014d-T0212 | Project Manager (A): if you go for that, th that's at the high end'cause that's point six, whereas down at uh just special colours uh is point two. Now you're trying to lose one point two, so it seems to me that if you're going for the sample sensors speaker, you're basically then having to go for the cheaper options on everything else.
+[18:38.10-18:38.59] ES2014d-T0213 | Marketing Expert (D): Mm-hmm.
+[18:38.67-18:39.14] ES2014d-T0214 | Industrial Designer (B): Okay.
+[18:39.80-18:57.22] ES2014d-T0215 | Project Manager (A): And and the simple way to do it would be to have a battery, to have your uh sample sensor speaker, and then you're looking to uh take out uh point two, which would be come from the button supplements category.
+[18:40.01-18:41.19] ES2014d-T0216 | Industrial Designer (B): Um
+[18:49.93-18:54.56] ES2014d-T0217 | Marketing Expert (D): S I'm just gonna check my email.
+[18:57.14-19:00.67] ES2014d-T0218 | Marketing Expert (D): I'm just gonna check exactly what it said in the email for um
+[19:02.41-19:04.06] ES2014d-T0219 | Marketing Expert (D): the product.
+[19:04.29-19:07.60] ES2014d-T0220 | User Interface Designer (C): How much of a difference would it make if we made the case in plastic?
+[19:11.51-19:19.31] ES2014d-T0221 | User Interface Designer (C): Because we did say that we don't wanna follow the fashion too much. If the buttons are rubber that might be spongy enough. And then it stand the test of time better.
+[19:17.19-19:50.79] ES2014d-T0222 | Project Manager (A): Um, interface type um, well plastic rather than rubber. That that that would make the significant difference. You could either you could have it If you have a in plastic rather than rubber, then that would uh enable you to get you could keep kinetic then, you could keep your sample sensor, and you'd be looking to take out point two. So you could uh fiddle that down your special form at the bottom, or your special colour at the bottom. And that would enable you to to do it.
+[19:23.69-19:24.91] ES2014d-T0223 | Marketing Expert (D): Okay. But I
+[19:47.69-19:48.47] ES2014d-T0224 | Industrial Designer (B): Mm-hmm.
+[19:48.02-19:48.54] ES2014d-T0225 | User Interface Designer (C): Mm-hmm.
+[19:51.06-19:51.65] ES2014d-T0226 | Marketing Expert (D): Okay.
+[19:51.54-20:00.59] ES2014d-T0227 | Industrial Designer (B): So it says if we make a slightly more fancy, then we lose points innovation, and if we make it more innovative innovative, then we lose points on it being fancy, so
+[19:57.47-19:57.81] ES2014d-T0228 | Project Manager (A): Yeah.
+[19:58.41-19:59.04] ES2014d-T0229 | Marketing Expert (D): Yeah.
+[19:59.06-19:59.45] ES2014d-T0230 | Project Manager (A): Ye
+[19:59.71-20:14.73] ES2014d-T0231 | Marketing Expert (D): , I just read the email again and it sort of says it's evaluate the design sort of as it is, I think, so I think we need to think about finance after we've sort of evaluated that design. I don't know whether we're doing it in the wrong order or something or.
+[20:14.75-20:16.30] ES2014d-T0232 | Project Manager (A): Well, okay, but
+[20:18.03-20:19.97] ES2014d-T0233 | User Interface Designer (C): Well, I suppose it's rubber as it is, isn't it.
+[20:20.14-20:21.64] ES2014d-T0234 | Project Manager (A): It's rubber as it is, yes.
+[20:21.59-20:30.13] ES2014d-T0235 | Marketing Expert (D): So, I mean does this need to go up a bit or something,'cause we've got both the both the um
+[20:31.51-20:41.61] ES2014d-T0236 | Project Manager (A): We got we've we've got thirteen point seven and we've got it in at the moment and if and basically, we're going to reduce down from that. But the current one, you'd say would be fancy, would be too
+[20:31.56-20:33.04] ES2014d-T0237 | Marketing Expert (D): the speech
+[20:31.62-20:32.99] ES2014d-T0238 | User Interface Designer (C): Yeah.
+[20:35.09-20:35.75] ES2014d-T0239 | Marketing Expert (D): Yeah.
+[20:42.10-20:42.87] ES2014d-T0240 | Industrial Designer (B): Yeah, yeah.
+[20:42.82-20:48.81] ES2014d-T0241 | Marketing Expert (D): Yeah. Um, for for innovation, so we've got the speech the speech thing, and
+[20:47.61-20:48.35] ES2014d-T0242 | Project Manager (A): Mm-hmm.
+[20:50.01-20:51.79] ES2014d-T0243 | Project Manager (A): I would've said about a two as well.
+[20:52.40-20:53.22] ES2014d-T0244 | Marketing Expert (D): Do you reckon a two?
+[20:52.83-20:56.05] ES2014d-T0245 | User Interface Designer (C): Yeah, two or three. I'd be happy with a two.
+[20:55.14-21:02.53] ES2014d-T0246 | Marketing Expert (D): Okay. Two. And the next one is I'll have to get it back up now.
+[20:56.38-20:56.93] ES2014d-T0247 | Project Manager (A): Oh.
+[21:02.40-21:09.26] ES2014d-T0248 | Project Manager (A): The next on Well, I can just sing about. Easy to use. I would've said yes. I would go for a one on that at this point in time.
+[21:10.18-21:10.85] ES2014d-T0249 | User Interface Designer (C): Yeah.
+[21:12.13-21:12.65] ES2014d-T0250 | Marketing Expert (D): Okay.
+[21:12.36-21:13.75] ES2014d-T0251 | User Interface Designer (C): Yeah, I would say so as well.
+[21:16.66-21:23.76] ES2014d-T0252 | Project Manager (A): Um, incorporates elements of fashion to attract buyer. Well, yeah it certainly has some.
+[21:22.06-21:22.84] ES2014d-T0253 | Industrial Designer (B): Um
+[21:24.09-21:27.29] ES2014d-T0254 | User Interface Designer (C): Yeah, it's got the cherry and the sponginess.
+[21:24.54-21:26.20] ES2014d-T0255 | Project Manager (A): .
+[21:24.87-21:26.24] ES2014d-T0256 | Industrial Designer (B): It does, yeah.
+[21:25.98-21:26.61] ES2014d-T0257 | Marketing Expert (D): Um
+[21:27.28-21:27.76] ES2014d-T0258 | Project Manager (A): Yep.
+[21:28.46-21:30.12] ES2014d-T0259 | Marketing Expert (D): Say about a three maybe?
+[21:30.75-21:31.53] ES2014d-T0260 | Project Manager (A): I don't know.
+[21:30.98-21:38.15] ES2014d-T0261 | Industrial Designer (B): Yeah, m um Yeah, it was just doing it quite well. Um, I think we're gonna have to lose some of these, but the moment, as it stands, it's um
+[21:31.65-21:32.87] ES2014d-T0262 | User Interface Designer (C): Maybe two?
+[21:34.53-21:35.15] ES2014d-T0263 | Project Manager (A): Yep.
+[21:37.57-21:40.64] ES2014d-T0264 | Project Manager (A): Yeah, I woulda said two would seem reasonable.
+[21:37.92-21:38.75] ES2014d-T0265 | Marketing Expert (D): It's a two.
+[21:42.21-21:49.94] ES2014d-T0266 | Project Manager (A): The product is a recognisable real r uh reaction product?
+[21:47.81-21:48.58] ES2014d-T0267 | Marketing Expert (D): Yeah, this is
+[21:49.13-21:55.82] ES2014d-T0268 | Industrial Designer (B): Uh the sensor using all of its all of its products, all of its buttons, and it's got a fairly big label on the bottom saying
+[21:49.25-21:50.17] ES2014d-T0269 | Marketing Expert (D): This
+[21:56.18-21:58.10] ES2014d-T0270 | User Interface Designer (C): Yeah, that's a bit rough at the minute.
+[21:56.50-21:57.13] ES2014d-T0271 | Marketing Expert (D): Yeah.
+[21:56.86-21:57.87] ES2014d-T0272 | Industrial Designer (B): where it comes from.
+[21:58.05-22:07.84] ES2014d-T0273 | Marketing Expert (D): So this is about sort of the corporate image of like new sort of sleek technology and all that sort of thing, as well as having the logo on and all that. So sort of
+[21:59.75-22:00.27] ES2014d-T0274 | Project Manager (A): Oh.
+[22:05.05-22:05.53] ES2014d-T0275 | Industrial Designer (B): Okay.
+[22:11.20-22:18.49] ES2014d-T0276 | Marketing Expert (D): Is it sort of a recognisable product. Does it fit in with our other other products, which uh are sort of coffee makers and spacecraft.
+[22:18.03-22:22.66] ES2014d-T0277 | Project Manager (A): S
+[22:21.00-22:22.44] ES2014d-T0278 | Marketing Expert (D): What do y
+[22:21.08-22:25.57] ES2014d-T0279 | User Interface Designer (C): Uh, well it's got the same um speech feature as the coffee machine.
+[22:25.62-22:35.01] ES2014d-T0280 | Industrial Designer (B): Also it's kind of spongy rubberiness is maybe bit more kinda comfortable than kinda sleek and new age. Um, it depends which way you look at it.
+[22:31.39-22:34.23] ES2014d-T0281 | Marketing Expert (D): Yeah. Uh-huh.
+[22:35.63-22:37.71] ES2014d-T0282 | Project Manager (A): Okay. So we're going for a
+[22:36.38-22:36.97] ES2014d-T0283 | Marketing Expert (D): So
+[22:38.98-22:41.04] ES2014d-T0284 | Industrial Designer (B): Maybe a kind of three? Uh d
+[22:39.78-22:42.17] ES2014d-T0285 | Project Manager (A): two, three?
+[22:41.45-22:42.52] ES2014d-T0286 | Marketing Expert (D): Two or three?
+[22:41.60-22:51.26] ES2014d-T0287 | User Interface Designer (C): Yeah, two or three. Well, the logo would be more um recognisable on the actual thing. It's just that the pen wouldn't really write on that paper. But um,
+[22:49.64-22:50.09] ES2014d-T0288 | Project Manager (A): Sure.
+[22:51.30-22:51.68] ES2014d-T0289 | Marketing Expert (D): Yeah.
+[22:52.35-23:00.84] ES2014d-T0290 | User Interface Designer (C): I think the logo would definitely be recognisable. And it does have attributes that other products do. Two? Aye. Go for it.
+[23:00.74-23:01.58] ES2014d-T0291 | Project Manager (A): Right, okay.
+[23:01.10-23:03.32] ES2014d-T0292 | Marketing Expert (D): Two or three.
+[23:03.34-23:09.31] ES2014d-T0293 | Project Manager (A): Two. Right, come on. That's that decided. Right. So
+[23:04.30-23:07.03] ES2014d-T0294 | Marketing Expert (D): How Two. Okay.
+[23:10.02-23:10.99] ES2014d-T0295 | Marketing Expert (D): Right.
+[23:10.96-23:17.54] ES2014d-T0296 | Project Manager (A): So we're now on to changing it to get it to fit in with the budget requirements, and then
+[23:17.46-23:18.43] ES2014d-T0297 | Marketing Expert (D): Yeah.
+[23:18.15-23:22.30] ES2014d-T0298 | User Interface Designer (C): What does what do all them numbers mean then? Do we add them up and rate or anything?
+[23:21.35-23:34.11] ES2014d-T0299 | Marketing Expert (D): Yeah we s yeah, I think we sort of add them up so sort of at an average is gonna be I'm just gonna do this in my head. One point eight isn't it or something. I think, anyway.
+[23:27.14-23:27.94] ES2014d-T0300 | Project Manager (A): About a two.
+[23:29.63-23:30.23] ES2014d-T0301 | Project Manager (A): Two.
+[23:35.15-23:36.93] ES2014d-T0302 | Marketing Expert (D): So yeah, pretty close to a two.
+[23:37.19-23:38.74] ES2014d-T0303 | Industrial Designer (B): Yeah, so it's
+[23:37.32-23:46.09] ES2014d-T0304 | Marketing Expert (D): So So it's I mean it's pretty good at the moment, but it's gonna get worse, isn't it. But we've gotta try and make sure it doesn't get too bad.
+[23:42.59-23:42.96] ES2014d-T0305 | Project Manager (A): Yep.
+[23:44.56-23:54.30] ES2014d-T0306 | Industrial Designer (B): So should we get So are definite Was it thirteen point seven was the definite price rule if has. Okay, so we need to
+[23:44.72-23:47.22] ES2014d-T0307 | Project Manager (A): Two b two b two, yeah.
+[23:51.09-23:51.61] ES2014d-T0308 | Project Manager (A): Yes.
+[23:51.59-23:51.96] ES2014d-T0309 | Marketing Expert (D): Yeah.
+[23:54.83-24:01.26] ES2014d-T0310 | Project Manager (A): Well, you can lose one point two and still meet the requirements.
+[23:59.36-24:02.35] ES2014d-T0311 | Marketing Expert (D): Do you wanna plug it into yours so we can get up the
+[24:02.96-24:05.66] ES2014d-T0312 | Project Manager (A): Okay, well I put it back on.
+[24:04.32-24:07.72] ES2014d-T0313 | Industrial Designer (B): So I guess this Is this the last stage once we sort out the finances part of it?
+[24:04.32-24:06.29] ES2014d-T0314 | Marketing Expert (D): the finances
+[24:09.01-24:10.32] ES2014d-T0315 | Marketing Expert (D): I'm not sure.
+[24:11.28-24:12.94] ES2014d-T0316 | User Interface Designer (C): we'll probably have to re-rate it.
+[24:13.21-24:14.50] ES2014d-T0317 | Project Manager (A): Yes, I would've thought so.
+[24:14.67-24:18.18] ES2014d-T0318 | Industrial Designer (B): Yeah, yeah we'll make the adjustments and then see how are rates are going.
+[24:14.71-24:15.23] ES2014d-T0319 | Marketing Expert (D): Yeah.
+[24:18.83-24:23.60] ES2014d-T0320 | Project Manager (A): Okay, so what was it, control uh F_ eight, wasn't it?
+[24:23.41-24:24.15] ES2014d-T0321 | User Interface Designer (C): Ah it's on.
+[24:23.68-24:25.28] ES2014d-T0322 | Marketing Expert (D): it's come on already.
+[24:24.70-24:39.79] ES2014d-T0323 | Project Manager (A): Oh. Oh. How kind. Right, okay. So, you can see there that the If you want to keep kinetic, right, you've got a choice there of going down to battery, which would save you one. You've got
+[24:41.84-24:45.53] ES2014d-T0324 | Project Manager (A): the sample sensor and and sample speaker, which is your big item.
+[24:47.74-24:54.35] ES2014d-T0325 | Industrial Designer (B): Oh actually we just have a plastic case, then we lose two points, which gets us um
+[24:50.74-24:51.53] ES2014d-T0326 | Project Manager (A): That's right.
+[24:55.09-24:55.61] ES2014d-T0327 | Marketing Expert (D): Mm.
+[24:55.45-24:56.90] ES2014d-T0328 | Project Manager (A): Which gets you
+[24:56.64-24:58.10] ES2014d-T0329 | Industrial Designer (B): In right within the budget range.
+[24:58.19-24:58.64] ES2014d-T0330 | Project Manager (A): Yes.
+[24:59.42-25:02.92] ES2014d-T0331 | User Interface Designer (C): Yeah, I think that'd be fine. Because that was just a trend, and we do have rubber buttons anyway.
+[25:02.70-25:07.31] ES2014d-T0332 | Industrial Designer (B): So that's eleven point seven, and then we could make sure we definitely had all the button supplements.
+[25:03.47-25:03.98] ES2014d-T0333 | Marketing Expert (D): Yeah.
+[25:07.08-25:19.78] ES2014d-T0334 | Marketing Expert (D): Different different colours, yeah. Yeah, I was I was thinking that because maybe maybe the sort of rubber case is a bit less in sort of the corporate identity than the sort of you know sleeker plastic case.
+[25:07.13-25:07.79] ES2014d-T0335 | Project Manager (A): Alright.
+[25:17.68-25:20.45] ES2014d-T0336 | Industrial Designer (B): Possibly, yeah. Um
+[25:19.86-25:20.75] ES2014d-T0337 | User Interface Designer (C): Yeah.
+[25:22.01-25:27.74] ES2014d-T0338 | Industrial Designer (B): And that would allow us to have all the technical innovations. So we'd lose a little bit on the maybe kind of
+[25:22.08-25:23.53] ES2014d-T0339 | Project Manager (A): Okay, so
+[25:27.54-25:29.17] ES2014d-T0340 | Project Manager (A): So we're going for plastic, yes?
+[25:28.71-25:30.80] ES2014d-T0341 | Marketing Expert (D): Lose a little bit on the fashion, yeah, but
+[25:30.80-25:31.23] ES2014d-T0342 | Project Manager (A): Yep.
+[25:32.89-25:33.56] ES2014d-T0343 | Marketing Expert (D): And then
+[25:32.95-25:43.10] ES2014d-T0344 | Industrial Designer (B): Oh yeah, and that would now be Yeah, that's that's within the budget. Um Do we actually have Do we just have one special uh special forms down here?
+[25:43.04-25:53.47] ES2014d-T0345 | Project Manager (A): Well, uh w uh there was debate as to how you would count them. You got special colour. Well originally I was assuming we had the red apple, and therefore, that was the special colour.
+[25:47.40-25:48.06] ES2014d-T0346 | Industrial Designer (B): Um
+[25:53.39-25:55.26] ES2014d-T0347 | User Interface Designer (C): Yeah, I think we should just imagine white buttons.
+[25:53.83-26:00.74] ES2014d-T0348 | Industrial Designer (B): And we we've we've got we've got enough for another we've got nought point eight left, so we've got enough for another
+[25:57.71-25:58.21] ES2014d-T0349 | Marketing Expert (D): Yeah.
+[25:59.84-26:17.74] ES2014d-T0350 | Project Manager (A): Well, we've got special form. Now that would be one button, and the question was was that all buttons or is that just one button.'Cause our plan really was to have one button only with a special So so no matter how you look at that, that would be the same. The other thing would then be special material, rubber, wood, titanium.
+[26:10.54-26:30.29] ES2014d-T0351 | Industrial Designer (B): Yeah, um But the but but but the I think maybe the special colour, we've got three now just because the volume buttons are different, I guess we'd have the ones which are blue at the moment would would just be the standard colour. Yeah, which I think we should Yeah, they'll still be fine for the for the price.
+[26:20.78-26:21.67] ES2014d-T0352 | Marketing Expert (D): Yeah.
+[26:24.07-26:27.17] ES2014d-T0353 | Project Manager (A): Alright. So, special colour, you want three in there.
+[26:29.73-26:30.43] ES2014d-T0354 | Project Manager (A): Okay.
+[26:29.88-26:39.32] ES2014d-T0355 | Marketing Expert (D): Well I thin I think you you you just need two for the special colour'cause it's just two supplements, you know. One original colour and then sort of two supplements, I think maybe.
+[26:38.51-26:39.87] ES2014d-T0356 | Project Manager (A): That makes sense.
+[26:39.92-26:41.31] ES2014d-T0357 | Industrial Designer (B): Okay, uh that's probably it.
+[26:40.18-26:49.58] ES2014d-T0358 | Marketing Expert (D): Okay. So we only ne we only need two for that.'Cause I mean these these are moulded. The one colour's gonna be moulded out of a piece of plas uh of rubber, isn't it.
+[26:40.29-26:41.00] ES2014d-T0359 | User Interface Designer (C): Yeah.
+[26:42.92-26:43.96] ES2014d-T0360 | Project Manager (A): Okay.
+[26:49.04-26:53.20] ES2014d-T0361 | Project Manager (A): Okay. Yeah, I would agree with that, I think. So special colours, two.
+[26:54.20-26:54.79] ES2014d-T0362 | Marketing Expert (D): Right.
+[26:54.54-27:09.57] ES2014d-T0363 | Project Manager (A): And we've got special form is the one apple. The rest are all standard, although you could argue that should maybe be You were making these buttons down the bottom, I was presuming, bigger than the other ones, or were you? Was that the idea?
+[27:08.28-27:09.63] ES2014d-T0364 | Industrial Designer (B): Ne uh
+[27:09.52-27:11.90] ES2014d-T0365 | User Interface Designer (C): Yeah, the volume ones should stand out a bit.
+[27:10.49-27:15.33] ES2014d-T0366 | Industrial Designer (B): Maybe that'll be a second supplement. Then there's a spe a second special form.
+[27:12.96-27:13.59] ES2014d-T0367 | Marketing Expert (D): Yeah, that
+[27:15.92-27:16.55] ES2014d-T0368 | Marketing Expert (D): Yeah.
+[27:15.95-27:24.09] ES2014d-T0369 | Project Manager (A): Uh-huh. I would have thought that's probably about r well.
+[27:16.60-27:20.55] ES2014d-T0370 | Industrial Designer (B): Um Well you got you got twelve.
+[27:26.05-27:27.08] ES2014d-T0371 | Marketing Expert (D): Okay, so tha
+[27:28.10-27:31.57] ES2014d-T0372 | Industrial Designer (B): So I think that should still be okay. Yeah, that's twelve point three, so we're still
+[27:29.70-27:30.26] ES2014d-T0373 | Project Manager (A): Right.
+[27:32.72-27:36.09] ES2014d-T0374 | Industrial Designer (B): within budget on that. Um
+[27:34.38-27:36.88] ES2014d-T0375 | Project Manager (A): Yep, that makes sense.
+[27:38.93-27:46.83] ES2014d-T0376 | Industrial Designer (B): So decide we've lost a little bit on the fashion and lost a bit on the fancy kinda side of it, but generally speaking, we've kept the other attributes to the
+[27:42.93-27:43.52] ES2014d-T0377 | Project Manager (A): Yep.
+[27:46.66-27:54.54] ES2014d-T0378 | Project Manager (A): I woulda said so. Yeah. So you'd maybe put fash fan uh fashion at three rather than two.
+[27:50.93-27:52.16] ES2014d-T0379 | Industrial Designer (B): That's without
+[27:52.92-27:57.50] ES2014d-T0380 | Marketing Expert (D): So shall we do a Well, um
+[27:53.75-28:03.18] ES2014d-T0381 | Industrial Designer (B): Yeah. And specially it definitely could fits the the real product What was the what's the company name?
+[28:04.39-28:05.87] ES2014d-T0382 | User Interface Designer (C): Real Reactions?
+[28:04.90-28:09.25] ES2014d-T0383 | Project Manager (A): Real Reaction produ I'm not quite sure, what does that mean?
+[28:05.40-28:14.99] ES2014d-T0384 | Industrial Designer (B): R yeah. Yeah, yeah. I mean it still seems definitely fit that p so that's like if that's the new age kind of um inno innovative
+[28:06.41-28:07.22] ES2014d-T0385 | Marketing Expert (D): Yeah.
+[28:15.76-28:17.09] ES2014d-T0386 | Marketing Expert (D): Yeah, so
+[28:16.17-28:23.16] ES2014d-T0387 | Industrial Designer (B): c type company, then um having the kinetic feature and the voice recognition is p quite high up on
+[28:20.95-28:21.39] ES2014d-T0388 | Marketing Expert (D): Uh
+[28:21.52-28:23.60] ES2014d-T0389 | Project Manager (A): Yep I would s
+[28:22.46-28:40.80] ES2014d-T0390 | Marketing Expert (D): So it's w if we've if we've put in for another special form on a button, then maybe they could be a different shape. Like we got a cherry one. Maybe other ones could be something else shaped. I don't know. That would be poss seeing as seeing as it's cheaper to make them a different
+[28:37.58-28:38.29] ES2014d-T0391 | Industrial Designer (B): Um
+[28:37.79-28:38.56] ES2014d-T0392 | Project Manager (A): You mean of
+[28:41.92-28:55.94] ES2014d-T0393 | Marketing Expert (D): seeing as we've got, you know, we've made it a a special form, so And that would sort of maybe keep us close on the sort of the fashion type one. And it would sort of, you know, keep it quite fancy as well, I don't know.
+[28:55.54-28:56.04] ES2014d-T0394 | Industrial Designer (B): Mm-hmm.
+[28:55.80-29:13.65] ES2014d-T0395 | Project Manager (A): Well you could argue you might do it once a year, you would change, because at the moment you're making a red apple. So next year you could make next year's model the same, but have it as a a yeah whate whatever, a lemon. Yeah, l a lemon lemon or something. And that
+[29:02.06-29:02.76] ES2014d-T0396 | Marketing Expert (D): Well you could
+[29:02.06-29:03.55] ES2014d-T0397 | Industrial Designer (B): Yeah so it's a
+[29:07.26-29:07.79] ES2014d-T0398 | Marketing Expert (D): Yeah.
+[29:08.11-29:11.67] ES2014d-T0399 | Industrial Designer (B): Whatever fruit was in fashion next year.
+[29:12.45-29:16.56] ES2014d-T0400 | Marketing Expert (D): Yeah, I mean the volume buttons could be lemons or something, maybe.
+[29:16.09-29:16.68] ES2014d-T0401 | Project Manager (A): amount
+[29:17.30-29:24.99] ES2014d-T0402 | Marketing Expert (D): Okay. So, we've what have we what have we rid of. We got rid of the plastic.
+[29:25.26-29:29.33] ES2014d-T0403 | Project Manager (A): Yeah, we've the main thing we've changed really is the casing isn't it? We've
+[29:25.84-29:27.54] ES2014d-T0404 | Marketing Expert (D): Is it The rubber.
+[29:26.18-29:33.71] ES2014d-T0405 | Industrial Designer (B): That yeah, that was uh that was just about all. I think we've saved quite a bit because we've just got the push-button interface, which is by far the cheapest.
+[29:28.58-29:29.24] ES2014d-T0406 | Marketing Expert (D): Yeah.
+[29:34.14-29:34.66] ES2014d-T0407 | Marketing Expert (D): Yeah.
+[29:34.77-29:48.54] ES2014d-T0408 | Industrial Designer (B): Um So maybe in a sense not having that, maybe we've lost some maybe lost something on the innovation side? I dunno. And that is like the most standard type of button.
+[29:36.96-29:37.85] ES2014d-T0409 | Marketing Expert (D): But uh
+[29:48.95-30:07.33] ES2014d-T0410 | Marketing Expert (D): So I mean, we've got we got rid of the rubber case, but we've now s we now sort of got an extra form, and an extra colour for the buttons. So maybe in terms of sort of fanciness and fashionability, we're pretty much the same, maybe. So, I mean we could maybe put two again on them.
+[30:03.78-30:04.13] ES2014d-T0411 | Industrial Designer (B): Yeah.
+[30:09.73-30:12.36] ES2014d-T0412 | Industrial Designer (B): And everything else has stayed pretty much the same, so
+[30:11.38-30:13.29] ES2014d-T0413 | Project Manager (A): Well, ease has certainly stayed.
+[30:13.60-30:17.04] ES2014d-T0414 | Industrial Designer (B): Yeah, plus if anything that is special forms makes it slightly easier to
+[30:13.98-30:14.58] ES2014d-T0415 | Marketing Expert (D): Yeah.
+[30:16.95-30:17.40] ES2014d-T0416 | Project Manager (A): Yeah.
+[30:17.42-30:20.14] ES2014d-T0417 | Marketing Expert (D): Yeah. And what about the sort of innovation?
+[30:18.05-30:18.59] ES2014d-T0418 | Industrial Designer (B): to use.
+[30:20.65-30:21.35] ES2014d-T0419 | Marketing Expert (D): Do you think
+[30:20.66-30:23.70] ES2014d-T0420 | Industrial Designer (B): Um, well we've still got the kinetic energy. Um
+[30:22.76-30:23.98] ES2014d-T0421 | Marketing Expert (D): Okay.
+[30:23.76-30:25.24] ES2014d-T0422 | Project Manager (A): And the speech feature.
+[30:25.07-30:26.42] ES2014d-T0423 | Industrial Designer (B): Yeah, the speech feature.
+[30:26.54-30:29.10] ES2014d-T0424 | Marketing Expert (D): And then, the corporate identity.
+[30:29.63-30:36.84] ES2014d-T0425 | Industrial Designer (B): I think we've cut just about the same. We've maybe lost Hasn't it It's hard to tell how the rubber the rubber casing would really affect
+[30:35.40-30:37.88] ES2014d-T0426 | Project Manager (A): How it would play out, yeah. Oh.
+[30:37.29-30:40.13] ES2014d-T0427 | Marketing Expert (D): Yeah. Whether whether that's considered to be sort of
+[30:42.16-30:44.27] ES2014d-T0428 | Marketing Expert (D): part of the corporate identity, I don't know.
+[30:45.20-30:45.98] ES2014d-T0429 | Industrial Designer (B): Um
+[30:45.23-30:46.62] ES2014d-T0430 | Marketing Expert (D): I mean, it's maybe not. I mean
+[30:46.98-30:53.75] ES2014d-T0431 | Industrial Designer (B): But I think more the the features of the actual control will be more important than maybe than the the actual aesthetics, but
+[30:51.90-30:54.53] ES2014d-T0432 | Marketing Expert (D): Yeah. Yeah.
+[30:55.37-30:58.75] ES2014d-T0433 | Industrial Designer (B): But either way, I think we've made it fairly close to what
+[30:58.49-31:00.08] ES2014d-T0434 | Marketing Expert (D): Yeah. Okay, well I mean
+[30:59.29-31:01.58] ES2014d-T0435 | User Interface Designer (C): Yeah, I don't see how we could make it any more.
+[31:02.46-31:03.06] ES2014d-T0436 | Marketing Expert (D): We cou
+[31:02.58-31:08.28] ES2014d-T0437 | User Interface Designer (C): Um, apart from maybe doing the whole thing in the kinda light shade of blue, like the casing.
+[31:08.90-31:09.42] ES2014d-T0438 | Marketing Expert (D): Mm-hmm.
+[31:10.94-31:12.77] ES2014d-T0439 | User Interface Designer (C): But then what colour would you make the R_s?
+[31:14.06-31:19.76] ES2014d-T0440 | Industrial Designer (B): just the the company logo. So maybe there's like a set design which we get printed off.
+[31:18.58-31:19.76] ES2014d-T0441 | Marketing Expert (D): Yeah.
+[31:18.84-31:31.01] ES2014d-T0442 | Project Manager (A): Well, but you've got the company logo on there, which would effectively be a stick-on badge. So you're in a sense, you're comparing the product without the company logo. And then y but you've got the space for it to stick it on.
+[31:23.53-31:24.27] ES2014d-T0443 | Industrial Designer (B): Okay.
+[31:27.27-31:28.16] ES2014d-T0444 | Marketing Expert (D): Yeah.
+[31:29.66-31:30.59] ES2014d-T0445 | Industrial Designer (B): Yeah, yeah.
+[31:30.80-31:35.02] ES2014d-T0446 | Marketing Expert (D): Hey, what what what's the company colour? Did you get told what the company colour is or
+[31:34.27-31:36.88] ES2014d-T0447 | Industrial Designer (B): I'm still not quite sure we've established that.
+[31:37.12-31:39.98] ES2014d-T0448 | User Interface Designer (C): No, I just We got the logo off the web browser.
+[31:37.38-32:23.50] ES2014d-T0449 | Project Manager (A): Don't think so. But but i but in the sense that, as you saw with um the Windows logo badge, it doesn't really matter. There's virtually n The way that you frame, you know, the Windows badge on there, it really doesn't matter what colour it is, so long as our company's logo is framed w in the same way as that with a like a black outline. Fact, they've got black and white or black and silver. So basically, even if you had a silver the same colour of silver on your display, because you've got effectively a double edging on the uh on the logo, it means that it splits off what your logo is from the from the product. And that's actually quite a sneaky way of doing it.
+[31:40.37-31:41.67] ES2014d-T0450 | Marketing Expert (D): Oh right.
+[31:53.17-31:53.57] ES2014d-T0451 | Marketing Expert (D): Hmm.
+[31:59.56-32:00.23] ES2014d-T0452 | Marketing Expert (D): Mm-hmm.
+[32:05.04-32:06.70] ES2014d-T0453 | Marketing Expert (D): Mm.
+[32:21.02-32:28.52] ES2014d-T0454 | Marketing Expert (D): Okay. Uh-huh.'Cause you've got sort of we've got point two to play with if you really wanted to.
+[32:28.59-32:51.34] ES2014d-T0455 | Project Manager (A): You could put in another Well, in this one, you've actually got three colours of buttons. Well, we decided that the blue ones were the um the standard colour. So you were talking about uh um We're assuming that all the buttons on the second panel, the hidden away panel, would all be standard.
+[32:29.59-32:34.62] ES2014d-T0456 | Marketing Expert (D): Another colour. Or would that be t Yeah.
+[32:38.93-32:39.57] ES2014d-T0457 | Marketing Expert (D): Okay.
+[32:51.54-32:51.87] ES2014d-T0458 | Industrial Designer (B): Yeah.
+[32:51.79-32:52.38] ES2014d-T0459 | Marketing Expert (D): Yeah.
+[32:52.75-32:53.81] ES2014d-T0460 | Project Manager (A): Which
+[32:52.86-32:53.64] ES2014d-T0461 | User Interface Designer (C): Mm-hmm.
+[32:55.30-32:57.66] ES2014d-T0462 | Project Manager (A): m may or may not be the case.
+[32:57.35-33:02.45] ES2014d-T0463 | Marketing Expert (D): Yeah. Shall we save the point two for profitability then?
+[32:58.02-32:58.72] ES2014d-T0464 | Industrial Designer (B): Um
+[33:00.72-33:15.43] ES2014d-T0465 | Project Manager (A): Well, yeah. Bu but but uh was the was there not a button that you were thinking of on the um on the other opt you know, on the second page, as it were, that uh you were thinking of maybe having as a different colour?
+[33:16.06-33:24.94] ES2014d-T0466 | User Interface Designer (C): Um, I don't think they would really need to be. I think if they were just all small round blue buttons, it'd be fine. Needs to be an enter button, but could just be the same as well.
+[33:21.59-33:22.93] ES2014d-T0467 | Industrial Designer (B): Yeah, maybe we've m
+[33:24.82-33:37.40] ES2014d-T0468 | Industrial Designer (B): Maybe for the the one they're gonna see all the time, we make it look good, and um, fit the kind of idea of what they want. And then for the more functional buttons, we don't worry too much about that and just have that as like a plus it's hidden away anyway, you're not gonna see it at the start.
+[33:28.70-33:29.01] ES2014d-T0469 | Marketing Expert (D): Hmm.
+[33:37.04-33:53.36] ES2014d-T0470 | Marketing Expert (D): Yeah. I mean it's the sort of thing that, I mean, you wanna pick up the controller and just hit a button quickly to change the channel or volume. So, if it's dead obvious, then that's fine. But if you're opening the panel and you're looking and you're tuning, then you're paying a bit more attention. So it may be sort of different colour buttons isn't so important.
+[33:41.83-33:42.94] ES2014d-T0471 | Project Manager (A): Yeah, well
+[33:53.37-33:54.48] ES2014d-T0472 | Project Manager (A): Alright. Okay.
+[33:53.95-33:55.24] ES2014d-T0473 | Marketing Expert (D): 'Cause you Yeah.
+[33:55.81-33:56.08] ES2014d-T0474 | Industrial Designer (B): Yeah.
+[33:56.38-33:57.27] ES2014d-T0475 | Marketing Expert (D): So
+[33:56.48-33:59.62] ES2014d-T0476 | Project Manager (A): So we just add that to profitability in effect.
+[33:59.15-34:02.91] ES2014d-T0477 | Marketing Expert (D): Yeah, I mean so we've dropped the cost, but
+[33:59.62-34:04.91] ES2014d-T0478 | Project Manager (A): Right, so we're meant to finish up in five minutes.
+[34:00.01-34:00.79] ES2014d-T0479 | User Interface Designer (C): Mm-hmm.
+[34:05.05-34:13.09] ES2014d-T0480 | Marketing Expert (D): Same sort of function? The criteria? It's alright. Just made a load of money.
+[34:09.70-34:10.33] ES2014d-T0481 | Industrial Designer (B): 'Kay.
+[34:22.24-34:32.62] ES2014d-T0482 | User Interface Designer (C): Shouldn't we maybe lose a point on fashion, go to a three?'Cause we've lost the overall spongy feel. 'Cause it doesn't seem right that it just hasn't changed at all.
+[34:31.78-34:42.79] ES2014d-T0483 | Marketing Expert (D): Well, but I think we said that w Because you got rid of the rubber, we put an extra an extra sort of fruit um shape on one of the buttons. le lemon sh
+[34:41.17-34:45.40] ES2014d-T0484 | User Interface Designer (C): Alright. Did we decide what that was, which button it was? On the volume ones?
+[34:43.90-34:54.62] ES2014d-T0485 | Marketing Expert (D): I think well, we could have lemon shaped ones with the volume ones or something. Or something like that. Yeah.
+[34:46.84-34:50.57] ES2014d-T0486 | User Interface Designer (C): Right.
+[34:48.83-34:52.16] ES2014d-T0487 | Industrial Designer (B): Uh,. That's good.
+[34:55.22-34:56.29] ES2014d-T0488 | Industrial Designer (B): Definitely lemon shaped.
+[35:05.47-35:10.08] ES2014d-T0489 | Marketing Expert (D): Did did you have to have a rubber case, though, for rubber buttons? Or was it the other way around?
+[35:10.60-35:14.76] ES2014d-T0490 | Industrial Designer (B): You had to have rubber buttons if you had the rubber case. So I think we can we're okay.
+[35:12.58-35:13.80] ES2014d-T0491 | Marketing Expert (D): Right, okay.
+[35:12.91-35:15.57] ES2014d-T0492 | Project Manager (A): Mm-hmm. So we're okay this way around.
+[35:15.35-35:15.91] ES2014d-T0493 | Marketing Expert (D): Yeah.
+[35:18.28-35:20.83] ES2014d-T0494 | Marketing Expert (D): So that so we've saved
+[35:19.20-35:24.27] ES2014d-T0495 | Project Manager (A): Until the design team comes in and says, get off. But you are the design team.
+[35:23.98-35:25.98] ES2014d-T0496 | Industrial Designer (B): Then we say it's fine, so it's all good.
+[35:27.65-35:30.20] ES2014d-T0497 | Marketing Expert (D): Saved two Euros on that.
+[35:52.60-35:55.08] ES2014d-T0498 | Project Manager (A): So what bit are we on to?
+[35:59.25-36:08.16] ES2014d-T0499 | User Interface Designer (C): Um, can I just check if that's a cherry or an apple? Did we decide against the apple because of Apple Mac? And did we make it a cherry officially? Right.
+[36:05.71-36:10.23] ES2014d-T0500 | Project Manager (A): Yeah. I th I th Oh. Right, okay.
+[36:06.96-36:07.51] ES2014d-T0501 | Marketing Expert (D): Mm-hmm.
+[36:10.52-36:15.57] ES2014d-T0502 | Industrial Designer (B): Just in case we need that point two for lawsuits and such like.
+[36:20.16-36:23.05] ES2014d-T0503 | Project Manager (A): Oh drats, I've botched that, haven't I.
+[36:49.90-36:52.40] ES2014d-T0504 | User Interface Designer (C): So were we aiming for a certain target on that scale?
+[36:53.57-37:00.18] ES2014d-T0505 | Marketing Expert (D): Well, we're aiming for um one for all of them. M but it really has to fit into the budget, so
+[36:57.47-36:58.24] ES2014d-T0506 | User Interface Designer (C): Right.
+[37:00.91-37:08.30] ES2014d-T0507 | Marketing Expert (D): I guess we just have to adjust things to get it i in the Which is fair enough.
+[37:07.59-37:10.67] ES2014d-T0508 | Industrial Designer (B): And we seem to have least something in each criteria.
+[37:11.36-37:11.81] ES2014d-T0509 | Marketing Expert (D): Yeah.
+[37:11.74-37:13.54] ES2014d-T0510 | Industrial Designer (B): We haven't completely left anything out, so
+[37:13.90-37:17.01] ES2014d-T0511 | Marketing Expert (D): Yeah, I think most
+[37:16.18-37:19.40] ES2014d-T0512 | Industrial Designer (B): As an overall product which has to be quite cheap, we've just about achieved
+[37:19.06-37:19.73] ES2014d-T0513 | Marketing Expert (D): Yeah.
+[37:20.63-37:21.22] ES2014d-T0514 | Industrial Designer (B): everything.
+[37:20.99-37:22.18] ES2014d-T0515 | Marketing Expert (D): Yep.
+[37:31.19-37:33.07] ES2014d-T0516 | User Interface Designer (C): So do we have anything else to discuss?
+[37:34.43-37:36.80] ES2014d-T0517 | Marketing Expert (D): I don't know. What's on the agenda?
+[37:44.17-37:47.06] ES2014d-T0518 | Project Manager (A): Right, okay um
+[37:48.65-37:50.22] ES2014d-T0519 | Project Manager (A): What's happened here?
+[38:04.16-38:06.90] ES2014d-T0520 | Project Manager (A): Right, okay um
+[38:16.05-38:16.72] ES2014d-T0521 | Project Manager (A): Mm.
+[38:23.09-38:28.93] ES2014d-T0522 | Project Manager (A): Right, okay um, Right. So we got
+[38:31.01-38:32.27] ES2014d-T0523 | Industrial Designer (B): We've got the closing.
+[38:31.49-38:58.59] ES2014d-T0524 | Project Manager (A): So we've done the the finance bit and the Excel project and the We've done the redesign. So we're now on to project process. Now satisfaction with, for example, room for creativity, leadership, teamwork, means, et cetera, whiteboard, digital pens, et cetera. So, we're actually now uh, in a sense, on to the evaluation of the course rather than the evaluation of the project is m my understanding of it.
+[38:56.53-38:56.94] ES2014d-T0525 | Marketing Expert (D): Uh-huh.
+[38:58.59-39:08.63] ES2014d-T0526 | Project Manager (A): So what did you and remembering that nobody's just over the curtain. So, um
+[39:10.43-39:13.25] ES2014d-T0527 | Marketing Expert (D): Finish your meeting now.
+[39:13.69-39:15.34] ES2014d-T0528 | Industrial Designer (B): We should just go through this quickly and then
+[39:14.23-39:14.71] ES2014d-T0529 | User Interface Designer (C): Huh.
+[39:15.50-39:15.84] ES2014d-T0530 | Marketing Expert (D): Yeah.
+[39:15.76-39:16.21] ES2014d-T0531 | Project Manager (A): So
+[39:19.58-39:25.02] ES2014d-T0532 | Project Manager (A): I suppose the easiest way of doing it is to put some notes down, which I will do.
+[39:26.31-39:27.13] ES2014d-T0533 | Marketing Expert (D): Okay.
+[39:27.57-39:34.60] ES2014d-T0534 | Project Manager (A): So, uh I think I have to finish that page. Right, okay, so
+[39:32.43-39:34.17] ES2014d-T0535 | Marketing Expert (D): Oh.
+[39:42.34-39:45.96] ES2014d-T0536 | Project Manager (A): Project evaluation. So, um
+[39:49.33-39:57.48] ES2014d-T0537 | Project Manager (A): Creativity. Did you feel you got a chance to express yourselves well enough? Well um
+[39:55.76-39:57.05] ES2014d-T0538 | Industrial Designer (B): Um, yeah. Yeah.
+[39:56.36-39:57.06] ES2014d-T0539 | User Interface Designer (C): Yeah.
+[39:57.79-40:03.31] ES2014d-T0540 | Marketing Expert (D): I thought some of the divisions though between sort of the individual meetings were a bit arbitrary.
+[40:04.46-40:06.76] ES2014d-T0541 | Project Manager (A): Individual meetings. How do you mean?
+[40:06.05-40:10.12] ES2014d-T0542 | Marketing Expert (D): Yeah. Well, we were finding out various things in
+[40:10.90-40:12.08] ES2014d-T0543 | Project Manager (A): In you on your own.
+[40:11.38-40:38.02] ES2014d-T0544 | Marketing Expert (D): in be in-between the meetings, and they didn't the one meeting didn't always follow on for the other one, you know, sort of we had things thrown in at the second meeting where, you know, you'd looked at the remote controls and seen the curviness, but in the first one you'd also looked at some remote controls and looked at the buttons, and I don't understand why it would be in separate meetings that you'd do that. You know, you'd sort of you'd probably present it at one or something like that.
+[40:21.99-40:23.14] ES2014d-T0545 | Project Manager (A): Um
+[40:38.70-40:55.26] ES2014d-T0546 | Project Manager (A): Mm, The only thing you find is in a manufacturing process, you would normally, you go to a meeting, you decide, right, you do this, you do that, you do that. Then you go away. You find out information. You then come back. You then discuss it. You then go and change things around, and then go back. So
+[40:45.90-40:46.90] ES2014d-T0547 | Marketing Expert (D): Yeah.
+[40:51.70-40:52.48] ES2014d-T0548 | Marketing Expert (D): Uh-huh.
+[40:54.74-40:55.44] ES2014d-T0549 | Marketing Expert (D): Yeah.
+[40:54.80-40:59.94] ES2014d-T0550 | Industrial Designer (B): Yeah, I suppose and then be going out and finding more information each time and then diff things will be relevant.
+[40:58.05-41:29.26] ES2014d-T0551 | Project Manager (A): Whereas, this time, you're really getting it from a database source, so it's not uh well uh Anyway, so, what do you want to put down? I've put, seemed okay. Creativity, seemed okay. Um um flow of information on on any given subject given subject um sometimes disjointed.
+[40:58.51-40:59.51] ES2014d-T0552 | Marketing Expert (D): Yeah.
+[41:01.50-41:02.36] ES2014d-T0553 | Marketing Expert (D): Yeah.
+[41:28.49-41:29.38] ES2014d-T0554 | Marketing Expert (D): Yeah.
+[41:30.81-41:38.02] ES2014d-T0555 | User Interface Designer (C): I think it maybe could have been a slightly more creative project. I mean a remote control isn't the most um
+[41:39.78-41:41.21] ES2014d-T0556 | Marketing Expert (D): Yeah, the thing itself.
+[41:40.24-41:42.49] ES2014d-T0557 | User Interface Designer (C): kind of fancy thing that you could imagine designing.
+[41:41.05-41:42.38] ES2014d-T0558 | Project Manager (A): Um
+[41:43.21-41:44.17] ES2014d-T0559 | Marketing Expert (D): Yeah.
+[41:43.23-41:45.61] ES2014d-T0560 | User Interface Designer (C): I can't think of a better example at the minute.
+[41:44.93-41:59.05] ES2014d-T0561 | Project Manager (A): Have could have used a different example pel to increase create
+[41:57.04-41:57.46] ES2014d-T0562 | Marketing Expert (D): Yeah.
+[41:57.60-42:01.33] ES2014d-T0563 | Industrial Designer (B): Is this go It kinda kis fits the purpose that it was something everyone knows about and then
+[42:01.58-42:02.94] ES2014d-T0564 | Project Manager (A): Creativity.
+[42:02.22-42:05.51] ES2014d-T0565 | Industrial Designer (B): something we can at least look at and think how we can improve on.
+[42:04.31-42:05.05] ES2014d-T0566 | Marketing Expert (D): Mm-hmm.
+[42:04.46-42:08.05] ES2014d-T0567 | Project Manager (A): You have to do it within a set time frame is the other thing, so
+[42:07.19-42:28.09] ES2014d-T0568 | Marketing Expert (D): Yeah. But think like it was a bit restrictive just to say that you have to design a television remote control, in a way. I mean it depends what sort of business you're in, I guess. I mean this one seems. From the website it looks it's quite innovative, but we're coming up with some bucket shop product aren't we that's, you know, fifteen quid.
+[42:25.52-42:29.39] ES2014d-T0569 | Industrial Designer (B): one of those things. Like uh, companies can have like a range of products and
+[42:30.04-42:32.14] ES2014d-T0570 | Project Manager (A): I th I uh d
+[42:30.54-42:34.80] ES2014d-T0571 | Industrial Designer (B): I don't know how it works but I guess that something got sent out and have like a brief to kind of
+[42:35.50-43:39.24] ES2014d-T0572 | Project Manager (A): But the other thing is that uh they're I'm guessing that they're trying to use this um software to to demonstrate how you could uh do a project. I mean, m my wife at the moment, for instance, is uh acting as a computer um for um you normally, you got a problem, so you go to your tutor and find out information to see how to get it fixed. So what she's doing is she's having to spend a day at the computer terminal at one end so that any student that comes along can uh ask whatever question. And then you or the idea is that the whichever uh person's at the other end can point them in the right direction, show them where to either give them directly give them help, or secondly, point them in the right direction, either at the library, or uh or or come back, or go and see Joe Bloggs, or whatever.
+[42:49.79-42:50.61] ES2014d-T0573 | Marketing Expert (D): Yeah.
+[43:03.82-43:04.45] ES2014d-T0574 | Marketing Expert (D): Mm-hmm.
+[43:39.24-44:00.24] ES2014d-T0575 | Project Manager (A): So uh, and that was a project I suspect similar to this, because they they were actually trying to debug the uh computer software to enable um to enable it to work. And of course, you had the machine crashing and various things going wrong. So
+[43:53.56-43:54.05] ES2014d-T0576 | Marketing Expert (D): Hmm.
+[43:55.61-43:56.06] ES2014d-T0577 | Industrial Designer (B): Yeah.
+[43:58.72-44:03.54] ES2014d-T0578 | Industrial Designer (B): Well, sh we look at the last slide, see if it's got anything else. I think there's one one more to go.
+[43:58.74-43:59.33] ES2014d-T0579 | Marketing Expert (D): Mm-hmm.
+[44:01.62-44:03.28] ES2014d-T0580 | Project Manager (A): Alright, so we've got uh
+[44:03.36-44:14.02] ES2014d-T0581 | Marketing Expert (D): Yeah. I mean if you look at their products on their website here, Real Reaction, I mean it's all pretty high-tech and cutting edge. And
+[44:12.27-44:16.67] ES2014d-T0582 | Project Manager (A): New ideas found, did we find any, no.
+[44:14.97-44:20.08] ES2014d-T0583 | Industrial Designer (B): It was quite good with this um the white board, having that and the digital pens. Like, that's something that made it a little easier.
+[44:18.83-44:22.39] ES2014d-T0584 | Project Manager (A): Alright. Leadership, teamwork.
+[44:19.08-44:20.76] ES2014d-T0585 | Marketing Expert (D): Yeah. Yeah.
+[44:22.45-44:30.51] ES2014d-T0586 | Marketing Expert (D): we did find a new idea, I mean sort of a kinetic remote control. I've never seen one of them before. batteries, I think. So
+[44:29.62-44:32.25] ES2014d-T0587 | Industrial Designer (B): voice recognition, especially not could
+[44:29.71-44:30.42] ES2014d-T0588 | Project Manager (A): Does
+[44:32.74-44:33.49] ES2014d-T0589 | Marketing Expert (D): Mm yeah.
+[44:33.13-44:37.97] ES2014d-T0590 | Project Manager (A): You've got voice recognition computers, that's not remote controls.
+[44:35.29-44:35.77] ES2014d-T0591 | Industrial Designer (B): Yeah.
+[44:37.25-44:37.84] ES2014d-T0592 | Marketing Expert (D): Yeah.
+[44:37.78-44:39.93] ES2014d-T0593 | User Interface Designer (C): Well it's a different application of it.
+[44:40.07-44:42.80] ES2014d-T0594 | Project Manager (A): Mm-hmm. Okay,
+[44:42.28-44:45.42] ES2014d-T0595 | Industrial Designer (B): Yeah, so it's just like the same products, but just put together in a different way.
+[44:44.95-44:45.54] ES2014d-T0596 | Marketing Expert (D): Mm.
+[44:45.53-44:47.78] ES2014d-T0597 | Project Manager (A): so how do you reckon teamwork went?
+[44:48.47-44:49.04] ES2014d-T0598 | Industrial Designer (B): Um
+[44:48.55-44:50.59] ES2014d-T0599 | Marketing Expert (D): That went okay, yeah.
+[44:51.06-44:53.78] ES2014d-T0600 | Industrial Designer (B): Yeah, I guess we all had separate ideas and then discussed them.
+[44:53.82-44:55.04] ES2014d-T0601 | Marketing Expert (D): Mm-hmm, yeah.
+[44:54.14-44:54.66] ES2014d-T0602 | User Interface Designer (C): Yeah.
+[44:58.13-45:06.93] ES2014d-T0603 | Project Manager (A): To uh go uh reasonably well. Okay.
+[45:06.61-45:13.45] ES2014d-T0604 | Marketing Expert (D): I don't think sort of the budget um allowed us to do anything
+[45:11.76-45:14.38] ES2014d-T0605 | Project Manager (A): Bit bit arbitrary.
+[45:14.21-45:20.90] ES2014d-T0606 | Marketing Expert (D): Well, I mean I don't think it I just don't think it fitted in with the rest of their products. I mean, they've got all these sort of, you know,
+[45:20.45-45:21.00] ES2014d-T0607 | Project Manager (A): Mm-hmm.
+[45:21.80-45:37.22] ES2014d-T0608 | Marketing Expert (D): high definition D_V_D_ and portable seven inch d um lightweight computer screens, and uh I'm thinking, do you know, one cheap remote control doesn't really fit in. Surely they they should produ
+[45:33.33-45:48.16] ES2014d-T0609 | Project Manager (A): So, we're m we're meant to comment on leadership and the means, E_ G_ whiteboard, digital pens, et cetera. And and new i new ideas found was the the other thing.
+[45:44.47-45:46.99] ES2014d-T0610 | User Interface Designer (C): Well leadership's a bit of a funny one, isn't it.
+[45:48.99-45:49.49] ES2014d-T0611 | Marketing Expert (D): Yeah.
+[45:50.78-46:00.99] ES2014d-T0612 | User Interface Designer (C): But we can't really all fairly comment on leadership because you are the Project Manager. You were the leader. So our experience of leadership wasn't really
+[46:02.19-46:03.01] ES2014d-T0613 | Marketing Expert (D): Yeah.
+[46:02.19-46:03.38] ES2014d-T0614 | User Interface Designer (C): as much as yours.
+[46:04.27-46:04.66] ES2014d-T0615 | Marketing Expert (D): Yeah.
+[46:05.41-46:25.22] ES2014d-T0616 | Project Manager (A): Now, I'd much rather be in marketing but I certainly didn't get this uh computer to work as well as I would have liked. However, um Alright uh means, so whiteboard um so really, it's uh equipment. Oh.
+[46:25.32-46:33.39] ES2014d-T0617 | Marketing Expert (D): Yeah. It worked. Comput computers could be a bit difficult at times but
+[46:28.72-46:30.14] ES2014d-T0618 | User Interface Designer (C): Yeah, very nice.
+[46:36.60-46:47.96] ES2014d-T0619 | User Interface Designer (C): But I mean, I d I don't I'm not sure I see the value in these. I mean, they record what you're writing, and then what do you do with it? Where do you get the recording? Do you plug the computer or something?
+[46:46.23-46:50.68] ES2014d-T0620 | Marketing Expert (D): I think there's a little there's a little um chi
+[46:49.74-46:52.31] ES2014d-T0621 | Industrial Designer (B): So it's not just for us, it's for the experiment as a whole, so
+[46:52.25-46:57.17] ES2014d-T0622 | Marketing Expert (D): There's a little there's a little chip, I think you must plug it into something and it produces a
+[46:54.54-46:56.72] ES2014d-T0623 | Industrial Designer (B): Should we quickly look at the last slide? Sh
+[46:56.13-46:58.91] ES2014d-T0624 | User Interface Designer (C): Right. I think you watch a video of it kind of.
+[46:59.30-47:05.09] ES2014d-T0625 | Marketing Expert (D): I don't know. Whether it just produces a big image of sort of everything you've written or something, and Page after page.
+[47:03.55-47:08.19] ES2014d-T0626 | Project Manager (A): Right. New ideas found, so one or two.
+[47:06.94-47:14.02] ES2014d-T0627 | Marketing Expert (D): Yeah. Kinetic powered remote control. Um, what was the other one?
+[47:14.58-47:17.79] ES2014d-T0628 | User Interface Designer (C): Voice um recognition thing.
+[47:15.95-47:16.88] ES2014d-T0629 | Marketing Expert (D): Vo yeah.
+[47:20.40-47:22.36] ES2014d-T0630 | Project Manager (A): um
+[47:25.46-47:27.38] ES2014d-T0631 | Project Manager (A): and uh
+[47:28.90-47:33.76] ES2014d-T0632 | Project Manager (A): voice uh, was it voice activated um
+[47:34.69-47:36.65] ES2014d-T0633 | Marketing Expert (D): Voice recognition, yeah. S
+[47:35.95-47:36.93] ES2014d-T0634 | Project Manager (A): recognition.
+[47:43.74-47:48.23] ES2014d-T0635 | Marketing Expert (D): Almost. To fill in these fill in these questionnaires
+[47:44.46-47:46.49] ES2014d-T0636 | User Interface Designer (C): Pretty much.
+[47:46.58-48:02.87] ES2014d-T0637 | Project Manager (A): Right, so, uh are the costs within budget, yes. Is the project evaluated, yes. Uh, don't forget to complete final questionnaire and meeting summary. Then celebration.
+[47:51.49-47:52.79] ES2014d-T0638 | Marketing Expert (D): Oh no.
+[48:02.66-48:05.76] ES2014d-T0639 | Industrial Designer (B): . Is that everything?
+[48:04.75-48:10.05] ES2014d-T0640 | Marketing Expert (D): Hmm? I think that we've got two questionnaires and a report on the last meeting.
+[48:08.27-48:08.64] ES2014d-T0641 | Project Manager (A): Yeah.
+[48:13.05-48:17.62] ES2014d-T0642 | Project Manager (A): Uh, so we don't re So really
+[48:20.06-48:31.36] ES2014d-T0643 | Project Manager (A): I tried to save this the last time at twelve point three, and it didn't seem to have saved anywhere. Mind you, the the figure last was was different, but it should be poss

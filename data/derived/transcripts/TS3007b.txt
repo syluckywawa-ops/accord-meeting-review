@@ -1,0 +1,416 @@
+Meeting: TS3007b
+Split: test
+Meeting date: 2004-10-18
+AMI duration (seconds): 3355
+Transcribed word elements: 7648
+
+[00:02.06-00:02.58] TS3007b-T0001 | Project Manager (A): Hello.
+[00:03.42-00:04.61] TS3007b-T0002 | Marketing Expert (D): Hey guys.
+[00:04.48-00:14.62] TS3007b-T0003 | Industrial Designer (C): Hi. I see my bunny is still standing. No one drawing it. Uh I figured uh that much.
+[00:04.86-00:05.61] TS3007b-T0004 | User Interface Designer (B): Hi.
+[00:05.41-00:05.96] TS3007b-T0005 | Project Manager (A): Hi.
+[00:08.32-00:10.79] TS3007b-T0006 | Project Manager (A): Yeah. It's too beautiful.
+[00:10.05-00:11.29] TS3007b-T0007 | User Interface Designer (B): Yeah, true.
+[00:13.63-00:15.02] TS3007b-T0008 | Marketing Expert (D): Too wicked.
+[00:15.54-00:16.72] TS3007b-T0009 | User Interface Designer (B): Mm.
+[00:22.55-00:26.70] TS3007b-T0010 | Project Manager (A): A minute please, my uh laptop is uh oh, there it is, thank you.
+[00:44.86-03:00.72] TS3007b-T0011 | Project Manager (A): So welcome back. At the functional design meeting um the plan is uh that uh each one of you, so not me but only you uh will uh present uh the the things you worked on uh the last uh half hour. I will uh take minutes and will put uh the minutes that I have uh at the end of the session in the shared folder. Also the minutes of the previous session are also in the shared folder now, so you can read that uh now or afterwards. Um uh I had an email from the from the management board uh, I don't know if you a al also uh received it, but there were four points uh which uh I think are very important. First one is uh they think that uh teletext teletext becomes outdated uh and internet will be the the main uh focus. Uh second one is also important uh, because it's one of the discussion points of the previous session. Uh the remote control shou should onl only be used for the television, so it uh not gonna it's not gonna be a multi-purpose remote control, so uh that's one thing to keep in mind. Uh second, and I think that's important for the Marketing uh Expert, uh the current uh customers uh are in the age group group of uh forty years and older, but with this uh new remote uh they uh will uh would like to reach uh a group uh younger than uh forty. Uh and uh I think to keep in mind, but not really uh for now is that they uh want the the the slogan and the and the logo uh to uh to be recognised more in the remote. So, we have uh forty minutes, so I think uh not more than ten minutes uh uh per presentation uh each, and please uh use uh all the the the facilities so that you have either SMARTboards, the the Word files, what you uh whatever you want. So uh Tim, can you start?
+[03:02.10-03:02.96] TS3007b-T0012 | Marketing Expert (D): Okay.
+[03:02.91-03:03.20] TS3007b-T0013 | Project Manager (A): Yeah?
+[03:29.50-03:37.26] TS3007b-T0014 | Marketing Expert (D): 'Kay, welcome. I have some uh new findings on uh Marketing Expert level,
+[03:35.52-03:36.15] TS3007b-T0015 | User Interface Designer (B): Mm-hmm.
+[03:38.93-03:40.06] TS3007b-T0016 | Marketing Expert (D): which I will show you.
+[03:41.92-04:04.82] TS3007b-T0017 | Marketing Expert (D): The method I used was um giving orders to our usability lab uh to do a questionnaire. Um one hundred respondents were involved and my marketing uh department generated a report with a lot of results.
+[04:06.46-04:07.01] TS3007b-T0018 | Marketing Expert (D): Um,
+[04:09.25-05:08.67] TS3007b-T0019 | Marketing Expert (D): these were a couple of findings, first page of three. Um, we have three audiences of two audiences, I'm sorry. Uh the first one, this scale, from sixteen to forty five age. Uh the second one is from sixty four uh forty six to sixty five. Um, as you can see here, the market share for the first audience is about sixty percent um sixty five. Uh second audience audience is uh thirty five percent. Mm and some interests from the from the age groups, uh it seems like the young users of remote controls really like the fancy uh new technology stuff, like uh an L_C_D_ screen on the remote control, um speech recognition.
+[05:10.61-05:17.87] TS3007b-T0020 | Marketing Expert (D): I don't think that's uh really appropriate. Um, and when you see uh the audience,
+[05:19.50-05:27.81] TS3007b-T0021 | Marketing Expert (D): the age is going up uh Yeah, they don't really want it anymore, at least the new technologies.
+[05:29.78-05:55.28] TS3007b-T0022 | Marketing Expert (D): Second findings out of the questionnaire um are the opinion the opinions uh of the audience about current remote controls. First point is, seventy five percent of the users find the most repo remote controls very ugly, uh and eighty percent of the users would spend more money when a remote control would look fancy.
+[05:57.12-06:01.78] TS3007b-T0023 | Marketing Expert (D): So that's maybe something for the User Interface uh Designer.
+[06:04.56-06:48.85] TS3007b-T0024 | Marketing Expert (D): Okay, third findings. According to the frequency of use versus importance investigation, um following buttons are most important. Um, I will tell something about the way this uh this test was, yeah, done. Um, persons were asked uh what the buttons were uh they use most, how much an hour, and uh in the second table the importance of those buttons. Um, when you multiply them, you get the these three points. Switching channels, um yeah,
+[06:33.22-06:33.67] TS3007b-T0025 | Project Manager (A): Mm-hmm.
+[06:50.21-06:51.12] TS3007b-T0026 | Marketing Expert (D): that's pretty uh
+[06:53.15-07:15.02] TS3007b-T0027 | Marketing Expert (D): pretty normal, that's what you do with a remote control. Um the second, teletext, uh and the third, uh volume controls. Um, I think it's good uh that we know what the user want wants, uh at least the these three points have to be uh very clear.
+[07:14.01-07:20.58] TS3007b-T0028 | Project Manager (A): But it's strange that the the manage board the management board said that the teletext will be uh outdated by the internet.
+[07:21.22-07:21.79] TS3007b-T0029 | Marketing Expert (D): Yeah, okay.
+[07:21.25-07:22.99] TS3007b-T0030 | Project Manager (A): So that that's strange.
+[07:22.90-07:38.43] TS3007b-T0031 | Marketing Expert (D): Yeah, okay, but uh at the moment uh teletext is Yeah, th the best thing you can get uh on T_V_, like getting information. So uh, when you ask people, what do they use,
+[07:32.20-07:35.00] TS3007b-T0032 | Project Manager (A): Yeah, okay. Yeah.
+[07:39.74-07:45.06] TS3007b-T0033 | Marketing Expert (D): they use teletext and not the internet on a remote control. That's ridiculous.
+[07:40.79-07:44.72] TS3007b-T0034 | Project Manager (A): Okay. Yeah, okay. Yeah.
+[07:46.05-07:49.69] TS3007b-T0035 | Marketing Expert (D): That's a ne i it It's a new technology, but it's not incorporated right now.
+[07:47.94-07:48.45] TS3007b-T0036 | Project Manager (A): Yeah.
+[07:51.06-07:53.97] TS3007b-T0037 | Marketing Expert (D): Okay, my personal preferences. Um,
+[07:55.60-08:00.32] TS3007b-T0038 | Marketing Expert (D): I think we should aim at the uh audience from sixteen to forty five.
+[08:01.92-09:01.36] TS3007b-T0039 | Marketing Expert (D): Mm, first of all um it's the biggest share, the biggest audience, sixty five percent. Uh second, I think you will get the most revenue from i from it. Um, yeah, people from sixteen to forty five watch a lot of T_V_, more than uh people who are el uh elder. Um second point, we have to impro improve the most used functions, as I said here, switching channels, teletext and volume controls. Third point um that came out of the uh of the questionnaire, uh people used to uh get lost off the remote controller, so maybe it's an idea for us uh to design ex kind of placeholder uh on side of the, yeah, of the T_V_ where you can put the the remote control in.
+[08:54.10-08:55.49] TS3007b-T0040 | Project Manager (A): Yeah, that's a cool idea.
+[09:02.52-09:06.43] TS3007b-T0041 | Marketing Expert (D): Um, that's about it, I think. Yeah.
+[09:06.84-09:12.62] TS3007b-T0042 | Industrial Designer (C): When you mentioned uh improving functions, what uh what do you mean by that what what are you think about?
+[09:10.93-09:27.12] TS3007b-T0043 | Marketing Expert (D): Uh not not the r not the functions, but uh it came out that a lot of buttons weren't even used uh on a remote control. So you can have a remote control full of buttons, a hundreds hundreds of buttons, but if you don't use them, yeah it's
+[09:14.05-09:15.84] TS3007b-T0044 | Industrial Designer (C): Uh, the funtionability.
+[09:26.35-09:26.85] TS3007b-T0045 | Project Manager (A): Yeah.
+[09:26.86-09:29.63] TS3007b-T0046 | Industrial Designer (C): Ah okay, so focusing more on the used buttons.
+[09:28.93-09:39.46] TS3007b-T0047 | Marketing Expert (D): Yeah, they have to be on it j just to t to get it done if necessary, but um the most used buttons uh have to be bigger or
+[09:30.62-09:31.06] TS3007b-T0048 | Industrial Designer (C): Yeah.
+[09:40.61-09:49.24] TS3007b-T0049 | Industrial Designer (C): Could you use perhaps uh one button for multiple functions, like example pressing it in longer makes it switch to an different function for example.
+[09:48.45-09:52.05] TS3007b-T0050 | Marketing Expert (D): Yeah, perhaps. Just for the minor functions perhaps.
+[09:50.16-09:54.34] TS3007b-T0051 | Industrial Designer (C): Thank you. Yeah, ma perhaps, just just an idea.
+[09:54.53-09:59.18] TS3007b-T0052 | Marketing Expert (D): Just to get less buttons on the remote control, to make it easier and quicker to learn.
+[09:59.49-09:59.92] TS3007b-T0053 | Industrial Designer (C): Yeah.
+[10:00.30-10:00.51] TS3007b-T0054 | Marketing Expert (D): Yeah?
+[10:02.57-10:03.18] TS3007b-T0055 | Marketing Expert (D): 'Kay, that's it.
+[10:04.35-10:07.33] TS3007b-T0056 | Project Manager (A): Thank you, Tim. Janus, can you uh
+[10:06.05-10:07.83] TS3007b-T0057 | Industrial Designer (C): Uh yeah yeah, I'll go, sure.
+[10:24.21-12:33.06] TS3007b-T0058 | Industrial Designer (C): Right uh, I'll be uh explaining a bit about uh working design about uh the project. Well uh what I did was I dissected uh uh current remote controls and um I viewed how how they w looked, how they worked, uh what kind of components are involved, and how they are connected together. And uh after that I put up a scheme about how uh these things are organised and I'll show it to you in in a in a few seconds. And I'll explain a bit about uh how it works and how we could uh build one and why I think several possibilities uh that we discussed in the earlier meeting falls off. Um right. Uh well what I did was uh I I checked uh remote controls and the uh remote controls of today are all infrared, not like all probably know. And the thing about that is um the remote controls uh have to act as a T_V_ or uh a stereo or something, and those uh have a transmitter that's also focused on infrared, so if we want to uh build uh mm a remote control uh with Bluetooth for instance then uh the T_V_ should have Bluetooth too in order to communicate, so that would mean extra cost for the user and thus uh that's that wouldn't mean a a cheap uh remote control for us. So that's probably why most controls are still infrared. Furthermore they all have uh a a very simple structure, so that would probably uh mean lower costs and uh i that could mean for us a good thing uh'cause uh well we we should be able to build a relatively cheap uh a cheap uh remote. Well uh as I mentioned ready, we have some Bluetooth Well it may be possible, but uh I figured it wouldn't be possible in within our budget, but that's not for me to decide, but that's maybe something for marketing to look into. F because uh well my personal opinion is uh is not to do uh Bluetooth or or radio waves, although
+[12:33.41-12:43.20] TS3007b-T0059 | Marketing Expert (D): What do you think about uh incorporating Bluetooth or a radio uh receiver uh in the place-holder next to the T_V_, connected to the T_V_?
+[12:43.18-12:44.69] TS3007b-T0060 | Industrial Designer (C): Yeah, actually I have t
+[12:44.14-12:45.76] TS3007b-T0061 | Marketing Expert (D): So it's in the wrong product.
+[12:46.11-13:35.80] TS3007b-T0062 | Industrial Designer (C): Yeah. Yeah, I actually I figured that would be that would be rather nice, but then you'd still have the uh the infrared function. So in in theory you'd actually just move the problem, but uh what I did uh think about was when you mentioned about the uh the cup-holder, is why not uh introduce a speech function like where is the remote. If somebody says, where is the remote, then it goes uh beep uh beep beep beep or something, I dunno, maybe uh maybe something to look into, I dunno uh what the cost that something like that would be. But it may be uh may be something to explore. Uh I'll I'll just explain a bit of the components. Uh first you have the energy source. The energy source would be a battery, simple uh battery uh that you can find anywhere. I figured that would be best,'cause when the battery uh stops functioning uh we could just uh use you could just go out and buy a new one.
+[12:53.93-12:54.47] TS3007b-T0063 | Marketing Expert (D): Yeah.
+[12:57.14-12:57.41] TS3007b-T0064 | Marketing Expert (D): Yeah.
+[13:08.88-13:12.05] TS3007b-T0065 | Marketing Expert (D): Yeah.
+[13:35.80-15:34.58] TS3007b-T0066 | Industrial Designer (C): So we didn't and we don't have to do all uh to be too complicated about that. Uh the energy source is connected to the infrared button, but uh the infrared button uh works only via the chip and the subcomponent to uh the switch there is a switch uh between these. When the switch is pressed in a w on this this case it switches a button, when a button is prush pushed in, uh a electric current goes through here, and in uh immediately, a l a bulb lights up uh displaying to the user that something has happened. That's uh that's so the h user won't be um thinking, well uh did the button be pressed, w what happened uh. Or I press button but nothing's happening on the T_V_, so is is something wrong or something. So that's just to uh to to explain the of to to uh make it clearer to the user. Uh w well the signal goes via chip that's translated into uh electric sig uh electronic signals and then it's processed and then it's sent to the infrared bulb where it will be uh uh received on the receiving end. And those uh interpreted by the device, well in this case the television. Uh well my personal preferences here, well we have to keep it simple. Not too many uh gadgets and functions, just like you said uh well the most users n uh you have a lot of buttons and you u u use you don't use them, so why why should we invent uh w spend more time on those. Uh I I think we should stick by with infrared transmitting and uh no receiving. So uh no input from the television. So I think we shouldn't be uh spending time on um teletext and st things like that, because when you uh want teletext on uh infrared you'd have to build in a receiver too, and so in order to receive the signals from uh what's on T_V_ and such. So I figure that would be uh spending too much money and time and
+[15:34.75-15:43.91] TS3007b-T0067 | Marketing Expert (D): Um, yeah, maybe another problem uh, I think current T_V_s can even send infrared.
+[15:43.14-16:36.29] TS3007b-T0068 | Industrial Designer (C): Yes, but what should we uh s I I I f I agree with you, but should we spend money or and time on building a receiver into the uh remote control?'Cause that would be I mean extra components, extra designs, um larger g uh remote control. These all uh all stuff that we have to take in account. So I I my personal opinion is no no no receiver at all. Um, well we should uh look into the design and the functionability. Like I said, uh use one button for instance for m multiple functions, or well uh just hide the few buttons o of switching it open or something, the usual uh stuff. And uh don't overbuild, we shouldn't make a big uh remote control for simple functions, but we we should stick to the basics. So that was my uh my personal opinion. And that was my uh my presentation uh
+[15:47.32-15:47.67] TS3007b-T0069 | Marketing Expert (D): Huh.
+[15:51.90-15:52.27] TS3007b-T0070 | Marketing Expert (D): Mm-hmm.
+[15:54.24-15:54.71] TS3007b-T0071 | Marketing Expert (D): Yeah.
+[15:58.50-15:58.74] TS3007b-T0072 | Marketing Expert (D): Yeah.
+[16:06.78-16:07.15] TS3007b-T0073 | Marketing Expert (D): Yeah.
+[16:36.21-16:36.66] TS3007b-T0074 | User Interface Designer (B): Okay.
+[16:36.29-16:37.34] TS3007b-T0075 | Project Manager (A): Okay, thank you Janus.
+[16:37.58-16:42.19] TS3007b-T0076 | User Interface Designer (B): Yes, I can go ahead. Last presentation. Okay.
+[16:38.19-16:47.04] TS3007b-T0077 | Project Manager (A): You do? The last presentation. You have plenty of time, Tim and uh Janus don't uh talk to ten minutes, so uh take your time.
+[16:48.85-16:53.79] TS3007b-T0078 | Project Manager (A): If you take your time too long I will uh eventually uh warn you.
+[16:59.98-17:07.50] TS3007b-T0079 | User Interface Designer (B): Well, I'm going to give a presentation abut some of the technical functions of these design and uh usability functions.
+[17:09.33-18:03.62] TS3007b-T0080 | User Interface Designer (B): Um what's my opinion about what's most important to combine the design, technical possibilities and the user friendliness in one, so if you um going to design a remote that looks good, that shouldn't weigh over the uh if it's possible to make, of course, but also the user friendliness, so tha that's that's some of the main points. And another one is um the use um of many functions will will make it more difficult, so use as as little functions as possible or at least don't display them all at once on the same remote. If you have fifty functions you don't want fifty buttons uh t uh to be shown at the same time,'cause when you visit an internet uh site you don't want fifty links uh to see, but maybe use a hierarch hierarchy uh structure.
+[17:49.26-17:49.57] TS3007b-T0081 | Marketing Expert (D): Hmm.
+[18:03.62-18:27.41] TS3007b-T0082 | User Interface Designer (B): And uh well one of the ideas was maybe uh use touch screen, but s I don't know in how far that is possible, since we are sticking to uh um infrared and and the remote cannot receive anything, but uh we might uh consider that. Um well, of course I I hope this is all clear to you. If you you can use remote like this with all the functions,
+[18:08.80-18:09.33] TS3007b-T0083 | Marketing Expert (D): Hmm.
+[18:28.00-19:01.17] TS3007b-T0084 | User Interface Designer (B): many functions, but Well, your thumb is a little bigger than th it than this. You have to be very careful what you push, and um if you're looking for teletext you'll be uh searching for half an hour from uh um yeah well, where is it? Where the hell he here I guess and, yeah, when you have to uh use something else. So just keep it simple, make clear buttons, easy to use. For example if you want to use a play and back and stop, that's very important.
+[19:03.31-19:29.98] TS3007b-T0085 | User Interface Designer (B): Um well this was because of our last discussion, if multiple machines are used, create easy switch between the machines, but um it's no longer uh applying. Well yeah, I prefer to use it only for T_V_ and um n uh not to give too many options and and if possible, uh the buttons should give a dr direct action, not first select
+[19:30.43-19:50.10] TS3007b-T0086 | Project Manager (A): Uh you you just said um uh you wanted to to combine more functions in one, so uh you you want to keep it simple, but I think that if you want to do that, then you can't escape the the fact that there will be buttons uh which give s uh more options than one.
+[19:38.13-19:40.61] TS3007b-T0087 | User Interface Designer (B): Yeah, and so that's where the difficulties lie.
+[19:38.79-19:39.38] TS3007b-T0088 | Industrial Designer (C): Yeah, but
+[19:50.03-20:07.01] TS3007b-T0089 | User Interface Designer (B): Yeah, this so that's the thing you have to weigh against each other. Do we want to use a few options and might not be so or original, or uh multi-purpose as we thought, or do we want to use um many buttons. So um weighing those factors.
+[19:50.27-19:51.39] TS3007b-T0090 | Industrial Designer (C): Yeah. Yeah, but
+[19:58.02-19:58.58] TS3007b-T0091 | Project Manager (A): Mm-hmm.
+[20:00.43-20:00.90] TS3007b-T0092 | Project Manager (A): Okay.
+[20:03.97-20:04.38] TS3007b-T0093 | Project Manager (A): Yeah.
+[20:07.33-20:19.73] TS3007b-T0094 | Marketing Expert (D): Hmm it's maybe an option uh if you use an L_C_D_ or a touch screen um, that in the middle are the the main keys, like displayed on the
+[20:21.54-20:22.13] TS3007b-T0095 | Marketing Expert (D): Uh yeah.
+[20:22.67-20:23.89] TS3007b-T0096 | User Interface Designer (B): The doesn't.
+[20:23.08-20:42.90] TS3007b-T0097 | Marketing Expert (D): . Yeah, this? No? Yeah. Something like that. Okay, just uh in the middle the general functions, like play, uh channel switching, and then uh at the top or at the bottom, some menus like uh settings or that you can drop down.
+[20:35.01-20:35.33] TS3007b-T0098 | User Interface Designer (B): Yeah.
+[20:42.94-21:19.09] TS3007b-T0099 | User Interface Designer (B): Yeah, but when all the questions I had Do we want to use uh a menu display on the T_V_? Or um does have to f everything uh be in remotes?'Cause if you use a memory display on the T_V_, you can simply push uh a more menu and then select the options you want to have and press okay. Uh so that's my recommendation, if you use many options in one buttle button, um display the menu on the T_V_ and don't um use combination of t of two buttons at the same time or pressing buttons three times for five seconds, is too complicated for most users.
+[20:52.91-20:53.45] TS3007b-T0100 | Marketing Expert (D): Mm.
+[21:03.69-21:04.13] TS3007b-T0101 | Marketing Expert (D): Nah.
+[21:06.58-21:07.00] TS3007b-T0102 | Marketing Expert (D): Mm-hmm.
+[21:09.61-21:10.12] TS3007b-T0103 | Marketing Expert (D): Yeah.
+[21:17.20-21:38.34] TS3007b-T0104 | Marketing Expert (D): Yeah. I think so too, but and that's partly because um uh a lot of T_V_s have different menus, and when you have a particular menu uh at your device, uh it could be that don't correspond to the menu what's actually on T_V_.
+[21:19.15-21:19.63] TS3007b-T0105 | Industrial Designer (C): Yeah, but
+[21:38.27-21:39.81] TS3007b-T0106 | User Interface Designer (B): Yeah, that will be a problem.
+[21:39.84-21:40.13] TS3007b-T0107 | Marketing Expert (D): Yeah.
+[21:40.16-21:58.35] TS3007b-T0108 | Industrial Designer (C): Well you d you have to keep in mind that uh several T_V_s uh don't even have a menu structure, or they have a very simple menu structure, so you have to keep in mind that not all uh d not our remote won't be able to work on all televisions. And that would be uh a considerable problem.
+[21:55.28-22:14.91] TS3007b-T0109 | User Interface Designer (B): Yes. So if we have to stick with current technologies and uh um well yeah, the restrictions of what's uh is on the market today, um you should keep it s at this. Use big clear buttons. Not too many.
+[22:08.53-22:09.04] TS3007b-T0110 | Industrial Designer (C): Yeah.
+[22:15.98-22:22.14] TS3007b-T0111 | User Interface Designer (B): So maybe we'll loose a few option uh options, but I think i this is more important. Um
+[22:24.24-22:40.74] TS3007b-T0112 | User Interface Designer (B): especially the important buttons, um if you want to switch channel, change your volume, uh use teletext, it uh it has to work at once and more advanced options may be put it s somewhere away on the remote, behind uh a little uh little thing or a touch screen.
+[22:34.57-22:35.29] TS3007b-T0113 | Industrial Designer (C): Not embed
+[22:37.73-22:42.39] TS3007b-T0114 | Industrial Designer (C): Yeah, but then with something like a touch screen could could make more menu up pop up or something.
+[22:41.81-23:04.78] TS3007b-T0115 | User Interface Designer (B): And yeah, if you want to uh uh s put on stand-by or change the channel, that should always be possible to do. Not first change menu options or switch something. Um, well yeah, as you already told, give some feedback. If the user is pushing a button he should know if the television or n at least remote is reacting and not just that the batteries may be low.
+[22:50.90-22:51.26] TS3007b-T0116 | Industrial Designer (C): Yeah.
+[22:56.22-22:56.62] TS3007b-T0117 | Industrial Designer (C): Yeah.
+[23:04.78-23:48.75] TS3007b-T0118 | User Interface Designer (B): And um, well, my conclusion is uh is uh less is more, keep it simple. So uh maybe we should just ease down on the functionality to uh to keep it accessible on t because you all know, if there are a lot of function on the the television, some you you'll never know uh and never use, and therefore it's uh important if you want to change the volume or channel that is always accessible and easy and other functions um that are not so important um well you we should consider just not using them or at least putting them somewhere on the remote where they're not in the way for the for the most important functions.
+[23:27.22-23:27.44] TS3007b-T0119 | Marketing Expert (D): Yeah.
+[23:49.04-24:30.22] TS3007b-T0120 | Marketing Expert (D): Yeah. Uh, I think the idea uh about uh touch screen um is very good. Um, because recently uh I saw news item on T_V_ um about uh new telephones uh for elder people. Um, they have like a touch screen with uh really big pictures on it like uh uh call uh hang-up, um and that's a big ad advantage I think, because one the one hand uh
+[24:31.82-24:41.30] TS3007b-T0121 | Marketing Expert (D): you make the remote control compatible for elder users just by uh scaling up the pictures or something. It's uh
+[24:39.86-24:40.31] TS3007b-T0122 | Project Manager (A): Mm-hmm.
+[24:42.45-24:45.04] TS3007b-T0123 | Marketing Expert (D): very visual intended.
+[24:48.19-24:49.92] TS3007b-T0124 | Marketing Expert (D): What was I to say more?
+[24:50.46-25:18.80] TS3007b-T0125 | User Interface Designer (B): Maybe that's an option. Um keep the primary buttons visible. Uh make a remote that fits easily in the hands and for some design issues uh well, put a logo on it and maybe use it uh in some aesthetic uh aesthetic form. But uh th the important buttons m make them always accessible and pushable and clear and maybe use a touch screen, or if that's uh will become too difficult just uh
+[24:54.74-24:55.06] TS3007b-T0126 | Marketing Expert (D): Yeah.
+[25:20.14-25:33.14] TS3007b-T0127 | User Interface Designer (B): like televi some o older telephones use a l uh maybe it's possible to to flip them open and uh just expand the number of options that are normally visible. Um
+[25:32.16-25:35.82] TS3007b-T0128 | Marketing Expert (D): Yeah okay, but but if you pick the the idea, the left idea
+[25:36.14-25:36.50] TS3007b-T0129 | User Interface Designer (B): Yeah.
+[25:36.85-25:40.18] TS3007b-T0130 | Marketing Expert (D): then what's gonna be displayed on the touch screen?
+[25:40.53-25:41.60] TS3007b-T0131 | Industrial Designer (C): The extra functions.
+[25:41.57-25:55.22] TS3007b-T0132 | User Interface Designer (B): The extra functions, you uh you just see a menu from system functions or teletext functions, and you just choose one, and then all all the options will become available and you just c s yeah t scroll through them.
+[25:42.41-25:44.57] TS3007b-T0133 | Marketing Expert (D): Yeah, but l like menu functions or
+[25:44.93-25:45.35] TS3007b-T0134 | Industrial Designer (C): Yeah.
+[25:50.04-25:50.70] TS3007b-T0135 | Marketing Expert (D): Ah okay.
+[25:55.68-26:14.77] TS3007b-T0136 | Industrial Designer (C): Wouldn't it be better to make just one big touch screen, uh one one small uh touch screen uh applet and uh I'll just make um uh let's say fifteen buttons on it, and uh we have three of those, uh actually just uh menus with sub-menus, with or sub-items, sub-functions.
+[25:58.66-25:59.89] TS3007b-T0137 | Marketing Expert (D): Yeah, I think so.
+[26:13.92-26:14.39] TS3007b-T0138 | Marketing Expert (D): Yeah.
+[26:13.98-26:16.74] TS3007b-T0139 | User Interface Designer (B): Well um then I'd like to make a proposal.
+[26:21.12-26:23.07] TS3007b-T0140 | User Interface Designer (B): If you make one big touch screen,
+[26:23.07-26:23.74] TS3007b-T0141 | Industrial Designer (C): Yes.
+[26:24.18-26:32.45] TS3007b-T0142 | User Interface Designer (B): use the same concept as here, keep the buttons always available and use the lower part of the touch screen for the rest.
+[26:26.56-26:26.91] TS3007b-T0143 | Industrial Designer (C): Yeah.
+[26:27.70-26:28.22] TS3007b-T0144 | Marketing Expert (D): Yeah.
+[26:32.48-26:47.50] TS3007b-T0145 | Industrial Designer (C): Yeah, yeah, like like the iPod idea that that we just saw. You just have a f a few selected buttons and uh a few menus, and with this idea you could actually make uh several you can also improve uh later on.
+[26:32.56-26:33.21] TS3007b-T0146 | Marketing Expert (D): Yeah.
+[26:35.17-26:35.87] TS3007b-T0147 | User Interface Designer (B): Yeah.
+[26:47.82-26:48.49] TS3007b-T0148 | User Interface Designer (B): Yes.
+[26:50.24-26:52.69] TS3007b-T0149 | Industrial Designer (C): Uh uh I think that will be great.
+[26:52.80-26:53.33] TS3007b-T0150 | User Interface Designer (B): Okay.
+[26:53.30-26:57.52] TS3007b-T0151 | Project Manager (A): So you think it's will be better to have a t kinda total touch screen.
+[26:57.44-26:58.50] TS3007b-T0152 | Marketing Expert (D): Yeah, I think so.
+[26:58.24-27:00.11] TS3007b-T0153 | Industrial Designer (C): Yeah, I wou I would actually go for the
+[26:59.54-27:00.06] TS3007b-T0154 | Project Manager (A): Jirun?
+[27:00.00-27:11.17] TS3007b-T0155 | User Interface Designer (B): Okay, I agree, but I think it's very important that they always um make the same buttons accessible, so use just for special options a part of the touch screen.
+[27:11.18-27:12.10] TS3007b-T0156 | Marketing Expert (D): Yeah, of course.
+[27:11.46-27:11.97] TS3007b-T0157 | Project Manager (A): Yeah.
+[27:12.13-27:12.60] TS3007b-T0158 | Industrial Designer (C): Yeah.
+[27:12.22-27:33.79] TS3007b-T0159 | User Interface Designer (B): And so um an elder designer picks up th the of an elder parents or grandparent picks up the remote from the little child and who's all in the systems functions, you'll have to have the possibility to turn off the T_V_ or to switch the channel without um well using all the menu structures to get back to the primary functions.
+[27:17.88-27:18.88] TS3007b-T0160 | Project Manager (A): Yeah yeah yeah.
+[27:33.67-27:34.14] TS3007b-T0161 | Project Manager (A): Yeah.
+[27:34.29-27:41.42] TS3007b-T0162 | Marketing Expert (D): Yeah, I had another uh idea about maybe parental control. Um,
+[27:40.14-27:40.56] TS3007b-T0163 | User Interface Designer (B): Mm-hmm.
+[27:42.88-27:58.94] TS3007b-T0164 | Marketing Expert (D): like building in uh some kind of PIN code uh which allows uh parents to switch to all channels, uh but children uh if children don't don't know the PIN code, they can't switch to uh violent uh channels or
+[27:50.32-27:50.61] TS3007b-T0165 | User Interface Designer (B): Yeah.
+[27:55.74-27:56.33] TS3007b-T0166 | User Interface Designer (B): Yeah wh
+[27:57.89-27:59.83] TS3007b-T0167 | User Interface Designer (B): Is that possible to use or no?
+[27:59.32-28:04.07] TS3007b-T0168 | Industrial Designer (C): That is possible, that well that actually depends on the television, but I think I figure that would be
+[28:00.68-28:01.89] TS3007b-T0169 | Marketing Expert (D): Th there's just
+[28:02.57-28:05.62] TS3007b-T0170 | User Interface Designer (B): Well, yeah well, does it have to depend on the television?
+[28:04.09-28:07.12] TS3007b-T0171 | Marketing Expert (D): Ju just a simple log-in, something like that.
+[28:06.51-28:29.92] TS3007b-T0172 | Industrial Designer (C): Well, y you s you see the fi uh thing is when you buy a remote, you you set the uh channels, the the channels are different on each te television, they aren't set in a preset order, so uh if you uh lock on a remote, uh let's say channel fifteen, well channel fifteen on this television is different than channel fifteen on the other television, so that would be uh that would be actually the main concern.
+[28:07.17-28:07.66] TS3007b-T0173 | Project Manager (A): Yeah.
+[28:13.60-28:13.90] TS3007b-T0174 | Marketing Expert (D): Yeah.
+[28:16.59-28:17.25] TS3007b-T0175 | Marketing Expert (D): Yeah.
+[28:22.74-28:23.07] TS3007b-T0176 | Marketing Expert (D): Mm-hmm.
+[28:26.24-28:27.26] TS3007b-T0177 | Marketing Expert (D): Yeah, okay.
+[28:28.43-28:30.48] TS3007b-T0178 | Project Manager (A): Yeah. Yeah.
+[28:29.25-28:51.94] TS3007b-T0179 | User Interface Designer (B): Well, I think that he means that um maybe by some option uh make sure that um remote control and the T_V_ match, and then after that you can um use some s insert some passwords as being apparent that the children cannot use this uh change the settings of the T_V_, like colour and then volume and uh
+[28:47.09-28:47.36] TS3007b-T0180 | Marketing Expert (D): Yeah.
+[28:51.47-29:04.30] TS3007b-T0181 | Marketing Expert (D): Yeah, th that kind of stuff, but maybe um if you log in first as a parent um, you address the the channels and like uh oh, that's channel fifteen, that's uh
+[28:56.45-28:57.07] TS3007b-T0182 | User Interface Designer (B): Mm-hmm.
+[29:00.62-29:01.21] TS3007b-T0183 | Industrial Designer (C): Yes.
+[29:05.41-29:14.21] TS3007b-T0184 | Marketing Expert (D): vi violent channel, uh m my ki my kids uh I don't want my kids to watch that, then you set the priority to only parents,
+[29:06.74-29:08.10] TS3007b-T0185 | User Interface Designer (B): Oh, something like that.
+[29:06.75-29:07.31] TS3007b-T0186 | Industrial Designer (C): Yes.
+[29:10.34-29:10.80] TS3007b-T0187 | Industrial Designer (C): Yeah.
+[29:14.17-29:16.27] TS3007b-T0188 | Industrial Designer (C): Yeah. Yeah, that would b
+[29:14.59-29:16.09] TS3007b-T0189 | Project Manager (A): Okay, yeah.
+[29:15.23-29:24.80] TS3007b-T0190 | User Interface Designer (B): Well b but make it a separate option in the menu, so that it's it's dif dis displayed from uh displayed here, so uh parents uh
+[29:15.47-29:17.30] TS3007b-T0191 | Marketing Expert (D): for example. But
+[29:18.70-29:19.95] TS3007b-T0192 | Industrial Designer (C): Yeah, that.
+[29:20.13-29:25.54] TS3007b-T0193 | Marketing Expert (D): Yeah okay, but but yeah, that's just that's an a an added feature.
+[29:24.71-30:11.14] TS3007b-T0194 | Project Manager (A): Yeah. Okay. But let's not uh go too wide about the those things, that's that why we're here. It's it's a nice idea, but I think that's we wel later in the stage. I've one little question about um a total touch screen or uh um a p yeah, a partial, uh because I think uh elderly people may be uh not used to uh a touch screen, so they want the the the normal functions like teletext, volume changing, um uh to be uh, yeah, kinda traditionals uh and uh the the the the other functions, the more difficult functions uh to be uh maybe on the touch screen, but to keep this as uh normal as possible, to keep it accessible.
+[29:30.00-29:33.33] TS3007b-T0195 | Marketing Expert (D): Yeah, th th those things are nice.
+[29:41.07-29:41.60] TS3007b-T0196 | Marketing Expert (D): Partial.
+[29:53.52-29:53.95] TS3007b-T0197 | Marketing Expert (D): Yeah.
+[30:02.40-30:02.86] TS3007b-T0198 | Marketing Expert (D): Mm-hmm.
+[30:10.40-30:15.76] TS3007b-T0199 | Marketing Expert (D): Yeah, but but if you display it on L_C_D_ screen with r r really big numbers
+[30:16.24-30:21.75] TS3007b-T0200 | User Interface Designer (B): Yeah, you can de display it on the on the old style. You can display actual buttons on the touch screens.
+[30:17.74-30:20.28] TS3007b-T0201 | Marketing Expert (D): that's just as e just as easy.
+[30:18.50-30:19.86] TS3007b-T0202 | Industrial Designer (C): Uh. I I do
+[30:19.46-30:22.45] TS3007b-T0203 | Project Manager (A): Yeah. Yeah, that's true, that's true.
+[30:21.38-30:34.14] TS3007b-T0204 | Industrial Designer (C): Uh I do agree, because well, it's just not the same when you touch a touch screen or when you touch a button, but well we have to look at what's our target uh audience. W we are aiming for younger people and they they chose
+[30:21.53-30:22.01] TS3007b-T0205 | Marketing Expert (D): Yeah.
+[30:25.60-30:26.53] TS3007b-T0206 | User Interface Designer (B): Yeah, okay.
+[30:26.46-30:27.41] TS3007b-T0207 | Marketing Expert (D): Yeah, it's different.
+[30:30.53-30:31.05] TS3007b-T0208 | Project Manager (A): Yeah.
+[30:32.78-30:38.37] TS3007b-T0209 | Project Manager (A): Yeah, that's true, yeah. Yeah, yeah yeah, yeah, that's a good point. Yep.
+[30:32.96-30:35.52] TS3007b-T0210 | Marketing Expert (D): Yeah, age b below forty.
+[30:36.18-30:39.50] TS3007b-T0211 | Industrial Designer (C): So that's that's probably uh a
+[30:38.56-30:44.82] TS3007b-T0212 | Marketing Expert (D): And th those young people, yeah. Y you saw it in my marketing report, they like the new fancy stuff, so
+[30:40.62-30:41.25] TS3007b-T0213 | Project Manager (A): Mm-hmm.
+[30:43.84-30:46.58] TS3007b-T0214 | Project Manager (A): They like the fancy stuff, yeah. That's true.
+[30:45.82-30:54.69] TS3007b-T0215 | Marketing Expert (D): A touch screen, like Microsoft al already developed something like that for uh uh multi-media applications.
+[30:49.54-30:50.31] TS3007b-T0216 | Project Manager (A): Mm-hmm.
+[30:57.10-30:57.65] TS3007b-T0217 | Project Manager (A): Mm
+[30:57.18-30:58.98] TS3007b-T0218 | Marketing Expert (D): I th I think we can do that too.
+[30:59.34-30:59.74] TS3007b-T0219 | Project Manager (A): Yeah.
+[31:01.49-31:08.58] TS3007b-T0220 | Project Manager (A): Okay, as you can see uh the minutes from the second meeting, this one, are uh are done.
+[31:07.06-31:07.50] TS3007b-T0221 | Marketing Expert (D): Done.
+[31:11.75-31:34.94] TS3007b-T0222 | Project Manager (A): Uh I've uh added the this uh four things from the management board just to keep in mind. Um each time I uh I had a sort of uh summary on what you told and uh what you personal think. Uh so that can be uh can be read out. Uh a f a few things I uh I noticed uh were um
+[31:16.94-31:17.34] TS3007b-T0223 | User Interface Designer (B): Mm-hmm.
+[31:37.01-31:38.75] TS3007b-T0224 | Project Manager (A): Moment. Ooh.
+[31:52.58-32:41.75] TS3007b-T0225 | Project Manager (A): Uh th the the main points in uh this uh uh in this uh meeting is I think uh how uh it's going to look uh with uh we must keep it simple, but have the opportunity to uh have more options and have them uh hidden or something, so they don't uh you don't have a big uh thing full of uh buttons or uh um and uh the point that uh you uh wanna use one uh controller uh for uh uh hypothetically each television, so you must uh the the the the functions, know, like the menus or the the parental control must be all uh by the done by the remote control and not by the television. I think that's the point what uh
+[32:41.38-32:41.76] TS3007b-T0226 | User Interface Designer (B): Mm-hmm.
+[32:42.61-32:43.38] TS3007b-T0227 | Project Manager (A): we discussed.
+[32:42.61-32:43.13] TS3007b-T0228 | User Interface Designer (B): Yes.
+[32:42.77-32:51.58] TS3007b-T0229 | Marketing Expert (D): Yeah, yeah, some of them. The menus uh are not identical for all th for all T_V_s, so you have to display it on one uh T_V_.
+[32:50.63-33:21.10] TS3007b-T0230 | User Interface Designer (B): Well you can use um when you uh how do you call it, s um synchronized, the um remote and the T_V_, then there's always, there are always uh possibilities to change the colour and the brightness and the volume and um well maybe we can look out if there's options that the remote um in its memory can see what kinda T_V_ it is, from ah, it's a Philips, this and this and that, and then give the options that are capable the capable from the t
+[32:59.18-33:00.74] TS3007b-T0231 | Marketing Expert (D): Yeah, but that's not possible.
+[33:05.29-33:06.40] TS3007b-T0232 | Marketing Expert (D): Mm-hmm, mm yeah.
+[33:20.09-33:27.25] TS3007b-T0233 | Project Manager (A): Yeah, but you have uh uh an yeah, but you have an international market range, so you have I think a big range of
+[33:20.62-33:23.01] TS3007b-T0234 | Marketing Expert (D): Add th that that's an opportunity.
+[33:26.01-33:38.24] TS3007b-T0235 | User Interface Designer (B): Well there are universal d um um remotes and they all have a functionality for all the T_V_s, uh so this wouldn't be a extra feature to incorporate the men menus of these.
+[33:30.08-33:30.53] TS3007b-T0236 | Project Manager (A): Yeah.
+[33:34.40-33:34.94] TS3007b-T0237 | Marketing Expert (D): Yeah.
+[33:34.48-33:35.13] TS3007b-T0238 | Project Manager (A): Okay.
+[33:35.30-33:35.84] TS3007b-T0239 | Industrial Designer (C): But they
+[33:36.30-33:36.70] TS3007b-T0240 | Marketing Expert (D): But
+[33:37.47-33:39.38] TS3007b-T0241 | Project Manager (A): And it's not too complex to do it.
+[33:40.08-34:08.74] TS3007b-T0242 | Industrial Designer (C): Well they uh they all have to be programmed to fit your T_V_ and that that is bit of a tricky job. I actually use one of those when They are they are kinda kinda troublesome, but but the thing is whe when you uh start uh building something like this you have to build a receiver into the uh t into the remotes, because uh in order for the remote to process something from the T_V_, like uh to synchronise and you have to send and receive, and that's well
+[33:40.12-33:40.51] TS3007b-T0243 | Marketing Expert (D): No.
+[33:43.60-33:43.94] TS3007b-T0244 | Project Manager (A): Yeah.
+[33:46.10-33:46.54] TS3007b-T0245 | User Interface Designer (B): Yeah.
+[34:03.19-34:12.22] TS3007b-T0246 | User Interface Designer (B): Yeah. Well Yeah. Mm-hmm. Oh um mo no, you can just say uh the c
+[34:08.61-34:24.63] TS3007b-T0247 | Marketing Expert (D): No no no. He he he he me he means just just one other thing. Uh, with the current remote controls, the universal ones, um you have to press yeah, you have to press a code for T_V_.
+[34:10.27-34:11.47] TS3007b-T0248 | Project Manager (A): Just build it in.
+[34:13.62-34:13.94] TS3007b-T0249 | User Interface Designer (B): Yeah.
+[34:16.96-34:18.94] TS3007b-T0250 | Industrial Designer (C): Yeah. Yes.
+[34:21.47-34:34.62] TS3007b-T0251 | User Interface Designer (B): In codes, y you you get a b a book with codes. You look up, I have a Philips H_ fifty five and it says press code four five five and you press code four five five on the uh in the remote and it displays all your uh menu options.
+[34:26.62-34:27.17] TS3007b-T0252 | Industrial Designer (C): Yeah.
+[34:27.26-34:27.70] TS3007b-T0253 | Marketing Expert (D): Yeah.
+[34:28.29-34:32.13] TS3007b-T0254 | Industrial Designer (C): Oh, okay, yeah, sure, uh Yeah yeah yeah.
+[34:34.54-34:37.07] TS3007b-T0255 | Industrial Designer (C): Oh, yeah yeah, sure, that would be possible, yeah.
+[34:36.21-34:56.58] TS3007b-T0256 | Marketing Expert (D): Yeah. Now we uh just connect uh the T_V_ type uh to a set of options, in just just in the memory, so that if you yeah, like profile, so that if you uh touch in like uh one four one zero kind of T_V_ uh
+[34:43.89-34:46.40] TS3007b-T0257 | User Interface Designer (B): Memory in the in the remote.
+[34:45.27-34:45.87] TS3007b-T0258 | Project Manager (A): Yep.
+[34:46.65-34:47.22] TS3007b-T0259 | Industrial Designer (C): Profiles.
+[34:54.08-34:54.54] TS3007b-T0260 | Industrial Designer (C): Yeah.
+[34:58.13-35:02.69] TS3007b-T0261 | Marketing Expert (D): the memory uh pops up the options.
+[35:02.86-35:05.31] TS3007b-T0262 | Industrial Designer (C): Yeah. Yeah, that would be possible. Yeah, sure.
+[35:03.47-35:03.98] TS3007b-T0263 | Project Manager (A): Okay.
+[35:05.68-35:12.22] TS3007b-T0264 | Marketing Expert (D): I th don't think that's uh that takes a lot of storage space or some just varia variables.
+[35:09.84-35:14.23] TS3007b-T0265 | Industrial Designer (C): No, that wouldn't be uh Yeah, a few variables.
+[35:12.40-35:31.56] TS3007b-T0266 | User Interface Designer (B): Yeah, well um if you look at the um manuals from universal uh remotes, there are maybe um three four hundreds T_V_s at maximum. If you have all of them, all the old and new T_V_s summed up, so uh I think uh it is possible.
+[35:19.11-35:19.52] TS3007b-T0267 | Marketing Expert (D): Mm-hmm.
+[35:22.85-35:23.45] TS3007b-T0268 | Marketing Expert (D): Yeah.
+[35:22.99-35:23.43] TS3007b-T0269 | Industrial Designer (C): Yeah.
+[35:30.38-35:32.36] TS3007b-T0270 | Industrial Designer (C): Ah it is. It is definitely po
+[35:31.14-35:41.28] TS3007b-T0271 | Marketing Expert (D): But, on the other hand on the other hand, uh if you have a remote and buy a new T_V_ that isn't incorporated in the remote
+[35:32.69-35:34.19] TS3007b-T0272 | Project Manager (A): We have five minutes to go.
+[35:37.38-35:37.79] TS3007b-T0273 | User Interface Designer (B): Yeah.
+[35:41.38-35:44.15] TS3007b-T0274 | User Interface Designer (B): Well then you have to buy a new one, it's very good for marketing
+[35:43.66-35:44.51] TS3007b-T0275 | Marketing Expert (D): New remote?
+[35:45.09-35:47.50] TS3007b-T0276 | User Interface Designer (B): Maybe, or an update, software update.
+[35:47.06-35:50.43] TS3007b-T0277 | Marketing Expert (D): A firmware upgrade or something, but from where?
+[35:48.37-35:49.86] TS3007b-T0278 | User Interface Designer (B): Firmware update, you say.
+[35:48.50-35:49.95] TS3007b-T0279 | Industrial Designer (C): Yeah, firmware upgrade.
+[35:51.54-35:54.28] TS3007b-T0280 | Marketing Expert (D): Ah. Maybe w
+[35:53.57-35:56.22] TS3007b-T0281 | Industrial Designer (C): That's maybe the cup holder. Yeah.
+[35:55.01-36:06.99] TS3007b-T0282 | Marketing Expert (D): No m may no, maybe we can incorporate some kind of uh U_S_B_ or a firewire connection, so that you can uh connect it to the P_C_ and download the newest firmware from uh from the internet.
+[35:55.58-35:55.95] TS3007b-T0283 | User Interface Designer (B): Yeah.
+[36:06.96-36:13.28] TS3007b-T0284 | Industrial Designer (C): Well, not everybody has uh has uh a P_C_ at home. Well the most most people have, but not not everybody and
+[36:11.70-36:15.49] TS3007b-T0285 | User Interface Designer (B): Well, at uh you can go back to the shop and uh they
+[36:14.48-36:16.92] TS3007b-T0286 | Marketing Expert (D): Yeah, like a s kind of service centre.
+[36:15.01-36:15.58] TS3007b-T0287 | Industrial Designer (C): Yeah.
+[36:16.48-36:19.66] TS3007b-T0288 | User Interface Designer (B): Yeah, ser o and they can download it for you.
+[36:17.08-36:29.49] TS3007b-T0289 | Industrial Designer (C): Yeah, maybe something like service cen Or you could well you could s actually look at the place-holder you talked about earlier, and you could probably uh make a connection to uh an telephone line or a internet connection.
+[36:18.12-36:18.77] TS3007b-T0290 | Marketing Expert (D): Yeah.
+[36:23.20-36:23.62] TS3007b-T0291 | User Interface Designer (B): Mm-hmm.
+[36:27.66-36:42.98] TS3007b-T0292 | User Interface Designer (B): Yeah. Well already digital information is sent t to the the standards, T_V_ uh connections, you can see what's uh programme is on on the new uh channels, so maybe j they we can send that information along with standard T_V_ uh
+[36:33.65-36:34.16] TS3007b-T0293 | Industrial Designer (C): Yeah.
+[36:43.06-36:58.14] TS3007b-T0294 | Industrial Designer (C): Well then then it's be uh back to the building a receiving uh well uh if it's actually worth it to build it in, we could actually look at into it, but I dunno, it it would be uh bringing more costs uh with with it and
+[36:46.35-36:48.03] TS3007b-T0295 | User Interface Designer (B): Receiving. Oh yeah.
+[36:48.05-36:48.34] TS3007b-T0296 | Marketing Expert (D): Yeah.
+[36:52.26-36:52.64] TS3007b-T0297 | User Interface Designer (B): Yeah.
+[36:55.29-36:55.89] TS3007b-T0298 | User Interface Designer (B): Difficult.
+[36:58.18-36:58.54] TS3007b-T0299 | User Interface Designer (B): Yeah.
+[36:58.56-37:08.18] TS3007b-T0300 | Marketing Expert (D): I I think it's uh most cheap or cheapest to just do the updates uh at the service centre or at the shop.
+[37:06.70-37:08.56] TS3007b-T0301 | Industrial Designer (C): Yeah, that would be probably best, yeah.
+[37:06.77-37:10.58] TS3007b-T0302 | User Interface Designer (B): Yeah yeah, uh s I think some I think it's good idea, yeah.
+[37:08.39-37:08.70] TS3007b-T0303 | Project Manager (A): Yeah.
+[37:09.55-37:12.09] TS3007b-T0304 | Industrial Designer (C): Like when you when you buy a T_V_ you just ask well I'll
+[37:11.36-37:19.10] TS3007b-T0305 | Marketing Expert (D): It's it's it's not a lot of work, just one uh docking station where you put it in, press start, bling bling, updated.
+[37:16.33-37:16.84] TS3007b-T0306 | Industrial Designer (C): Yeah.
+[37:19.10-37:20.43] TS3007b-T0307 | Industrial Designer (C): Yeah, that would be best, yeah.
+[37:19.98-37:20.90] TS3007b-T0308 | User Interface Designer (B): Yeah. Yeah.
+[37:20.11-37:24.17] TS3007b-T0309 | Marketing Expert (D): Yeah. You don't buy a T_V_ every week, new teev so.
+[37:21.99-37:25.17] TS3007b-T0310 | User Interface Designer (B): Okay, let's uh save this in the meanwhile uh
+[37:22.56-37:24.51] TS3007b-T0311 | Industrial Designer (C): No no. Exactly, so
+[37:37.76-37:41.86] TS3007b-T0312 | User Interface Designer (B): Um m for which one are we going? My mistake.
+[37:41.52-37:42.66] TS3007b-T0313 | Marketing Expert (D): Let's vote.
+[37:43.33-37:44.62] TS3007b-T0314 | User Interface Designer (B): That one or uh
+[37:44.94-37:46.93] TS3007b-T0315 | Industrial Designer (C): Yeah, my vote goes out to the right.
+[37:47.47-37:50.37] TS3007b-T0316 | User Interface Designer (B): Your vote and your Okay.
+[37:48.11-37:48.77] TS3007b-T0317 | Marketing Expert (D): My vote too.
+[37:49.34-37:49.81] TS3007b-T0318 | Project Manager (A): Yeah.
+[37:51.12-37:51.94] TS3007b-T0319 | Marketing Expert (D): And your vote?
+[37:52.11-38:06.67] TS3007b-T0320 | User Interface Designer (B): Well, I was uh doubting about which one to take, but uh you've convinced me that uh if you di display buttons about the same as they would look on a normal um remote all elderly people will know what to do.
+[37:59.79-38:00.05] TS3007b-T0321 | Marketing Expert (D): Yeah.
+[38:02.69-38:03.09] TS3007b-T0322 | Project Manager (A): Yeah.
+[38:06.62-38:13.82] TS3007b-T0323 | Marketing Expert (D): And also like a clapping uh li like device that uh pops open.
+[38:12.74-38:15.10] TS3007b-T0324 | User Interface Designer (B): Opens up is too difficult or uh
+[38:12.77-38:14.01] TS3007b-T0325 | Industrial Designer (C): Flips open.
+[38:15.06-38:19.90] TS3007b-T0326 | Marketing Expert (D): Uh too difficult, um maybe uh it's easier to break it.
+[38:20.17-38:20.58] TS3007b-T0327 | Project Manager (A): N yeah.
+[38:21.51-38:22.77] TS3007b-T0328 | User Interface Designer (B): Break it, I don't get
+[38:22.29-38:24.61] TS3007b-T0329 | Marketing Expert (D): Yeah, th th th that i uh
+[38:26.85-38:29.42] TS3007b-T0330 | Marketing Expert (D): Yeah.
+[38:27.77-38:28.98] TS3007b-T0331 | Project Manager (A): It's very sensitive.
+[38:28.90-38:30.38] TS3007b-T0332 | User Interface Designer (B): Oh so Yeah.
+[38:30.54-38:33.02] TS3007b-T0333 | Marketing Expert (D): Like my telephone, it's uh it's sensitive too.
+[38:33.10-38:33.51] TS3007b-T0334 | Project Manager (A): Yeah.
+[38:33.49-38:33.73] TS3007b-T0335 | User Interface Designer (B): Yeah.
+[38:35.34-38:53.86] TS3007b-T0336 | Project Manager (A): Okay well uh it's almost at the end. So we have now a lunch break, finally, yeah. Uh after the lunch break uh it's back to uh individual work, once again uh thirty minutes. Uh I will put my minutes uh I have updated them so uh s they're updated in the shared folder too.
+[38:39.44-38:40.19] TS3007b-T0337 | Marketing Expert (D): Ah.
+[38:53.84-38:54.80] TS3007b-T0338 | Marketing Expert (D): Thirty minutes?
+[38:55.34-38:56.66] TS3007b-T0339 | Project Manager (A): Thirty minutes, the
+[38:56.59-39:02.78] TS3007b-T0340 | Marketing Expert (D): How minutes?
+[39:00.26-39:24.29] TS3007b-T0341 | Project Manager (A): Failure. Uh uh the specifi uh specific instructions for the next uh meeting you will all will receive uh at the uh the the email. I don't think I can uh say much about it, so uh uh wait for your email and uh hopefully you get it done uh in the in the thirty minutes, and I w will see you after the lunch break and the thirty minutes. Yeah?
+[39:23.25-39:28.46] TS3007b-T0342 | Marketing Expert (D): One question, uh how late do we have to get back be back here?
+[39:29.38-39:33.29] TS3007b-T0343 | Project Manager (A): Uh well uh thirty minutes.
+[39:33.81-39:35.38] TS3007b-T0344 | User Interface Designer (B): A quarter to one maybe?
+[39:34.08-39:35.46] TS3007b-T0345 | Project Manager (A): Uh, yeah.
+[39:35.74-39:36.86] TS3007b-T0346 | Marketing Expert (D): Thirty minutes lunch break?
+[39:37.14-39:38.46] TS3007b-T0347 | Project Manager (A): Thirty minutes lunch break, yeah.
+[39:39.15-39:39.62] TS3007b-T0348 | User Interface Designer (B): Okay.
+[39:39.46-39:40.05] TS3007b-T0349 | Project Manager (A): Oh.
+[39:39.54-39:41.84] TS3007b-T0350 | Marketing Expert (D): I thought forty five. Yeah.
+[39:41.01-39:52.66] TS3007b-T0351 | Project Manager (A): Forty five? Uh then would it be uh one o'clock. Or we we ask our personal coach. Okay. Thank you. Thank you, uh that was a very uh good session I think, we uh we
+[39:43.81-39:49.23] TS3007b-T0352 | Marketing Expert (D): Yeah. Okay. Yeah.
+[39:51.72-39:54.89] TS3007b-T0353 | User Interface Designer (B): Yeah, is it possible to store this on the share documents or what
+[39:53.26-39:53.93] TS3007b-T0354 | Marketing Expert (D): Yeah, me too.
+[39:54.26-39:55.71] TS3007b-T0355 | Project Manager (A): Uh ye well
+[39:56.10-39:56.83] TS3007b-T0356 | Marketing Expert (D): Save as.
+[39:57.34-40:04.90] TS3007b-T0357 | Project Manager (A): Yeah, because uh all uh things are uh stored in smart board dot uh X_D_K_ and that's in
+[40:02.34-40:09.42] TS3007b-T0358 | Marketing Expert (D): Yeah, v But but you can open a from your pr from your laptop. Yeah, maybe. Save as.
+[40:06.51-40:08.45] TS3007b-T0359 | User Interface Designer (B): 'Kay, save it as an image on the res
+[40:13.59-40:16.12] TS3007b-T0360 | Industrial Designer (C): Export. Maybe not export function.
+[40:13.65-40:14.21] TS3007b-T0361 | Project Manager (A): No.
+[40:13.74-40:14.02] TS3007b-T0362 | Marketing Expert (D): No.
+[40:15.61-40:16.35] TS3007b-T0363 | Marketing Expert (D): Export.
+[40:17.39-40:19.11] TS3007b-T0364 | Project Manager (A): Well I can I can uh
+[40:17.51-40:20.05] TS3007b-T0365 | Marketing Expert (D): Export H_T_M_L_.
+[40:19.97-40:22.18] TS3007b-T0366 | User Interface Designer (B): No, and use an image if possible.
+[40:22.80-40:23.90] TS3007b-T0367 | Marketing Expert (D): Huh, image?
+[40:23.87-40:24.61] TS3007b-T0368 | User Interface Designer (B): J_ PEG.
+[40:24.66-40:26.35] TS3007b-T0369 | Industrial Designer (C): G_ yeah, J_ PEG.
+[40:26.30-40:28.19] TS3007b-T0370 | User Interface Designer (B): J_ PEG. Yeah, it's better
+[40:28.59-40:35.30] TS3007b-T0371 | Marketing Expert (D): Paper size A_ four. Uh screen size. In this directory.
+[40:33.84-40:34.16] TS3007b-T0372 | User Interface Designer (B): Yeah.
+[40:37.76-40:38.21] TS3007b-T0373 | Industrial Designer (C): N oh.
+[40:38.70-40:40.80] TS3007b-T0374 | User Interface Designer (B): Oh yeah, it's not connected to the
+[40:41.24-40:45.57] TS3007b-T0375 | Project Manager (A): You all uh have the the questionnaire again about uh the after work.
+[40:42.13-40:43.47] TS3007b-T0376 | User Interface Designer (B): to our P_C_s.
+[40:43.11-40:43.49] TS3007b-T0377 | Marketing Expert (D): No?
+[40:45.63-40:46.69] TS3007b-T0378 | Marketing Expert (D): Yeah, it is connected.
+[40:46.94-40:47.76] TS3007b-T0379 | User Interface Designer (B): It's connected?
+[40:47.71-40:49.41] TS3007b-T0380 | Marketing Expert (D): Yeah, I think so.
+[40:49.91-40:50.75] TS3007b-T0381 | Industrial Designer (C): To room.
+[40:50.01-40:52.27] TS3007b-T0382 | Project Manager (A): Deskt Huh. No.
+[40:52.62-40:54.98] TS3007b-T0383 | Industrial Designer (C): I'll just uh saved in my documents.
+[40:55.79-40:56.51] TS3007b-T0384 | Marketing Expert (D): Oh.
+[40:56.53-40:59.93] TS3007b-T0385 | Industrial Designer (C): Yeah in my own uh in my own messenger.
+[41:01.66-41:02.03] TS3007b-T0386 | User Interface Designer (B): Yeah.
+[41:03.41-41:06.09] TS3007b-T0387 | Project Manager (A): Project documents, yeah.
+[41:04.46-41:04.82] TS3007b-T0388 | Industrial Designer (C): Yeah.
+[41:05.27-41:06.58] TS3007b-T0389 | User Interface Designer (B): It gives the na Oh.
+[41:09.58-41:10.13] TS3007b-T0390 | User Interface Designer (B): Yes.
+[41:10.01-41:11.12] TS3007b-T0391 | Industrial Designer (C): Okay, nice.
+[41:10.12-41:11.15] TS3007b-T0392 | Project Manager (A): Okay, thank you.
+[41:11.94-41:15.42] TS3007b-T0393 | User Interface Designer (B): The questionnaire, fill in uh we fill out d after lunch or uh
+[41:15.28-41:25.82] TS3007b-T0394 | Project Manager (A): Uh well, it's it's simply filling oh no, it's uh it's also filling out no, I'd do it after lunch I think. I'm hungry, so do it after lunch. Thank you all.
+[41:21.11-41:21.76] TS3007b-T0395 | User Interface Designer (B): Okay.
+[41:21.30-41:27.12] TS3007b-T0396 | Industrial Designer (C): Aye, cheers.
+[41:24.67-41:25.23] TS3007b-T0397 | User Interface Designer (B): Yes.
+[41:26.94-41:27.62] TS3007b-T0398 | Marketing Expert (D): Thank you.
+[41:28.13-41:28.82] TS3007b-T0399 | Project Manager (A): You're welcome.
+[41:28.85-41:32.29] TS3007b-T0400 | User Interface Designer (B): We can leave the P_C_ on I think, yeah and return to the
+[41:31.26-41:32.49] TS3007b-T0401 | Marketing Expert (D): Yeah, of course.
+[41:31.75-41:34.91] TS3007b-T0402 | Project Manager (A): Yeah. Well I bring it to my uh personal room.
+[41:34.61-41:37.70] TS3007b-T0403 | User Interface Designer (B): Yeah, bring to I gotta bring it home.
+[41:35.47-41:37.53] TS3007b-T0404 | Marketing Expert (D): To my exave executive
+[41:37.46-41:42.82] TS3007b-T0405 | Project Manager (A): My executive uh big room with the with the panting.
+[41:39.50-41:41.26] TS3007b-T0406 | User Interface Designer (B): A big office.
+[41:59.64-42:00.46] TS3007b-T0407 | User Interface Designer (B): Yes.
+[42:00.56-42:00.95] TS3007b-T0408 | Marketing Expert (D): Aye.
+[42:13.66-42:13.93] TS3007b-T0409 | Marketing Expert (D): Yeah.
+[42:19.07-42:19.54] TS3007b-T0410 | Marketing Expert (D): Okay.

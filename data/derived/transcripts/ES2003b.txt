@@ -1,0 +1,259 @@
+Meeting: ES2003b
+Split: development
+Meeting date: 2004-12-15
+AMI duration (seconds): 2121
+Transcribed word elements: 6542
+
+[00:04.30-00:06.75] ES2003b-T0001 | Marketing Expert (C): Just put it on the deskt desktop.
+[00:07.02-00:11.78] ES2003b-T0002 | Project Manager (B): No on the desktop you'll find you should find that there's a project documents link.
+[00:15.13-00:19.65] ES2003b-T0003 | Project Manager (B): A well actually just there. Yeah. That's it. If you dump it in there.
+[00:16.38-00:17.55] ES2003b-T0004 | Marketing Expert (C): Project documents, yeah.
+[00:19.57-00:20.37] ES2003b-T0005 | Marketing Expert (C): What's your username?
+[00:21.31-00:22.59] ES2003b-T0006 | Project Manager (B): Your username.
+[00:22.46-00:23.92] ES2003b-T0007 | Marketing Expert (C): What's your username and password?
+[00:29.07-00:29.54] ES2003b-T0008 | Marketing Expert (C): Mm-hmm.
+[00:34.43-00:34.86] ES2003b-T0009 | Marketing Expert (C): Sorry.
+[00:39.41-00:40.35] ES2003b-T0010 | Marketing Expert (C): Okay.
+[00:39.43-00:54.91] ES2003b-T0011 | Project Manager (B): Okay. Excellent. Right. Hopefully that's us ready to uh to go. So. Functional design meeting. We'll have to flesh out some of the uh stuff. Um
+[00:41.79-00:42.24] ES2003b-T0012 | Marketing Expert (C): There we go.
+[00:56.61-02:31.07] ES2003b-T0013 | Project Manager (B): we'll start with the minutes of the last meeting. Not a lot thankfully to say. We introduced ourselves, discussed the possibility of a macro facility, interac interacting the T_V_ a bit more, um mentioning of bar-code, joystick for user manipulation, um and ergonomics of the remote control as well. Um it's come to my attention the following. Teletext has become outdated due to the populat popularity of the internet. Remote control should only be used for the T_V_. Um due for uh time to market and possibly also cost issues. Um also key is the corporate image should stay recognisable, um f uh your colour and slogan of course is down at the bottom there. Um. Now. Just to say quickly uh I would have thought that only being used for a television the macro facility may now not be required. Um or at l its functionality would have been of limited use. So to the point in my opinion anyway that it might not be worth pursuing. Um if anybody disagrees we can uh definitely say so. Um and hopefully we'll just crack on and we'll get everything going. Um I'd like to if possible hear from our Marketing Expert first, to help us gain an idea of where we're going to go. So um I'll just load up your presentation from here if you want.
+[02:01.17-02:01.70] ES2003b-T0014 | User Interface Designer (A): Mm.
+[02:24.15-02:24.71] ES2003b-T0015 | Marketing Expert (C): 'Kay.
+[02:31.01-02:31.66] ES2003b-T0016 | Marketing Expert (C): Sure.
+[02:34.94-02:39.79] ES2003b-T0017 | Marketing Expert (C): Um, sh would you like to I'll just do it from here.
+[02:40.21-02:44.22] ES2003b-T0018 | Project Manager (B): Yep. Sorry. Uh. Is yours the
+[02:46.19-02:48.42] ES2003b-T0019 | Marketing Expert (C): Um, try second one maybe.
+[02:54.90-02:55.92] ES2003b-T0020 | Marketing Expert (C): Try it, yeah maybe.
+[02:56.14-02:58.43] ES2003b-T0021 | Project Manager (B): Oh sorry. Okay, right.
+[02:56.62-03:01.55] ES2003b-T0022 | Marketing Expert (C): Yeah. Okay. Oh, I thought I put in my last name, I guess not, but.
+[03:00.91-03:06.50] ES2003b-T0023 | Project Manager (B): Uh if you that's all right. If you do you want me to just cycle through it for you or?
+[03:02.82-03:04.19] ES2003b-T0024 | Marketing Expert (C): Okay.
+[03:06.37-03:12.27] ES2003b-T0025 | Marketing Expert (C): Oh yeah, that'd be fine, that'd be great. Okay. Functional requirement by me Ebenezer.
+[03:07.62-03:08.98] ES2003b-T0026 | Project Manager (B): Yeah?
+[03:12.72-03:14.02] ES2003b-T0027 | Project Manager (B): Okay.
+[03:14.02-03:48.03] ES2003b-T0028 | Marketing Expert (C): Okay, so um we did some research, we asked one hundred people their opinions on remote controls. We asked some uh open ended questions, just, what are your opinions on the remote control, got a lot of re responses, and we asked some very specific questions, and we got a lot of good feedback. Please bear in mind this is only a hundred people, so even when the groups are divided into fifteen to twenty five, twenty five to thirty five, there's only maybe ten people fifteen people in each group. Okay.
+[03:47.37-03:47.90] ES2003b-T0029 | Project Manager (B): Okay.
+[03:49.09-05:16.34] ES2003b-T0030 | Marketing Expert (C): So we got some the bad stuff we got, remotes are often lost. I often lose my remote control, the back of the couch, some place, and even if it's not lost permanently, it takes me a few minutes to find it. Most buttons are not used any more, like you said, teletext is outdated now. I remember trying to load a D_V_D_ player recently, and there were so many buttons, it took me I don't know maybe ten minutes to to go through each button,'cause you have to press the shift button to access the yellow buttons, you know there's just a lot of stuff that no one really uses. And if they do, not very often. Takes too long to master the remote control. I've seen some remote controls that are big, they have a lot of buttons, you have to hold down more than one key at one time to do something, they're just not great to use. We just got a lot of bad complaints about remote controls, people do not like remote controls. Some of the good stuff we got. Between the age of uh fifteen and twenty five, most people would be willing to pay extra for voice recognition software. Now don't get excited yet, I've got more to say on that. Most people'd be willing to pay for that um most people want remote controls to be pretty, they want it to be fancy, th they they want it to be different, everybody has a white remote control with black buttons, and a red button and a green button, not everybody wants that. Finally, my opinion.
+[05:16.57-05:17.36] ES2003b-T0031 | Project Manager (B): Yep.
+[05:18.29-07:18.46] ES2003b-T0032 | Marketing Expert (C): The voice recognition thing is cool. And uh voice recognition, the software, open source software exist already. It's a bit sketchy at some times, uh, you're not gonna get good always accurate results, but for a very fixed number of words, you know you have, how many different words can you have for a remote control, up, down, left, right, channel five, channel seven, you know, how many, you can't have that many words. For a fixed vocabulary it works quite well. I'm pretty sure people would buy it. But after a while people may wanna return it, because if you have to to say som I mean most people use a remote control for switching to channels, and they say they do that about ninety eight percent of the time. Using the remote control, ninety eight percent of the time for changing channels, and that's for flickering through channels. So if you have to say up, up, up, up, if you have to do that all the time, then people might get a bit fed up with that and they may return it. However, oh, because the voice recognition software exists already, there's no need to spend money on research and development, but this does mean the need for microphones in the in the remote control, which is an unusual feature in my opinion. But if we do have the voice recognition thing, there's a lot of stuff that you can uh get rid of. See, you could there're two options. Either you have voice recognition by itself, which I think is a bit impractical for like night time if you wanna be watching television and you wanna be quiet, or I don't know you have a visitor coming round and the remote's only trained for you, it's a bit impractical to have just voice recognition by itself. So you can have voice recognition and a regular remote. But imagine you got rid of the regular remote part, then you can design the remote to look any way you want it to look, because there are no restrictions on physical size, or shape, it it could be as fancy as you want it to be, you know, it could be like a lollipop or something like that, something weird like that. As long as the voice recognition stuff works, that's that's fine.
+[07:18.86-07:19.89] ES2003b-T0033 | Project Manager (B): Okay, yep.
+[07:19.81-08:33.47] ES2003b-T0034 | Marketing Expert (C): So we have the three birds, we have the design, that we have the the fancy bit, right, the voice recognition's fancy, it's cool, it's different, it's radical, so, and then we have an extra bit I don't remember so I'm pretty sure people will buy the remote, but is it practical to have a voice recognition system in a remote control, I think is a big question. Um, will people will people be willing to wait for the the period that it'll take to train the remote,'cause I think it will the remote will uh get better over time with the same user user, but for the first week or for the first two weeks are you willing to wait, are you willing to have a bad remote control. And uh what if you have visitors come round, they stay the night, they wanna use the T_V_, they can't use the remote because they speak differently to you. Um, how do you account for regional accents and stuff like that. Uh, will people return the remote control, I think a lot of young people will buy the remote control, if they have the money, you know, so, do our audience have the money, but would they return it after a while because it's not as fast as pressing a button, it's not a practical. So. These are things I think we should consider. I think it's cool,
+[08:21.74-08:22.71] ES2003b-T0035 | Project Manager (B): Mm-hmm.
+[08:30.27-08:38.75] ES2003b-T0036 | Project Manager (B): If you could uh sor if you could speed it up a bit, yeah. If you could uh speed it up a bit please, yeah. Sorry. Cool.
+[08:35.07-08:44.96] ES2003b-T0037 | Marketing Expert (C): I'm sorry? Sure. I'm about to end, yeah. I think it's cool but there are definitely some considerations. So, yeah.
+[08:43.98-08:46.85] ES2003b-T0038 | Project Manager (B): Okay. Excellent. Right. Um.
+[08:49.24-09:00.19] ES2003b-T0039 | Project Manager (B): Hear from the User Interface Designer now I think might be an idea. Um, you've got your presentation now, is it on the is it? Okay.
+[08:53.19-08:53.84] ES2003b-T0040 | User Interface Designer (A): Okay.
+[08:55.29-09:01.12] ES2003b-T0041 | Industrial Designer (D): How did where did where did you get all your in information?
+[08:57.57-08:59.27] ES2003b-T0042 | User Interface Designer (A): Yeah, it's in the it's in the folder yeah.
+[09:01.23-09:03.66] ES2003b-T0043 | Marketing Expert (C): There was uh a website, uh,
+[09:02.67-09:03.22] ES2003b-T0044 | Industrial Designer (D): Oh.
+[09:03.53-09:09.01] ES2003b-T0045 | Project Manager (B): Technical functions? No. Yeah.
+[09:04.82-09:05.25] ES2003b-T0046 | Marketing Expert (C): right here.
+[09:05.26-09:05.88] ES2003b-T0047 | Industrial Designer (D): Ah, okay.
+[09:05.97-09:11.22] ES2003b-T0048 | Marketing Expert (C): G I started making stuff up, then I got an email saying
+[09:07.66-09:08.08] ES2003b-T0049 | User Interface Designer (A): Mm.
+[09:16.31-09:17.07] ES2003b-T0050 | Project Manager (B): Okay.
+[09:17.01-09:35.68] ES2003b-T0051 | User Interface Designer (A): Okay, this is a brief run through of the um of the technical functions of the remote. As um is uh the the the presentation is uh already slightly obsolete because I had in mind something that would uh be i be aimed at controlling multiple devices but uh there's still stuff of relevance, so
+[09:35.60-09:36.93] ES2003b-T0052 | Project Manager (B): Okay.
+[09:36.93-11:28.50] ES2003b-T0053 | User Interface Designer (A): press on. I've looked at looked at a num uh couple of other uh remote control models just for an idea of basic design principles. Um and wasn't really satisfied by what I saw I have to say so this is more sort of springboard for uh how these could be improved on. Um um basically the job of the device is to send commands to an appliance, in this case the television set. Um to save you getting off your backside. Um and there's two main trends in th in the sort of design practice. On the one hand and this uh this particularly relates to its sort of earliest models where with you know i so so many buttons on it so about the size of the television set. Um giving you every possible function that the that the device has, the remote control controls. And most of these functions are not going to be used, it creates a rather user unfriendly interface. And on the other hand there's a user focused approach that pares things down to just what what is most likely to get used. Um With uh a and a and of course there is a certain amount of sort of loss of function here obviously, but mostly that's relatively peripheral functions. And so you go for something that's fairly intuitive to use, and um well f the for the most part for T_V_ remote it's uh tha that would be channel control and volume. Um and if you if you if you are wanting to incorporate uh control of a D_V_ D_V_D_ or uh V_C_R_ presumably into that then there's a play, pause, stop, rewind, fast-forward, record, so forth. Um.
+[11:30.24-12:37.63] ES2003b-T0054 | User Interface Designer (A): My own view is that we should definitely be going for a user focused design. Um but uh the pro I think the problem with a lot of the sort of user focused designs that are about is that they sort of make assumptions in advance about what uh what a given user's going to uh want mo want to do from want it to do most. So, something that's uh something that is more programmable, that uh perh perhaps has the full range of functions available to it but you can then specify yourself what you're most likely to want. Um so that those are then immediately accessible through fairly minimal number of controls, um I liked Ebenezer's idea of including a joystick in that and uh possibly a sort of fairly minimal number of sort of function buttons, and have a disp you then have some sort of basic display on it so that if you're um sort of cha changing from different modes for the device it'll tell you just exactly what uh you know each direction of the uh
+[12:40.35-13:11.14] ES2003b-T0055 | User Interface Designer (A): of the um joystick's going to do or wha or what each function button's going to do. Um, this is actually a again slightly taking inspiration off of uh games controllers, you know the Playstation control where you have four basic function buttons that are just marked with um distinctive uh geometrical shapes but the and then dependent on what you're doing with it what game and so on um those uh those functions are then sort of further specified. And so it's taking taking the lead from that.
+[12:50.90-12:51.12] ES2003b-T0056 | Marketing Expert (C): Mm.
+[13:12.20-13:13.70] ES2003b-T0057 | Project Manager (B): Okay. Yeah.
+[13:12.26-13:16.05] ES2003b-T0058 | User Interface Designer (A): Um. That's it.
+[13:14.83-13:21.46] ES2003b-T0059 | Project Manager (B): Right. Um, if we could hear from our Industrial engineer, or Designer.
+[13:20.35-13:30.05] ES2003b-T0060 | Industrial Designer (D): Yeah. Uh, I was still working on stuff, I hadn't got it finished. Um, alright. Click to save in where do I have to save it?
+[13:29.98-13:38.74] ES2003b-T0061 | Project Manager (B): If you look on the desktop you'll find that there's a link to the project folder, or project documents. If you save it in there we can open it up from here.
+[13:43.63-13:45.89] ES2003b-T0062 | Industrial Designer (D): Um, what I've done with it, I'm sorry.
+[13:56.06-13:56.69] ES2003b-T0063 | Industrial Designer (D): Shit.
+[14:02.99-14:05.07] ES2003b-T0064 | Industrial Designer (D): Um
+[14:15.49-14:17.28] ES2003b-T0065 | Project Manager (B): Are you finding it okay or?
+[14:17.20-14:20.56] ES2003b-T0066 | Industrial Designer (D): I'm just closing it now. where I've saved it.
+[14:21.07-14:27.95] ES2003b-T0067 | Marketing Expert (C): Well like if you go to one, uh whichever one you were working yeah, and you just click file save as.
+[14:24.40-14:25.90] ES2003b-T0068 | Industrial Designer (D): that's it there, yeah.
+[14:36.42-14:37.97] ES2003b-T0069 | Industrial Designer (D): Oh right.
+[14:39.11-14:39.88] ES2003b-T0070 | Project Manager (B): Okay.
+[14:46.10-15:53.30] ES2003b-T0071 | Industrial Designer (D): Uh, right I'm responsible for working design, uh, this is basically the inside going on of the the uh remote control. So we have the energy source, we have the user interface, this this is what I've seen. Uh the sender will push the button, the chip will respond, uh and then the dig digital signal is sent to the T_V_. So uh uh, if you go to next slide, you'll see you'll see uh what do we need on the user interface. Do we need uh many buttons, or do we need l many light bulbs that could be easier to uh to realise which appliances are on or not. Um,, or would that take too much power, would we need more um components in there to supply the power? Um, the joystick is another thing, if we were gonna add that, um, there'd be more components to deal with that. Um, so uh we need to I dunno exactly what
+[15:44.92-15:45.96] ES2003b-T0072 | Project Manager (B): Mm-hmm.
+[15:55.76-16:09.84] ES2003b-T0073 | Industrial Designer (D): That's the design of the the the layout of the uh electronic design, but um obviously there'll be more details once we've decided what we're putting on the user interface. So, that'll be decided, I guess.
+[16:06.62-16:08.08] ES2003b-T0074 | Project Manager (B): Okay.
+[16:11.58-16:15.23] ES2003b-T0075 | Industrial Designer (D): Uh, and the next slide. Oh, yeah
+[16:16.90-16:26.48] ES2003b-T0076 | Industrial Designer (D): Um, if you go to the next slide then. I just used the it was a mess, uh I was just putting adding it together at the end there. Uh
+[16:18.90-16:19.90] ES2003b-T0077 | Project Manager (B): Oh. Yeah.
+[16:24.98-16:27.66] ES2003b-T0078 | Project Manager (B): Ah, don't worry about it at all mate.
+[16:27.07-16:57.66] ES2003b-T0079 | Industrial Designer (D): Uh so you have the energy source obviously connected to the chip, and the user interface obviously contains everything. You have the switch turn it on, infrared bulb, uh will contact the T_V_ and will have whatever device or D_V_D_ player, the bulb will turn on to say it's on. Uh, so do we need on the control uh different buttons to decide, or different light bulbs, would it be easier? Um, I dunno what we should decide on that.
+[16:58.30-17:17.41] ES2003b-T0080 | Project Manager (B): Okay. Well. Oh sorry, I'm I'm interrupting you. Are you is it yeah? Okay. Right. Um, right we can probably skip that for now. So, we've had some stuff put forward, um
+[17:01.71-17:02.78] ES2003b-T0081 | Industrial Designer (D): No, it's finished, yeah.
+[17:18.53-17:21.70] ES2003b-T0082 | Project Manager (B): along with the new user requirements,
+[17:24.98-18:31.95] ES2003b-T0083 | Project Manager (B): um we've had a lot of kind of input I'd say so far. Um I hear what the Marketing Expert's saying about um voice activated control. However I've got a couple of worries about that. The power required, um and the ability to the cost, it seems like for uh an embedded system, this could cause us issues. Um for example you see that there's fairly robust services on uh computers via uh via voice, I_B_M_ do um drag and dictate, but these require a lot of memory and usually um state quite advanced processor requirements. Um voice activation could be an interesting idea but I think that our Ind Industrial Designer would probably upon some research say that it's maybe not feasible. Um that's just my view right now, however the idea of a joystick and then maybe an L_C_D_ which has been kind of put forward so far, it's almost like having a small
+[17:42.56-17:45.54] ES2003b-T0084 | Industrial Designer (D): Cost. Mm.
+[17:59.87-18:00.18] ES2003b-T0085 | Marketing Expert (C): Mm-hmm.
+[18:20.56-18:21.04] ES2003b-T0086 | Marketing Expert (C): 'Kay.
+[18:23.09-18:25.03] ES2003b-T0087 | User Interface Designer (A): Mm.
+[18:33.41-18:44.34] ES2003b-T0088 | Project Manager (B): T_ not T_V_ to say, but if you can control almost all of the functionality from the display, I don't know how much power an L_C_D_ would take, but it might be quite low?
+[18:42.14-18:42.43] ES2003b-T0089 | Marketing Expert (C): Mm.
+[18:44.26-18:44.75] ES2003b-T0090 | Marketing Expert (C): I uh
+[18:44.32-18:50.54] ES2003b-T0091 | Industrial Designer (D): L_C_D_ on the remote just telling you what's on, or uh, interactive L_C_D_ or
+[18:48.85-19:23.20] ES2003b-T0092 | Project Manager (B): Well literally um if you can imagine the display maybe slightly larger than um those on a a mobile phone, something where you can read an an um fair amount of information, traverse maybe quite a few menus, if we maybe used mobile phones as a good example, they usually incorporate they have the keypad, and then evr all the other functionality is usually associated inside by traversing around. That could be one possibility. Um and then we could have like say the common buttons as you say, volume control, changing channels
+[18:58.33-18:59.42] ES2003b-T0093 | User Interface Designer (A): Mm.
+[19:12.78-19:13.06] ES2003b-T0094 | Marketing Expert (C): Mm-hmm.
+[19:20.17-19:21.04] ES2003b-T0095 | User Interface Designer (A): Mm.
+[19:23.31-19:32.11] ES2003b-T0096 | User Interface Designer (A): I I was thinking that the remote the um sort of default functions for the joystick would be up and down for uh volume, left and right for channels.
+[19:32.98-19:43.06] ES2003b-T0097 | Industrial Designer (D): Do you think that people will get mixed up, like, they'll be looking at this screen and that screen and then, you know, trying to get everything working, would it be a bit confusing?
+[19:33.17-19:33.93] ES2003b-T0098 | Project Manager (B): We
+[19:43.01-19:52.98] ES2003b-T0099 | User Interface Designer (A): Um I think probably for the first couple of hours of using it um but you know muscle memory's a wonderful thing, um.
+[19:47.95-19:48.24] ES2003b-T0100 | Industrial Designer (D): Yeah.
+[19:53.79-19:54.05] ES2003b-T0101 | Marketing Expert (C): Mm.
+[19:54.22-20:17.62] ES2003b-T0102 | User Interface Designer (A): And I think and I think that size of uh display was about what I had in mind. Um though I mean I w I would say that uh we could probably probably be required to um mo most of the mobile phone displays you see these days are colour but we should probably try to stick to black and white. Si si simply to keep m keep the unit cost down.
+[20:13.48-20:16.73] ES2003b-T0103 | Project Manager (B): I would agree with you.
+[20:18.12-20:33.18] ES2003b-T0104 | User Interface Designer (A): Um I mean colour could be a sort of subsequent development but uh you know cost a bit of extra money f w w w w w once everyone's got the first, you know, oh colour's out, we'll have to replace it won't we. It does nothing extra.
+[20:30.24-20:41.76] ES2003b-T0105 | Project Manager (B): Mm-hmm. That would be my feeling as well, I think we could possibly create quite a useful user interface. Um now I mean I don't sorry, go for it.
+[20:39.19-21:04.38] ES2003b-T0106 | Marketing Expert (C): Sure but the idea of a remote with a menu or and a joystick I think like I h if I was in the habit of buying remote controls then I would want one, but I think we don't have a specific audience, you know, like what is our target audience, what niche are niche are we trying to market and corner. You know, you know what I'm saying, like, for whom is this intended? Everybody?
+[21:08.22-21:31.66] ES2003b-T0107 | Project Manager (B): I think it could probably be aimed at most people who've used a mobile. And that might be just another way of saying try to target most people. Um, if we are if we were to follow that avenue, we might be s you know um we're kind of almost relying on their experience with a mobile phone I suppose. But that does cover a very large section of the people out there.
+[21:16.62-21:17.50] ES2003b-T0108 | Marketing Expert (C): Most people, yeah.
+[21:17.40-21:18.57] ES2003b-T0109 | User Interface Designer (A): Mm.
+[21:27.70-21:28.00] ES2003b-T0110 | Marketing Expert (C): Mm-hmm.
+[21:31.58-21:33.88] ES2003b-T0111 | Marketing Expert (C): Sure. I think that's fair yeah.
+[21:32.98-21:33.81] ES2003b-T0112 | User Interface Designer (A): Mm.
+[21:33.10-22:33.22] ES2003b-T0113 | Project Manager (B): Um, I mean I imagine as well that the actual L_C_D_ and maybe to a certain extent the joystick as well would be for the additional functionality. Which maybe doesn't get used as often, maybe it makes it easy for them to figure out how to um change the channels as in the frequencies and such for reprogramming it. Um and you can still have the main buttons that allow the people to turn the machine on and off, d up and down, it depends, I mean maybe we have the fol um the joystick as a separate one for the other functions then, that there's just a a small number of as you were saying uh buttons that have already been defined. So like we go for the nice standard um up and down for and volume control. So that literally anybody can come along, pick up the remote and still know what do do. And they can completely ignore most of the functionality which would be for say the o actual owner of the the T_V_ and who would normally use the unit. I dunno.
+[21:54.03-21:54.34] ES2003b-T0114 | Marketing Expert (C): Mm-hmm.
+[22:12.10-22:12.37] ES2003b-T0115 | Marketing Expert (C): Mm-hmm.
+[22:22.85-22:23.18] ES2003b-T0116 | Marketing Expert (C): Mm-hmm.
+[22:32.24-22:32.56] ES2003b-T0117 | Marketing Expert (C): Mm-hmm.
+[22:32.48-22:59.68] ES2003b-T0118 | User Interface Designer (A): Mm. I th the thing I like about the uh the uh joystick is that uh you you you then basically you can then basically put it I mean for for T_ T_ for T_V_ remote alone, you could put um I mean there are like I say the the the main things people do with a T_V_ remote control is the volume and the channel. You can pack all that onto was onto a single control. Um.
+[22:58.56-23:00.06] ES2003b-T0119 | Project Manager (B): Mm-hmm.
+[23:00.83-23:30.14] ES2003b-T0120 | User Interface Designer (A): But uh but the but then o uh obviously if uh you know if you i if you wanted to access further functions i you you then get to sort of menu navigation. I mean with things like ch with things like tuning and channels um you know adjusting brightn uh brightness and fiddly things that no one really bothers with, most T_V_s these days actually have menus anyway so this would be a fairly rational way of integra
+[23:25.38-23:27.66] ES2003b-T0121 | Project Manager (B): Mm-hmm.
+[23:31.28-24:17.95] ES2003b-T0122 | User Interface Designer (A): integrating the uh the remote with the device it's controlling. Um concern about our market. Um, if we are I mean most of the uh of the replacement remote market is sort of remote control rationalisation. Um, you've got twenty different devices in your living room, you want one wo y you want one that'll do the job of all of them. Um, if all you're replacing is one of the you know however many remotes you have in your living room, um you know you still need separate remotes for everything else. I just think that uh possibly mm.
+[23:56.66-23:57.98] ES2003b-T0123 | Marketing Expert (C): Yeah. Mm-hmm.
+[24:03.45-24:04.67] ES2003b-T0124 | Project Manager (B): Mm-hmm.
+[24:15.60-24:39.98] ES2003b-T0125 | Project Manager (B): Well this is a requirement that we have to stick to I'm afraid, this isn't one that I've just arbitrarily decided on. So um this is this is one of the solid ones that has to be obeyed, for now. So I can understand your point, and I would agree with you, but this is our design spec for now.'Fraid to say. Um
+[24:21.95-24:22.60] ES2003b-T0126 | User Interface Designer (A): Mm.
+[24:28.82-24:29.34] ES2003b-T0127 | User Interface Designer (A): Mm.
+[24:40.29-24:47.26] ES2003b-T0128 | User Interface Designer (A): Does that um would that include um access to say interactive functions on digital or cable?
+[24:46.72-24:47.92] ES2003b-T0129 | Marketing Expert (C): Yeah.
+[24:49.48-25:05.55] ES2003b-T0130 | Project Manager (B): I would say so, yes, because then we have to be able to control the remote boxes, and that is a separate unit. Um I think that it I would say that the design spec we've been with is for the television only for now. And until we hear otherwise we should go with just that.
+[25:02.74-25:03.06] ES2003b-T0131 | User Interface Designer (A): Mm-hmm.
+[25:03.47-25:03.71] ES2003b-T0132 | Marketing Expert (C): Hmm.
+[25:05.31-25:06.74] ES2003b-T0133 | Marketing Expert (C): Okay, specifically television.
+[25:05.67-25:06.71] ES2003b-T0134 | User Interface Designer (A): Okay.
+[25:06.62-25:10.00] ES2003b-T0135 | Project Manager (B): Okay. Maybe we'll hear differently, but for now
+[25:09.33-25:13.65] ES2003b-T0136 | Marketing Expert (C): So the joystick is just for differentness.
+[25:14.32-25:14.69] ES2003b-T0137 | User Interface Designer (A): Mm.
+[25:14.53-25:19.98] ES2003b-T0138 | Project Manager (B): It would be ease of manipulation of certain functions, yes. Um
+[25:17.31-25:17.62] ES2003b-T0139 | Marketing Expert (C): Okay.
+[25:18.18-25:25.89] ES2003b-T0140 | User Interface Designer (A): Just a thought. Um maybe then our market should be T_V_ manufacturers, rather than the public.
+[25:27.60-25:30.05] ES2003b-T0141 | User Interface Designer (A): Try and sell it t sell it to them to supply with
+[25:31.79-25:32.70] ES2003b-T0142 | User Interface Designer (A): um
+[25:31.95-25:44.83] ES2003b-T0143 | Project Manager (B): There is that possibility, yes. B However I don't know exactly where we'll be going with that, but it might not even be the avenue of the Marketing Expert, that might be sales, who are not in this meeting.
+[25:37.06-25:38.87] ES2003b-T0144 | Marketing Expert (C): Mm.
+[25:42.10-26:07.81] ES2003b-T0145 | Marketing Expert (C): Mm-hmm. It's just, the way I figure it, twelve point five Euros per unit, we have to sell at least like three million or something like that, not to account for all the the money we waste on remotes that no one buys, you know, like if we made a perf if we made a ks for every remote we made someone bought it, then we have to sell a lot of remote controls. We just
+[25:49.55-25:50.38] ES2003b-T0146 | Project Manager (B): Mm-hmm.
+[26:02.66-26:03.52] ES2003b-T0147 | Project Manager (B): Mm-hmm.
+[26:09.49-26:11.44] ES2003b-T0148 | Marketing Expert (C): Is this gonna be enough to to sell?
+[26:12.75-26:30.29] ES2003b-T0149 | Project Manager (B): Well, something else that you brought up was uh the ability to lose a remote, which as you said you've done, in fact we've probably all done. Um, I don't know if it's a gimmick or not, but have any of you ever seen those odd little key rings where if you whistle, it will beep and you tell you where it is.
+[26:20.51-26:20.80] ES2003b-T0150 | Marketing Expert (C): Yeah.
+[26:30.16-26:32.40] ES2003b-T0151 | User Interface Designer (A): Mm, yeah, I've seen them.
+[26:30.21-26:37.34] ES2003b-T0152 | Marketing Expert (C): I had one of those, and my brother, and my dad, could have beat me up because it it went off all the time accidentally.
+[26:32.54-26:33.15] ES2003b-T0153 | Project Manager (B): Um.
+[26:37.31-26:43.39] ES2003b-T0154 | Project Manager (B): Well the other option of course is that um the well I was going to say clapping, um
+[26:39.44-26:40.96] ES2003b-T0155 | Marketing Expert (C): The clapping one.
+[26:45.23-27:38.23] ES2003b-T0156 | Project Manager (B): Um digital telephones, uh for example, one unit has of course you have to have that base unit, somewhere where there's a button, but maybe it's a button that you attach to the T_V_. Something which you when you press that, it would beep to give its location away, on the remote unit. And that could be something could um separate us a bit. And that way, because we're attaching what would be a small button to the T_V_, again say what, it would be a small transmitter, um watch battery type scenario I would say, or something that if it was problems enough you could actually even just um I don't power that might be something that we could look into. Yep. Yeah, it's uh putting a lot on your shoulders there, so I mean that could be something that separates us a bit from the market as well.
+[26:56.42-26:57.53] ES2003b-T0157 | Marketing Expert (C): To a television.
+[26:56.57-26:57.25] ES2003b-T0158 | User Interface Designer (A): Mm.
+[27:03.09-27:03.65] ES2003b-T0159 | Marketing Expert (C): Yeah.
+[27:03.33-27:05.01] ES2003b-T0160 | User Interface Designer (A): Yeah, I think that's a good idea.
+[27:05.71-27:06.48] ES2003b-T0161 | Marketing Expert (C): Yeah, that's a good idea.
+[27:32.11-27:33.05] ES2003b-T0162 | Industrial Designer (D): Yeah
+[27:36.24-27:38.56] ES2003b-T0163 | Marketing Expert (C): I think so, yeah.
+[27:41.08-27:55.28] ES2003b-T0164 | Project Manager (B): So. To go on from here. Um we have to decide exactly what we're going to do with the remote. Before we leave this meeting, it would be best to say this is what we're going this is the design we're gonna try and get, this is how we're gonna make ourselves look unique.
+[27:58.57-28:14.51] ES2003b-T0165 | Project Manager (B): Do we go for maybe a remote contro uh sorry, we're gonna go for a remote control obviously, do we go for a small joystick that would operate say changing channels, up and down, and then, what, another button that would say that it's now being used to manoeuvre round the L_C_D_.
+[27:58.66-27:59.62] ES2003b-T0166 | User Interface Designer (A): Mm.
+[28:15.33-28:18.93] ES2003b-T0167 | User Interface Designer (A): Mm yeah. Yeah, I think that's
+[28:17.65-28:21.81] ES2003b-T0168 | Industrial Designer (D): We're just saying volume. Should volume be important in the joystick, do you think?
+[28:21.65-28:28.14] ES2003b-T0169 | Project Manager (B): We could use say the left and right for changing channels and the up and down for volume, and
+[28:22.08-28:23.55] ES2003b-T0170 | User Interface Designer (A): Yeah.
+[28:26.27-28:27.02] ES2003b-T0171 | User Interface Designer (A): For volume.
+[28:27.30-28:27.49] ES2003b-T0172 | Industrial Designer (D): Yep.
+[28:27.57-28:49.28] ES2003b-T0173 | Marketing Expert (C): But we have a frequency of how what people use a remote control for most. Um, power is used like once per hour, channel selection is used a hundred and sixty eight per hour, that's by far the biggest one, and then teletext, is still here, that's like fourteen, and volume selection.
+[28:33.21-28:34.11] ES2003b-T0174 | Project Manager (B): Okay.
+[28:34.21-28:34.92] ES2003b-T0175 | Industrial Designer (D): I
+[28:39.97-28:40.90] ES2003b-T0176 | Project Manager (B): Mm-hmm.
+[28:47.60-28:55.73] ES2003b-T0177 | Project Manager (B): Vol Volume selection okay, yep, the teletext we're gambling with, and we're gonna say it's dead, the way of the dodo
+[28:53.12-28:57.41] ES2003b-T0178 | Marketing Expert (C): No, yeah, okay okay. Yeah, um
+[28:56.93-29:23.14] ES2003b-T0179 | Project Manager (B): So we well, sorry, we could maybe even go as far as saying power button, small joystick, L_C_D_, and then what maybe is it one more button to say that you're using the menu system, and with the possibility of pushing down on the joystick to say okay? So we're having very very few buttons involved, but navigation around a menu for most things.
+[29:19.90-29:20.74] ES2003b-T0180 | User Interface Designer (A): Actually how
+[29:23.06-29:46.40] ES2003b-T0181 | User Interface Designer (A): Actually I would say maybe two two function buttons, the y we're now using the menus button and um and an og and an okay button. I mean certainly something I've found with the joystick on mo the joysticks on mobile phones is that a lot of the time th the device mistakes you trying to move it in one direction or the other for pushing down for okay.
+[29:33.39-29:34.02] ES2003b-T0182 | Project Manager (B): Okay.
+[29:46.66-29:48.06] ES2003b-T0183 | Project Manager (B): Okay.
+[29:46.80-29:49.41] ES2003b-T0184 | User Interface Designer (A): Or vice versa. And that's really irritating.
+[29:49.33-29:49.66] ES2003b-T0185 | Marketing Expert (C): Mm-hmm.
+[29:49.70-29:52.90] ES2003b-T0186 | Project Manager (B): Um
+[29:50.98-30:08.91] ES2003b-T0187 | User Interface Designer (A): The o the o the other dis design constraint I think we should bear in mind is that people are you know very much used to using a remote control one handedly, um, so we need to make sure that e even with the joystick, you know something that can just sit comfortably in the palm of the hand and have the joystick just controlled by the thumb.
+[30:08.85-30:21.63] ES2003b-T0188 | Project Manager (B): Okay. So um we're actually that sounds like a rough idea. Do we incorporate the idea of trying to f locate the remote control again via a beeping noise?
+[30:22.02-30:22.93] ES2003b-T0189 | Industrial Designer (D): Yeah, think so.
+[30:23.06-30:24.50] ES2003b-T0190 | Project Manager (B): Do you mind looking?
+[30:23.22-30:31.09] ES2003b-T0191 | Marketing Expert (C): Um, I think because it's so small it might be an uh I mean if we only have like two three buttons it might be essential to have to have that
+[30:29.91-30:49.60] ES2003b-T0192 | Project Manager (B): The ability to locate it again. So that would require a um transmitter maybe attached to the T_V_, just so that it says find me, and what, a basically a small microphone um on the actual unit, can maybe hide it in the base. Sorry?
+[30:31.74-30:33.36] ES2003b-T0193 | Marketing Expert (C): Yeah.
+[30:47.04-30:48.93] ES2003b-T0194 | Industrial Designer (D): Light bulb as well, no?
+[30:48.32-30:50.94] ES2003b-T0195 | User Interface Designer (A): Oh. So so a small speaker you mean.
+[30:50.80-30:52.77] ES2003b-T0196 | Project Manager (B): Some speaker, sorry, yeah.
+[30:50.96-30:52.67] ES2003b-T0197 | Marketing Expert (C): Speaker yeah.
+[30:52.78-30:55.02] ES2003b-T0198 | Industrial Designer (D): And a light bulb? No. To flash. No.
+[30:55.17-30:56.67] ES2003b-T0199 | Project Manager (B): Um
+[30:56.62-30:58.58] ES2003b-T0200 | Industrial Designer (D): Nah, you'd see it anyway, if you hear it.
+[30:57.93-31:03.39] ES2003b-T0201 | Project Manager (B): E us we might be better with the sound possibly we could maybe incorporate
+[31:01.54-31:05.26] ES2003b-T0202 | Marketing Expert (C): W those little key-rings have both, so
+[31:01.68-31:02.42] ES2003b-T0203 | Industrial Designer (D): Yeah.
+[31:04.83-31:12.50] ES2003b-T0204 | Project Manager (B): th e the true fact, considering the cost of an L_E_D_, we could just incorporate it anyway. The L_E_D_s can be surprisingly bright now.
+[31:08.61-31:10.81] ES2003b-T0205 | Marketing Expert (C): Yeah. Yeah.
+[31:12.48-31:12.77] ES2003b-T0206 | Marketing Expert (C): Yeah.
+[31:12.66-31:13.14] ES2003b-T0207 | Industrial Designer (D): Mm-hmm.
+[31:13.46-31:17.06] ES2003b-T0208 | User Interface Designer (A): Mm-hmm. Blue ones particularly. Plus that's a nice wee design touch.
+[31:13.73-31:14.74] ES2003b-T0209 | Project Manager (B): Um.
+[31:16.35-31:30.32] ES2003b-T0210 | Project Manager (B): So by the sounds of it, with what we're suggesting so far, your design um the user interface is still quite open, you could go for quite an interesting design. Because we're only going to have a very few key and you've got
+[31:17.17-31:17.66] ES2003b-T0211 | Marketing Expert (C): Yeah.
+[31:28.14-31:28.62] ES2003b-T0212 | User Interface Designer (A): Mm-hmm.
+[31:31.55-31:55.63] ES2003b-T0213 | Project Manager (B): you know a small L_C_D_, joystick, e I think it leaves you open to a a potential wide range of shapes, something that can make it stand out slightly. Um if you could look into what we've suggested so far, the feasibility of um small transmitter, um and such, maybe if an L_C_D_ screen requires too much power, or such.
+[31:39.49-31:40.02] ES2003b-T0214 | User Interface Designer (A): Mm-hmm.
+[31:56.64-32:00.29] ES2003b-T0215 | Project Manager (B): Ebenezer, um, Marketing Expert
+[31:58.19-32:12.43] ES2003b-T0216 | Marketing Expert (C): Well I can give you the frequency, what people what options people use most often, I guess that's gonna be important in the ts defining the the software side of the interface, right. You want the stuff.
+[32:11.09-32:29.30] ES2003b-T0217 | Project Manager (B): If, yeah if you could maybe as well see what people think about the idea of this minimalist approach that we've taken, where of a joystick to control the very basic functions, and then the idea of manipulating it like you would a mobile. I don't know how easy that will be within the time frame, but could be something we could maybe look into.
+[32:20.98-32:21.28] ES2003b-T0218 | Marketing Expert (C): Okay.
+[32:24.91-32:25.28] ES2003b-T0219 | Marketing Expert (C): Okay.
+[32:27.67-32:30.69] ES2003b-T0220 | Marketing Expert (C): Mm-hmm. Sure. Sure.
+[32:31.31-32:40.24] ES2003b-T0221 | Project Manager (B): Okay. Um any last comments that anybody would like to put forward? Anything that they think has been missed out. Bit of a wide open question there of course.
+[32:43.06-32:43.44] ES2003b-T0222 | Marketing Expert (C): Mm.
+[32:46.40-32:52.90] ES2003b-T0223 | Project Manager (B): Feel free to email me if you think that uh we've screwed something up and wanna get it rectified as soon as possible.
+[32:52.82-32:53.31] ES2003b-T0224 | Marketing Expert (C): Sure.
+[32:54.14-32:55.86] ES2003b-T0225 | Project Manager (B): Right.
+[32:54.56-32:55.47] ES2003b-T0226 | Marketing Expert (C): 'Kay. Yeah.
+[32:55.41-33:01.20] ES2003b-T0227 | Industrial Designer (D): So I should just look at um the speaker, the speaker and an L_E_D_. And
+[33:00.19-33:03.44] ES2003b-T0228 | Project Manager (B): Speaker and L_E_D_ for locating, um,
+[33:02.74-33:04.96] ES2003b-T0229 | Industrial Designer (D): Yeah, and a transmitter.
+[33:03.36-33:04.34] ES2003b-T0230 | Marketing Expert (C): Transmitter.
+[33:05.02-33:06.30] ES2003b-T0231 | Project Manager (B): transmitter
+[33:06.22-33:18.56] ES2003b-T0232 | User Interface Designer (A): Actually one one wee thought about that. Um, if we do end up trying to market this to television manufacturers then the um then the transmitter could actually be built into the television.
+[33:19.57-33:41.15] ES2003b-T0233 | Project Manager (B): getting the external power source, yep, that's quite true. Um, and something that we can can easily be adopted at the last minute as well I'd say. The electronics could be s either placed externally or internally, makes no difference to the final product of the actual remote control, so that's good. Uses maybe gives us a new potential market.
+[33:30.69-33:31.10] ES2003b-T0234 | User Interface Designer (A): Yeah.
+[33:35.14-33:35.49] ES2003b-T0235 | User Interface Designer (A): Mm-hmm.
+[33:44.40-33:44.82] ES2003b-T0236 | User Interface Designer (A): Mm-hmm.
+[33:45.33-33:46.53] ES2003b-T0237 | Project Manager (B): 'Kay.
+[33:46.12-33:56.94] ES2003b-T0238 | User Interface Designer (A): You know I think I mean if it w if we get a major television manufacturer to say y oh yeah we'll have that, save us the bother, then that's you know vast amounts of sales. Quite quickly.
+[33:46.28-33:47.17] ES2003b-T0239 | Industrial Designer (D): P
+[33:57.71-34:11.44] ES2003b-T0240 | Project Manager (B): Oh, one thing that we've almost not talked about at all, my apologies for that, um, user interface, we also need to maybe get the slogan in here, um it's, I'm pointing at my laptop, what in God
+[34:07.54-34:08.19] ES2003b-T0241 | Industrial Designer (D): Fashion.
+[34:13.09-34:16.61] ES2003b-T0242 | Project Manager (B): Real reaction, and such. So um
+[34:17.08-34:21.30] ES2003b-T0243 | Industrial Designer (D): The slogan is yeah, the slogan's we put the fashion in electronics, isn't it?
+[34:18.24-34:18.95] ES2003b-T0244 | Project Manager (B): Oh, sorry.
+[34:21.56-34:38.50] ES2003b-T0245 | Project Manager (B): My apologies. No it could well be, I've probably missed that. Um, I think that's l almost the last minute thing we can just incorporate into the actual plastic on top. So I'm not too concerned a that we haven't gone into depth about that. But it might be something you could consider when you're thinking about shapes?
+[34:25.43-34:26.64] ES2003b-T0246 | Industrial Designer (D): 'S also look cool.
+[34:30.84-34:31.86] ES2003b-T0247 | User Interface Designer (A): Mm.
+[34:39.89-34:48.35] ES2003b-T0248 | Project Manager (B): In fact we might like to put a slogan on, and um possibly the two R_s to signify the company. Rather than real reaction.
+[34:40.18-34:40.98] ES2003b-T0249 | User Interface Designer (A): Mm-hmm.
+[34:43.55-34:43.87] ES2003b-T0250 | User Interface Designer (A): Mm-hmm.
+[34:47.32-34:55.17] ES2003b-T0251 | User Interface Designer (A): Mm. Yeah. I thought the uh the d the double arc could perhaps uh be the uh the enter button.
+[34:55.81-35:00.48] ES2003b-T0252 | Project Manager (B): Sounds good. And I'd say that that's us for now. Okay.
+[34:57.60-34:58.74] ES2003b-T0253 | User Interface Designer (A): .

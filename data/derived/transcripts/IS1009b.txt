@@ -1,0 +1,368 @@
+Meeting: IS1009b
+Split: test
+Meeting date: 2004-12-13
+AMI duration (seconds): 2051
+Transcribed word elements: 6831
+
+[00:37.04-00:38.74] IS1009b-T0001 | Project Manager (A): Okay, is everybody ready?
+[00:39.04-00:39.31] IS1009b-T0002 | Industrial Designer (C): Yeah?
+[00:39.71-00:42.83] IS1009b-T0003 | Marketing Expert (D): Yeah I'd to just put on my microphone here and I'll be right with you.
+[00:43.14-00:43.54] IS1009b-T0004 | Project Manager (A): Mm-hmm.
+[00:45.02-00:45.41] IS1009b-T0005 | Marketing Expert (D): Okay?
+[00:47.15-00:58.72] IS1009b-T0006 | Project Manager (A): Um I take it you all have received instructions as to what you were supposed to do and um
+[00:55.10-00:55.55] IS1009b-T0007 | Industrial Designer (C): Mm?
+[00:55.65-00:56.14] IS1009b-T0008 | User Interface Designer (B): Yes.
+[01:00.77-01:07.42] IS1009b-T0009 | Project Manager (A): I think the Marketing Manager probably should go first, addressing the needs and desires.
+[01:15.39-01:17.07] IS1009b-T0010 | Marketing Expert (D): Okay you want me to start right now?
+[01:18.40-01:19.10] IS1009b-T0011 | Project Manager (A): Yeah, mm-hmm.
+[01:19.30-01:26.48] IS1009b-T0012 | Marketing Expert (D): Okay. Well, could you um put my slides up'cause I think it might be helpful if uh we looked at the slides at the same time.
+[01:26.26-01:26.67] IS1009b-T0013 | Project Manager (A): Okay.
+[01:35.57-01:37.09] IS1009b-T0014 | Project Manager (A): You're participant four.
+[01:36.70-01:38.92] IS1009b-T0015 | Marketing Expert (D): I'm participant four I believe. Yes uh-huh.
+[01:40.67-01:41.23] IS1009b-T0016 | Marketing Expert (D): 'Kay.
+[01:40.94-01:43.78] IS1009b-T0017 | Project Manager (A): Okay, and now I can uh full screen.
+[01:44.19-01:44.64] IS1009b-T0018 | Industrial Designer (C): Open.
+[01:46.15-01:47.57] IS1009b-T0019 | Project Manager (A): Uh, okay, okay.
+[01:48.40-01:59.67] IS1009b-T0020 | Marketing Expert (D): There we go. Okay well I think we have introduced ourselves, so the functional requirements are is is part of my goal but why don't we pass right to the second slide.
+[01:50.37-01:51.35] IS1009b-T0021 | Industrial Designer (C): And then full screen.
+[02:00.67-02:45.38] IS1009b-T0022 | Marketing Expert (D): Cause that's where m my discussion starts. Right well um since I'm in charge of trying to figure out what we should put on this thing since I have to try to sell it. Um I thought that the method I should follow would be gather suggestions from everybody, and th the reason I just put that there like that is that uh in the init in the initial stage I think I should just be open to lots of suggestions. You know you can say anything you want no matter how silly it sounds you know it should run your car, it should heat up your motor if should um turn on your C_D_ whatever you want it to do um and then as we go on what we'll have to do is accept and eliminate these suggestions according to um design and budget feasibility.
+[02:10.00-02:10.34] IS1009b-T0023 | Industrial Designer (C): Mm-hmm.
+[02:35.14-02:35.44] IS1009b-T0024 | Industrial Designer (C): 'Kay.
+[02:45.60-03:33.26] IS1009b-T0025 | Marketing Expert (D): So I'll be coming to you um frequently as the Industrial Expert to tell me how hard it's gonna be to add a feature or how expensive it's gonna be or if your time, if it takes five years to develop this it's just something we can't do. So in the beginning just have a big puddle of things that we anybody can th throw anything in and then just weed things out that can't be done for one reason or another, and then the things that seem the most attractive that to uh to a customer we'll try to then prioritise those. So that was um what I meant there, and as I said on the slide there consulting the Industrial Engineer about that and the other thing is timing is really gonna be as important as money, because if we're gonna sell this thing, I think the best time to sell it is as a Christmas present.
+[02:49.36-02:49.66] IS1009b-T0026 | Industrial Designer (C): Mm-hmm.
+[02:51.65-02:55.07] IS1009b-T0027 | Industrial Designer (C): Yeah. Yeah. Yeah.
+[02:57.44-02:59.37] IS1009b-T0028 | Industrial Designer (C): Hmm hmm. Mm.
+[03:01.92-03:02.42] IS1009b-T0029 | Industrial Designer (C): Yeah.
+[03:15.33-03:15.69] IS1009b-T0030 | Industrial Designer (C): Mm-hmm.
+[03:17.31-03:17.70] IS1009b-T0031 | Industrial Designer (C): Yeah.
+[03:33.62-04:21.11] IS1009b-T0032 | Marketing Expert (D): Twenty five Euros makes a nice little present, and we want it to be an impulse purchase, we want somebody to see it and think it's, gee I just gotta have that. And take out their wallet and buy it. So it's gotta be really attractive and it but it's gotta go to market by September,'cause anything that you don't already have out there in September showing it around, isn't gonna sell for Christmas. Um and then I'll be coming to you as the User Interface person to try to tell me from your point of view what are the most friendly features that we could put on it and try to prior help me with that prioritising of uh of the features and of the the look and the colour and I'll be coming back to you to help weed out those suggestions from that point of view.
+[03:38.00-03:38.47] IS1009b-T0033 | Industrial Designer (C): Mm.
+[03:52.65-03:53.27] IS1009b-T0034 | Industrial Designer (C): Yeah.
+[04:10.57-04:11.16] IS1009b-T0035 | User Interface Designer (B): Okay.
+[04:20.76-04:21.54] IS1009b-T0036 | User Interface Designer (B): Okay.
+[04:21.29-04:52.10] IS1009b-T0037 | Marketing Expert (D): So I'll be coming to you for how much is it gonna cost us and how long is it gonna take you, and I'll be coming to you to tell me what's gonna make somebody take out their wallet you know, what what's what's gonna really be what they call a sizzle,'cause we gotta sell this sizzle. A lot of times the thing that works the best from an engineering point of view isn't the thing that somebody's really just gonna take out their wallet and buy for Christmas for for their child or for their husband or whatever. Okay can we go to the next slide please?
+[04:24.80-04:25.70] IS1009b-T0038 | Industrial Designer (C): Mm mm-hmm.
+[04:29.15-04:30.05] IS1009b-T0039 | User Interface Designer (B): What features.
+[04:35.01-04:37.88] IS1009b-T0040 | User Interface Designer (B): S sellable. Yes.
+[04:48.96-04:49.42] IS1009b-T0041 | User Interface Designer (B): Yes.
+[04:54.72-05:44.62] IS1009b-T0042 | Marketing Expert (D): Alright I I already did a little bit of research after our first meeting where we threw out some ideas and it looks to me that within the budget that we're looking at the uh the whole house idea really isn't gonna be possible. So I'd like your suggestions to come back to the other slide where I was saying we we could suggest anything. I'd like the suggestions to be really specific, so that we'll have a list of things we can cross off, not something like you know whole house control what'll be And then I found on the internet from from my research that some extended electronic entertainment control should be possible. At the budget that we're looking at and at the price point we're looking at, we should be able to make it work the T_V_, the V_C_R_, the stereo set um maybe something else cute like a coffee pot or one other appliance or maybe a lamp. I have to wind up?
+[05:41.31-06:21.13] IS1009b-T0043 | Project Manager (A): Uh okay, can can I at this point interject um something? Um we have received instruction from higher up that certain things should not be uh considered. Um the one thing for example something to eliminate maybe that's the teletext, because that's sort of outdated with the internet, and according to to higher management the it should only control the T_V_, mostly because they feel that it's too comp complex a task to um to to include other things, and they are concerned with the time to market.
+[05:45.55-05:46.53] IS1009b-T0044 | Marketing Expert (D): Yeah, sure.
+[05:53.18-05:53.63] IS1009b-T0045 | Marketing Expert (D): Okay.
+[06:01.06-06:01.50] IS1009b-T0046 | Marketing Expert (D): Okay.
+[06:01.34-06:01.74] IS1009b-T0047 | Industrial Designer (C): Mm-hmm.
+[06:14.21-06:16.05] IS1009b-T0048 | Industrial Designer (C): Complicated, yeah, of course.
+[06:21.23-06:21.61] IS1009b-T0049 | Industrial Designer (C): Yeah.
+[06:21.30-06:22.34] IS1009b-T0050 | Marketing Expert (D): Of course, yeah.
+[06:21.70-06:22.42] IS1009b-T0051 | User Interface Designer (B): Okay.
+[06:21.78-07:05.14] IS1009b-T0052 | Project Manager (A): Okay. Um and the and the third thing that they wanna make sure um that their that the corporate image is being maintained, and that the corporate colour and design are being used on the product, so that it's easy that that that they can be easily identified as a product of of of the company, and that there's no mistake that it could be somebody else who is bringing this out. So I just wanted to interject this here so we're not getting too much off track here with uh with the things we wanna look at. These were instructions from higher up so we have to eliminate uh these things, so it's only gonna be T_V_, but the one thing maybe that could be um eliminated is the teletext uh idea.
+[06:22.86-06:24.40] IS1009b-T0053 | Marketing Expert (D): Okay, so that's something
+[06:43.91-06:44.38] IS1009b-T0054 | Industrial Designer (C): Mm-hmm.
+[06:58.18-06:58.96] IS1009b-T0055 | Marketing Expert (D): Okay so
+[07:05.38-07:05.78] IS1009b-T0056 | Marketing Expert (D): Okay.
+[07:06.35-07:07.69] IS1009b-T0057 | Project Manager (A): Mm'kay.
+[07:06.95-07:07.66] IS1009b-T0058 | User Interface Designer (B): Okay.
+[07:06.98-09:18.99] IS1009b-T0059 | Marketing Expert (D): Alright, thanks for that. Um alright now other things that I found out on in my research is that the complaints that people have about the remote controls that are out there now.'Cause a lot of them take too much time to learn how to use, and that was thirty four percent but even more important the thing that we did address in our last meeting that frequently it's lost somewhere in the room. Um so those are two things that we definitely do wanna address, uh we wanna s make it as simple as possible, we wanna make it um obvious and intuitive to use, and then the things about finding it we talked about the a light emitting thing as well as uh maybe a beep, and I think that those are things after my research that we definitely wanna try to incorporate.'Kay can we go to the next slide please? Okay, so, my personal preferences in this um project are really have to concentrate on the sizzle. That is the selling point, the thing that's gonna make it an impulse purchase. Uh because once there's no be-back, well in sales they always say you know, be-backs don't come back. If somebody says, oh I'll come back and get it next week you're dead. They're never gonna come back and buy it. You've gotta make it attractive enough so they buy it now now now w now is a big word in in my book for selling this thing. And, in order to make it really sellable we've gotta shorten the learning curve, make sure it's really intuitive and easy to use. We have to have as few buttons as possible, because more buttons is more confusion, so that's why I'm saying, simplicity is good. Finding it's important, obviously you can't use it if you can't find it. So we've gotta concentrate on the features that help you find it, and I've already said this several times but I put it down in writing here, it should be an attractive impulse purchase at twenty five Euros. So it has to have enough value that when somebody looks at it they say, uh twenty five Euros I'm not gonna take that. Has to be so great that they're gonna say, uh twenty five Euros isn't much. Um and then maybe a motto, like we put fashion in electronics might be something we can use in our marketing campaign. Okay that's uh about it for me right now.
+[09:16.44-09:16.88] IS1009b-T0060 | Industrial Designer (C): Yeah.
+[09:19.54-09:20.18] IS1009b-T0061 | Project Manager (A): Okay.
+[09:23.01-09:34.90] IS1009b-T0062 | Project Manager (A): And uh who would be next, uh, I guess that would be you. Mm-hmm. You want me to get your slide show up? Mm-hmm.
+[09:31.17-09:35.02] IS1009b-T0063 | Industrial Designer (C): Yeah'kay. Yeah yeah sure. Thank you.
+[09:40.80-09:43.73] IS1009b-T0064 | Project Manager (A): And you are number three? Number two.
+[09:42.45-09:44.05] IS1009b-T0065 | Industrial Designer (C): Number two, yeah.
+[09:50.83-09:51.70] IS1009b-T0066 | Industrial Designer (C): Yeah exactly.
+[09:51.55-09:52.28] IS1009b-T0067 | Project Manager (A): Okay.
+[09:53.73-09:56.21] IS1009b-T0068 | Industrial Designer (C): Uh can you make it uh full screen please?
+[09:54.22-09:56.33] IS1009b-T0069 | Project Manager (A): Okay. Mm-hmm.
+[09:58.22-09:58.75] IS1009b-T0070 | Project Manager (A): Yep.
+[09:58.38-10:06.08] IS1009b-T0071 | Industrial Designer (C): No, it's like a well you you have to press here. The cup cup shape here? The thir third.
+[10:04.53-10:05.31] IS1009b-T0072 | Project Manager (A): Yeah yeah, uh-huh.
+[10:07.68-10:16.51] IS1009b-T0073 | Industrial Designer (C): Yeah exactly. Uh so today I'm going to talk about the working design of the remote controller. Um can you go to the next sli slide please?
+[10:07.94-10:08.75] IS1009b-T0074 | Project Manager (A): There, mm-hmm.
+[10:13.28-10:13.71] IS1009b-T0075 | Marketing Expert (D): Okay.
+[10:16.18-10:16.75] IS1009b-T0076 | Project Manager (A): Mm-hmm.
+[10:18.30-11:06.05] IS1009b-T0077 | Industrial Designer (C): The metal is like uh in a remote controller you have a chip integrated circuit which is like a brain of the remote controller. It takes the power from a battery say a battery it it can be a elec an electric supply like you have to uh like uh switch connec connect connect your remote controller to uh power supply from the you know electricity or something like that. It should be a battery because uh uh remote controller should be like you you you should take it t to wherever you want and then um uh th this integrated circuitry takes energy from the power source and whatever like if you press a button it's like a input for the remote controller and it takes the input and it it transforms into a infro infrared bits and it sends it into the device, like a T_V_ or a air conditioner, something like that so.
+[10:45.76-10:46.21] IS1009b-T0078 | Marketing Expert (D): Mm-hmm.
+[11:06.41-11:56.11] IS1009b-T0079 | Industrial Designer (C): Uh a remote controller is specifically designed to a single device. If you want to design it for multiple devices then you should make all the devices compatible with the frequency like uh th the remote controller it sends some bits some uh waves like with a particular frequency the device should know what the frequency is. It should re re recognise the uh waves which are coming from the remote controller and it should take the action like if you press a button channel or something like that then uh the remote uh remote controller will send a send a se send a signal, and the T_V_ it should translate that into like change the channel or something like that, change the volume control and uh so uh I think it's hard to design a remote controller for multiple uh devices.
+[11:39.78-11:40.64] IS1009b-T0080 | Marketing Expert (D): Signal.
+[11:43.44-11:44.37] IS1009b-T0081 | User Interface Designer (B): Receive.
+[11:47.06-11:47.51] IS1009b-T0082 | Marketing Expert (D): Mm-hmm.
+[11:48.50-11:49.06] IS1009b-T0083 | Project Manager (A): Mm-hmm.
+[11:55.71-11:56.78] IS1009b-T0084 | User Interface Designer (B): Multi-purpose.
+[11:56.48-12:03.07] IS1009b-T0085 | Marketing Expert (D): Yeah well that's already been eliminated by management, so we're off the hook.
+[11:56.90-12:02.73] IS1009b-T0086 | Project Manager (A): Yo and it's yeah but it's so.
+[11:58.38-11:59.35] IS1009b-T0087 | Industrial Designer (C): Uh yeah.
+[12:03.50-12:04.19] IS1009b-T0088 | Industrial Designer (C): Um.
+[12:03.52-12:03.99] IS1009b-T0089 | Project Manager (A): Yep.
+[12:06.26-12:40.44] IS1009b-T0090 | Industrial Designer (C): So uh user interface controls the chip and accordingly the messages like there should be a user user in interface like you know switch pad or something like that buttons should be there. So uh you can control whatever you want, you want to change the channel you want to control the volume you you want to uh mute uh mute the uh T_V_ or you want to have a child lock or you want to do some operations there's a there should be some device to tell what to do to the uh in uh integrated circuit so that the integrated circuit can s send the signals and T_V_ can perform the actions.
+[12:33.93-12:34.67] IS1009b-T0091 | Marketing Expert (D): Mm okay.
+[12:41.09-12:43.20] IS1009b-T0092 | Industrial Designer (C): So can you go to the next slide please?
+[12:42.32-12:42.99] IS1009b-T0093 | Marketing Expert (D): Okay.
+[12:43.73-13:14.16] IS1009b-T0094 | Industrial Designer (C): So I I just would like to uh add some extra features to the remote controller um I think these are the very simple features and uh they don't take much uh uh much of the um um investment also, it's like el the text or buttons which uh which are there on the uh remote controller they those we can make uh um like fluorescent uh they'll be like light emitting if it is dark so that you can find your remote controller if it is dark.
+[12:48.56-12:49.17] IS1009b-T0095 | Marketing Expert (D): Mm-hmm.
+[13:07.44-13:07.84] IS1009b-T0096 | Marketing Expert (D): Mm-hmm.
+[13:15.04-14:13.65] IS1009b-T0097 | Industrial Designer (C): And ther there should be a beep if many buttons are pressed if suppose a child is playing with the remote controller and a and she she or he is pressing the buttons all at the time then there should be a beep saying that it's this this is not a a you know a a action, there can be no action taking to that so. And there should be a child lock, like uh uh you should be able to lock your remote controller so that uh um whatever buttons are pressed by a child they can't be like y you i you if you have ki kids and all then they'll be pl playing with the remote controllers so can lock the remote controller. If make it useable for more than one device it's a it's hard but I think it's possible but it uh yeah yeah yeah so it's it's okay, yeah, yeah. And uh different shapes that we can do like uh we can have you know a all animals shapes or you know comfortable uh whi which can fit into your hands and um so that uh
+[13:55.82-14:02.42] IS1009b-T0098 | Project Manager (A): Yeah well yeah well that has been e that has been eliminated, so that's that's unfortunately a moot point now. Mm-hmm.
+[13:57.02-13:59.35] IS1009b-T0099 | Marketing Expert (D): Well we already eliminated that.
+[13:58.38-13:59.49] IS1009b-T0100 | User Interface Designer (B): Eliminated.
+[14:12.98-14:21.73] IS1009b-T0101 | Marketing Expert (D): Now that's good from a marketing point of view, the fun the fun shape. And that you you say that won't add too much to the budget? To d the shape is uh
+[14:14.86-14:18.06] IS1009b-T0102 | Industrial Designer (C): Yeah, yeah, yeah and colours also, different colours, and
+[14:16.98-14:17.44] IS1009b-T0103 | Project Manager (A): Yeah I
+[14:17.00-14:18.21] IS1009b-T0104 | User Interface Designer (B): Mm-hmm colours.
+[14:20.06-14:25.78] IS1009b-T0105 | Industrial Designer (C): No no no, it won't uh I don't think it will be like, you can have you know for uh if you want ther there to be more
+[14:24.35-14:27.52] IS1009b-T0106 | Project Manager (A): It just build a mould basically and uh you know.
+[14:26.25-14:29.30] IS1009b-T0107 | Industrial Designer (C): Yeah yeah. It's it's just a s shape so it doesn't matter.
+[14:27.04-14:28.11] IS1009b-T0108 | User Interface Designer (B): Yes exactly.
+[14:29.26-14:34.69] IS1009b-T0109 | Project Manager (A): As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or
+[14:31.78-14:32.39] IS1009b-T0110 | Industrial Designer (C): Yeah.
+[14:35.55-14:42.70] IS1009b-T0111 | Marketing Expert (D): Do you think there's any chance of um having ser in having basically the same machine with the same buttons but maybe several different shapes?
+[14:42.98-14:45.74] IS1009b-T0112 | Industrial Designer (C): Yeah that is also possible I uh yeah I I yeah.
+[14:43.55-14:44.09] IS1009b-T0113 | Project Manager (A): Oh yes.
+[14:44.14-14:46.98] IS1009b-T0114 | Marketing Expert (D): Is that gonna be a possible?'Cause that might help with the marketing.
+[14:44.45-14:45.19] IS1009b-T0115 | User Interface Designer (B): Yes.
+[14:45.28-14:51.90] IS1009b-T0116 | Project Manager (A): I think I think we will have to look at the budget on that but I think in principle that that would be that would be kind of fun, you know.
+[14:47.11-14:47.92] IS1009b-T0117 | Industrial Designer (C): Yeah that will be
+[14:51.13-14:52.09] IS1009b-T0118 | Industrial Designer (C): Yeah yeah.
+[14:51.42-15:03.55] IS1009b-T0119 | Marketing Expert (D): Because we had something sort of sexy for adults and we could have something sort of silly for children or a little animal shape or in a or a little elephant so they can remember where it is.
+[14:52.71-14:53.17] IS1009b-T0120 | Industrial Designer (C): Mm-hmm.
+[14:54.03-14:56.65] IS1009b-T0121 | Project Manager (A): Yeah. Silly for children.
+[14:56.10-15:00.34] IS1009b-T0122 | Industrial Designer (C): Yeah, for children, yeah exactly. Yeah, that's what, yeah.
+[14:57.31-14:58.75] IS1009b-T0123 | Project Manager (A): Like an animal or
+[14:58.11-14:59.70] IS1009b-T0124 | User Interface Designer (B): Like a doll, or
+[14:59.61-15:00.13] IS1009b-T0125 | Project Manager (A): Yeah.
+[15:02.04-15:39.13] IS1009b-T0126 | Industrial Designer (C): Yeah, exactly. Yeah. And and the butto buttons also I think if you want to have more features in your remote controller then there should be more buttons. If there are more buttons then it will be more complicated. If you have less features then your remote controller won't be attractive, so I think uh we need to make some buttons which are which are like um uh f in uh in intended for two or three operations, like if you press one button in one mode then it will change the channel, if you press the other button in another mode it will change the colour. So if you want to have less buttons we can have that option but I think it will complicate the matter more I think so.
+[15:02.11-15:03.78] IS1009b-T0127 | User Interface Designer (B): Yes.
+[15:34.21-15:35.01] IS1009b-T0128 | Marketing Expert (D): Mm.
+[15:38.32-16:06.72] IS1009b-T0129 | Marketing Expert (D): Well, I think I think that that's something that we'll have to discuss um with the User Interface person because I think there's a lot of argument to be made for one button for one feature. Because I think one of the things were complaining about in my what I found out in my research is when they complained about how hard it is to learn a new one. The changing modes was something I mean you and I, all f all four of us we work with computers all the time, changing modes is nothing for us, but people who
+[15:41.78-15:43.15] IS1009b-T0130 | Industrial Designer (C): Yep, yeah.
+[15:41.91-15:42.67] IS1009b-T0131 | User Interface Designer (B): Yes.
+[15:56.53-15:56.94] IS1009b-T0132 | Industrial Designer (C): Mm-hmm.
+[15:58.73-16:03.42] IS1009b-T0133 | Industrial Designer (C): Yeah, it's like you know yeah. Yeah. Yeah, yeah.
+[16:03.07-16:03.91] IS1009b-T0134 | User Interface Designer (B): Okay.
+[16:06.69-16:18.79] IS1009b-T0135 | Project Manager (A): Yeah, a little elderly, a little arthritic hand you know, and and it's a small button and and it they don't press it exactly you know something else happens n not their favourite channel comes up but something else and they're very frustrated you know.
+[16:08.46-16:09.54] IS1009b-T0136 | Marketing Expert (D): N and
+[16:08.89-16:09.70] IS1009b-T0137 | Industrial Designer (C): Mm-hmm.
+[16:11.60-16:12.30] IS1009b-T0138 | Industrial Designer (C): Yeah.
+[16:16.33-16:17.96] IS1009b-T0139 | Industrial Designer (C): Yeah, yes.
+[16:16.89-16:17.95] IS1009b-T0140 | User Interface Designer (B): Something else.
+[16:17.47-16:42.66] IS1009b-T0141 | Marketing Expert (D): And that's and that's the kind of thing people learn by feel, and um you don't feel the mode change. So um maybe having buttons be various shapes might be a help too. You know, like the a triangle is for the volume and a square is for changing channels, so that people can uh develop a tactile sense of it. But we'll get to that with you.
+[16:21.69-16:26.10] IS1009b-T0142 | Industrial Designer (C): Yeah, yeah you don't us yeah yeah, usually. Yeah.
+[16:30.00-16:34.20] IS1009b-T0143 | Industrial Designer (C): Yeah shapes also, different shapes. Yeah that will Mm-hmm.
+[16:36.20-16:36.95] IS1009b-T0144 | User Interface Designer (B): Channels.
+[16:36.29-16:36.89] IS1009b-T0145 | Industrial Designer (C): Yeah.
+[16:38.42-16:38.77] IS1009b-T0146 | Industrial Designer (C): Yeah.
+[16:40.77-16:46.47] IS1009b-T0147 | Industrial Designer (C): Yeah, yeah, and also text should be very clear so that there there won't be any ambiguities and uh
+[16:40.96-16:42.03] IS1009b-T0148 | Project Manager (A): Mm, mm-hmm.
+[16:41.97-16:42.49] IS1009b-T0149 | User Interface Designer (B): Yes.
+[16:45.78-16:47.92] IS1009b-T0150 | Marketing Expert (D): That's right, yeah. Now that's a good point. Yeah.
+[16:47.04-16:47.94] IS1009b-T0151 | Industrial Designer (C): So yeah.
+[16:47.30-16:47.78] IS1009b-T0152 | User Interface Designer (B): Yes.
+[16:48.91-17:02.01] IS1009b-T0153 | Industrial Designer (C): And uh display clock i if you want more features then we can display a clock it I I don't think it will take any money extra money because anyway we have an integrated circuit I think we can just definitely fit that feature into the circuit so it's
+[17:01.41-17:09.06] IS1009b-T0154 | Marketing Expert (D): Yeah, that's that's a good that's a good one, because the clock would be really friendly, and and when is your favourite show coming on and
+[17:02.82-17:05.33] IS1009b-T0155 | Project Manager (A): Mm-hmm, mm-hmm. Yes.
+[17:02.90-17:04.61] IS1009b-T0156 | Industrial Designer (C): Yeah, and we display a clock.
+[17:03.31-17:03.90] IS1009b-T0157 | User Interface Designer (B): Mm yeah.
+[17:05.45-17:06.01] IS1009b-T0158 | Industrial Designer (C): Yeah.
+[17:06.90-17:11.54] IS1009b-T0159 | Project Manager (A): Yes. Yeah you're sitting there already or maybe you have no other uh
+[17:07.49-17:11.19] IS1009b-T0160 | Industrial Designer (C): Yeah, and then you can just see your remote controller yeah yeah yeah so
+[17:08.00-17:09.63] IS1009b-T0161 | User Interface Designer (B): Yes.
+[17:10.75-17:18.14] IS1009b-T0162 | Marketing Expert (D): Yeah, and a lot of time there's not a clock on the screen, and you have to go somewhere but you just wanna look at the news for a minute. Yeah that's that's good, the clock is good. Okay.
+[17:13.14-17:13.43] IS1009b-T0163 | Industrial Designer (C): Yeah.
+[17:17.09-17:42.82] IS1009b-T0164 | Industrial Designer (C): Yeah. Uh can you go to the next slide please? Uh components uh the main components we need for uh it ha like buttons and uh underneath that there should be switch. And uh bulbs. Like uh we can have a bulb like whenever we are operating a remote controller or uh whenever the T_V_ is on suppose, then the remote controller should automatically have a b s light.
+[17:17.57-17:19.59] IS1009b-T0165 | Project Manager (A): Mm-hmm.
+[17:38.27-17:38.91] IS1009b-T0166 | User Interface Designer (B): Hmm.
+[17:43.15-17:43.57] IS1009b-T0167 | Marketing Expert (D): Mm-hmm.
+[17:43.82-17:58.94] IS1009b-T0168 | Industrial Designer (C): Then it will be like if you switch on your T_V_ through anoth another source, not from through a remote remote controller and you you lost your remote controller maybe you can find with the light. Maybe we can have that. Whenever the T_V_ is on, remote controller will have a light.
+[17:53.81-17:54.52] IS1009b-T0169 | Marketing Expert (D): Mm-hmm.
+[17:59.15-17:59.57] IS1009b-T0170 | Marketing Expert (D): Mm-hmm.
+[18:00.18-18:05.86] IS1009b-T0171 | Industrial Designer (C): And then uh infrared bulbs. Um this is like uh when it is dark.
+[18:02.67-18:03.18] IS1009b-T0172 | Marketing Expert (D): Mm-hmm.
+[18:05.54-18:06.38] IS1009b-T0173 | Project Manager (A): Yeah, mm-hmm.
+[18:06.30-18:06.61] IS1009b-T0174 | Marketing Expert (D): Mm-hmm.
+[18:06.66-18:20.78] IS1009b-T0175 | Industrial Designer (C): And battery, there should be a battery for power supply, and a chip, chip which is like a brain to the remote controller which does all the operations, and wires connecting all chips, which is uh lights, everything, so there should be wires.
+[18:10.19-18:10.64] IS1009b-T0176 | Marketing Expert (D): Mm-hmm.
+[18:12.76-18:13.34] IS1009b-T0177 | Project Manager (A): Mm-hmm.
+[18:19.15-18:19.56] IS1009b-T0178 | Project Manager (A): Yeah.
+[18:19.82-18:20.49] IS1009b-T0179 | User Interface Designer (B): Okay.
+[18:21.65-18:32.06] IS1009b-T0180 | Industrial Designer (C): And uh uh of course there should be a case where we can keep all the things and, you know different shapes or whatever it is there should be a case to put to give a shape. Yeah.
+[18:30.66-18:32.51] IS1009b-T0181 | User Interface Designer (B): To keep the remote? Yeah.
+[18:33.06-18:33.55] IS1009b-T0182 | Marketing Expert (D): Case.
+[18:34.00-18:36.66] IS1009b-T0183 | User Interface Designer (B): A case holder. A holder remote holder.
+[18:35.05-18:35.82] IS1009b-T0184 | Industrial Designer (C): Yeah, holder.
+[18:36.05-18:37.49] IS1009b-T0185 | Project Manager (A): Holder, yeah, mm-hmm.
+[18:40.06-18:58.53] IS1009b-T0186 | Industrial Designer (C): Um uh can you move onto the next slide. Um next sli slide please. Um I have referred the site uh the homepage of the um our website, uh from where I have uh uh I got s few points.
+[18:59.46-18:59.92] IS1009b-T0187 | Project Manager (A): Mm-hmm.
+[18:59.91-19:01.62] IS1009b-T0188 | Industrial Designer (C): That's it, that's it from me now.
+[19:01.70-19:02.26] IS1009b-T0189 | Project Manager (A): Okay.
+[19:07.13-19:11.47] IS1009b-T0190 | Marketing Expert (D): So it um we should visit this site and have a look at uh what's up there? Or
+[19:09.76-19:11.47] IS1009b-T0191 | Industrial Designer (C): Um.
+[19:11.60-19:12.78] IS1009b-T0192 | Project Manager (A): Well, you don't have to.
+[19:12.72-19:21.79] IS1009b-T0193 | Industrial Designer (C): Uh it's not like that, I have referred the page to get new ideas or like what can be the working design to how it works and all and so and so.
+[19:17.44-19:17.90] IS1009b-T0194 | Marketing Expert (D): Okay.
+[19:21.26-19:23.87] IS1009b-T0195 | Marketing Expert (D): Okay. So it might be helpful if we had a look at that.
+[19:24.48-19:26.64] IS1009b-T0196 | Industrial Designer (C): Yeah if you want. Yeah, it's okay.
+[19:25.38-19:26.40] IS1009b-T0197 | Marketing Expert (D): Okay, thank you.
+[19:32.83-19:36.13] IS1009b-T0198 | Marketing Expert (D): Could you go back to that slide where she had that uh s slide up Betsy?
+[19:36.35-19:39.34] IS1009b-T0199 | Industrial Designer (C): Uh, it's actually there now, there on the screen.
+[19:39.42-19:39.82] IS1009b-T0200 | Project Manager (A): This one?
+[19:40.10-19:41.15] IS1009b-T0201 | Marketing Expert (D): Yeah, okay, thank you.
+[19:57.39-19:59.36] IS1009b-T0202 | Project Manager (A): And Francine?
+[19:58.73-19:59.76] IS1009b-T0203 | User Interface Designer (B): Participant two.
+[20:00.38-20:01.66] IS1009b-T0204 | Project Manager (A): You are number two?
+[20:01.04-20:02.77] IS1009b-T0205 | User Interface Designer (B): Yes. No no, I'm three.
+[20:02.93-20:03.46] IS1009b-T0206 | Project Manager (A): You're three.
+[20:10.29-20:38.26] IS1009b-T0207 | User Interface Designer (B): I can make it full? Yes yes yes. Okay. As uh User Interface Designer I did a little research to find out what are the features which a user would like to have on their remote. Yeah can you please go onto the next slide? So I found out that uh but uh the main purpose of a remote is to uh f control the function of a television at a far off distance at remote distance.
+[20:10.69-20:13.58] IS1009b-T0208 | Project Manager (A): Would you want it full full screen? Mm-hmm? Okay.
+[20:23.63-20:25.90] IS1009b-T0209 | Project Manager (A): Mm-hmm. Mm-hmm.
+[20:39.86-21:08.08] IS1009b-T0210 | User Interface Designer (B): Now for that, uh a remote controller should have a switch on off button by which a user can sit anywhere in the room in front of the T_V_ and he can control the functionalities different functionalities of the T_V_. There should be a signal uh something like a radio wave or a infrared light or a LED which can be used to change the different functionalities in the television if the user wants to uh change the channels or increase the volume he can change it.
+[20:47.73-20:48.27] IS1009b-T0211 | Project Manager (A): Mm-hmm.
+[21:08.22-21:08.62] IS1009b-T0212 | Marketing Expert (D): Mm-hmm.
+[21:09.74-21:19.69] IS1009b-T0213 | User Interface Designer (B): Now there should be some timer to set for viewing a particular a particular programme or switching on and off a uh a particular programme according to the user choice.
+[21:18.99-21:21.82] IS1009b-T0214 | Project Manager (A): On the on on the remote. Yeah, mm-hmm.
+[21:20.72-21:21.98] IS1009b-T0215 | User Interface Designer (B): Yes. Yes.
+[21:23.82-22:01.60] IS1009b-T0216 | User Interface Designer (B): So if if he want to view a particular programme at say nine o'clock he can set the time, and the T_V_ will automatically it will switch on at that particular time. So he can use that kind of uh uh properties of features and then there should be a child lock system if a particular channel is not to be viewed by a particular uh for a certain age, then the parents can lock that particular channel so that the ch children cannot view that channel. And uh the uh the uh and the one of the feature a user would like to have is the compactness of the co remote.
+[21:26.32-21:29.76] IS1009b-T0217 | Project Manager (A): Mm-hmm. Mm-hmm. Right.
+[21:33.02-21:33.49] IS1009b-T0218 | Project Manager (A): Mm-hmm.
+[21:42.75-21:46.15] IS1009b-T0219 | Project Manager (A): Yes. By your child, mm-hmm.
+[21:51.49-21:51.86] IS1009b-T0220 | Marketing Expert (D): Mm-hmm.
+[21:52.53-21:53.10] IS1009b-T0221 | Project Manager (A): Mm-hmm.
+[22:02.61-22:03.17] IS1009b-T0222 | Project Manager (A): Mm-hmm.
+[22:03.09-22:03.58] IS1009b-T0223 | Marketing Expert (D): Mm-hmm.
+[22:03.79-22:22.13] IS1009b-T0224 | User Interface Designer (B): Uh t the remote should be compact and it should ha it should have as many buttons as possible for controlling different functionalities of the T_V_ television. And um uh as uh uh this is my personal preference that it should be in the shape of a T_ in alphabet for more compactability.
+[22:22.29-22:22.80] IS1009b-T0225 | Project Manager (A): Mm-hmm.
+[22:23.50-22:55.39] IS1009b-T0226 | User Interface Designer (B): And uh and uh and it is one more point which I noted it down, like uh the material which which which is used for remotes should be human friendly it should not cause any skin disease or something some al allergy to either children or to um ad adult person. And it should have an uh it can have an alarm clock a a person if some if somebody wants to get up at around eight eight P_M_ then he can set the time and it can be used as an alarm clock, and I don't think it will cost much to set an alarm clock inside a remote.
+[22:36.22-22:36.64] IS1009b-T0227 | Project Manager (A): Mm-hmm.
+[22:38.19-22:39.30] IS1009b-T0228 | Project Manager (A): Mm-hmm. Mm-hmm.
+[22:38.26-22:38.91] IS1009b-T0229 | Marketing Expert (D): Mm,'kay.
+[22:46.91-22:47.31] IS1009b-T0230 | Industrial Designer (C): Mm.
+[22:51.09-22:51.64] IS1009b-T0231 | Project Manager (A): Mm-hmm.
+[22:54.64-22:59.00] IS1009b-T0232 | Industrial Designer (C): Yeah, sure. If there is a clock then there can be a alarm clock.
+[22:56.00-22:56.93] IS1009b-T0233 | Project Manager (A): Mm-hmm.
+[22:57.97-23:00.35] IS1009b-T0234 | Marketing Expert (D): And an alarm clock, yeah that should that should be okay.
+[22:58.16-23:31.42] IS1009b-T0235 | User Interface Designer (B): Yes, and as John Reece said the buttons can be, uh can me we can use the fluorescence to light up the buttons so different uh buttons will glow differently. So in even in the dark the user can know what buttons to use to switch on a particular channel. And uh uh the design of the uh um remote should be in such a way that there should not be any sharp projections so that if a child plays with a remote, he uh he should not be harmed in any way.
+[23:28.87-23:29.28] IS1009b-T0236 | Industrial Designer (C): Hmm.
+[23:34.42-23:54.43] IS1009b-T0237 | User Interface Designer (B): And findings, uh I found out uh y um on different sites that uh there are different remotes which can be used, there are remotes which use the infrared for controlling the different functionalities, there are remotes which use the radio waves to control the functions and there are uh
+[23:56.02-24:05.17] IS1009b-T0238 | User Interface Designer (B): So uh there you have different uh types of remotes for different light source which are used which can be used for controlling the different functionalities of a television.
+[24:13.23-24:14.13] IS1009b-T0239 | User Interface Designer (B): Next slide.
+[24:16.21-24:52.43] IS1009b-T0240 | User Interface Designer (B): And these are my few personal preferences like it can be used for a multipurpose use. Not, uh no uh like it can it can be used as a T_V_ control as plus an alarm clock to set an alarm a timing and it should have a child lock, and then to save electricity uh there should not be uh much s move uh lots of circuits and all that. And if a person if if if parents wants the television to be switched off by ten o'clock then it should be switched off ten o at ten o'clock automatically, so that nobody else comes later and use it.
+[24:51.20-24:56.87] IS1009b-T0241 | Industrial Designer (C): It's like a t okay, it's like a timer it's like a lock to the television.
+[24:53.73-24:55.22] IS1009b-T0242 | Project Manager (A): Timer, yeah, mm-hmm, mm-hmm.
+[24:54.30-24:57.76] IS1009b-T0243 | User Interface Designer (B): Timer. Yeah and then you can use a timer as well.
+[24:59.30-24:59.85] IS1009b-T0244 | User Interface Designer (B): Yes.
+[25:01.41-25:02.22] IS1009b-T0245 | User Interface Designer (B): Yeah that's it.
+[25:02.71-25:06.03] IS1009b-T0246 | Project Manager (A): Uh okay, now I have
+[25:33.82-26:06.61] IS1009b-T0247 | Project Manager (A): On my slide show basically we already we have already done the agenda, and uh on the closing uh basically there will be lunch break and all that. However uh the decision we have to take in this meeting is who is our target group. And uh what function, working design, how how does it work. So these are the two things we should come up wit with. So uh the first thing is pro maybe a little easier on uh who is our target group.
+[25:50.28-25:50.98] IS1009b-T0248 | User Interface Designer (B): Okay.
+[26:08.19-26:08.99] IS1009b-T0249 | Project Manager (A): Um.
+[26:10.91-26:12.67] IS1009b-T0250 | Project Manager (A): I guess in many ways everybody.
+[26:14.40-26:16.31] IS1009b-T0251 | Project Manager (A): Everybody who has a T_V_.
+[26:14.71-26:16.90] IS1009b-T0252 | Industrial Designer (C): Mm, T_V_, yeah.
+[26:16.51-26:17.96] IS1009b-T0253 | User Interface Designer (B): T_V_ television we was.
+[26:17.92-26:25.10] IS1009b-T0254 | Project Manager (A): Yeah, and I think today there are probably not many people who don't have a T_V_. There are a few but in general not.
+[26:21.68-26:23.51] IS1009b-T0255 | Industrial Designer (C): Don't T_V_, yeah.
+[26:26.73-27:12.37] IS1009b-T0256 | Project Manager (A): Now, talking about the target group which is in a sense everybody, but I think within the target group we have subgroups. We have we have earlier it was mentioned about um for example elderly people who have limited function with their fingers and hands, so I think that's uh one group that's certainly important. Um then we have just the nervous people who can never press a little button on anything um unless it's really very clear. And uh I don't know how much we want to cater to children's use. I mean that's a question um whether that's important that children can really use it or not.
+[26:41.52-26:41.94] IS1009b-T0257 | User Interface Designer (B): Mm-hmm.
+[26:44.69-26:45.22] IS1009b-T0258 | Industrial Designer (C): Hmm.
+[26:57.60-26:58.00] IS1009b-T0259 | Industrial Designer (C): Yeah.
+[27:11.81-27:12.50] IS1009b-T0260 | Industrial Designer (C): Mm.
+[27:14.45-27:42.29] IS1009b-T0261 | Project Manager (A): So this these are just some thoughts I have on it, and um I dunno what you feel about whether we can just say we have one target group and for this one target group we're gonna design this one thing or whether we're looking at what we like we we talking about different shapes, whether that different shape also includes maybe different uh buttons uh for different groups.
+[27:17.00-27:17.72] IS1009b-T0262 | Marketing Expert (D): Mm-hmm.
+[27:27.47-27:27.95] IS1009b-T0263 | Industrial Designer (C): Yeah.
+[27:33.06-27:33.60] IS1009b-T0264 | Marketing Expert (D): Mm-hmm.
+[27:38.72-27:39.36] IS1009b-T0265 | Industrial Designer (C): Mm-hmm.
+[27:38.93-27:39.38] IS1009b-T0266 | Marketing Expert (D): Mm-hmm.
+[27:42.74-28:00.98] IS1009b-T0267 | Marketing Expert (D): Well you know there's the old motto, children under six never shop alone. So if you've designed something that's very attractive to children um the mummy please mummy please um you know we want it now we wanna go to the store and see it um that has uh a lot of marketing pull.
+[27:46.79-27:47.37] IS1009b-T0268 | Project Manager (A): Mm-hmm.
+[27:58.76-28:24.77] IS1009b-T0269 | Project Manager (A): That has a lot of that has a lot of appeal but I think uh I'm I'm talking about the functionality now on it whether we're looking at different groups. I think the children issue can be addressed with the shape and with colours. You know, like you make it nice and pink, fluorescent, banana colour or whatever you know yeah, for example you know. But the question is really, who is our target group.
+[28:00.97-28:01.77] IS1009b-T0270 | Industrial Designer (C): Mm.
+[28:11.39-28:13.28] IS1009b-T0271 | Marketing Expert (D): Mm-hmm. That's right.
+[28:12.75-28:13.89] IS1009b-T0272 | User Interface Designer (B): Different colours.
+[28:12.90-28:13.26] IS1009b-T0273 | Industrial Designer (C): Yeah.
+[28:16.38-28:17.08] IS1009b-T0274 | User Interface Designer (B): Yes.
+[28:17.60-28:20.03] IS1009b-T0275 | Marketing Expert (D): You can make a banana shaped one.
+[28:18.96-28:19.47] IS1009b-T0276 | Industrial Designer (C): Yeah.
+[28:21.17-28:21.65] IS1009b-T0277 | Industrial Designer (C): Mm.
+[28:25.17-28:25.74] IS1009b-T0278 | Marketing Expert (D): Mm-hmm.
+[28:26.24-28:41.18] IS1009b-T0279 | Project Manager (A): Do we look at one target group? And with the twenty five Euros you know can we can we afford to have uh I'm asking the technical people here whether um to look at
+[28:42.91-28:55.08] IS1009b-T0280 | Project Manager (A): sort of subgroups with maybe different buttons for each group how much would that throw us out of the cost we are supposed to respect?
+[28:53.44-28:55.12] IS1009b-T0281 | Marketing Expert (D): Respect. Mm.
+[28:55.78-29:17.81] IS1009b-T0282 | User Interface Designer (B): Okay. No uh generally we can we can design a remote which is mainly for people with uh f age from ten to um forty and and then we can add on uh specific functional buttons for children as well as the elderly people or the people wit with who have nervous problems, yes.
+[29:07.12-29:07.58] IS1009b-T0283 | Project Manager (A): Right.
+[29:15.36-29:17.78] IS1009b-T0284 | Project Manager (A): With with Mm-hmm.
+[29:17.65-29:24.56] IS1009b-T0285 | Industrial Designer (C): We can design different remotes for different people, like for aged people there will be big buttons and you know. yeah.
+[29:22.96-29:24.00] IS1009b-T0286 | Project Manager (A): Well that's that's
+[29:22.97-29:36.26] IS1009b-T0287 | User Interface Designer (B): But in a family in a family there will be a aged person, children and a middle aged but they cannot buy three different remotes. They would like to buy just one and um just one which can be used all the three uh
+[29:26.64-29:28.13] IS1009b-T0288 | Industrial Designer (C): Children and everybody, yeah.
+[29:35.66-29:51.35] IS1009b-T0289 | Industrial Designer (C): Yeah of course that we can do, but specifically if y if like elderly people want big buttons then you can't really make a bi big remote controller so maybe specifically you can design a big con remote controller for elderly and for children, like in a different you know.
+[29:50.05-29:53.28] IS1009b-T0290 | Marketing Expert (D): What about the electronics? That's not really gonna change much, is it?
+[29:51.54-29:52.15] IS1009b-T0291 | Project Manager (A): Yeah.
+[29:52.19-29:53.33] IS1009b-T0292 | User Interface Designer (B): Cost effective.
+[29:52.75-29:54.71] IS1009b-T0293 | Industrial Designer (C): No, it it doesn't cost, yeah.
+[29:54.04-29:55.02] IS1009b-T0294 | Project Manager (A): No
+[29:54.04-29:57.01] IS1009b-T0295 | Marketing Expert (D): That that w that won't change much, will it uh?
+[29:56.34-29:58.81] IS1009b-T0296 | Industrial Designer (C): Yeah. Doesn't doesn't doesn't matter.
+[29:57.85-30:34.32] IS1009b-T0297 | Project Manager (A): The the quest the question to be addressed here is only who is the target group and how will it function, and I think the how will it function is probably the question of the buttons you know, within the target group or subgroups. The question is only whether our budget will allow to have more than one design in a sense. I mean the basic design I understand will be the same, but the question is how much will that set us back if let's say uh forty percent we make large buttons and the rest we make regular buttons for example.
+[29:58.03-29:59.30] IS1009b-T0298 | Marketing Expert (D): I d I wouldn't think so.
+[30:03.31-30:03.76] IS1009b-T0299 | Marketing Expert (D): Mm-hmm.
+[30:09.42-30:09.86] IS1009b-T0300 | Marketing Expert (D): Yeah.
+[30:21.74-30:22.16] IS1009b-T0301 | Marketing Expert (D): Yeah.
+[30:31.84-30:32.52] IS1009b-T0302 | User Interface Designer (B): Okay.
+[30:32.92-30:33.47] IS1009b-T0303 | Industrial Designer (C): Yeah.
+[30:34.40-30:34.86] IS1009b-T0304 | Marketing Expert (D): Yeah.
+[30:35.31-30:43.57] IS1009b-T0305 | Project Manager (A): So that remains to s to be seen but uh the target group as a whole is is basically everybody with a T_V_.
+[30:43.60-31:07.71] IS1009b-T0306 | Marketing Expert (D): That's right, and can we can we is it even feasible to make one one remote control with something for everyone, or would we have to use the same electronics and make three different shapes? Um the same electronics and basically all that's gonna be different is the plastic case. And in that case we could probabl moulded plastic isn't all that expensive is it? Um you as an industrial person?
+[30:44.21-30:44.58] IS1009b-T0307 | User Interface Designer (B): Yes.
+[30:55.31-30:57.58] IS1009b-T0308 | Project Manager (A): Yeah, well that's that's the question.
+[30:59.38-31:00.91] IS1009b-T0309 | Industrial Designer (C): Hmm hmm.
+[31:05.80-31:10.38] IS1009b-T0310 | Industrial Designer (C): Uh no. Mm, I I I don't think no. It's not.
+[31:08.45-31:43.74] IS1009b-T0311 | Project Manager (A): Well maybe there's there's an idea you know t the new for example new portable phones? They have like removable plastic cases, so you can have a striped one or you can have a fluorescent blue one, or whatever, and maybe something like that, that in each package you know you have you you have you have for example uh you have let's say a fluorescent blue on it but then you have uh another colour or stripe whatever that already comes in a package. And then if people really want more colours they can buy it separately.
+[31:13.60-31:14.06] IS1009b-T0312 | Marketing Expert (D): Mm-hmm.
+[31:17.87-31:18.26] IS1009b-T0313 | Marketing Expert (D): Yeah.
+[31:22.11-31:22.59] IS1009b-T0314 | Marketing Expert (D): Mm-hmm.
+[31:22.51-31:23.27] IS1009b-T0315 | User Interface Designer (B): Okay.
+[31:27.23-31:28.96] IS1009b-T0316 | Marketing Expert (D): Well there's a real idea yeah.
+[31:34.70-31:35.09] IS1009b-T0317 | Marketing Expert (D): Mm-hmm.
+[31:39.54-31:40.00] IS1009b-T0318 | Industrial Designer (C): Hmm.
+[31:40.40-31:40.86] IS1009b-T0319 | Marketing Expert (D): Yeah.
+[31:44.37-31:44.86] IS1009b-T0320 | Marketing Expert (D): Right.
+[31:44.59-31:51.50] IS1009b-T0321 | Industrial Designer (C): Yeah, like for mobile phones we have uh different you know covers, like designs and all so that w we can have that.
+[31:45.04-31:46.60] IS1009b-T0322 | Project Manager (A): You know, yes.
+[31:45.06-31:45.70] IS1009b-T0323 | User Interface Designer (B): Um
+[31:48.61-31:49.25] IS1009b-T0324 | Marketing Expert (D): Mm-hmm.
+[31:48.99-31:49.55] IS1009b-T0325 | User Interface Designer (B): Yes.
+[31:49.25-32:06.99] IS1009b-T0326 | Project Manager (A): That's right, and but like if if then everybody is is is tired of the fluorescent blue and of the striped or whatever they have as another one in the package, then they can go to the store and for a few uh Francs or Euros whatever they can buy an alternate package with another two colours in it you know for example you know.
+[31:50.47-31:51.23] IS1009b-T0327 | Marketing Expert (D): Uh yeah.
+[31:59.17-31:59.47] IS1009b-T0328 | Industrial Designer (C): Yeah.
+[32:02.26-32:03.45] IS1009b-T0329 | Marketing Expert (D): An alternate package.
+[32:06.31-32:07.28] IS1009b-T0330 | Marketing Expert (D): Yeah. Okay.
+[32:07.73-32:25.41] IS1009b-T0331 | User Interface Designer (B): But uh yeah I I have a doubt like will it be cost wise effective if we if we design a remote having all the uh different features for different people or designing three different um remotes for three different categories of people.
+[32:25.47-32:50.66] IS1009b-T0332 | Project Manager (A): Well I think I think the idea here is to uh to to d design one remote and what the only change is gonna be um the funct d t yeah uh the functional functional cosmetics if you want to put it that way, um having maybe larger buttons or buttons that light up or buttons that are slightly differently shaped for people uh either for children um
+[32:25.73-32:26.68] IS1009b-T0333 | Industrial Designer (C): Yeah, but uh
+[32:26.13-32:28.68] IS1009b-T0334 | Marketing Expert (D): Well I think we can only aff, yeah.
+[32:29.65-32:30.13] IS1009b-T0335 | User Interface Designer (B): Okay.
+[32:29.98-32:30.52] IS1009b-T0336 | Industrial Designer (C): Yeah.
+[32:34.01-32:34.94] IS1009b-T0337 | Marketing Expert (D): Cosmetic.
+[32:35.68-32:36.64] IS1009b-T0338 | User Interface Designer (B): Of th okay.
+[32:39.34-32:41.22] IS1009b-T0339 | User Interface Designer (B): Okay. Mm-hmm.
+[32:52.85-32:55.60] IS1009b-T0340 | Project Manager (A): Five minutes that was I guess tha that's the old message.
+[32:57.54-32:59.16] IS1009b-T0341 | Marketing Expert (D): Warning, finish meeting now.
+[32:58.26-33:02.45] IS1009b-T0342 | Project Manager (A): Finish meeting now. Um um.
+[33:05.04-33:09.18] IS1009b-T0343 | Marketing Expert (D): Well we may have to come back to one or two of these points at our next meeting but um
+[33:06.66-33:11.97] IS1009b-T0344 | Industrial Designer (C): Yeah, maybe, yeah, yeah. If we do some more research, maybe we.
+[33:08.90-33:20.29] IS1009b-T0345 | Project Manager (A): But I think I I think to sum it up the target group is basically everybody. If money permits we can address some features for some subgroups within that.
+[33:19.13-33:20.83] IS1009b-T0346 | User Interface Designer (B): Okay, mm-hmm.
+[33:19.14-33:19.49] IS1009b-T0347 | Marketing Expert (D): Mm-hmm.
+[33:20.27-33:27.83] IS1009b-T0348 | Industrial Designer (C): Hmm yeah, I think maybe seventy percent is a unique uh uh remote controller and thirty percent is yeah it's sort of like yeah.
+[33:20.93-33:22.64] IS1009b-T0349 | Project Manager (A): Do we agree, do we?
+[33:21.12-33:22.08] IS1009b-T0350 | Marketing Expert (D): Okay but we have to l
+[33:24.72-33:30.35] IS1009b-T0351 | Project Manager (A): Do we agree on on that in principle, like money will tell whether we will be able to do that or not.
+[33:28.18-33:30.14] IS1009b-T0352 | Industrial Designer (C): Yeah, yeah, of course, yeah.
+[33:30.27-33:31.74] IS1009b-T0353 | Marketing Expert (D): Okay, fair enough.
+[33:30.44-33:31.03] IS1009b-T0354 | User Interface Designer (B): Yes.
+[33:31.26-33:34.63] IS1009b-T0355 | Project Manager (A): Okay? So now I understand it's lunch break.
+[33:31.97-33:32.39] IS1009b-T0356 | Industrial Designer (C): Mm-hmm.
+[33:35.46-33:39.30] IS1009b-T0357 | Project Manager (A): And um. So that's what we will do.
+[33:39.22-33:39.71] IS1009b-T0358 | Marketing Expert (D): Okay.
+[33:39.95-33:40.60] IS1009b-T0359 | User Interface Designer (B): Okay.
+[33:41.60-33:43.32] IS1009b-T0360 | Project Manager (A): So hank you very much.
+[33:42.78-33:43.33] IS1009b-T0361 | Industrial Designer (C): Thank you.
+[33:44.24-33:47.24] IS1009b-T0362 | Project Manager (A): And we'll see you after lunch.

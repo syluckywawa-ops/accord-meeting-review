@@ -1,0 +1,73 @@
+{
+  "evaluation": {
+    "split": "development",
+    "system_version": "llm-experiment-v1.0-dev",
+    "created_at_utc": "2026-09-28T14:58:20.042451+00:00",
+    "matching": "human one-to-one semantic review; owner and deadline scored separately",
+    "predictions_sha256": "8e5067cc5acb0d4a50cdffd0d7065eedab7352e1abfaaab5c6c3995356342995",
+    "review_sha256": "b31fcf41b37485f60c77e17f728eb4c671b1e7bd244f1bd3c31859f7a2c236e8",
+    "gold_sha256": "d7f095a9283f1bc819a4114ae9546a85864c1cef76295aebf34d5ca6c949f2ef"
+  },
+  "task_detection": {
+    "tp": 4,
+    "fp": 9,
+    "fn": 2,
+    "micro_precision": 0.3076923076923077,
+    "micro_recall": 0.6666666666666666,
+    "micro_f1": 0.42105263157894735,
+    "macro_f1": 0.5
+  },
+  "fields_on_matched_actions": {
+    "owner_exact_correct": 3,
+    "owner_exact_eligible": 4,
+    "owner_exact_accuracy": 0.75,
+    "deadline_exact_correct": 0,
+    "deadline_exact_eligible": 2,
+    "deadline_exact_accuracy": 0.0,
+    "hallucinated_owner_count": 0,
+    "null_owner_cases": 0,
+    "hallucinated_owner_rate": null,
+    "hallucinated_deadline_count": 0,
+    "null_deadline_cases": 2,
+    "hallucinated_deadline_rate": 0.0
+  },
+  "per_meeting": {
+    "ES2003a": {
+      "tp": 1,
+      "fp": 0,
+      "gold": 2,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6666666666666666
+    },
+    "ES2003b": {
+      "tp": 1,
+      "fp": 2,
+      "gold": 1,
+      "fn": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1": 0.5
+    },
+    "ES2003c": {
+      "tp": 2,
+      "fp": 7,
+      "gold": 3,
+      "fn": 1,
+      "precision": 0.2222222222222222,
+      "recall": 0.6666666666666666,
+      "f1": 0.3333333333333333
+    }
+  },
+  "matched_gold_action_ids": [
+    "ES2003a-A001",
+    "ES2003b-A001",
+    "ES2003c-A002",
+    "ES2003c-A003"
+  ],
+  "unmatched_gold_action_ids": [
+    "ES2003a-A002",
+    "ES2003c-A001"
+  ]
+}

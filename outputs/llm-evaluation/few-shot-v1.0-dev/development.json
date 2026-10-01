@@ -1,0 +1,161 @@
+{
+  "run": {
+    "system": "structured LLM",
+    "version": "llm-experiment-v1.0-dev",
+    "condition": "few_shot",
+    "split": "development",
+    "meeting_count": 3,
+    "config_sha256": "94597a4a50b16f94a0698f77ce5cb592c5ba8f9b8cf59c5839ef92b91ba9b5f1",
+    "schema_sha256": "13f2c17002452e1dc8aa2933fc7911e1618114abb76d06ec7616a8aeac905504",
+    "prompt_asset_sha256": {
+      "system_v1.txt": "4503901842a4a0635c8b5f903fe330b984a5740180259616a91ab350546b21bb",
+      "user_template_v1.txt": "0d94e7e98e1cb14ecc56e1eb06daaec10ac2be43933e84031f9db24db486e330",
+      "few_shot_examples_v1.json": "bc13f47766b061129428097a6e0faa6392d85f5bc2ed4b03953962a957f03860"
+    },
+    "retry_count": 0,
+    "estimated_cost_usd": 0.016329200000000002
+  },
+  "results": [
+    {
+      "transcript_id": "ES2003a",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-dev/few_shot/development/ES2003a.json",
+      "raw_log_sha256": "daa135b6aada07dc26cc3305378e67b697168242c24a0f868ff3b6754e363065",
+      "action_items": [
+        {
+          "task": "write up and distribute a summary of the meeting",
+          "owners": [
+            "Project Manager"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "I'll get in, I'll write up what we've um kind of quickly done, and I'll get that out to everybody.",
+          "evidence_ids": [
+            "ES2003a-T0102"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2003b",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-dev/few_shot/development/ES2003b.json",
+      "raw_log_sha256": "f9e22c0c79664673922309acecf381ea11693e310d19b30fdfeeff06a26d4071",
+      "action_items": [
+        {
+          "task": "look into the feasibility of a small transmitter, speaker, and LED for locating the remote control",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "So I should just look at um the speaker, the speaker and an L_E_D_. And || Speaker and L_E_D_ for locating, um, || Yeah, and a transmitter.",
+          "evidence_ids": [
+            "ES2003b-T0227",
+            "ES2003b-T0228",
+            "ES2003b-T0229"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "investigate if an LCD screen requires too much power for the remote control",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "if an L_C_D_ screen requires too much power, or such.",
+          "evidence_ids": [
+            "ES2003b-T0213"
+          ],
+          "needs_review": true,
+          "review_reason": "Owner is ambiguous between Industrial Designer and User Interface Designer; evidence is implicit"
+        },
+        {
+          "task": "provide frequency data on most used remote control functions to assist software interface design",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Well I can give you the frequency, what people what options people use most often, I guess that's gonna be important in the ts defining the the software side of the interface, right. You want the stuff.",
+          "evidence_ids": [
+            "ES2003b-T0216"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "gather feedback on the minimalist joystick-based remote control design concept",
+          "owners": [
+            "Marketing Expert"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "If, yeah if you could maybe as well see what people think about the idea of this minimalist approach that we've taken, where of a joystick to control the very basic functions, and then the idea of manipulating it like you would a mobile.",
+          "evidence_ids": [
+            "ES2003b-T0217"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        },
+        {
+          "task": "look into the feasibility of incorporating a small transmitter attached to the TV to enable locating the remote control",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "Do you mind looking? || So I should just look at um the speaker, the speaker and an L_E_D_. And || Speaker and L_E_D_ for locating, um, || Yeah, and a transmitter.",
+          "evidence_ids": [
+            "ES2003b-T0190",
+            "ES2003b-T0227",
+            "ES2003b-T0228",
+            "ES2003b-T0229"
+          ],
+          "needs_review": true,
+          "review_reason": "Multiple evidence spans with some ambiguity in task scope"
+        },
+        {
+          "task": "consider incorporating the company slogan and logo into the remote control design",
+          "owners": [
+            "Industrial Designer"
+          ],
+          "deadline_text": null,
+          "deadline_normalized": null,
+          "evidence_text": "But it might be something you could consider when you're thinking about shapes? || 'S also look cool.",
+          "evidence_ids": [
+            "ES2003b-T0245",
+            "ES2003b-T0246"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    },
+    {
+      "transcript_id": "ES2003c",
+      "raw_log_path": "outputs/raw_api/llm-experiment-v1.0-dev/few_shot/development/ES2003c.json",
+      "raw_log_sha256": "44473711ee861e95f2f2c73225698730e4da6c427220ebb83d022844ed3fefca",
+      "action_items": [
+        {
+          "task": "work closely on prototyping some design description using clay",
+          "owners": [
+            "User Interface Designer",
+            "Industrial Designer"
+          ],
+          "deadline_text": "for the next meeting",
+          "deadline_normalized": null,
+          "evidence_text": "you've got yourself and the Industrial Designer gonna be working quite closely at this stage || looking from prototyping of some des description using clay",
+          "evidence_ids": [
+            "ES2003c-T0210",
+            "ES2003c-T0211"
+          ],
+          "needs_review": false,
+          "review_reason": null
+        }
+      ]
+    }
+  ]
+}
