@@ -2,6 +2,14 @@
 
 Turn meeting conversations into verified action items.
 
+## Public course demonstration
+
+Open [Accord on Render](https://accord-meeting-review.onrender.com/) without installing anything. This is a limited course demonstration, not a production service. The free instance can take a minute or longer to wake after inactivity.
+
+Start with a guided saved meeting and select a method. Saved examples make no new model calls. New imports currently use **Local rules**; Live AI is unavailable unless the operator configures a server key. TXT, text-based PDF and DOCX parsing were checked through the deployed HTTP API on 3 October 2026. Browser file-picker verification remains outstanding because automated local-file selection requires an extension permission. These checks are functional smoke tests, not new extraction-accuracy results.
+
+Accept, edit or reject drafts, add missed actions with exact evidence, then confirm that you checked the complete transcript. Download the approved JSON/CSV before leaving: free-hosting storage is temporary and review data may be lost on restart or redeployment. Use only public or fictional transcripts in this demonstration, not confidential meeting documents. Do not put API keys into the webpage or repository.
+
 Accord is the product name of the ActionAI research project. Historical experiment files, frozen prompts, gold labels, and scores retain their original names and are unchanged by this interface rebrand.
 
 ActionAI is a PE6201 individual project that evaluates rule-based, zero-shot, and few-shot extraction. Those results inform Accord, an evidence-grounded human review workspace. The system drafts action items, owners, and deadlines from meeting transcripts, validates output, and requires human approval before export. New uploads use a separate local-rule or optional Live AI product route; their accuracy is not established by the frozen AMI experiment.
@@ -44,7 +52,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/run_review_workspace.py --port 8503
 ```
 
-Open `http://127.0.0.1:8503`. Pick a saved AMI meeting to inspect the frozen outputs, or import `output/pdf/Accord_Test_Meeting.pdf` below the Meeting selector and choose **Local rules**. The fictional PDF route needs no API key or network call. Its expected and missed actions are documented in `docs/PDF_IMPORT_TEST.md`. The saved AMI examples use the checked-in derived metadata and make no new model calls. Stop the local server with Ctrl+C. These are research/demo workflows, not a publicly deployed service.
+Open `http://127.0.0.1:8503`. Pick a saved AMI meeting to inspect the frozen outputs, or import `output/pdf/Accord_Test_Meeting.pdf` below the Meeting selector and choose **Local rules**. The fictional PDF route needs no API key or external model call. Its expected and missed actions are documented in `docs/PDF_IMPORT_TEST.md`. The saved AMI examples use the checked-in derived metadata and make no new model calls. Stop the local server with Ctrl+C. This is the local alternative to the limited public course demo above.
 
 ## Regenerate readable transcripts from the source archive (optional)
 
@@ -80,7 +88,7 @@ Open `http://127.0.0.1:8503`. The AMI sample viewer uses frozen test outputs for
 
 The import panel accepts pasted text, UTF-8 TXT, text-based PDF and DOCX files up to 8 MB. Inspect and correct the editable text preview before extraction. Use `Name: speech` on separate lines to preserve speaker attribution. Scanned PDF needs external OCR; legacy DOC and audio are not currently supported. Imported transcripts run local extraction without network access, or live AI when `OPENROUTER_API_KEY` is configured on the server. Keys are never entered in the webpage. Imported live AI sends the transcript to OpenRouter and incurs charges; the interface displays this before submission. The product import adapters are separate from the frozen experimental methods and their reported scores. See `docs/REVIEW_WORKSPACE_DEPLOYMENT.md` for capabilities and outstanding live/deployment verification.
 
-Review records and original candidates are saved separately in `outputs/review-workspace/`, with an audit history. These demo edits never update gold labels or formal scores. JSON exports include the history; CSV exports contain the approved list. Random cookies isolate browser sessions, but are not login authentication. The local server is a demonstration service. Public hosting still requires hardening and deployment setup; a localhost address is not a teacher-accessible URL.
+Review records and original candidates are saved separately in `outputs/review-workspace/`, with an audit history. These demo edits never update gold labels or formal scores. JSON exports include the history; CSV exports contain the approved list. Random cookies provide browser-session separation by design, but are not login authentication or proof of independently tested isolation. The server is a demonstration service and requires hardening before production use. A localhost address only works on the machine running it; use the Render URL for the teacher-accessible demo.
 
 ## Validate manual labels
 
